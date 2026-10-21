@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-21",
+  "remote": "git@github.com:luleilulalei/weapon-soul-knowledge.git",
+  "normal_git_original_files": 997,
+  "lfs_files": [
+    {
+      "archive": "80_完整资料/已整理资料/Unity游戏开发/QilingUnity/Builds/Qiling Training.app/Contents/Frameworks/UnityPlayer.dylib",
+      "sha256": "520068aaac995b8910b27ca40d674d331a578f1980f44a1168647323b10da420",
+      "bytes": 172709600
+    }
+  ]
+}

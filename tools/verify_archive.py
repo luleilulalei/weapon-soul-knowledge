@@ -25,6 +25,12 @@ def verify(root, check_originals=False, check_git=False):
     images = read('90_来源/设计图清单.json')
     embedded = read('90_来源/原型内嵌图清单.json')
     docs = read('90_来源/文档提取清单.json')
+    storage_path = root/'90_来源/Git存储方式.json'
+    lfs_files = {x['archive']: x for x in read('90_来源/Git存储方式.json')['lfs_files']} if storage_path.exists() else {}
+    archive_rows = {x['archive']: x for x in manifest['items']}
+    for name, record in lfs_files.items():
+        if name not in archive_rows or any(record[k] != archive_rows[name][k] for k in ['sha256', 'bytes']):
+            errors.append('LFS storage manifest differs from original archive: ' + name)
     paths = [x['archive'] for x in manifest['items']]
     if len(paths) != len(set(paths)):
         errors.append('Duplicate archive path in manifest')
@@ -117,6 +123,7 @@ def verify(root, check_originals=False, check_git=False):
                 errors.append('Broken gallery link: ' + str(p.relative_to(root)) + ' -> ' + link)
 
     git_matching = 0
+    lfs_matching = 0
     if check_git:
         proc = subprocess.run(['git', '-C', str(root), 'ls-files', '-s', '-z'], capture_output=True, check=True)
         index = {}
@@ -129,17 +136,36 @@ def verify(root, check_originals=False, check_git=False):
             name = x['archive']
             if name not in index:
                 errors.append('Original not tracked by Git: ' + name); continue
+            expected_mode = '120000' if x['kind'] == 'symlink' else ('100755' if x['mode'] & 0o111 else '100644')
+            if name in lfs_files:
+                pointer = subprocess.check_output(['git', '-C', str(root), 'cat-file', 'blob', index[name][1]])
+                expected = f"version https://git-lfs.github.com/spec/v1\noid sha256:{x['sha256']}\nsize {x['bytes']}\n".encode()
+                if pointer != expected or index[name][0] != expected_mode or index[name][2] != '0':
+                    errors.append('LFS pointer or mode does not match the original: ' + name)
+                    continue
+                lfs_env = subprocess.run(['git', '-C', str(root), 'lfs', 'env'], capture_output=True, text=True)
+                media_dirs = [line.split('=', 1)[1] for line in lfs_env.stdout.splitlines() if line.startswith('LocalMediaDir=')]
+                if lfs_env.returncode or len(media_dirs) != 1:
+                    errors.append('LFS storage unavailable; install Git LFS and run git lfs pull: ' + name)
+                    continue
+                digest = x['sha256']
+                object_path = Path(media_dirs[0])/digest[:2]/digest[2:4]/digest
+                if not object_path.is_absolute(): object_path = root/object_path
+                if not object_path.is_file() or object_path.stat().st_size != x['bytes'] or sha(object_path) != x['sha256']:
+                    errors.append('LFS object bytes mismatch: ' + name)
+                else:
+                    lfs_matching += 1
+                continue
             data = (root/name).read_bytes() if x['kind'] == 'file' else x['link_target'].encode()
             oid = hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
-            expected_mode = '120000' if x['kind'] == 'symlink' else ('100755' if x['mode'] & 0o111 else '100644')
             if index[name] != (expected_mode, oid, '0'):
                 errors.append('Git does not store the exact original bytes/mode: ' + name)
             else: git_matching += 1
         for p in (root/'81_文档检索').rglob('*'):
-            if p.is_file() and str(p.relative_to(root)) not in index:
+            if p.is_file() and p.name != '.DS_Store' and not p.name.startswith('._') and str(p.relative_to(root)) not in index:
                 errors.append('Document output not tracked: ' + str(p.relative_to(root)))
         for p in (root/'82_设计图').rglob('*'):
-            if p.is_file() and str(p.relative_to(root)) not in index:
+            if p.is_file() and p.name != '.DS_Store' and not p.name.startswith('._') and str(p.relative_to(root)) not in index:
                 errors.append('Gallery output not tracked: ' + str(p.relative_to(root)))
 
     return {'archived_original_files': len(paths), 'archived_original_bytes': sum(x.get('bytes',0) for x in manifest['items']),
@@ -150,6 +176,8 @@ def verify(root, check_originals=False, check_git=False):
             'document_preview_pages': sum(d['pages'] for d in docs), 'gallery_links_checked': html_links,
             'archive_originals_matching': original_matching if check_originals else None,
             'git_original_blobs_matching': git_matching if check_git else None,
+            'git_lfs_originals_matching': lfs_matching if check_git else None,
+            'git_original_files_matching': git_matching + lfs_matching if check_git else None,
             'errors': errors, 'warnings': warnings}
 
 if __name__ == '__main__':

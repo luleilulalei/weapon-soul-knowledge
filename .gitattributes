@@ -5,7 +5,7 @@
 # Preserve exact evidence bytes for SHA-256 verification
 90_来源/文档快照/** -text
 90_来源/聊天摘录/** -text
-# Full originals are stored as actual Git blobs, without newline conversion or filters.
+# Preserve original bytes by default; the explicit UnityPlayer LFS rule below overrides this for the large runtime.
 80_完整资料/** -text -filter
 82_设计图/原型内嵌图/** -text -filter
 **/UnityPlayer.dylib filter=lfs diff=lfs merge=lfs -text

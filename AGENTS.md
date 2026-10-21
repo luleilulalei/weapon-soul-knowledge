@@ -11,4 +11,5 @@
 - 先核对最新原生网表与交付版本，不照抄旧机械包或旧IMU规格中的料号、GPIO与供电值。
 - PCB 禁止自动布线，严格检查重叠与干涉。不会因零DRC就宣称实物可量产。
 - 不在本库放口令、API密钥、原始录音或无关个人资料。没有远程授权时保持本地管理。
+- 用户已指定远程 `git@github.com:luleilulalei/weapon-soul-knowledge.git` 并授权本次推送。超大Unity运行库用Git LFS保存；不可将LFS指针当作完整原件验收。后续操作保留普通Git与LFS校验，不强推已发布历史。
 - 提交前运行 `python3 tools/verify.py --check-git`，查看 Git 差异，只提交本任务相关内容。完整归档时必须检查嵌套 .gitignore 没有漏掉构建包。每次提交说明实际改动及来源。

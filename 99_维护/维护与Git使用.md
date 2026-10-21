@@ -21,6 +21,7 @@ python3 tools/verify.py
 git add -- 明确修改的文件
 python3 tools/verify.py --check-git
 git commit -m 'docs: 说明本次决定或进展'
+git push
 git log --oneline -8
 ```
 
@@ -30,7 +31,21 @@ git log --oneline -8
 
 ## 跨电脑和云端接续
 
-当前没有远程仓库。本地复制或克隆即可带走本轮已收录的工程附件、图册和资料。仓库包含超过100MiB的Unity运行库原文件；若之后选择有单文件限制的托管平台，需要再按该平台要求处理大文件。远程地址和平台尚未指定，本次未创建或推送。
+远程仓库为 [luleilulalei/weapon-soul-knowledge](https://github.com/luleilulalei/weapon-soul-knowledge)，SSH 地址：`git@github.com:luleilulalei/weapon-soul-knowledge.git`。主分支为 `main`，未设置自动同步任务。
+
+997 个归档原文件由普通 Git 保存，约 173 MB 的 `UnityPlayer.dylib` 由 Git LFS 保存。GitHub 普通文件限制为100MiB，因此初次推送前将这一文件迁移到LFS，改写了尚未发布的本地提交编号；迁移前完整历史备份和提交对应关系保留在本次项目工作目录的 `knowledge_push/before-lfs.bundle`、`knowledge_push/lfs-commit-map.csv`，未作为远程分支推送。
+
+另一台电脑先安装 Git 和 [Git LFS](https://git-lfs.com/)，配置有权访问该仓库的 GitHub 账号，然后执行：
+
+```sh
+git lfs install
+git clone git@github.com:luleilulalei/weapon-soul-knowledge.git
+cd weapon-soul-knowledge
+git lfs pull
+python3 tools/verify.py --check-git
+```
+
+普通 GitHub ZIP 下载不作为完整工程备份验收依据；以上校验会确认LFS原文件已下载、大小与SHA-256匹配。归档标签 `kb-2026-10-21`、`kb-2026-10-21-full` 保留对应历史版本；完整版标签已随LFS迁移更新。
 
 在新聊天中明确提供本仓库目录，先读MEMORY.md、当前基线和相关主题。只使用云端聊天时，可提供MEMORY.md及需要的主题文档；如果上传静态副本，应带更新日期，更新后重新同步。保存文件本身不保证任何聊天会自动读取。
 
@@ -38,6 +53,6 @@ git log --oneline -8
 
 `90_来源/文档快照/`保留旧文档原字节。原文的相对图片或附件链接可能指向原始包，不要求在证据目录内重写。`80_完整资料/`保留完整原包目录关系；不因修复旧文档链接而修改原件。
 
-校验工具检查当前整理文档和图册链接、证据与原件SHA-256、Word/PDF提取覆盖、原型内嵌图出处和Git实际保存的原件字节。大型文件只对白名单清单中的原件放行。它不验证电子电路、产品运行或历史测试结论。
+校验工具检查当前整理文档和图册链接、证据与原件SHA-256、Word/PDF提取覆盖、原型内嵌图出处、普通Git原件字节，以及LFS指针和下载后的大文件原字节。大型文件只对白名单清单中的原件放行。它不验证电子电路、产品运行或历史测试结论。
 
 `99_维护/校验报告.json`保存归档检查结果。一个原有空目录名称记录在完整收录清单中；Git不保存空目录，必要时按记录重建即可。
