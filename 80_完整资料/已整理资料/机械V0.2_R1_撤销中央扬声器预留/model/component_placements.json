@@ -1,0 +1,338 @@
+[
+  {
+    "name": "DUMMY_PCB_34x105_LEGACY_ENVELOPE_NOT_CURRENT_LAYOUT",
+    "center_xyz_mm": [
+      0.0,
+      88.5,
+      0.800000011920929
+    ],
+    "bbox_mm": [
+      34.0,
+      105.0,
+      1.600000023841858
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_PCB_top_allowance_CENTRAL_SPEAKER_CONSTRAINT_REMOVED",
+    "center_xyz_mm": [
+      0.0,
+      88.5,
+      3.5999999046325684
+    ],
+    "bbox_mm": [
+      30.0,
+      101.0,
+      4.0
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_PCB_bottom_allowance_NOT_placement",
+    "center_xyz_mm": [
+      0.0,
+      88.5,
+      -1.5
+    ],
+    "bbox_mm": [
+      30.0,
+      101.0,
+      3.0
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_Keeppower_400T_MAKER_MAX_19p1x69p2",
+    "center_xyz_mm": [
+      0.0,
+      96.0,
+      -15.0
+    ],
+    "bbox_mm": [
+      19.100000381469727,
+      69.19999694824219,
+      19.100004196166992
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_HOTHMI_MAX_BODY_CONSERVATIVE_2D_ENVELOPE",
+    "center_xyz_mm": [
+      0.0,
+      140.0,
+      17.100000381469727
+    ],
+    "bbox_mm": [
+      35.79999923706055,
+      38.29999542236328,
+      1.7999999523162842
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_rear_perimeter_pad_0p3_MAX_BODY_TRIAL",
+    "center_xyz_mm": [
+      -16.799999237060547,
+      140.0,
+      16.049999237060547
+    ],
+    "bbox_mm": [
+      1.2000000476837158,
+      4.0,
+      0.30000001192092896
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_rear_perimeter_pad_0p3_MAX_BODY_TRIAL.001",
+    "center_xyz_mm": [
+      16.799999237060547,
+      140.0,
+      16.049999237060547
+    ],
+    "bbox_mm": [
+      1.2000000476837158,
+      4.0,
+      0.30000001192092896
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_front_perimeter_pad_0p3_MAX_BODY_TRIAL",
+    "center_xyz_mm": [
+      -17.200000762939453,
+      140.0,
+      18.149999618530273
+    ],
+    "bbox_mm": [
+      0.6000000238418579,
+      3.0,
+      0.30000001192092896
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_front_perimeter_pad_0p3_MAX_BODY_TRIAL.001",
+    "center_xyz_mm": [
+      17.200000762939453,
+      140.0,
+      18.149999618530273
+    ],
+    "bbox_mm": [
+      0.6000000238418579,
+      3.0,
+      0.30000001192092896
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_FPC47p5_ROUTE_ASSUMPTION_R6p7",
+    "center_xyz_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_mm": [
+      5.599999904632568,
+      23.326332092285156,
+      13.75
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_LEADER_LD0832BC0195F_BODY_MAX8p1x3p35",
+    "center_xyz_mm": [
+      17.0,
+      148.0,
+      -24.174999237060547
+    ],
+    "bbox_mm": [
+      8.100000381469727,
+      8.100000381469727,
+      3.3499999046325684
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_LRA_bottom_adhesive_NOMINAL0p15",
+    "center_xyz_mm": [
+      17.0,
+      148.0,
+      -25.924999237060547
+    ],
+    "bbox_mm": [
+      7.0,
+      7.0,
+      0.15000000596046448
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_LRA_top_foam_NOMINAL0p3",
+    "center_xyz_mm": [
+      17.0,
+      148.0,
+      -22.350000381469727
+    ],
+    "bbox_mm": [
+      7.0,
+      7.0,
+      0.30000001192092896
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_LRA_short_FPC_solder_tail_MAX_LENGTH10p6",
+    "center_xyz_mm": [
+      9.675000190734863,
+      148.0,
+      -25.799999237060547
+    ],
+    "bbox_mm": [
+      6.550000190734863,
+      4.699999809265137,
+      0.15000000596046448
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_SEMITEC103AT2_MAX_4x3p7x2p4",
+    "center_xyz_mm": [
+      10.75,
+      96.0,
+      -15.0
+    ],
+    "bbox_mm": [
+      2.4000000953674316,
+      4.0,
+      3.700000047683716
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_NFC_module_UNSELECTED",
+    "center_xyz_mm": [
+      0.0,
+      160.0,
+      -16.0
+    ],
+    "bbox_mm": [
+      20.0,
+      20.0,
+      3.0
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_NFC_antenna_UNSELECTED",
+    "center_xyz_mm": [
+      0.0,
+      156.0,
+      -19.5
+    ],
+    "bbox_mm": [
+      28.0,
+      35.0,
+      1.0
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_MIC_carrier_UNVERIFIED",
+    "center_xyz_mm": [
+      12.0,
+      110.0,
+      14.0
+    ],
+    "bbox_mm": [
+      8.0,
+      8.0,
+      4.0
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS1_grip_foil_UNPRINTED",
+    "center_xyz_mm": [
+      -11.0,
+      70.0,
+      17.200000762939453
+    ],
+    "bbox_mm": [
+      8.0,
+      18.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS2_grip_foil_UNPRINTED",
+    "center_xyz_mm": [
+      11.0,
+      70.0,
+      17.200000762939453
+    ],
+    "bbox_mm": [
+      8.0,
+      18.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS3_grip_foil_UNPRINTED",
+    "center_xyz_mm": [
+      -11.0,
+      91.0,
+      17.200000762939453
+    ],
+    "bbox_mm": [
+      8.0,
+      18.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS4_grip_foil_UNPRINTED",
+    "center_xyz_mm": [
+      11.0,
+      91.0,
+      17.200000762939453
+    ],
+    "bbox_mm": [
+      8.0,
+      18.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS5_rim_foil_UNPRINTED",
+    "center_xyz_mm": [
+      -10.0,
+      162.0,
+      17.399999618530273
+    ],
+    "bbox_mm": [
+      8.0,
+      6.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  },
+  {
+    "name": "DUMMY_CS6_rim_foil_UNPRINTED",
+    "center_xyz_mm": [
+      10.0,
+      162.0,
+      17.399999618530273
+    ],
+    "bbox_mm": [
+      8.0,
+      6.0,
+      0.20000000298023224
+    ],
+    "status": "See object name: manufacturer maximum, nominal CAD, or explicitly unselected proxy. No physical fit test."
+  }
+]

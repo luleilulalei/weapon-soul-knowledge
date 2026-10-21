@@ -1,0 +1,322 @@
+{
+  "screen_count": 58,
+  "width": 844,
+  "height": 390,
+  "revision": "v1.4",
+  "interaction_scope": {
+    "game_conversation": false,
+    "post_level_memory_decision": false,
+    "memory_auto_save_specified": false,
+    "dialogue_surface": "physical_hardware_only"
+  },
+  "shared_navigation": {
+    "rail_width": 80,
+    "content_x": 104,
+    "centers": [
+      [
+        40,
+        136
+      ],
+      [
+        40,
+        210
+      ],
+      [
+        40,
+        284
+      ]
+    ]
+  },
+  "screens": [
+    {
+      "id": "G13",
+      "title": "守门者_向下释放",
+      "file": "screens/G13_守门者_向下释放.svg"
+    },
+    {
+      "id": "G01",
+      "title": "训练大厅",
+      "file": "screens/G01_训练大厅.svg"
+    },
+    {
+      "id": "G02",
+      "title": "安全准备",
+      "file": "screens/G02_安全准备.svg"
+    },
+    {
+      "id": "G16",
+      "title": "普通失败",
+      "file": "screens/G16_普通失败.svg"
+    },
+    {
+      "id": "G17",
+      "title": "首过结算与继续",
+      "file": "screens/G17_首过结算与继续.svg"
+    },
+    {
+      "id": "G03",
+      "title": "离屏倒计时",
+      "file": "screens/G03_离屏倒计时.svg"
+    },
+    {
+      "id": "G04",
+      "title": "方向教学_演示",
+      "file": "screens/G04_方向教学_演示.svg"
+    },
+    {
+      "id": "G05",
+      "title": "方向教学_尝试",
+      "file": "screens/G05_方向教学_尝试.svg"
+    },
+    {
+      "id": "G06",
+      "title": "校准失败_方向纠正",
+      "file": "screens/G06_校准失败_方向纠正.svg"
+    },
+    {
+      "id": "G07",
+      "title": "校准成功",
+      "file": "screens/G07_校准成功.svg"
+    },
+    {
+      "id": "G08",
+      "title": "辨向_运行",
+      "file": "screens/G08_辨向_运行.svg"
+    },
+    {
+      "id": "G09",
+      "title": "节拍_第二段",
+      "file": "screens/G09_节拍_第二段.svg"
+    },
+    {
+      "id": "G10",
+      "title": "守门者_防御预告",
+      "file": "screens/G10_守门者_防御预告.svg"
+    },
+    {
+      "id": "G11",
+      "title": "守门者_格挡窗口",
+      "file": "screens/G11_守门者_格挡窗口.svg"
+    },
+    {
+      "id": "G12",
+      "title": "守门者_蓄力中",
+      "file": "screens/G12_守门者_蓄力中.svg"
+    },
+    {
+      "id": "G20",
+      "title": "守门者_蓄力取消",
+      "file": "screens/G20_守门者_蓄力取消.svg"
+    },
+    {
+      "id": "G14",
+      "title": "暂停菜单",
+      "file": "screens/G14_暂停菜单.svg"
+    },
+    {
+      "id": "G15",
+      "title": "恢复准备",
+      "file": "screens/G15_恢复准备.svg"
+    },
+    {
+      "id": "G18",
+      "title": "断连_待核对",
+      "file": "screens/G18_断连_待核对.svg"
+    },
+    {
+      "id": "G19",
+      "title": "重连后_重新开始",
+      "file": "screens/G19_重连后_重新开始.svg"
+    },
+    {
+      "id": "G06U",
+      "title": "校准失败_输入未知",
+      "file": "screens/G06U_校准失败_输入未知.svg"
+    },
+    {
+      "id": "G17R",
+      "title": "重复通关",
+      "file": "screens/G17R_重复通关.svg"
+    },
+    {
+      "id": "G16G",
+      "title": "守门者_普通失败",
+      "file": "screens/G16G_守门者_普通失败.svg"
+    },
+    {
+      "id": "G22",
+      "title": "守门者_胜利结算",
+      "file": "screens/G22_守门者_胜利结算.svg"
+    },
+    {
+      "id": "G23",
+      "title": "主动退出结果",
+      "file": "screens/G23_主动退出结果.svg"
+    },
+    {
+      "id": "G02B",
+      "title": "准备受阻_充电",
+      "file": "screens/G02B_准备受阻_充电.svg"
+    },
+    {
+      "id": "G03T",
+      "title": "教学重试_回站位",
+      "file": "screens/G03T_教学重试_回站位.svg"
+    },
+    {
+      "id": "G02D",
+      "title": "安全准备_辨向",
+      "file": "screens/G02D_安全准备_辨向.svg"
+    },
+    {
+      "id": "G03D",
+      "title": "离屏倒计时_辨向",
+      "file": "screens/G03D_离屏倒计时_辨向.svg"
+    },
+    {
+      "id": "G04D",
+      "title": "方向教学_演示_辨向",
+      "file": "screens/G04D_方向教学_演示_辨向.svg"
+    },
+    {
+      "id": "G05D",
+      "title": "方向教学_尝试_辨向",
+      "file": "screens/G05D_方向教学_尝试_辨向.svg"
+    },
+    {
+      "id": "G06D",
+      "title": "校准失败_方向纠正_辨向",
+      "file": "screens/G06D_校准失败_方向纠正_辨向.svg"
+    },
+    {
+      "id": "G06UD",
+      "title": "校准失败_输入未知_辨向",
+      "file": "screens/G06UD_校准失败_输入未知_辨向.svg"
+    },
+    {
+      "id": "G07D",
+      "title": "校准成功_辨向",
+      "file": "screens/G07D_校准成功_辨向.svg"
+    },
+    {
+      "id": "G03TD",
+      "title": "教学重试_回站位_辨向",
+      "file": "screens/G03TD_教学重试_回站位_辨向.svg"
+    },
+    {
+      "id": "G02R",
+      "title": "安全准备_节拍",
+      "file": "screens/G02R_安全准备_节拍.svg"
+    },
+    {
+      "id": "G03R",
+      "title": "离屏倒计时_节拍",
+      "file": "screens/G03R_离屏倒计时_节拍.svg"
+    },
+    {
+      "id": "G04R",
+      "title": "方向教学_演示_节拍",
+      "file": "screens/G04R_方向教学_演示_节拍.svg"
+    },
+    {
+      "id": "G05R",
+      "title": "方向教学_尝试_节拍",
+      "file": "screens/G05R_方向教学_尝试_节拍.svg"
+    },
+    {
+      "id": "G06R",
+      "title": "校准失败_方向纠正_节拍",
+      "file": "screens/G06R_校准失败_方向纠正_节拍.svg"
+    },
+    {
+      "id": "G06UR",
+      "title": "校准失败_输入未知_节拍",
+      "file": "screens/G06UR_校准失败_输入未知_节拍.svg"
+    },
+    {
+      "id": "G07R",
+      "title": "校准成功_节拍",
+      "file": "screens/G07R_校准成功_节拍.svg"
+    },
+    {
+      "id": "G03TR",
+      "title": "教学重试_回站位_节拍",
+      "file": "screens/G03TR_教学重试_回站位_节拍.svg"
+    },
+    {
+      "id": "G16D",
+      "title": "辨向_普通失败",
+      "file": "screens/G16D_辨向_普通失败.svg"
+    },
+    {
+      "id": "G18C",
+      "title": "重连检查中",
+      "file": "screens/G18C_重连检查中.svg"
+    },
+    {
+      "id": "G15C",
+      "title": "恢复_方向确认",
+      "file": "screens/G15C_恢复_方向确认.svg"
+    },
+    {
+      "id": "G15U",
+      "title": "恢复_输入未知",
+      "file": "screens/G15U_恢复_输入未知.svg"
+    },
+    {
+      "id": "G24",
+      "title": "格挡教学回看",
+      "file": "screens/G24_格挡教学回看.svg"
+    },
+    {
+      "id": "G02S",
+      "title": "安全准备_基础斩",
+      "file": "screens/G02S_安全准备_基础斩.svg"
+    },
+    {
+      "id": "G02C",
+      "title": "安全准备_回锋",
+      "file": "screens/G02C_安全准备_回锋.svg"
+    },
+    {
+      "id": "G25",
+      "title": "守门者_基础斩反击",
+      "file": "screens/G25_守门者_基础斩反击.svg"
+    },
+    {
+      "id": "G26A",
+      "title": "守门者_回锋第一段",
+      "file": "screens/G26A_守门者_回锋第一段.svg"
+    },
+    {
+      "id": "G26",
+      "title": "守门者_回锋第二段",
+      "file": "screens/G26_守门者_回锋第二段.svg"
+    },
+    {
+      "id": "G26F",
+      "title": "守门者_回锋取消",
+      "file": "screens/G26F_守门者_回锋取消.svg"
+    },
+    {
+      "id": "G20T",
+      "title": "守门者_释放超时",
+      "file": "screens/G20T_守门者_释放超时.svg"
+    },
+    {
+      "id": "G01N",
+      "title": "训练大厅_初次进入",
+      "file": "screens/G01N_训练大厅_初次进入.svg"
+    },
+    {
+      "id": "G10H2",
+      "title": "守门者_一次命中后",
+      "file": "screens/G10H2_守门者_一次命中后.svg"
+    },
+    {
+      "id": "G01D",
+      "title": "训练大厅_辨向已通过",
+      "file": "screens/G01D_训练大厅_辨向已通过.svg"
+    }
+  ]
+}

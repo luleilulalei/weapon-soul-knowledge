@@ -1,0 +1,2100 @@
+{
+  "date": "2026-10-18",
+  "project": "Spirit_V0.7.1_JLC_Order_Working",
+  "status": "paper_review_complete_not_production_release",
+  "source": "spirit-passive-sch-final.json",
+  "board_components": 157,
+  "design_budget": {
+    "3V192_continuous_A": 0.8,
+    "3V192_peak_A": 1,
+    "5V_SYS_A": 0.5,
+    "NFC_continuous_A": 0.1,
+    "NFC_peak_A": 0.15,
+    "blade_external_5V_max_A": 1.5,
+    "external_board_supply_5V_limit_A": 1.5,
+    "main_path_design_A": 2.5,
+    "temperature_check_local_C": 60
+  },
+  "boost_scenarios": {
+    "0.5": {
+      "vin_V": 3,
+      "vout_V": 5,
+      "eta_assumed": 0.85,
+      "L_min_uH": 0.8,
+      "f_typ_MHz": 1,
+      "delta_A": 1.5000000000000004,
+      "I_average_A": 0.9803921568627452,
+      "I_peak_A": 1.7303921568627454,
+      "I_RMS_A": 1.0717596658010533
+    },
+    "1": {
+      "vin_V": 3,
+      "vout_V": 5,
+      "eta_assumed": 0.85,
+      "L_min_uH": 0.8,
+      "f_typ_MHz": 1,
+      "delta_A": 1.5000000000000004,
+      "I_average_A": 1.9607843137254903,
+      "I_peak_A": 2.7107843137254903,
+      "I_RMS_A": 2.008027670365113
+    },
+    "1.5": {
+      "vin_V": 3,
+      "vout_V": 5,
+      "eta_assumed": 0.85,
+      "L_min_uH": 0.8,
+      "f_typ_MHz": 1,
+      "delta_A": 1.5000000000000004,
+      "I_average_A": 2.9411764705882355,
+      "I_peak_A": 3.6911764705882355,
+      "I_RMS_A": 2.972880594834221
+    }
+  },
+  "components": [
+    {
+      "ref": "U1",
+      "mpn": "ESP32-S3-WROOM-1-N16R8",
+      "lcsc": "C2913202",
+      "library_current_fields": {
+        "Receive  Current": "95mA",
+        "Send  Current": "355mA"
+      },
+      "nets": {
+        "1": "GND",
+        "2": "+3V3",
+        "3": "MCU_EN",
+        "4": "PDM_DATA_L",
+        "5": "PDM_CLK_MCU",
+        "6": "HAPTIC_ENABLE",
+        "7": "I2S_BCLK",
+        "8": "I2S_LRCLK",
+        "9": "I2S_DOUT",
+        "10": "AMP_ENABLE",
+        "11": "",
+        "12": "BOOST_EN",
+        "13": "USB_DM",
+        "14": "USB_DP",
+        "15": "",
+        "16": "",
+        "17": "LCD_DC_MCU",
+        "18": "LCD_CS_MCU",
+        "19": "LCD_MOSI_MCU",
+        "20": "LCD_SCK_MCU",
+        "21": "LCD_RST_N",
+        "22": "KEY_N",
+        "23": "BLADE_DATA_MCU",
+        "24": "EXP_IRQ_N",
+        "25": "LCD_BL_PWM",
+        "26": "",
+        "27": "BOOT_N",
+        "28": "",
+        "29": "",
+        "30": "",
+        "31": "IMU_INT1",
+        "32": "USB_PRESENT_N",
+        "33": "TOUCH_IRQ_N",
+        "34": "I2C_SCL",
+        "35": "I2C_SDA",
+        "36": "UART_RX",
+        "37": "UART_TX",
+        "38": "BLADE_ID_ADC",
+        "39": "BAT_ADC",
+        "40": "GND",
+        "41": "GND"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C1",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C2",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C3",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C4",
+      "mpn": "CL10A106KP8NNNC",
+      "lcsc": "C19702",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R1",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "MCU_EN"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C5",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MCU_EN",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R2",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "BOOT_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R3",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "KEY_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C6",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "KEY_N",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "SW1",
+      "mpn": "TS-1088R-02026",
+      "lcsc": "C455280",
+      "library_current_fields": {
+        "Contact Current": "50mA"
+      },
+      "nets": {
+        "1": "MCU_EN",
+        "2": "GND"
+      },
+      "assessment": "仅按键逻辑信号，无主电源承载"
+    },
+    {
+      "ref": "SW2",
+      "mpn": "TS-1088R-02026",
+      "lcsc": "C455280",
+      "library_current_fields": {
+        "Contact Current": "50mA"
+      },
+      "nets": {
+        "1": "BOOT_N",
+        "2": "GND"
+      },
+      "assessment": "仅按键逻辑信号，无主电源承载"
+    },
+    {
+      "ref": "SW3",
+      "mpn": "TS-1088R-02026",
+      "lcsc": "C455280",
+      "library_current_fields": {
+        "Contact Current": "50mA"
+      },
+      "nets": {
+        "1": "KEY_N",
+        "2": "GND"
+      },
+      "assessment": "仅按键逻辑信号，无主电源承载"
+    },
+    {
+      "ref": "J1",
+      "mpn": "SM06B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160405",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "UART_TX",
+        "3": "UART_RX",
+        "4": "MCU_EN",
+        "5": "BOOT_N",
+        "6": "GND",
+        "7": "",
+        "8": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J112",
+      "mpn": "SM02B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160402",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "KEY_N",
+        "2": "GND",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R4",
+      "mpn": "0603WAF4701T5E",
+      "lcsc": "C23162",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "I2C_SDA"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R5",
+      "mpn": "0603WAF4701T5E",
+      "lcsc": "C23162",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "I2C_SCL"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U2",
+      "mpn": "BMI270",
+      "lcsc": "C2836813",
+      "library_current_fields": {
+        "Standby Current": "3.5uA"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "",
+        "3": "",
+        "4": "IMU_INT1",
+        "5": "+3V3",
+        "6": "GND",
+        "7": "GND",
+        "8": "+3V3",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": "+3V3",
+        "13": "I2C_SCL",
+        "14": "I2C_SDA"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C7",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C8",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C9",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "U3",
+      "mpn": "CAP1296-1-AIA-TR",
+      "lcsc": "C2652051",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS1",
+        "2": "TOUCH_IRQ_N",
+        "3": "I2C_SDA",
+        "4": "I2C_SCL",
+        "5": "+3V3",
+        "6": "TOUCH_CS6",
+        "7": "TOUCH_CS5",
+        "8": "TOUCH_CS4",
+        "9": "TOUCH_CS3",
+        "10": "TOUCH_CS2",
+        "11": "GND"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R6",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "TOUCH_IRQ_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C11",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C12",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "J2",
+      "mpn": "SM07B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160406",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "0": "",
+        "1": "ELE0",
+        "2": "ELE1",
+        "3": "ELE2",
+        "4": "ELE3",
+        "5": "ELE4",
+        "6": "ELE5",
+        "7": "GND"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R129",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS1",
+        "2": "ELE0"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R130",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS2",
+        "2": "ELE1"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R131",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS3",
+        "2": "ELE2"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R132",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS4",
+        "2": "ELE3"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R133",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS5",
+        "2": "ELE4"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R134",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "TOUCH_CS6",
+        "2": "ELE5"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U4",
+      "mpn": "MAX98357AETE+T",
+      "lcsc": "C910544",
+      "library_current_fields": {
+        "Quiescent Current": "2.4mA"
+      },
+      "nets": {
+        "1": "I2S_DOUT",
+        "2": "",
+        "3": "GND",
+        "4": "AMP_SD_MODE",
+        "5": "",
+        "6": "",
+        "7": "+5V_SYS",
+        "8": "+5V_SYS",
+        "9": "SPK_P",
+        "10": "SPK_N",
+        "11": "GND",
+        "12": "",
+        "13": "",
+        "14": "I2S_LRCLK",
+        "15": "GND",
+        "16": "I2S_BCLK",
+        "17": "GND"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R8",
+      "mpn": "0603WAF0000T5E",
+      "lcsc": "C21189",
+      "library_current_fields": {},
+      "nets": {
+        "1": "AMP_ENABLE",
+        "2": "AMP_SD_MODE"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R9",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "AMP_SD_MODE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R10",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "AMP_ENABLE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C13",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+5V_SYS",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C14",
+      "mpn": "CL10A106KP8NNNC",
+      "lcsc": "C19702",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+5V_SYS",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "J3",
+      "mpn": "SM02B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160402",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "SPK_P",
+        "2": "SPK_N",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "U5",
+      "mpn": "LMD3526T261-OA5",
+      "lcsc": "C49230436",
+      "library_current_fields": {
+        "Current Consumption": "750uA"
+      },
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "PDM_CLK_MIC",
+        "3": "PDM_DATA_L_MIC",
+        "4": "GND",
+        "5": "GND",
+        "6": "GND"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C15",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C16",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "Q1",
+      "mpn": "AO3401A",
+      "lcsc": "C15127",
+      "library_current_fields": {
+        "Current - Continuous Drain(Id)": "4A"
+      },
+      "nets": {
+        "1": "MIC_GATE_N",
+        "2": "+3V3",
+        "3": "MIC_3V3"
+      },
+      "assessment": "正常用途为小电流开关/检测；不得将绝对最大漏极电流当持续能力"
+    },
+    {
+      "ref": "R11",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "MIC_GATE_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R12",
+      "mpn": "0603WAF1000T5E",
+      "lcsc": "C22775",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_ENABLE_N",
+        "2": "MIC_GATE_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R13",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U10",
+      "mpn": "SN74LVC1T45DCKR",
+      "lcsc": "C9382",
+      "library_current_fields": {
+        "Current - Output Low(IOL)": "-",
+        "Current - Output High(IOH)": "-"
+      },
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND",
+        "3": "PDM_DATA_L_MIC",
+        "4": "PDM_DATA_L",
+        "5": "MIC_3V3",
+        "6": "+3V3"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C19",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C20",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R14",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "PDM_DATA_L_MIC",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R15",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "PDM_DATA_L",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U9",
+      "mpn": "SN74LVC1T45DCKR",
+      "lcsc": "C9382",
+      "library_current_fields": {
+        "Current - Output Low(IOL)": "-",
+        "Current - Output High(IOH)": "-"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "PDM_CLK_MCU",
+        "4": "PDM_CLK_MIC",
+        "5": "+3V3",
+        "6": "MIC_3V3"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C26",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C27",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R26",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "PDM_CLK_MCU",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U7",
+      "mpn": "TCA9534PWR",
+      "lcsc": "C783615",
+      "library_current_fields": {
+        "Current - Output Low(IOL)": "25mA",
+        "Current - Output High(IOH)": "10mA",
+        "Quiescent Supply Current": "1.5uA"
+      },
+      "nets": {
+        "1": "GND",
+        "2": "GND",
+        "3": "GND",
+        "4": "DOCK_DET_N",
+        "5": "CHG_N",
+        "6": "PGOOD_N",
+        "7": "MIC_ENABLE_N",
+        "8": "GND",
+        "9": "NFC_RESET_N",
+        "10": "NFC_IRQ_N",
+        "11": "AUX_KEY_N",
+        "12": "EXP_SPARE",
+        "13": "EXP_IRQ_N",
+        "14": "I2C_SCL",
+        "15": "I2C_SDA",
+        "16": "+3V3"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C23",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R18",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "EXP_IRQ_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R19",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "DOCK_DET_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R20",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "NFC_IRQ_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R21",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "NFC_RESET_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R22",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "AUX_KEY_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R23",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "MIC_ENABLE_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R24",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "EXP_SPARE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "J4",
+      "mpn": "SM02B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160402",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "DOCK_DET_N",
+        "2": "GND",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J5",
+      "mpn": "SM06B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160405",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "I2C_SCL",
+        "4": "I2C_SDA",
+        "5": "NFC_IRQ_N",
+        "6": "NFC_RESET_N",
+        "7": "",
+        "8": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J6",
+      "mpn": "SM02B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160402",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "AUX_KEY_N",
+        "2": "GND",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "U8",
+      "mpn": "SN74LVC1T45DCKR",
+      "lcsc": "C9382",
+      "library_current_fields": {
+        "Current - Output Low(IOL)": "-",
+        "Current - Output High(IOH)": "-"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "BLADE_DATA_MCU",
+        "4": "BLADE_DATA_DRV",
+        "5": "+3V3",
+        "6": "+5V_BLADE"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "C24",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C25",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+5V_BLADE",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R25",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BLADE_DATA_MCU",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R27",
+      "mpn": "0603WAF1000T5E",
+      "lcsc": "C22775",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BLADE_DATA_DRV",
+        "2": "BLADE_DATA"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R28",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BLADE_DATA",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R29",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+5V_BLADE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "J7",
+      "mpn": "5040500591",
+      "lcsc": "C586115",
+      "library_current_fields": {
+        "Current Rating": "2A"
+      },
+      "nets": {
+        "1": "+5V_BLADE",
+        "2": "GND",
+        "3": "BLADE_DATA",
+        "4": "BLADE_ID_RAW",
+        "5": "",
+        "6": "",
+        "7": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R30",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "BLADE_ID_RAW"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R31",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BLADE_ID_RAW",
+        "2": "BLADE_ID_ADC"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C28",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BLADE_ID_ADC",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "R32",
+      "mpn": "0603WAF330JT5E",
+      "lcsc": "C23140",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_DC_MCU",
+        "2": "LCD_DC"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R33",
+      "mpn": "0603WAF330JT5E",
+      "lcsc": "C23140",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_CS_MCU",
+        "2": "LCD_CS"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R34",
+      "mpn": "0603WAF330JT5E",
+      "lcsc": "C23140",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_MOSI_MCU",
+        "2": "LCD_MOSI"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R35",
+      "mpn": "0603WAF330JT5E",
+      "lcsc": "C23140",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_SCK_MCU",
+        "2": "LCD_SCK"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R36",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "LCD_RST_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C29",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C30",
+      "mpn": "CL10A106KP8NNNC",
+      "lcsc": "C19702",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "J8",
+      "mpn": "XF2M-1015-1A",
+      "lcsc": "C271735",
+      "library_current_fields": {
+        "Current Rating (Max)": "500mA"
+      },
+      "nets": {
+        "1": "LCD_LEDA",
+        "2": "+3V3",
+        "3": "LCD_CS",
+        "4": "LCD_RST_N",
+        "5": "LCD_SCK",
+        "6": "LCD_MOSI",
+        "7": "LCD_DC",
+        "8": "",
+        "9": "LCD_LEDK",
+        "10": "GND",
+        "11": "",
+        "12": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R37",
+      "mpn": "0603WAF1000T5E",
+      "lcsc": "C22775",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_BL_PWM",
+        "2": "LCD_BL_GATE"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "Q2",
+      "mpn": "AO3400A",
+      "lcsc": "C20917",
+      "library_current_fields": {
+        "Current - Continuous Drain(Id)": "5.7A"
+      },
+      "nets": {
+        "1": "LCD_BL_GATE",
+        "2": "GND",
+        "3": "LCD_LEDK"
+      },
+      "assessment": "正常用途为小电流开关/检测；不得将绝对最大漏极电流当持续能力"
+    },
+    {
+      "ref": "R38",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "LCD_BL_GATE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R39",
+      "mpn": "1206W4F680JT5E",
+      "lcsc": "C17976",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+5V_SYS",
+        "2": "LCD_LEDA"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "J101",
+      "mpn": "TYPE-C-31-M-12",
+      "lcsc": "C165948",
+      "library_current_fields": {
+        "Current Rating-Power": "5A"
+      },
+      "nets": {
+        "1": "GND",
+        "2": "GND",
+        "3": "GND",
+        "4": "GND",
+        "A1B12": "GND",
+        "A4B9": "USB_VBUS",
+        "B8": "",
+        "A5": "USB_CC1",
+        "B7": "USB_DM_CONN",
+        "A6": "USB_DP_CONN",
+        "A7": "USB_DM_CONN",
+        "B6": "USB_DP_CONN",
+        "A8": "",
+        "B5": "USB_CC2",
+        "B4A9": "USB_VBUS",
+        "B1A12": "GND"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "U101",
+      "mpn": "USBLC6-2SC6",
+      "lcsc": "C7519",
+      "library_current_fields": {
+        "Peak Pulse Current (Ipp)": "5A",
+        "Reverse Leakage Current (Ir)": "150nA"
+      },
+      "nets": {
+        "1": "USB_DP_CONN",
+        "2": "GND",
+        "3": "USB_DM_CONN",
+        "4": "USB_DM_CONN",
+        "5": "USB_VBUS",
+        "6": "USB_DP_CONN"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R101",
+      "mpn": "0603WAF5101T5E",
+      "lcsc": "C23186",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_CC1",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R102",
+      "mpn": "0603WAF5101T5E",
+      "lcsc": "C23186",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_CC2",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R103",
+      "mpn": "0603WAF220JT5E",
+      "lcsc": "C23345",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_DP_CONN",
+        "2": "USB_DP"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R104",
+      "mpn": "0603WAF220JT5E",
+      "lcsc": "C23345",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_DM_CONN",
+        "2": "USB_DM"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "F101",
+      "mpn": "BSMD1206-050-6V",
+      "lcsc": "C883122",
+      "library_current_fields": {
+        "Current - Max": "100A",
+        "Hold Current": "500mA",
+        "Trip Current": "1A"
+      },
+      "nets": {
+        "1": "USB_VBUS",
+        "2": "USB_5V_FUSED"
+      },
+      "assessment": "存在高温保持电流不足风险，未放行"
+    },
+    {
+      "ref": "C101",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_5V_FUSED",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C102",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_5V_FUSED",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "Q104",
+      "mpn": "AO3400A",
+      "lcsc": "C20917",
+      "library_current_fields": {
+        "Current - Continuous Drain(Id)": "5.7A"
+      },
+      "nets": {
+        "1": "USB_DETECT_GATE",
+        "2": "GND",
+        "3": "USB_PRESENT_N"
+      },
+      "assessment": "正常用途为小电流开关/检测；不得将绝对最大漏极电流当持续能力"
+    },
+    {
+      "ref": "R105",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_VBUS",
+        "2": "USB_DETECT_GATE"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R106",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_DETECT_GATE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R107",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "USB_PRESENT_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "U102",
+      "mpn": "BQ24075RGTR",
+      "lcsc": "C15464",
+      "library_current_fields": {
+        "Charge Current - Max": "1.5A",
+        "Supply Current (Iq)": "6.5uA",
+        "Balance Current": "-"
+      },
+      "nets": {
+        "1": "BAT_NTC",
+        "2": "VBAT_PROT",
+        "3": "VBAT_PROT",
+        "4": "CHG_CE_N",
+        "5": "CHG_EN2",
+        "6": "GND",
+        "7": "PGOOD_N",
+        "8": "GND",
+        "9": "CHG_N",
+        "10": "VSYS_RAW",
+        "11": "VSYS_RAW",
+        "12": "CHG_ILIM",
+        "13": "USB_5V_FUSED",
+        "14": "CHG_TMR",
+        "15": "CHG_SYSOFF",
+        "16": "CHG_ISET",
+        "17": "GND"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R108",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VSYS_RAW",
+        "2": "CHG_CE_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "J102",
+      "mpn": "Jumper2",
+      "lcsc": "C2940092",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_CE_N",
+        "2": "GND"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R109",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_EN2",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "J103",
+      "mpn": "Jumper2",
+      "lcsc": "C2940092",
+      "library_current_fields": {},
+      "nets": {
+        "1": "USB_5V_FUSED",
+        "2": "CHG_EN2"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "R110",
+      "mpn": "RC0603FR-073K65L",
+      "lcsc": "C137730",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_ILIM",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R111",
+      "mpn": "0603WAF3571T5E",
+      "lcsc": "C22998",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_ISET",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R112",
+      "mpn": "0603WAF4642T5E",
+      "lcsc": "C23059",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_TMR",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R113",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "CHG_SYSOFF",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R114",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "CHG_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R115",
+      "mpn": "0603WAF1002T5E",
+      "lcsc": "C25804",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "PGOOD_N"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C103",
+      "mpn": "CC0805MKX5R6BB226",
+      "lcsc": "C109314",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VBAT_PROT",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C104",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VBAT_PROT",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C105",
+      "mpn": "CC0805MKX5R6BB226",
+      "lcsc": "C109314",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VSYS_RAW",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C106",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VSYS_RAW",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "J104",
+      "mpn": "5040500391",
+      "lcsc": "C17265920",
+      "library_current_fields": {
+        "Current Rating": "3.5A"
+      },
+      "nets": {
+        "1": "VBAT_PROT",
+        "2": "GND",
+        "3": "BAT_NTC",
+        "4": "",
+        "5": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J105",
+      "mpn": "5040500291",
+      "lcsc": "C5119943",
+      "library_current_fields": {
+        "Current Rating": "3.5A"
+      },
+      "nets": {
+        "1": "EXT_5V_IN",
+        "2": "GND",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "F102",
+      "mpn": "BSMD1812-110-8V",
+      "lcsc": "C883147",
+      "library_current_fields": {
+        "Current - Max": "100A",
+        "Hold Current": "1.1A",
+        "Trip Current": "2.2A"
+      },
+      "nets": {
+        "1": "EXT_5V_IN",
+        "2": "EXT_5V"
+      },
+      "assessment": "存在高温保持电流不足风险，未放行"
+    },
+    {
+      "ref": "J106",
+      "mpn": "Jumper3",
+      "lcsc": "C2940050",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VSYS_RAW",
+        "2": "MAIN_SOURCE",
+        "3": "EXT_5V"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J107",
+      "mpn": "Jumper3",
+      "lcsc": "C2940050",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_5V",
+        "2": "AUX_SOURCE",
+        "3": "EXT_5V"
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "J111",
+      "mpn": "5040500491",
+      "lcsc": "C177235",
+      "library_current_fields": {
+        "Current Rating": "3A"
+      },
+      "nets": {
+        "1": "MAIN_SOURCE",
+        "2": "MAIN_IN",
+        "3": "AUX_SOURCE",
+        "4": "+5V_SYS",
+        "5": "",
+        "6": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "U103",
+      "mpn": "TLV62569DBVR",
+      "lcsc": "C141836",
+      "library_current_fields": {
+        "Output Current": "2A",
+        "Quiescent Current": "35uA"
+      },
+      "nets": {
+        "1": "BUCK_EN",
+        "2": "GND",
+        "3": "BUCK_SW",
+        "4": "MAIN_IN",
+        "5": "BUCK_FB"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R116",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "BUCK_EN"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R117",
+      "mpn": "RT0603BRD07432KL",
+      "lcsc": "C861402",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "BUCK_FB"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R118",
+      "mpn": "RT0603BRD07100KL",
+      "lcsc": "C122538",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BUCK_FB",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "L101",
+      "mpn": "74438357022",
+      "lcsc": "C3975121",
+      "library_current_fields": {
+        "Current Rating": "7.1A",
+        "Current - Saturation(Isat)": "9.2A"
+      },
+      "nets": {
+        "1": "BUCK_SW",
+        "2": "+3V3"
+      },
+      "assessment": "在本报告负载假设下有正常工作余量；高温/启动/故障仍待验证"
+    },
+    {
+      "ref": "C107",
+      "mpn": "TCC0805X7R106K100FT",
+      "lcsc": "C380346",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C108",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C109",
+      "mpn": "CC0805MKX5R6BB226",
+      "lcsc": "C109314",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C110",
+      "mpn": "GRM1885C1H6R8DA01D",
+      "lcsc": "C178261",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "BUCK_FB"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "U104",
+      "mpn": "TPS61023DRLR",
+      "lcsc": "C919459",
+      "library_current_fields": {
+        "Output Current": "3A",
+        "Quiescent Current": "3uA"
+      },
+      "nets": {
+        "1": "BOOST_FB",
+        "2": "BOOST_ENABLE",
+        "3": "MAIN_IN",
+        "4": "GND",
+        "5": "BOOST_SW",
+        "6": "BOOST_5V"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R119",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_EN",
+        "2": "BOOST_ENABLE"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R120",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_ENABLE",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R121",
+      "mpn": "0603WAF7323T5E",
+      "lcsc": "C23239",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_5V",
+        "2": "BOOST_FB"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R122",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_FB",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "L102",
+      "mpn": "74438357010",
+      "lcsc": "C5542269",
+      "library_current_fields": {
+        "Current Rating": "7.4A",
+        "Current - Saturation(Isat)": "9.6A"
+      },
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "BOOST_SW"
+      },
+      "assessment": "在本报告负载假设下有正常工作余量；高温/启动/故障仍待验证"
+    },
+    {
+      "ref": "C111",
+      "mpn": "TCC0805X7R106K100FT",
+      "lcsc": "C380346",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C112",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C113",
+      "mpn": "CC0805MKX5R6BB226",
+      "lcsc": "C109314",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_5V",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C114",
+      "mpn": "CC0603JRNPO9BN221",
+      "lcsc": "C106210",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BOOST_5V",
+        "2": "BOOST_FB"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "Q102",
+      "mpn": "AO3401A",
+      "lcsc": "C15127",
+      "library_current_fields": {
+        "Current - Continuous Drain(Id)": "4A"
+      },
+      "nets": {
+        "1": "BAT_SENSE_GATE",
+        "2": "VBAT_PROT",
+        "3": "VBAT_SENSE_ON"
+      },
+      "assessment": "正常用途为小电流开关/检测；不得将绝对最大漏极电流当持续能力"
+    },
+    {
+      "ref": "Q103",
+      "mpn": "AO3400A",
+      "lcsc": "C20917",
+      "library_current_fields": {
+        "Current - Continuous Drain(Id)": "5.7A"
+      },
+      "nets": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "BAT_SENSE_GATE"
+      },
+      "assessment": "正常用途为小电流开关/检测；不得将绝对最大漏极电流当持续能力"
+    },
+    {
+      "ref": "R123",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VBAT_PROT",
+        "2": "BAT_SENSE_GATE"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R124",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "VBAT_SENSE_ON",
+        "2": "BAT_ADC"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R125",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BAT_ADC",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R126",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C115",
+      "mpn": "CC0603KRX7R9BB104",
+      "lcsc": "C14663",
+      "library_current_fields": {},
+      "nets": {
+        "1": "BAT_ADC",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "J110",
+      "mpn": "SM02B-SRSS-TB(LF)(SN)",
+      "lcsc": "C160402",
+      "library_current_fields": {
+        "Current Rating": "1A"
+      },
+      "nets": {
+        "1": "HAPTIC_OUT_P",
+        "2": "HAPTIC_OUT_N",
+        "3": "",
+        "4": ""
+      },
+      "assessment": "按触点、匹配端子、线径及总负载检查；外接端口限流尚未实现"
+    },
+    {
+      "ref": "U105",
+      "mpn": "DRV2605LDGSR",
+      "lcsc": "C527464",
+      "library_current_fields": {
+        "Output Current": "-",
+        "Peak Current": "-",
+        "Quiescent Current(Iq)": "500uA"
+      },
+      "nets": {
+        "1": "HAPTIC_REG",
+        "2": "I2C_SCL",
+        "3": "I2C_SDA",
+        "4": "GND",
+        "5": "HAPTIC_EN",
+        "6": "+3V3",
+        "7": "HAPTIC_OUT_P",
+        "8": "GND",
+        "9": "HAPTIC_OUT_N",
+        "10": "+3V3"
+      },
+      "assessment": "按供电需求和输出引脚分别检查，静态电流不是输出能力"
+    },
+    {
+      "ref": "R135",
+      "mpn": "0603WAF1001T5E",
+      "lcsc": "C21190",
+      "library_current_fields": {},
+      "nets": {
+        "1": "HAPTIC_ENABLE",
+        "2": "HAPTIC_EN"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "R136",
+      "mpn": "0603WAF1003T5E",
+      "lcsc": "C25803",
+      "library_current_fields": {},
+      "nets": {
+        "1": "HAPTIC_EN",
+        "2": "GND"
+      },
+      "assessment": "按功耗及所在线路检查；信号串阻需区分正常切换与短路，不按持续输出电流定级"
+    },
+    {
+      "ref": "C119",
+      "mpn": "TCC0805X7R106K100FT",
+      "lcsc": "C380346",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C120",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "HAPTIC_REG",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    },
+    {
+      "ref": "C121",
+      "mpn": "CL10A105KB8NNNC",
+      "lcsc": "C15849",
+      "library_current_fields": {},
+      "nets": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "assessment": "无通用直流额定电流；电源电容待有效容量、纹波电流/自热及实板瞬态验证"
+    }
+  ],
+  "unresolved": [
+    "F101/F102 temperature derating and fault protection coordination",
+    "SW101 exact DC-rated part and harness wire/contacts unspecified",
+    "NFC/blade hardware current limiting and firmware ceilings not implemented",
+    "battery path dropout near low battery and transients",
+    "PCB power routing incomplete; copper/via current and heat not signed off",
+    "selected capacitor effective capacitance and ripple/self-heating qualification",
+    "temperature and frequency tolerances and maximum fault current are not fully bounded by typical-value equations"
+  ]
+}

@@ -1,0 +1,10 @@
+i2c_100p
+Vdd rail 0 3.192
+Rpull rail bus 4.7k
+Cbus bus 0 100p
+Vc ctl 0 PULSE(3.192 0 1u 1n 1n 10u 20u)
+S1 bus 0 ctl 0 sw
+.model sw SW(Ron=10 Roff=1e12 Vt=1.5 Vh=.05)
+.options reltol=1e-6 abstol=1e-12
+.tran 2n 4u
+.end

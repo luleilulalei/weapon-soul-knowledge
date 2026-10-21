@@ -1,0 +1,36 @@
+{
+  "USB_ILIM_A": [
+    1.115959053532472,
+    1.4723506248929976
+  ],
+  "CHARGE_A": [
+    0.7891089108910891,
+    0.9848484848484849
+  ],
+  "SAFETY_TIMER_H": [
+    6.910199999999998,
+    11.749666666666668
+  ],
+  "EXT_ILIM_A": [
+    1.2744877411912425,
+    1.4788421872368176
+  ],
+  "PPTC_HOLD_60C_A": 1.94,
+  "BUCK_SET_V": [
+    3.1868211788211784,
+    3.1971891891891886
+  ],
+  "BOOST_SET_WITH_FB_TOL_V": [
+    4.741528712871286,
+    5.165406060606061
+  ],
+  "BLADE_SHORT_I_A": 0.016835016835016835,
+  "BLADE_SHORT_R_W": 0.0925925925925926,
+  "BACKLIGHT_R_W": 0.09284016636957815,
+  "notes": [
+    "Buck set range here includes resistor tolerance only, not IC reference error.",
+    "Converter efficiencies, actual capacitor bias loss, loop stability and enclosure thermal effects not proven.",
+    "No maximum switch current bound in selected converter datasheets: inductor startup/fault margin remains to be measured.",
+    "USB high-current input can be system-limited; simultaneous maximum load may need battery supplement."
+  ]
+}

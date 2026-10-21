@@ -1,0 +1,474 @@
+{
+  "BOM_JLC_映射_V0.7.1.csv": {
+    "bytes": 121604,
+    "sha256": "2d233656828cf35ca9915ae8f811758622d2d81d34c1a680b447b347e15706dc"
+  },
+  "CHANGELOG_V0.7.1.md": {
+    "bytes": 661,
+    "sha256": "17f8f29dbc20ea6b317a04941944f1c22f25eea66ca3899e62a70e8687b824fe"
+  },
+  "README_先读.md": {
+    "bytes": 12797,
+    "sha256": "f85242d5ec6f004ff7c26a4acbbdcaedadd634d629b60dfa458b765986ca4653"
+  },
+  "Spirit_V0.7.1_review.pdf": {
+    "bytes": 8596099,
+    "sha256": "2a4fa95662a53b3c9c1dd2e79e75e6863907f3424ceac204e513d63fa2cc0256"
+  },
+  "catalog_mapping.json": {
+    "bytes": 189068,
+    "sha256": "c5fde630bdaa6361b0dee2ca193368a3b9d9e3807478a1b7a0aa300c1e54e8e8"
+  },
+  "output/Spirit_V0.7.1_KiCad_Import_Project.zip": {
+    "bytes": 213190,
+    "sha256": "7845beaaf6329e8337f3e4328aeb115749266a597d857c7c00d296a727cf51a9"
+  },
+  "project/01_MCU.kicad_sch": {
+    "bytes": 92075,
+    "sha256": "c3a9c930545a3064d56c436492046f19ac412dc47e5cfc4c469302c75a0c7e92"
+  },
+  "project/02_I2C.kicad_sch": {
+    "bytes": 12197,
+    "sha256": "04b11caaedb5aaf5a2a55eef0ddfc8430adb444b0a94d09624243e6825c7a14a"
+  },
+  "project/03_IMU.kicad_sch": {
+    "bytes": 28768,
+    "sha256": "10a2f40a33d47aa4d4d281cd8484ad20da42687f32e33896c48528cb2c17c5b2"
+  },
+  "project/04_Touch_Controller.kicad_sch": {
+    "bytes": 32778,
+    "sha256": "3c566cd74f4c72718e99fc3256fae3be110a895c31dea85de6bcd1f1eaad42d6"
+  },
+  "project/05_Touch_Electrodes.kicad_sch": {
+    "bytes": 38866,
+    "sha256": "75d2f66a3024b40152246b6c73c3df57ebd7d91f83b0a19f66a483fa8849f7aa"
+  },
+  "project/06_AUDIO.kicad_sch": {
+    "bytes": 45217,
+    "sha256": "6940dbe5ed6efead3e877387265dfed83d8ca41a69d42935000f31739a84fba5"
+  },
+  "project/07_Microphone_Power.kicad_sch": {
+    "bytes": 66399,
+    "sha256": "c48f9a19a3c390a3d8afcb0bb480b3fa02bce59452ce8731fa03627b47bb5c09"
+  },
+  "project/08_PDM_Clock_Isolation.kicad_sch": {
+    "bytes": 25013,
+    "sha256": "40f814bd82b1a4359b08f64e7b19e43f013745617dab60ea2aa883b0d9486afa"
+  },
+  "project/09_EXPANSION.kicad_sch": {
+    "bytes": 68855,
+    "sha256": "dde2f8c26faab6db24a3426bbce93a93ce785dc4199510ad5dfd6530a76c38ea"
+  },
+  "project/10_BLADE.kicad_sch": {
+    "bytes": 57549,
+    "sha256": "4b40287330614050134f7f44f8563fbd573d6dc9b0510c9f26fcd679766c63ce"
+  },
+  "project/11_DISPLAY.kicad_sch": {
+    "bytes": 68905,
+    "sha256": "3859005904486a74c7f50afa1e3e60894c0abf273702fda9f27ba495c808ba29"
+  },
+  "project/12_USB.kicad_sch": {
+    "bytes": 76120,
+    "sha256": "df43a6b92a2a5200a1bba549f5c5ea42b14f43bbb3b5257630cdecdd61ae14e3"
+  },
+  "project/13_Charger.kicad_sch": {
+    "bytes": 87727,
+    "sha256": "a54cf14d567bc0803af8b6be01ca8cda82fea49aa8333d2656045b5747681983"
+  },
+  "project/14_Power_selection.kicad_sch": {
+    "bytes": 31076,
+    "sha256": "81b2c177326aba1355aec12640843e46cc6db11cd545c20f054c3ed096c5c809"
+  },
+  "project/15_Buck_3V3.kicad_sch": {
+    "bytes": 45985,
+    "sha256": "cc0d2761095e6c2fa80d8ddb5333ab1a501a49f569a37443bddd5008b9626afc"
+  },
+  "project/16_Boost_5V.kicad_sch": {
+    "bytes": 54466,
+    "sha256": "58bc448ce51be081fccb20b1340a16181b3d75be87fed3baf6530681d779b80f"
+  },
+  "project/17_Battery_measurement.kicad_sch": {
+    "bytes": 35252,
+    "sha256": "493c6abbe2219beaf65b127c0096bca81b6e6640ef2807c7a39d5a318ef2c561"
+  },
+  "project/18_Motor.kicad_sch": {
+    "bytes": 49086,
+    "sha256": "d22c71c539c67e59923d6915463c45ff65150cc92d59d6a0693b284826bff93c"
+  },
+  "project/19_Test_points.kicad_sch": {
+    "bytes": 41307,
+    "sha256": "4bf8fb4bb156de35c0dd7e1906fa769d90b858d4c22131b0aec1dcccbd05fec4"
+  },
+  "project/20_ERC_Power_Assumptions.kicad_sch": {
+    "bytes": 31962,
+    "sha256": "552bf7f657a34874b7221c4efe81e63b91176864efc465a525ae17df63595cce"
+  },
+  "project/Generic.kicad_sym": {
+    "bytes": 24216,
+    "sha256": "8d4c993abc54ec98037ef27650e2288f76b0d40b60d75429218a416899930905"
+  },
+  "project/LCSC.kicad_sym": {
+    "bytes": 67935,
+    "sha256": "b5b602a717de3ae47d6b2ab2ce275d213992bd32f9ba7f3ea15b84d14134a5e2"
+  },
+  "project/Spirit.kicad_pro": {
+    "bytes": 2,
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  "project/Spirit.kicad_sch": {
+    "bytes": 17898,
+    "sha256": "37fbe688357a3fa7cb474133f754dae6a44c35cb0ca35afee3ceebe336433064"
+  },
+  "project/Virtual.kicad_sym": {
+    "bytes": 1356,
+    "sha256": "4c8e392e849ad3df080f7f180bf1571f25cb2c784f80bd55bcc0d3b6e6314bd7"
+  },
+  "project/candidate_footprints/Capacitor_SMD.pretty/C_0603_1608Metric.kicad_mod": {
+    "bytes": 2427,
+    "sha256": "6817e127719273e03bb0a41f8d885aaa677ba6bbce6ee8292b2f18223e2ec419"
+  },
+  "project/candidate_footprints/Capacitor_SMD.pretty/C_0805_2012Metric.kicad_mod": {
+    "bytes": 2523,
+    "sha256": "4f88d912a06c5e2e3b8151311be72f6ac49eea68d52b4e1beaeaa067916555cc"
+  },
+  "project/candidate_footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x02_P2.54mm_Vertical.kicad_mod": {
+    "bytes": 2940,
+    "sha256": "d99c4d03937f72768bbafadda5817203e12c47cb823f3f40a55823bbdfe1e1b6"
+  },
+  "project/candidate_footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x03_P2.54mm_Vertical.kicad_mod": {
+    "bytes": 3068,
+    "sha256": "8da2165c83f7795b2f6f7485ca313ad45d701afd12af5b0875595b40d8545244"
+  },
+  "project/candidate_footprints/Diode_SMD.pretty/D_SMA.kicad_mod": {
+    "bytes": 4509,
+    "sha256": "b3365739de128e75186439cbdda353beab3ccfd08fa7a6fe407b6d779d922129"
+  },
+  "project/candidate_footprints/Fuse.pretty/Fuse_1206_3216Metric.kicad_mod": {
+    "bytes": 2378,
+    "sha256": "e2b557297a49d760ad2dbab072f6b72a94e2855595536bd117ee620d1fb6291d"
+  },
+  "project/candidate_footprints/Fuse.pretty/Fuse_1812_4532Metric.kicad_mod": {
+    "bytes": 2411,
+    "sha256": "2ac783227d0aa3fd5b0660669eba319bf76c7d0bc088748a99dc5b89f9348614"
+  },
+  "project/candidate_footprints/LICENSE_KiCad.txt": {
+    "bytes": 19872,
+    "sha256": "48a86acd94e857211eac57a51700fc9b3d38539503c282e09ff9e9392fd6503f"
+  },
+  "project/candidate_footprints/Package_SO.pretty/TSSOP-16_4.4x5mm_P0.65mm.kicad_mod": {
+    "bytes": 5734,
+    "sha256": "4a008eaa3e0cf9d51d9fd221d09219f9559db859a64afb1210f09deb534db58a"
+  },
+  "project/candidate_footprints/Package_SO.pretty/VSSOP-10_3x3mm_P0.5mm.kicad_mod": {
+    "bytes": 4723,
+    "sha256": "565a9f6e873ff7f06741c83ca79dcfce83822f52281c666b2aaf0d0fa78b3d7d"
+  },
+  "project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23-5.kicad_mod": {
+    "bytes": 4142,
+    "sha256": "e063acf8bcf318f5ebebddb6eeb493da6614b1f2cee19dd7dd8df0d5943f241a"
+  },
+  "project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23-6.kicad_mod": {
+    "bytes": 4267,
+    "sha256": "8fbeae4cbe35225cd21b2fe5fa412713c620e3d28acd9c73669e308bd295ff66"
+  },
+  "project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23.kicad_mod": {
+    "bytes": 3897,
+    "sha256": "a047eb42e071414312e7f0d76149c378c6f390c6b852d3be21e1331d96b16bf8"
+  },
+  "project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-363_SC-70-6.kicad_mod": {
+    "bytes": 4423,
+    "sha256": "c74f713c0b2a153e6ef82568234b42af6805e4d4d0c3bad1491e3b6a7c53e41f"
+  },
+  "project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-563.kicad_mod": {
+    "bytes": 4273,
+    "sha256": "0f2e81c845f58889a6bb524707dab7c3ff434d615f2d3265c7e84adbf9c71e1b"
+  },
+  "project/candidate_footprints/RF_Module.pretty/ESP32-S3-WROOM-1.kicad_mod": {
+    "bytes": 16176,
+    "sha256": "b7f7c0eb5ecd56a08d127f464d0b0ffb5dc5e2b685bb493de1d731654e57bbd3"
+  },
+  "project/candidate_footprints/Resistor_SMD.pretty/R_0603_1608Metric.kicad_mod": {
+    "bytes": 2460,
+    "sha256": "26fc677c5d1ee32f5f59895b2cd29b884b4a60b08f66427c2fb9759e69c030c4"
+  },
+  "project/candidate_footprints/Resistor_SMD.pretty/R_1206_3216Metric.kicad_mod": {
+    "bytes": 2442,
+    "sha256": "3671ca6038d43f4aa571edc854129ee383e8ae11a7ba61c67a44707b29eb7e3b"
+  },
+  "project/candidate_footprints/Spirit_Display.pretty/Omron_XF2M-1015-1A_1x10_P0.5mm_DualContact_Candidate.kicad_mod": {
+    "bytes": 2985,
+    "sha256": "bd82f6b1862949ccbccd63a9aea267d373ae93c39b7d4c2f2501fa5eaadf74cc"
+  },
+  "project/candidate_footprints/Spirit_Touch.pretty/CAP1296_DFN-10-1EP_3x3mm_P0.5mm_EP1.6x2.3mm.kicad_mod": {
+    "bytes": 3868,
+    "sha256": "094bd53b5db2c82c87711c1ee901960a0bbf8ec6ece487bd7fa0031e0a835317"
+  },
+  "project/candidate_footprints/TestPoint.pretty/TestPoint_Pad_D1.5mm.kicad_mod": {
+    "bytes": 1715,
+    "sha256": "b863253216b04db5519fae21af9390e330c8fc62dee105cab1cf015166eeb2fd"
+  },
+  "project/fp-lib-table": {
+    "bytes": 2138,
+    "sha256": "fe142cd6564d80e7a4dcc78dcde6118510203013921906e8b92c0f05521edfc5"
+  },
+  "project/sym-lib-table": {
+    "bytes": 464,
+    "sha256": "04eb3dbf49bbb6bda6e5167464dc29cca1457640991b626ac9c04dc14c124faa"
+  },
+  "source/baseline_v07/catalog_mapping.json": {
+    "bytes": 189980,
+    "sha256": "2a3eebeb0fce9005a6cab857b5f29e114ed780e09aafa425a35ae5783fbadb50"
+  },
+  "source/baseline_v07/combined_design.json": {
+    "bytes": 100145,
+    "sha256": "03b41bf9a3daa0ebb24819769aeba7642d63e088f5c173ae0933d690e37265d2"
+  },
+  "source/baseline_v07/project/01_MCU.kicad_sch": {
+    "bytes": 92075,
+    "sha256": "c3a9c930545a3064d56c436492046f19ac412dc47e5cfc4c469302c75a0c7e92"
+  },
+  "source/baseline_v07/project/02_I2C.kicad_sch": {
+    "bytes": 12197,
+    "sha256": "04b11caaedb5aaf5a2a55eef0ddfc8430adb444b0a94d09624243e6825c7a14a"
+  },
+  "source/baseline_v07/project/03_IMU.kicad_sch": {
+    "bytes": 28768,
+    "sha256": "10a2f40a33d47aa4d4d281cd8484ad20da42687f32e33896c48528cb2c17c5b2"
+  },
+  "source/baseline_v07/project/04_Touch_Controller.kicad_sch": {
+    "bytes": 32778,
+    "sha256": "3c566cd74f4c72718e99fc3256fae3be110a895c31dea85de6bcd1f1eaad42d6"
+  },
+  "source/baseline_v07/project/05_Touch_Electrodes.kicad_sch": {
+    "bytes": 38866,
+    "sha256": "75d2f66a3024b40152246b6c73c3df57ebd7d91f83b0a19f66a483fa8849f7aa"
+  },
+  "source/baseline_v07/project/06_AUDIO.kicad_sch": {
+    "bytes": 45217,
+    "sha256": "6940dbe5ed6efead3e877387265dfed83d8ca41a69d42935000f31739a84fba5"
+  },
+  "source/baseline_v07/project/07_Microphone_Power.kicad_sch": {
+    "bytes": 69918,
+    "sha256": "8e2e67a7a17e1a58af3f1e05ebb600a6f7a3daa9e1e74ede8029381cc524c058"
+  },
+  "source/baseline_v07/project/08_PDM_Clock_Isolation.kicad_sch": {
+    "bytes": 25013,
+    "sha256": "40f814bd82b1a4359b08f64e7b19e43f013745617dab60ea2aa883b0d9486afa"
+  },
+  "source/baseline_v07/project/09_EXPANSION.kicad_sch": {
+    "bytes": 68855,
+    "sha256": "dde2f8c26faab6db24a3426bbce93a93ce785dc4199510ad5dfd6530a76c38ea"
+  },
+  "source/baseline_v07/project/10_BLADE.kicad_sch": {
+    "bytes": 57549,
+    "sha256": "4b40287330614050134f7f44f8563fbd573d6dc9b0510c9f26fcd679766c63ce"
+  },
+  "source/baseline_v07/project/11_DISPLAY.kicad_sch": {
+    "bytes": 68905,
+    "sha256": "3859005904486a74c7f50afa1e3e60894c0abf273702fda9f27ba495c808ba29"
+  },
+  "source/baseline_v07/project/12_USB.kicad_sch": {
+    "bytes": 76120,
+    "sha256": "df43a6b92a2a5200a1bba549f5c5ea42b14f43bbb3b5257630cdecdd61ae14e3"
+  },
+  "source/baseline_v07/project/13_Charger.kicad_sch": {
+    "bytes": 87727,
+    "sha256": "a54cf14d567bc0803af8b6be01ca8cda82fea49aa8333d2656045b5747681983"
+  },
+  "source/baseline_v07/project/14_Power_selection.kicad_sch": {
+    "bytes": 31076,
+    "sha256": "81b2c177326aba1355aec12640843e46cc6db11cd545c20f054c3ed096c5c809"
+  },
+  "source/baseline_v07/project/15_Buck_3V3.kicad_sch": {
+    "bytes": 45985,
+    "sha256": "cc0d2761095e6c2fa80d8ddb5333ab1a501a49f569a37443bddd5008b9626afc"
+  },
+  "source/baseline_v07/project/16_Boost_5V.kicad_sch": {
+    "bytes": 54466,
+    "sha256": "58bc448ce51be081fccb20b1340a16181b3d75be87fed3baf6530681d779b80f"
+  },
+  "source/baseline_v07/project/17_Battery_measurement.kicad_sch": {
+    "bytes": 35252,
+    "sha256": "493c6abbe2219beaf65b127c0096bca81b6e6640ef2807c7a39d5a318ef2c561"
+  },
+  "source/baseline_v07/project/18_Motor.kicad_sch": {
+    "bytes": 49086,
+    "sha256": "d22c71c539c67e59923d6915463c45ff65150cc92d59d6a0693b284826bff93c"
+  },
+  "source/baseline_v07/project/19_Test_points.kicad_sch": {
+    "bytes": 41307,
+    "sha256": "4bf8fb4bb156de35c0dd7e1906fa769d90b858d4c22131b0aec1dcccbd05fec4"
+  },
+  "source/baseline_v07/project/20_ERC_Power_Assumptions.kicad_sch": {
+    "bytes": 31922,
+    "sha256": "29ab68de9919b646e2a01ec26b4c35bbfcb48e69df86795ba8542d88331d0cdc"
+  },
+  "source/baseline_v07/project/Generic.kicad_sym": {
+    "bytes": 24216,
+    "sha256": "8d4c993abc54ec98037ef27650e2288f76b0d40b60d75429218a416899930905"
+  },
+  "source/baseline_v07/project/LCSC.kicad_sym": {
+    "bytes": 67935,
+    "sha256": "b5b602a717de3ae47d6b2ab2ce275d213992bd32f9ba7f3ea15b84d14134a5e2"
+  },
+  "source/baseline_v07/project/Spirit.kicad_pro": {
+    "bytes": 2,
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  "source/baseline_v07/project/Spirit.kicad_sch": {
+    "bytes": 17630,
+    "sha256": "19de2a6a7f8945e83a9efcbccededc2cfa19bbd3f12a5bbdc9f96f228f25a74f"
+  },
+  "source/baseline_v07/project/Virtual.kicad_sym": {
+    "bytes": 1356,
+    "sha256": "4c8e392e849ad3df080f7f180bf1571f25cb2c784f80bd55bcc0d3b6e6314bd7"
+  },
+  "source/baseline_v07/project/candidate_footprints/Capacitor_SMD.pretty/C_0603_1608Metric.kicad_mod": {
+    "bytes": 2427,
+    "sha256": "6817e127719273e03bb0a41f8d885aaa677ba6bbce6ee8292b2f18223e2ec419"
+  },
+  "source/baseline_v07/project/candidate_footprints/Capacitor_SMD.pretty/C_0805_2012Metric.kicad_mod": {
+    "bytes": 2523,
+    "sha256": "4f88d912a06c5e2e3b8151311be72f6ac49eea68d52b4e1beaeaa067916555cc"
+  },
+  "source/baseline_v07/project/candidate_footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x02_P2.54mm_Vertical.kicad_mod": {
+    "bytes": 2940,
+    "sha256": "d99c4d03937f72768bbafadda5817203e12c47cb823f3f40a55823bbdfe1e1b6"
+  },
+  "source/baseline_v07/project/candidate_footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x03_P2.54mm_Vertical.kicad_mod": {
+    "bytes": 3068,
+    "sha256": "8da2165c83f7795b2f6f7485ca313ad45d701afd12af5b0875595b40d8545244"
+  },
+  "source/baseline_v07/project/candidate_footprints/Diode_SMD.pretty/D_SMA.kicad_mod": {
+    "bytes": 4509,
+    "sha256": "b3365739de128e75186439cbdda353beab3ccfd08fa7a6fe407b6d779d922129"
+  },
+  "source/baseline_v07/project/candidate_footprints/Fuse.pretty/Fuse_1206_3216Metric.kicad_mod": {
+    "bytes": 2378,
+    "sha256": "e2b557297a49d760ad2dbab072f6b72a94e2855595536bd117ee620d1fb6291d"
+  },
+  "source/baseline_v07/project/candidate_footprints/Fuse.pretty/Fuse_1812_4532Metric.kicad_mod": {
+    "bytes": 2411,
+    "sha256": "2ac783227d0aa3fd5b0660669eba319bf76c7d0bc088748a99dc5b89f9348614"
+  },
+  "source/baseline_v07/project/candidate_footprints/LICENSE_KiCad.txt": {
+    "bytes": 19872,
+    "sha256": "48a86acd94e857211eac57a51700fc9b3d38539503c282e09ff9e9392fd6503f"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_SO.pretty/TSSOP-16_4.4x5mm_P0.65mm.kicad_mod": {
+    "bytes": 5734,
+    "sha256": "4a008eaa3e0cf9d51d9fd221d09219f9559db859a64afb1210f09deb534db58a"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_SO.pretty/VSSOP-10_3x3mm_P0.5mm.kicad_mod": {
+    "bytes": 4723,
+    "sha256": "565a9f6e873ff7f06741c83ca79dcfce83822f52281c666b2aaf0d0fa78b3d7d"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23-5.kicad_mod": {
+    "bytes": 4142,
+    "sha256": "e063acf8bcf318f5ebebddb6eeb493da6614b1f2cee19dd7dd8df0d5943f241a"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23-6.kicad_mod": {
+    "bytes": 4267,
+    "sha256": "8fbeae4cbe35225cd21b2fe5fa412713c620e3d28acd9c73669e308bd295ff66"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-23.kicad_mod": {
+    "bytes": 3897,
+    "sha256": "a047eb42e071414312e7f0d76149c378c6f390c6b852d3be21e1331d96b16bf8"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-363_SC-70-6.kicad_mod": {
+    "bytes": 4423,
+    "sha256": "c74f713c0b2a153e6ef82568234b42af6805e4d4d0c3bad1491e3b6a7c53e41f"
+  },
+  "source/baseline_v07/project/candidate_footprints/Package_TO_SOT_SMD.pretty/SOT-563.kicad_mod": {
+    "bytes": 4273,
+    "sha256": "0f2e81c845f58889a6bb524707dab7c3ff434d615f2d3265c7e84adbf9c71e1b"
+  },
+  "source/baseline_v07/project/candidate_footprints/RF_Module.pretty/ESP32-S3-WROOM-1.kicad_mod": {
+    "bytes": 16176,
+    "sha256": "b7f7c0eb5ecd56a08d127f464d0b0ffb5dc5e2b685bb493de1d731654e57bbd3"
+  },
+  "source/baseline_v07/project/candidate_footprints/Resistor_SMD.pretty/R_0603_1608Metric.kicad_mod": {
+    "bytes": 2460,
+    "sha256": "26fc677c5d1ee32f5f59895b2cd29b884b4a60b08f66427c2fb9759e69c030c4"
+  },
+  "source/baseline_v07/project/candidate_footprints/Resistor_SMD.pretty/R_1206_3216Metric.kicad_mod": {
+    "bytes": 2442,
+    "sha256": "3671ca6038d43f4aa571edc854129ee383e8ae11a7ba61c67a44707b29eb7e3b"
+  },
+  "source/baseline_v07/project/candidate_footprints/Spirit_Display.pretty/Omron_XF2M-1015-1A_1x10_P0.5mm_DualContact_Candidate.kicad_mod": {
+    "bytes": 2985,
+    "sha256": "bd82f6b1862949ccbccd63a9aea267d373ae93c39b7d4c2f2501fa5eaadf74cc"
+  },
+  "source/baseline_v07/project/candidate_footprints/Spirit_Touch.pretty/CAP1296_DFN-10-1EP_3x3mm_P0.5mm_EP1.6x2.3mm.kicad_mod": {
+    "bytes": 3868,
+    "sha256": "094bd53b5db2c82c87711c1ee901960a0bbf8ec6ece487bd7fa0031e0a835317"
+  },
+  "source/baseline_v07/project/candidate_footprints/TestPoint.pretty/TestPoint_Pad_D1.5mm.kicad_mod": {
+    "bytes": 1715,
+    "sha256": "b863253216b04db5519fae21af9390e330c8fc62dee105cab1cf015166eeb2fd"
+  },
+  "source/baseline_v07/project/fp-lib-table": {
+    "bytes": 2138,
+    "sha256": "fe142cd6564d80e7a4dcc78dcde6118510203013921906e8b92c0f05521edfc5"
+  },
+  "source/baseline_v07/project/sym-lib-table": {
+    "bytes": 464,
+    "sha256": "04eb3dbf49bbb6bda6e5167464dc29cca1457640991b626ac9c04dc14c124faa"
+  },
+  "source/combined_design.json": {
+    "bytes": 100003,
+    "sha256": "e80c685689f9f01eb9885ef210b5e05553291006abfdbfb9a095564cea8ff5b9"
+  },
+  "source/generate_v071.py": {
+    "bytes": 4282,
+    "sha256": "d272d7a92a1387e9523e43ae2b4764276ab48470d832433c8a860acba72a6561"
+  },
+  "source/intended_diff_v071.json": {
+    "bytes": 4768,
+    "sha256": "a2d3df9c95be1096029ef2c6c3ad27d92047d65f8911421a54286f965eb0a745"
+  },
+  "source/package_v071.py": {
+    "bytes": 1300,
+    "sha256": "c765e29827eb3c7f10405ebd72d2665e40ecdea135d67ad4d012548f348025da"
+  },
+  "source/rebuild_and_check.sh": {
+    "bytes": 466,
+    "sha256": "c5edbab230fb3e8c5f8961fc6a782720bf27acdeceb4d61465f8fb0a8a9eed46"
+  },
+  "source/sexpr_utils.py": {
+    "bytes": 1442,
+    "sha256": "1f4a999dbcbbd43e1c50d86b6ad7816cc40bb10dcb518df2b07905e15024d1d5"
+  },
+  "source/verify_v071.py": {
+    "bytes": 3268,
+    "sha256": "77249ec0454bcd7da9ee88aae4446c32042db55d36b040f13cc192bf558b2988"
+  },
+  "validation/Spirit.xml": {
+    "bytes": 683357,
+    "sha256": "9d297548b2a2166d45dfef01cdd014d600c6c831e06a150ba7784ce308dd59d0"
+  },
+  "validation/erc.json": {
+    "bytes": 4370,
+    "sha256": "b7472dabd8215fc9c45d0fa060082246e5ca10b0aead5a7cd83b252cdd0f5a8e"
+  },
+  "validation/independent/comparison.json": {
+    "bytes": 560,
+    "sha256": "93140504910adfb305209ecce171fafa7952c60b13d724702e6b315b4c6613bc"
+  },
+  "validation/independent/erc.rpt": {
+    "bytes": 865,
+    "sha256": "efaa1a3994f8354afb0ed8643683bbd146f7bb5fa17a9e04c6564b2bd08f8d4c"
+  },
+  "validation/independent/独立电气复核_V0.7.1.txt": {
+    "bytes": 1846,
+    "sha256": "b4b6debdd653ce09dced2e6e60e7530af40f17eb5bbd6264309a05d51490b2aa"
+  },
+  "validation/reproducibility.json": {
+    "bytes": 56,
+    "sha256": "504348d41349a320a0fa1605082f8c3872116af60478e0cb68684e2d7d94a14f"
+  },
+  "validation/validation_summary.json": {
+    "bytes": 783,
+    "sha256": "01d928614799cfca2b8f660c2d1fe2c2bb4c208dd9f7675a2f7f35e763fdf1bb"
+  }
+}

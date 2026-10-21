@@ -7,10 +7,12 @@ import hashlib
 import json
 import re
 import subprocess
+from verify_archive import verify as verify_archive
 
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--check-originals', action='store_true')
 parser.add_argument('--check-delivery', action='store_true')
+parser.add_argument('--check-git', action='store_true', help='Verify every archived original is stored byte-for-byte in the Git index')
 parser.add_argument('--report', action='store_true', help='Save a stable verification report')
 args = parser.parse_args()
 root = Path(__file__).resolve().parents[1]
@@ -34,13 +36,18 @@ for name, row in snapshots.items():
         errors.append('Evidence hash mismatch: ' + name)
 
 originals_checked = 0
+originals_superseded = 0
+historical_hashes = {x['sha256'] for x in read('90_来源/完整收录清单.json')['items'] if x.get('historical')}
 if args.check_originals:
     for row in sources:
         p = Path(row['original'])
         if not p.is_file():
             warnings.append('Original unavailable: ' + str(p))
         elif sha(p) != row['sha256']:
-            warnings.append('Original changed since snapshot: ' + str(p))
+            if row['sha256'] in historical_hashes:
+                originals_superseded += 1
+            else:
+                warnings.append('Original changed since snapshot: ' + str(p))
         else:
             originals_checked += 1
 
@@ -54,7 +61,8 @@ if args.check_delivery:
             delivery_checked += 1
 
 canonical = [p for p in root.rglob('*.md')
-             if '.git' not in p.parts and '文档快照' not in p.parts and '聊天摘录' not in p.parts]
+             if not {'.git','文档快照','聊天摘录','提取正文'}.intersection(p.parts)
+             and ('80_完整资料' not in p.parts or p == root/'80_完整资料/README.md')]
 links_checked = 0
 pattern = re.compile(r'\[[^\]]+\]\((?:<([^>]+)>|([^\s)]+)(?:\s+"[^"]*")?)\)')
 for p in canonical:
@@ -79,6 +87,7 @@ for c in chats:
 
 # Check tracked and new files without staging them or changing the repository.
 git = subprocess.run(['git', '-C', str(root), 'ls-files', '-z', '--cached', '--others', '--exclude-standard'], capture_output=True)
+archived_paths = {x['archive'] for x in read('90_来源/完整收录清单.json')['items']}
 if git.returncode:
     errors.append('Cannot enumerate Git files')
 else:
@@ -87,14 +96,17 @@ else:
             continue
         rel = raw.decode()
         p = root / rel
-        if p.is_file() and p.stat().st_size > 5 * 1024 * 1024:
+        if p.is_file() and p.stat().st_size > 5 * 1024 * 1024 and rel not in archived_paths:
             errors.append('Unexpected large repository file: ' + rel)
         if p.name == '.DS_Store' or p.suffix in {'.pem', '.key'} or p.name.startswith('.env'):
             errors.append('Unexpected local or credential file: ' + rel)
 
+archive_report = verify_archive(root, args.check_originals, args.check_git)
+errors.extend(archive_report.pop('errors'))
+warnings.extend(archive_report.pop('warnings'))
 report = {
     'date': '2026-10-21',
-    'scope': 'Knowledge links, archived evidence hashes, optional original/delivery consistency; not product verification',
+    'scope': 'Knowledge and gallery links, full original bytes, image provenance, document extraction coverage, optional original/delivery/Git consistency; not product verification',
     'status': 'passed' if not errors else 'failed',
     'local_source_paths': len(sources),
     'unique_document_snapshots': len(set(r['snapshot'] for r in sources)),
@@ -104,7 +116,9 @@ report = {
     'canonical_markdown_files': len(canonical),
     'internal_links_checked': links_checked,
     'original_files_matching': originals_checked if args.check_originals else None,
+    'original_files_superseded_and_preserved': originals_superseded if args.check_originals else None,
     'delivery_files_matching': delivery_checked if args.check_delivery else None,
+    **archive_report,
     'errors': errors,
     'warnings': warnings,
 }

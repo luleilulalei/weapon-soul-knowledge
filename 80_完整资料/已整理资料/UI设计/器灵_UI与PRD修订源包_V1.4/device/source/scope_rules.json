@@ -1,0 +1,44 @@
+{
+  "version": "V1.4 / display-only R2",
+  "effective_date": "2026-10-18",
+  "existing_memory": {
+    "view": true,
+    "delete": true,
+    "edit": false,
+    "rewrite": false
+  },
+  "game_memory": {
+    "keep_discard_prompt": false,
+    "retention_toggle": false,
+    "automatic_retention_policy": "unspecified; this revision makes no decision"
+  },
+  "dialogue": {
+    "hardware_voice": true,
+    "game_app": false
+  },
+  "new_memory_consent_states": {
+    "ids": [
+      "D21",
+      "D22",
+      "D23",
+      "D24",
+      "M01"
+    ],
+    "scope": "hardware conversation new memory only; never reuse for game memory retention"
+  },
+  "read_only_states": [
+    "D25",
+    "M02"
+  ],
+  "deletion_states": [
+    "D26",
+    "D27",
+    "D28",
+    "M03"
+  ],
+  "display": {
+    "touch_input": false,
+    "watch_menu": false,
+    "external_review_controls_only": true
+  }
+}

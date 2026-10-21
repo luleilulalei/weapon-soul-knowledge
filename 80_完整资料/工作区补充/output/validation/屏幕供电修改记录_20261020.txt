@@ -1,0 +1,6 @@
+2026-10-21电源更新：主板现为标称3.3V，详见《主电源3V3修正_20261021.txt》。
+按用户Usaki双屏图参考调整单屏。J8维持12针ZX-0.5FPC-2H-CTXX12P。
++3V3(实际标称3.3V)经FB202 BLM18AG601SN1D C19330到LCD_VCC，连接J8.4/C29.1/C30.1；100nF+10uF放屏幕侧。磁珠600Ω@100MHz/500mA/DCRmax0.38Ω，厂家：https://www.murata.com/en-us/api/pdfdownloadapi?cate=cgsubChipFerriBead&partno=BLM18AG601SN1%23
+R39更换10Ω1206 0.25W C17903，输入由5V改+3V3，输出LEDA；Q2/PWM不变。参考图0Ω不直接照抄，10Ω为待实测初值，非恒流驱动：若LED Vf=3.0V则约18mA，不保证亮度及全温范围。
+SPI串阻保留33Ω，栅极下拉保留100kΩ；没有改全板电压。
+181元件，ERC无报错，所有预期变更引脚逐一断言通过；其他元件引脚网表不变。工程备份ZIP校验通过。PCB尚未同步，不具备生产交付条件。

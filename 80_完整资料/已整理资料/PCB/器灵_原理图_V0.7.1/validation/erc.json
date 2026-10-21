@@ -1,0 +1,114 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-17T22:06:39+0800",
+    "kicad_version": "9.0.2",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662",
+            "violations": []
+        },
+        {
+            "path": "/MCU 主控与下载/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/e151f807-49ae-5f75-8339-39396e57db04",
+            "violations": []
+        },
+        {
+            "path": "/I2C 总线与上拉/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/b4a61bc0-15ac-555b-a2da-7b60edd08b04",
+            "violations": []
+        },
+        {
+            "path": "/IMU 惯性传感器/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/cfee3d1f-aea0-5b63-91cb-51d485c611f1",
+            "violations": []
+        },
+        {
+            "path": "/Touch 触摸控制器/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/d058d5e8-293d-57c3-b79e-9585232a9826",
+            "violations": []
+        },
+        {
+            "path": "/Electrodes 触摸电极接口/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/34a473a5-e193-5b79-99da-cf9acf5f28b0",
+            "violations": []
+        },
+        {
+            "path": "/Audio 数字功放/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/033f8b08-630c-52cc-a33a-237fe753cfc4",
+            "violations": []
+        },
+        {
+            "path": "/Microphone 单麦与供电/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/8f4b1368-e46e-5c68-8d85-d49453d13a64",
+            "violations": []
+        },
+        {
+            "path": "/PDM Clock 单麦时钟隔离/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/7f2319f6-a2b6-51fc-ad3a-4a8c98631177",
+            "violations": []
+        },
+        {
+            "path": "/Expansion 扩展与状态/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/8404b2cf-1d7a-5249-849c-42fa0b3ca755",
+            "violations": []
+        },
+        {
+            "path": "/Blade 独立剑身接口/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6",
+            "violations": []
+        },
+        {
+            "path": "/Display 非触摸显示屏/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/2b4fbdeb-b4aa-5576-9d37-c064b598fe14",
+            "violations": []
+        },
+        {
+            "path": "/USB 接口与保护/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/8b2d4e8e-84b2-587b-ba45-c41991782af1",
+            "violations": []
+        },
+        {
+            "path": "/Charger 单节电池充电/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/38398d83-958a-5bee-bae2-c643e8991c3f",
+            "violations": []
+        },
+        {
+            "path": "/Power 电源选择与总开关/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42",
+            "violations": []
+        },
+        {
+            "path": "/Buck 3.3V 降压/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/e82e02c3-11aa-5999-8061-79a6dc117449",
+            "violations": []
+        },
+        {
+            "path": "/Boost 5V 升压/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/300d02ca-4528-515d-8d9b-db5cede480e1",
+            "violations": []
+        },
+        {
+            "path": "/Battery 电压测量/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/c2fd2bd2-a66a-5d63-9dcb-d2d7eb28da42",
+            "violations": []
+        },
+        {
+            "path": "/Motor 振动马达/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/bc96285a-64a2-5d3c-a616-481804037281",
+            "violations": []
+        },
+        {
+            "path": "/Test 测试点/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66",
+            "violations": []
+        },
+        {
+            "path": "/ERC 电气检查前提/",
+            "uuid_path": "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed",
+            "violations": []
+        }
+    ],
+    "source": "Spirit.kicad_sch"
+}

@@ -1,0 +1,6287 @@
+[
+  {
+    "id": "A01",
+    "title": "器灵 · 首页",
+    "note": "主层：器灵、相处状态、下一步。连接明细从状态进入；成长从新剑技卡进入。",
+    "file": "app/screens/A01.svg",
+    "png": "app/screens/A01.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      },
+      {
+        "x": 104,
+        "y": 24,
+        "w": 90,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 437,
+        "y": 121,
+        "w": 200,
+        "h": 43,
+        "label": "查看连接状态",
+        "target": "A34"
+      },
+      {
+        "x": 437,
+        "y": 318,
+        "w": 383,
+        "h": 48,
+        "label": "一起去训练",
+        "target": "G01"
+      },
+      {
+        "x": 437,
+        "y": 180,
+        "w": 383,
+        "h": 84,
+        "label": "查看成长",
+        "target": "A02"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A02",
+    "title": "器灵 · 成长",
+    "note": "双线不用等级/亲密度数字。关系表达依真实已获准经历，保存记忆不冒充升级。",
+    "file": "app/screens/A02.svg",
+    "png": "app/screens/A02.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 104,
+        "y": 146,
+        "w": 304,
+        "h": 148,
+        "label": "查看蓄势斩",
+        "action": "查看蓄势斩操作说明：举高蓄力，等就绪后向下挥斩释放。正式练习需进入训练准备。"
+      },
+      {
+        "x": 448,
+        "y": 146,
+        "w": 372,
+        "h": 196,
+        "label": "查看共同经历",
+        "target": "A20"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03",
+    "title": "收藏 · 特性库",
+    "note": "首批演示目录只画剑技与装饰，强化/附魔方向保留但未默认排入首版。",
+    "file": "app/screens/A03.svg",
+    "png": "app/screens/A03.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A04"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A04",
+    "title": "收藏 · 预览与启用",
+    "note": "已拥有与已启用分开；确认应用后待设备应答，成功切为“当前使用”；不会因准备失败撤回权益。",
+    "file": "app/screens/A04.svg",
+    "png": "app/screens/A04.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03",
+        "target": "A03"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "应用到雾光",
+        "action": "设计演示：提交应用后等待实体确认。原型不会连接或写入真实设备。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟设备确认应用",
+        "target": "A25"
+      },
+      {
+        "label": "模拟内容准备失败",
+        "target": "A36"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A05",
+    "title": "我 · 设置",
+    "note": "“我”不占底部导航。退出账号独立确认，不等于解绑、删除记忆或转赠。",
+    "file": "app/screens/A05.svg",
+    "png": "app/screens/A05.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 104,
+        "y": 208,
+        "w": 304,
+        "h": 78,
+        "label": "我的器灵",
+        "target": "A33"
+      },
+      {
+        "x": 448,
+        "y": 87,
+        "w": 372,
+        "h": 51,
+        "label": "连接与设备",
+        "target": "A34"
+      },
+      {
+        "x": 448,
+        "y": 142,
+        "w": 372,
+        "h": 51,
+        "label": "记忆与隐私",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 197,
+        "w": 372,
+        "h": 51,
+        "label": "已授权手机",
+        "action": "原型不撤销真实授权。此处应展示本账号已授权手机、上次活动与单台撤销确认；离线撤销不承诺即时生效。"
+      },
+      {
+        "x": 448,
+        "y": 252,
+        "w": 372,
+        "h": 51,
+        "label": "声音与显示",
+        "action": "本页设置只调整 App 声音与显示，不控制实体麦克风，不覆盖游戏中的安全提示。"
+      },
+      {
+        "x": 448,
+        "y": 307,
+        "w": 372,
+        "h": 51,
+        "label": "帮助与关于",
+        "action": "帮助入口：连接失败、设备辨认、关麦说明、应用版本。正式支持与维修流程需验证后接入。"
+      },
+      {
+        "x": 104,
+        "y": 318,
+        "w": 304,
+        "h": 48,
+        "label": "退出账号",
+        "action": "确认退出？仅结束本手机账号访问，不解绑器灵、不删除记忆或资产。取消保持原页。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟确认退出",
+        "target": "A07"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A06",
+    "title": "我 · 记忆与隐私",
+    "note": "安全默认提案：长期记忆逐条许可、主动提起关闭；此页不提供远程开麦，不承诺已实现删除传播。",
+    "file": "app/screens/A06.svg",
+    "png": "app/screens/A06.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 448,
+        "y": 86,
+        "w": 372,
+        "h": 65,
+        "label": "管理已保存记忆",
+        "target": "A19"
+      },
+      {
+        "x": 448,
+        "y": 244,
+        "w": 372,
+        "h": 71,
+        "label": "实体陪伴时提起已有记忆",
+        "action": "仅改变实体陪伴的主动回顾设置。App/游戏不提供对话；不能修改记忆。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟实体确认关麦",
+        "target": "A06B"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A07",
+    "title": "初见 · 账号准备",
+    "note": "账户提供方未冻结。原型用账号门禁状态，不设计密码、验证码或第三方登录承诺。",
+    "file": "app/screens/A07.svg",
+    "png": "app/screens/A07.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "先看看",
+        "action": "原型说明：你可以先阅读功能介绍。私人记忆、资产管理和绑定需要账号与主人确认。"
+      },
+      {
+        "x": 448,
+        "y": 248,
+        "w": 372,
+        "h": 48,
+        "label": "登录并连接器灵",
+        "target": "A35"
+      },
+      {
+        "x": 448,
+        "y": 312,
+        "w": 372,
+        "h": 48,
+        "label": "我已有账号",
+        "target": "A35"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A08",
+    "title": "初见 · 发现设备",
+    "note": "权限拒绝留下帮助与重试；搜索中不显示虚假设备。设备尾号示例。",
+    "file": "app/screens/A08.svg",
+    "png": "app/screens/A08.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A07",
+        "target": "A07"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "连接这把器灵",
+        "action": "原型不执行系统附近设备权限授权、蓝牙扫描或连接。"
+      },
+      {
+        "x": 448,
+        "y": 123,
+        "w": 372,
+        "h": 100,
+        "label": "选择设备尾号2F8A",
+        "action": "选择该实体，不按相同昵称替代身份。"
+      },
+      {
+        "x": 448,
+        "y": 272,
+        "w": 300,
+        "h": 35,
+        "label": "没找到？查看连接帮助",
+        "action": "确认器灵开机，检查蓝牙与附近设备权限；拒绝授权后只有用户主动选择才重新请求。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟连接成功",
+        "target": "A09"
+      },
+      {
+        "label": "模拟权限拒绝",
+        "action": "连接权限未开启；保留返回、说明和主动前往系统设置入口，不循环申请。"
+      },
+      {
+        "label": "模拟无设备",
+        "action": "未找到器灵。保留重新查找与连接帮助，不展示虚假设备。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A09",
+    "title": "初见 · 确认实体",
+    "note": "具体主人证明方式待硬件/账号确认；屏幕图案仅是实体匹配线索，不独立授予权限。",
+    "file": "app/screens/A09.svg",
+    "png": "app/screens/A09.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A08",
+        "target": "A08"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "图案一致，继续",
+        "action": "图案一致仅验证身边实体。继续核对账号归属；不得仅凭蓝牙或图案成为主人。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "不是这把，重新查找",
+        "target": "A08"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟主人权限核对成功",
+        "target": "A10"
+      },
+      {
+        "label": "模拟归属冲突",
+        "action": "这把器灵的归属需要核实。停止绑定，不显示原主人信息；提供正式核实说明与返回。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A10",
+    "title": "初见 · 设备联网",
+    "note": "仅表示设备联网体验。配网协议、频段、凭据传输方法未冻结；不伪造支持能力。",
+    "file": "app/screens/A10.svg",
+    "png": "app/screens/A10.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A09",
+        "target": "A09"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "继续配置网络",
+        "target": "A37"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "暂时跳过",
+        "target": "A11",
+        "action": "跳过后保留本地可用能力；首次问候不可伪造联网AI回答。"
+      },
+      {
+        "x": 448,
+        "y": 88,
+        "w": 372,
+        "h": 127,
+        "label": "选择家庭网络",
+        "target": "A37"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A11",
+    "title": "初见 · 给它名字",
+    "note": "同时检查支持发音和同主人重名；检查通过前不能保存。改名不重置人格。",
+    "file": "app/screens/A11.svg",
+    "png": "app/screens/A11.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A10",
+        "target": "A10"
+      },
+      {
+        "x": 448,
+        "y": 165,
+        "w": 320,
+        "h": 48,
+        "label": "输入器灵名字",
+        "action": "本轮使用虚构名字雾光。保存时分别检查支持发音与同账号重名，失败保留原名。"
+      },
+      {
+        "x": 776,
+        "y": 165,
+        "w": 44,
+        "h": 48,
+        "label": "试听名字",
+        "action": "发音试听占位，原型不生成或播放真实语音。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "就叫雾光",
+        "action": "验证重名和发音，并等待同一实体保存确认。命名不改变人格或身份。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟命名与首次问候成功",
+        "target": "A12"
+      },
+      {
+        "label": "模拟同账号重名",
+        "action": "这个名字已经属于另一把器灵，请换一个。不要覆盖对方名字或数据。"
+      },
+      {
+        "label": "模拟发音不支持",
+        "action": "这个名字暂不支持唤醒，请选择支持的名字。保留输入供修改。"
+      },
+      {
+        "label": "模拟跳过联网后完成命名",
+        "action": "命名可以完成；进入首页展示离线本地能力，不播放假的联网AI首次回应。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A12",
+    "title": "初见 · 第一次问候",
+    "note": "引导靠近实体进行硬件对话；App不收发对话，不访问手机麦克风。",
+    "file": "app/screens/A12.svg",
+    "png": "app/screens/A12.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A11",
+        "target": "A11"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "进入首页",
+        "target": "A01N"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A13",
+    "title": "卡牌 · 靠近读取",
+    "note": "安全状态下读卡。战斗中只记录识别提示，结束后确认，不在局内改装。",
+    "file": "app/screens/A13.svg",
+    "png": "app/screens/A13.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03",
+        "target": "A03"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "遇到问题",
+        "action": "一次只放一张卡，贴近背面读卡区并保持静止；读取失败不消费卡。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟识别未使用的新卡",
+        "target": "A14"
+      },
+      {
+        "label": "模拟同一卡已兑换",
+        "target": "A32"
+      },
+      {
+        "label": "模拟未知/不支持卡",
+        "action": "暂不支持这张卡，未消费，也不会发放替代特性。"
+      },
+      {
+        "label": "模拟多张卡重叠",
+        "action": "请移开其他卡，只保留一张；不随机选择。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A14",
+    "title": "卡牌 · 选择器灵",
+    "note": "第一次进入不自动选目标；此图为用户已选雾光。无可用目标、无权限、已拥有同特性均不可进入消费确认。",
+    "file": "app/screens/A14.svg",
+    "png": "app/screens/A14.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A13",
+        "target": "A13"
+      },
+      {
+        "x": 448,
+        "y": 120,
+        "w": 372,
+        "h": 75,
+        "label": "选择雾光",
+        "action": "已选雾光；确认前重新验证拥有者权限及特性重复条件。"
+      },
+      {
+        "x": 448,
+        "y": 208,
+        "w": 372,
+        "h": 75,
+        "label": "选择拾光",
+        "target": "A14S"
+      },
+      {
+        "x": 448,
+        "y": 330,
+        "w": 372,
+        "h": 48,
+        "label": "继续，给雾光",
+        "target": "A15"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟目标已拥有特性",
+        "target": "A18"
+      },
+      {
+        "label": "模拟主人权限失效",
+        "action": "主人权限需要重新确认；停止消费，只保留卡牌公开说明。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A15",
+    "title": "卡牌 · 最终确认",
+    "note": "目标、内容、卡牌一次消费在同屏。确认后锁定意图，返回不代表撤销，重复点击不产生新兑换。",
+    "file": "app/screens/A15.svg",
+    "png": "app/screens/A15.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A14",
+        "target": "A14"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "确认兑换给雾光",
+        "action": "提交一次消费意图；此为设计原型，不消费真实卡牌。处理中禁重复，目标固定。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消，保留卡牌",
+        "target": "A03"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟兑换已确认成功",
+        "target": "A17"
+      },
+      {
+        "label": "模拟结果因断连未知",
+        "target": "A16"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A16",
+    "title": "卡牌 · 结果待核对",
+    "note": "未知与失败不混用。返回收藏保留待核对入口；原意图核对成功/未生效/仍未知三个终态。",
+    "file": "app/screens/A16.svg",
+    "png": "app/screens/A16.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A03P"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "继续核对",
+        "action": "只核对原卡8C21→雾光这一次意图；不新建兑换、不换目标。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "稍后处理，返回收藏",
+        "target": "A03P"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟核对原兑换成功",
+        "target": "A17"
+      },
+      {
+        "label": "模拟明确未生效",
+        "action": "本次没有生效，卡牌未消费。允许返回确认页重新决定，保留原目标。"
+      },
+      {
+        "label": "模拟仍无法确认",
+        "target": "A16"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A17",
+    "title": "卡牌 · 获得成功",
+    "note": "成功只表示权益确认。启用另一步，不展示未发生的设备表现。",
+    "file": "app/screens/A17.svg",
+    "png": "app/screens/A17.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03",
+        "target": "A03"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "预览并应用",
+        "target": "A04"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "先收好，回到收藏",
+        "target": "A03"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A18",
+    "title": "卡牌 · 重复特性",
+    "note": "另一张重复内容卡阻止消费的安全默认。不同于同一卡已消费；不发货币、不叠加、不吞卡。",
+    "file": "app/screens/A18.svg",
+    "png": "app/screens/A18.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A14",
+        "target": "A14"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "换一把器灵",
+        "target": "A14"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消兑换",
+        "target": "A03"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A19",
+    "title": "记忆 · 列表",
+    "note": "来源标签与保存状态可见；访客和失权状态不显示私人内容。",
+    "file": "app/screens/A19.svg",
+    "png": "app/screens/A19.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "第一次完成节拍",
+        "target": "A20"
+      },
+      {
+        "x": 448,
+        "y": 177,
+        "w": 372,
+        "h": 81,
+        "label": "查看称呼偏好",
+        "action": "只读查看称呼偏好“阿澄”的内容和来源；删除必须确认该条ID和范围，不作用于其他记忆。不支持修改。"
+      },
+      {
+        "x": 448,
+        "y": 270,
+        "w": 372,
+        "h": 81,
+        "label": "查看练习偏好",
+        "target": "A21"
+      },
+      {
+        "x": 104,
+        "y": 218,
+        "w": 304,
+        "h": 35,
+        "label": "筛选记忆",
+        "action": "只筛选当前器灵自己的已获准记忆，不跨器灵汇总。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A20",
+    "title": "记忆 · 来源详情",
+    "note": "既有游戏来源记忆样例，只读查看和删除；不是新闯关自动保存或许可入口。",
+    "file": "app/screens/A20.svg",
+    "png": "app/screens/A20.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A19"
+      },
+      {
+        "x": 527,
+        "y": 342,
+        "w": 214,
+        "h": 36,
+        "label": "删除这条记忆",
+        "target": "A22"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "更多",
+        "action": "仅对当前记忆对象操作。可查看来源和许可；不把删除记忆等同于改写游戏记录。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A21",
+    "title": "记忆 · 练习偏好只读详情",
+    "note": "记忆只读查看与删除；不支持修改。原图状态编号用于追踪。",
+    "file": "app/screens/A21.svg",
+    "png": "app/screens/A21.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "target": "A19"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "删除这条记忆",
+        "target": "A22P"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A22",
+    "title": "记忆 · 删除确认",
+    "note": "仅选择一条，显示不可逆影响；不混合解绑/删账号。删除完成条件和离线副本待D06/D10批准。",
+    "file": "app/screens/A22.svg",
+    "png": "app/screens/A22.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A20",
+        "target": "A20"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "删除这条记忆",
+        "action": "仅删除选中记忆，不删除剑技或卡牌。原型不删除真实数据；真实不可逆操作需明确确认。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消删除，返回详情",
+        "target": "A20"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟云端完成/设备待清理",
+        "target": "A23"
+      },
+      {
+        "label": "模拟全范围完成",
+        "target": "A24"
+      },
+      {
+        "label": "模拟未发起成功",
+        "action": "删除请求未提交，记忆仍保留；可重试或返回，不显示已忘记。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A23",
+    "title": "记忆 · 等待完成",
+    "note": "部分完成不得写“已全部删除”。列表显示待清理且禁止该记忆新召回；不承诺离线设备即时完成。",
+    "file": "app/screens/A23.svg",
+    "png": "app/screens/A23.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A27"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "连接雾光并继续",
+        "action": "连接原器灵并继续核对原删除目标；不生成第二个删除操作。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "返回记忆列表",
+        "target": "A27"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟设备清理确认",
+        "target": "A24"
+      },
+      {
+        "label": "模拟仍离线",
+        "target": "A23"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A24",
+    "title": "记忆 · 删除完成",
+    "note": "仅在所需删除范围均确认完成后显示；再次打开旧详情跳回列表，不复活已删条目。",
+    "file": "app/screens/A24.svg",
+    "png": "app/screens/A24.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A26"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "回到记忆列表",
+        "target": "A26"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A25",
+    "title": "装饰 · 当前使用",
+    "note": "只有设备确认后才显示当前使用。收藏需相应显示当前使用，不能回到未应用版本。",
+    "file": "app/screens/A25.svg",
+    "png": "app/screens/A25.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A03B"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "回到收藏",
+        "target": "A03B"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A26",
+    "title": "记忆 · 删除后的列表",
+    "note": "删除后列表变为2条，不保留已删除卡片，也不继续沿用3条计数。",
+    "file": "app/screens/A26.svg",
+    "png": "app/screens/A26.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 177,
+        "w": 372,
+        "h": 81,
+        "label": "查看练习偏好",
+        "target": "A21"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A27",
+    "title": "记忆 · 待清理列表",
+    "note": "待清理目标独立状态，不计作可回顾内容；点击回到原删除进度。",
+    "file": "app/screens/A27.svg",
+    "png": "app/screens/A27.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "查看待清理进度",
+        "target": "A23"
+      },
+      {
+        "x": 448,
+        "y": 270,
+        "w": 372,
+        "h": 81,
+        "label": "查看练习偏好",
+        "target": "A21"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A32",
+    "title": "卡牌 · 同一卡已兑换",
+    "note": "与A18未消费的新卡重复特性严格区分；若归属他人，只显示已兑换，不暴露对方身份。",
+    "file": "app/screens/A32.svg",
+    "png": "app/screens/A32.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03",
+        "target": "A03"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "查看雾光的流光纹饰",
+        "target": "A04"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "读取另一张卡",
+        "target": "A13"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A33",
+    "title": "器灵 · 切换查看对象",
+    "note": "多器灵只做基本列表/查看/添加；不含并行控制、交易、社交或记忆互通。",
+    "file": "app/screens/A33.svg",
+    "png": "app/screens/A33.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "添加器灵",
+        "target": "A08"
+      },
+      {
+        "x": 104,
+        "y": 115,
+        "w": 348,
+        "h": 183,
+        "label": "查看雾光",
+        "target": "A01"
+      },
+      {
+        "x": 472,
+        "y": 115,
+        "w": 348,
+        "h": 183,
+        "label": "查看拾光",
+        "target": "A01S"
+      },
+      {
+        "x": 586,
+        "y": 318,
+        "w": 234,
+        "h": 48,
+        "label": "回到雾光",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A34",
+    "title": "器灵 · 连接状态",
+    "note": "三种连接分开。断连后的采音状态标“上次确认/当前未知”，绝不继续无时效标“已关麦”。",
+    "file": "app/screens/A34.svg",
+    "png": "app/screens/A34.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 651,
+        "y": 23,
+        "w": 169,
+        "h": 48,
+        "label": "重新检查连接",
+        "action": "原型不执行系统蓝牙授权或硬件查询；真实应用以最新实体回报刷新三项连接和采音状态。"
+      },
+      {
+        "x": 104,
+        "y": 332,
+        "w": 304,
+        "h": 35,
+        "label": "更换器灵网络",
+        "target": "A37"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟手机断连/状态未同步",
+        "target": "A34B"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A35",
+    "title": "初见 · 登录账号",
+    "note": "低成本候选：单一邮箱验证码，无第三方SDK/SMS；协议文案与地区/保存规则须发布前审查，不是已完成合规。",
+    "file": "app/screens/A35.svg",
+    "png": "app/screens/A35.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A07",
+        "target": "A07"
+      },
+      {
+        "x": 448,
+        "y": 95,
+        "w": 372,
+        "h": 48,
+        "label": "输入邮箱",
+        "action": "演示输入区。不要输入真实邮箱；示例使用保留域名 player@example.com。"
+      },
+      {
+        "x": 448,
+        "y": 189,
+        "w": 238,
+        "h": 48,
+        "label": "输入验证码",
+        "action": "演示输入区。不要输入真实验证码。"
+      },
+      {
+        "x": 688,
+        "y": 189,
+        "w": 132,
+        "h": 48,
+        "label": "发送验证码",
+        "action": "原型不发邮件。实际状态：发送中禁重复；发送成功开始服务端规定的倒计时；失败保留邮箱并可重试。"
+      },
+      {
+        "x": 448,
+        "y": 272,
+        "w": 372,
+        "h": 33,
+        "label": "协议与隐私说明",
+        "action": "正式版本须接入可阅读的协议与隐私说明并明确同意。原型不创建账号或接受法律协议。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "登录并继续",
+        "action": "原型不执行登录。邮箱合法、验证码正确且同意必要协议后才能成功。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟验证成功",
+        "target": "A08"
+      },
+      {
+        "label": "模拟验证码错误",
+        "target": "A40"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A36",
+    "title": "装饰 · 内容准备失败",
+    "note": "权益与内容可用性分开。失败不回滚拥有、不要求重新兑换；只重试准备。",
+    "file": "app/screens/A36.svg",
+    "png": "app/screens/A36.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03",
+        "target": "A03"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "重新准备内容",
+        "action": "仅重试内容准备，不重新消费卡牌或撤回权益。"
+      },
+      {
+        "x": 680,
+        "y": 284,
+        "w": 140,
+        "h": 30,
+        "label": "先返回收藏",
+        "target": "A03"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟内容已准备",
+        "target": "A04"
+      },
+      {
+        "label": "模拟准备再次失败",
+        "target": "A36"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03B",
+    "title": "收藏 · 已应用流光",
+    "note": "应用后收藏同步显示当前使用。",
+    "file": "app/screens/A03B.svg",
+    "png": "app/screens/A03B.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A25"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A06B",
+    "title": "隐私 · 实体已关麦",
+    "note": "关麦事实来自实体确认；没有远程语音恢复。",
+    "file": "app/screens/A06B.svg",
+    "png": "app/screens/A06B.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 448,
+        "y": 86,
+        "w": 372,
+        "h": 65,
+        "label": "管理已保存记忆",
+        "target": "A19"
+      },
+      {
+        "x": 448,
+        "y": 244,
+        "w": 372,
+        "h": 71,
+        "label": "实体陪伴时提起已有记忆",
+        "action": "仅改变实体陪伴的主动回顾设置。App/游戏不提供对话；不能修改记忆。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟非语音开启并确认",
+        "target": "A06"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A34B",
+    "title": "连接 · 麦克风状态未同步",
+    "note": "未知状态不冒充已关闭。",
+    "file": "app/screens/A34B.svg",
+    "png": "app/screens/A34B.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 651,
+        "y": 23,
+        "w": 169,
+        "h": 48,
+        "label": "重新检查连接",
+        "action": "原型不执行系统蓝牙授权或硬件查询；真实应用以最新实体回报刷新三项连接和采音状态。"
+      },
+      {
+        "x": 104,
+        "y": 332,
+        "w": 304,
+        "h": 35,
+        "label": "更换器灵网络",
+        "target": "A37"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟重新连接并确认状态",
+        "target": "A34"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A01N",
+    "title": "器灵 · 首次首页",
+    "note": "新用户未解锁蓄势斩，不显示虚构成长。",
+    "file": "app/screens/A01N.svg",
+    "png": "app/screens/A01N.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01N"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01N",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03N"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      },
+      {
+        "x": 104,
+        "y": 24,
+        "w": 90,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 437,
+        "y": 121,
+        "w": 200,
+        "h": 43,
+        "label": "查看连接状态",
+        "target": "A34"
+      },
+      {
+        "x": 437,
+        "y": 318,
+        "w": 383,
+        "h": 48,
+        "label": "开始第一次训练",
+        "target": "G01N",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 437,
+        "y": 180,
+        "w": 383,
+        "h": 84,
+        "label": "动作入门",
+        "target": "G01N",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03N",
+    "title": "收藏 · 初始状态",
+    "note": "新用户只显示初始剑技，无假装饰、无购买/抽卡引导。",
+    "file": "app/screens/A03N.svg",
+    "png": "app/screens/A03N.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01N"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01N",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03N"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A37",
+    "title": "初见 · 配网表单",
+    "note": "UI设计模拟，不收集真实网络信息。2.4GHz为本轮候选适配，不是已测支持；密码只在当前表单显隐，不进入日志/错误文案。",
+    "file": "app/screens/A37.svg",
+    "png": "app/screens/A37.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A10",
+        "target": "A10"
+      },
+      {
+        "x": 448,
+        "y": 104,
+        "w": 372,
+        "h": 48,
+        "label": "选择网络名称",
+        "action": "仅虚构网络 Home_2.4G。原型不扫描附近真实网络。"
+      },
+      {
+        "x": 448,
+        "y": 218,
+        "w": 320,
+        "h": 48,
+        "label": "输入网络密码",
+        "action": "打开虚构密码的横屏键盘样张；不要输入真实密码。",
+        "target": "A37K"
+      },
+      {
+        "x": 776,
+        "y": 218,
+        "w": 44,
+        "h": 48,
+        "label": "显示或隐藏密码",
+        "action": "只切换当前表单密码显隐，离页恢复掩码；错误、日志、截图分析不输出密码。"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "连接这个网络",
+        "target": "A38",
+        "action": "进入设计模拟的连接中状态，不向真实设备发送网络凭据。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消配置",
+        "target": "A10"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A38",
+    "title": "初见 · 正在配网",
+    "note": "连接中不显示假百分比、不假定成功。取消等待明确反馈；若设备已经成功连上，不以晚到取消覆盖真实成功。",
+    "file": "app/screens/A38.svg",
+    "png": "app/screens/A38.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A10",
+        "target": "A10"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "取消配置",
+        "action": "取消当前配置请求并等待确认。若已连网，则展示真实已连接结果，不能用晚到取消回滚成功。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟连接成功",
+        "target": "A11"
+      },
+      {
+        "label": "模拟连接失败",
+        "target": "A39"
+      },
+      {
+        "label": "模拟取消已确认",
+        "target": "A10"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A39",
+    "title": "初见 · 配网失败",
+    "note": "只显示已知失败，不暴露密码。连接原因未知时不给“密码错误”定性；重试沿用本次安全输入，离页清除。",
+    "file": "app/screens/A39.svg",
+    "png": "app/screens/A39.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A37",
+        "target": "A37"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "修改网络信息",
+        "target": "A37"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "用相同信息重试",
+        "target": "A38"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A40",
+    "title": "初见 · 验证码错误",
+    "note": "虚构邮箱/验证码。未正确验证不显示已登录。重发倒计时仅是示例读数；安全限流/码有效期不在UI中假装已定。",
+    "file": "app/screens/A40.svg",
+    "png": "app/screens/A40.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A35",
+        "target": "A35"
+      },
+      {
+        "x": 448,
+        "y": 189,
+        "w": 238,
+        "h": 48,
+        "label": "重新输入验证码",
+        "action": "只演示错误状态，不处理真实验证码。"
+      },
+      {
+        "x": 688,
+        "y": 189,
+        "w": 132,
+        "h": 48,
+        "label": "重发倒计时",
+        "action": "倒计时未结束不可重发；到期恢复“重新发送”。42秒为示例读数，不是冻结有效期。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "重新验证",
+        "action": "重新核对当前输入，不生成重复账号。"
+      },
+      {
+        "x": 285,
+        "y": 330,
+        "w": 115,
+        "h": 38,
+        "label": "修改邮箱",
+        "target": "A35"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟验证码正确",
+        "target": "A08"
+      },
+      {
+        "label": "模拟已过期",
+        "action": "内联错误：验证码已过期，请重新发送。保留邮箱，清空失效验证码。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A03P",
+    "title": "收藏 · 兑换待核对入口",
+    "note": "离开兑换页仍保留原意图入口，不能隐藏未确定结果。",
+    "file": "app/screens/A03P.svg",
+    "png": "app/screens/A03P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A16"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 466,
+        "y": 240,
+        "w": 354,
+        "h": 91,
+        "label": "继续核对原兑换",
+        "target": "A16"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A02B",
+    "title": "成长 · 删除经历后",
+    "note": "剑技保留，已删除的经历不再展示或回顾。",
+    "file": "app/screens/A02B.svg",
+    "png": "app/screens/A02B.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 104,
+        "y": 146,
+        "w": 304,
+        "h": 148,
+        "label": "查看蓄势斩",
+        "action": "剑技仍已拥有，删除记忆不会撤回它。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A02P",
+    "title": "成长 · 经历待清理",
+    "note": "删除中的经历不继续作为可回顾内容展示。",
+    "file": "app/screens/A02P.svg",
+    "png": "app/screens/A02P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 104,
+        "y": 146,
+        "w": 304,
+        "h": 148,
+        "label": "查看蓄势斩",
+        "action": "剑技仍已拥有，删除记忆不会撤回它。"
+      },
+      {
+        "x": 448,
+        "y": 146,
+        "w": 372,
+        "h": 196,
+        "label": "查看原删除进度",
+        "target": "A23"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A34C",
+    "title": "连接 · 实体已确认关麦",
+    "note": "关闭事实在连接与隐私两个入口一致。",
+    "file": "app/screens/A34C.svg",
+    "png": "app/screens/A34C.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 651,
+        "y": 23,
+        "w": 169,
+        "h": 48,
+        "label": "重新检查连接",
+        "action": "原型不执行系统蓝牙授权或硬件查询；真实应用以最新实体回报刷新三项连接和采音状态。"
+      },
+      {
+        "x": 104,
+        "y": 332,
+        "w": 304,
+        "h": 35,
+        "label": "更换器灵网络",
+        "target": "A37"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟手机断连/状态未同步",
+        "target": "A34B"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A06U",
+    "title": "隐私 · 采音状态未知",
+    "note": "未同步时不显示肯定关麦状态。",
+    "file": "app/screens/A06U.svg",
+    "png": "app/screens/A06U.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A05",
+        "target": "A05"
+      },
+      {
+        "x": 448,
+        "y": 86,
+        "w": 372,
+        "h": 65,
+        "label": "管理已保存记忆",
+        "target": "A19"
+      },
+      {
+        "x": 448,
+        "y": 244,
+        "w": 372,
+        "h": 71,
+        "label": "实体陪伴时提起已有记忆",
+        "action": "仅改变实体陪伴的主动回顾设置。App/游戏不提供对话；不能修改记忆。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟重新连接确认开麦",
+        "target": "A06"
+      },
+      {
+        "label": "模拟重新连接确认关麦",
+        "target": "A06B"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A14S",
+    "title": "卡牌 · 选择拾光",
+    "note": "用户显式选择第二目标，后续确认/成功/启用均锁定拾光；不会自动绑定读卡器灵雾光。",
+    "file": "app/screens/A14S.svg",
+    "png": "app/screens/A14S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A13",
+        "target": "A13"
+      },
+      {
+        "x": 448,
+        "y": 120,
+        "w": 372,
+        "h": 75,
+        "label": "选择雾光",
+        "target": "A14"
+      },
+      {
+        "x": 448,
+        "y": 208,
+        "w": 372,
+        "h": 75,
+        "label": "选择拾光",
+        "action": "已选择拾光。"
+      },
+      {
+        "x": 448,
+        "y": 330,
+        "w": 372,
+        "h": 48,
+        "label": "继续，给拾光",
+        "target": "A15S"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟拾光已拥有特性",
+        "target": "A18S"
+      },
+      {
+        "label": "模拟拾光主人权限失效",
+        "action": "停止消费，需重新确认对拾光的权限；雾光能读卡不能代替拾光的授权。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A15S",
+    "title": "卡牌 · 确认兑换给拾光",
+    "note": "第二兑换目标完整状态：目标、内容、卡牌一次消费在同屏。确认后锁定意图，返回不代表撤销，重复点击不产生新兑换。",
+    "file": "app/screens/A15S.svg",
+    "png": "app/screens/A15S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A14S",
+        "target": "A14S"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "确认兑换给拾光",
+        "action": "提交一次消费意图；此为设计原型，不消费真实卡牌。处理中禁重复，目标固定。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消，保留卡牌",
+        "target": "A03S"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟兑换已确认成功",
+        "target": "A17S"
+      },
+      {
+        "label": "模拟结果因断连未知",
+        "target": "A16S"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A16S",
+    "title": "卡牌 · 拾光兑换待核对",
+    "note": "第二兑换目标完整状态：未知与失败不混用。返回收藏保留待核对入口；原意图核对成功/未生效/仍未知三个终态。",
+    "file": "app/screens/A16S.svg",
+    "png": "app/screens/A16S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A03SP"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "继续核对",
+        "action": "只核对原卡8C21→拾光这一次意图；不新建兑换、不换目标。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "稍后处理，返回收藏",
+        "target": "A03SP"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟核对原兑换成功",
+        "target": "A17S"
+      },
+      {
+        "label": "模拟明确未生效",
+        "action": "本次没有生效，卡牌未消费。允许返回确认页重新决定，保留原目标。"
+      },
+      {
+        "label": "模拟仍无法确认",
+        "target": "A16S"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A17S",
+    "title": "卡牌 · 拾光获得成功",
+    "note": "第二兑换目标完整状态：成功只表示权益确认。启用另一步，不展示未发生的设备表现。",
+    "file": "app/screens/A17S.svg",
+    "png": "app/screens/A17S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03S",
+        "target": "A03S"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "预览并应用",
+        "target": "A04SU"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "先收好，回到收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A04S",
+    "title": "拾光 · 装饰可应用",
+    "note": "第二兑换目标完整状态：已拥有与已启用分开；确认应用后待设备应答，成功切为“当前使用”；不会因准备失败撤回权益。",
+    "file": "app/screens/A04S.svg",
+    "png": "app/screens/A04S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03S",
+        "target": "A03S"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "应用到拾光",
+        "action": "设计演示：提交应用后等待实体确认。原型不会连接或写入真实设备。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟设备确认应用",
+        "target": "A25S"
+      },
+      {
+        "label": "模拟内容准备失败",
+        "target": "A36S"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A25S",
+    "title": "拾光 · 装饰已应用",
+    "note": "第二兑换目标完整状态：只有设备确认后才显示当前使用。收藏需相应显示当前使用，不能回到未应用版本。",
+    "file": "app/screens/A25S.svg",
+    "png": "app/screens/A25S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A03SB"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "回到收藏",
+        "target": "A03SB"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A36S",
+    "title": "拾光 · 内容准备失败",
+    "note": "第二兑换目标完整状态：权益与内容可用性分开。失败不回滚拥有、不要求重新兑换；只重试准备。",
+    "file": "app/screens/A36S.svg",
+    "png": "app/screens/A36S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03S",
+        "target": "A03S"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "重新准备内容",
+        "action": "仅重试内容准备，不重新消费卡牌或撤回权益。"
+      },
+      {
+        "x": 680,
+        "y": 284,
+        "w": 140,
+        "h": 30,
+        "label": "先返回收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟内容已准备",
+        "target": "A04S"
+      },
+      {
+        "label": "模拟准备再次失败",
+        "target": "A36S"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03S",
+    "title": "收藏 · 拾光已拥有",
+    "note": "第二兑换目标完整状态：首批演示目录只画剑技与装饰，强化/附魔方向保留但未默认排入首版。",
+    "file": "app/screens/A03S.svg",
+    "png": "app/screens/A03S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前查看拾光。需核对拾光的连接、权限和安全准备；不能使用雾光开始本局。"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A04SU"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03SB",
+    "title": "收藏 · 拾光当前使用",
+    "note": "第二兑换目标完整状态：应用后收藏同步显示当前使用。",
+    "file": "app/screens/A03SB.svg",
+    "png": "app/screens/A03SB.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前查看拾光。需核对拾光的连接、权限和安全准备；不能使用雾光开始本局。"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A25S"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A32S",
+    "title": "卡牌 · 已兑换给拾光",
+    "note": "第二兑换目标完整状态：与A18未消费的新卡重复特性严格区分；若归属他人，只显示已兑换，不暴露对方身份。",
+    "file": "app/screens/A32S.svg",
+    "png": "app/screens/A32S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03S",
+        "target": "A03S"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "查看拾光的流光纹饰",
+        "target": "A04SU"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "读取另一张卡",
+        "target": "A13"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A18S",
+    "title": "卡牌 · 拾光重复特性",
+    "note": "第二兑换目标完整状态：另一张重复内容卡阻止消费的安全默认。不同于同一卡已消费；不发货币、不叠加、不吞卡。",
+    "file": "app/screens/A18S.svg",
+    "png": "app/screens/A18S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A14S",
+        "target": "A14S"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "换一把器灵",
+        "target": "A14S"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消兑换",
+        "target": "A03S"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A04SU",
+    "title": "拾光 · 应用前连接",
+    "note": "远程确认拥有不代表当前已连接，必须先连拾光才可改变其实体灯效。",
+    "file": "app/screens/A04SU.svg",
+    "png": "app/screens/A04SU.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A03S",
+        "target": "A03S"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "连接拾光",
+        "action": "原型不连接真实设备。选择实体尾号76B2并重新确认主人权限后，才可应用拾光的灯效。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟拾光已连接且权限有效",
+        "target": "A04S"
+      },
+      {
+        "label": "模拟拾光连接失败",
+        "action": "仍未连接拾光。权益保留，雾光不接受此次灯效应用。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A03SP",
+    "title": "收藏 · 拾光兑换待核对",
+    "note": "另一目标的待核对入口固定为原卡到拾光。",
+    "file": "app/screens/A03SP.svg",
+    "png": "app/screens/A03SP.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前查看拾光。需核对拾光的连接、权限和安全准备；不能使用雾光开始本局。"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 104,
+        "y": 128,
+        "w": 338,
+        "h": 234,
+        "label": "流光纹饰",
+        "target": "A16S"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 91,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 466,
+        "y": 240,
+        "w": 354,
+        "h": 91,
+        "label": "继续核对原兑换",
+        "target": "A16S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A01S",
+    "title": "器灵 · 查看拾光",
+    "note": "当前查看拾光，不用已连接雾光代替操作。此页无雾光私人记忆。",
+    "file": "app/screens/A01S.svg",
+    "png": "app/screens/A01S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01S"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "先连接拾光并核对安全准备，不能用雾光替代。"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03S"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      },
+      {
+        "x": 104,
+        "y": 24,
+        "w": 90,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 437,
+        "y": 121,
+        "w": 200,
+        "h": 43,
+        "label": "查看拾光连接",
+        "action": "当前查看拾光；手机原连接雾光，不自动更换。"
+      },
+      {
+        "x": 437,
+        "y": 318,
+        "w": 383,
+        "h": 48,
+        "label": "连接拾光",
+        "action": "连接实体尾号76B2并重新核对主人权限。原型不操作真实设备。"
+      },
+      {
+        "x": 437,
+        "y": 180,
+        "w": 383,
+        "h": 84,
+        "label": "连接拾光",
+        "action": "明确连接对象为拾光，不借用雾光的连接。"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A37K",
+    "title": "初见 · 横屏键盘安全区",
+    "width": 844,
+    "height": 390,
+    "orientation": "landscape",
+    "file": "app/screens/A37K.svg",
+    "png": "app/screens/A37K.png",
+    "prototypeOnly": true,
+    "navigationLocked": true,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "收起键盘，返回表单",
+        "target": "A37"
+      },
+      {
+        "x": 448,
+        "y": 157,
+        "w": 108,
+        "h": 48,
+        "label": "取消配置",
+        "target": "A10"
+      },
+      {
+        "x": 568,
+        "y": 157,
+        "w": 252,
+        "h": 48,
+        "label": "连接这个网络",
+        "target": "A38",
+        "action": "只演示连接中状态，不发送真实网络凭据。"
+      },
+      {
+        "x": 701,
+        "y": 352,
+        "w": 118,
+        "h": 29,
+        "label": "完成，收起键盘",
+        "target": "A37"
+      },
+      {
+        "x": 774,
+        "y": 77,
+        "w": 46,
+        "h": 48,
+        "label": "密码显隐",
+        "action": "只演示显隐控件，不收集或显示真实密码。"
+      }
+    ],
+    "events": [],
+    "note": "键盘占据y216至390；表单滚动后焦点字段、取消与连接操作仍在键盘上方。系统Back先收起键盘，再返回流程。"
+  },
+  {
+    "id": "A03U",
+    "title": "收藏 · 已成长但没有装饰",
+    "note": "首次节拍已解锁蓄势斩，但没有获得NFC装饰。",
+    "file": "app/screens/A03U.svg",
+    "png": "app/screens/A03U.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 663,
+        "y": 24,
+        "w": 157,
+        "h": 48,
+        "label": "读卡兑换",
+        "target": "A13"
+      },
+      {
+        "x": 184,
+        "y": 24,
+        "w": 104,
+        "h": 44,
+        "label": "切换器灵",
+        "target": "A33"
+      },
+      {
+        "x": 466,
+        "y": 128,
+        "w": 354,
+        "h": 66,
+        "label": "查看蓄势斩",
+        "action": "剑技已拥有，进入训练可使用；不在收藏页开启挥剑。"
+      },
+      {
+        "x": 104,
+        "y": 79,
+        "w": 338,
+        "h": 33,
+        "label": "筛选特性",
+        "action": "本原型展示全部/剑技/装饰筛选结构；筛选只改变本器灵内容列表，不切换目标。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A02N",
+    "title": "器灵 · 尚未保存共同经历",
+    "note": "剑技已获得；尚未获准写入任何共同经历，不使用删除措辞。",
+    "file": "app/screens/A02N.svg",
+    "png": "app/screens/A02N.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A01",
+        "target": "A01"
+      },
+      {
+        "x": 104,
+        "y": 146,
+        "w": 304,
+        "h": 148,
+        "label": "查看蓄势斩",
+        "action": "查看蓄势斩操作说明：举高蓄力，等就绪后向下挥斩释放。正式练习需进入训练准备。"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A19N",
+    "title": "记忆 · 尚未保存",
+    "note": "首用故事线不继承老玩家的三条示例记忆。",
+    "file": "app/screens/A19N.svg",
+    "png": "app/screens/A19N.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 104,
+        "y": 218,
+        "w": 304,
+        "h": 35,
+        "label": "筛选记忆",
+        "action": "只筛选当前器灵自己的已获准记忆，不跨器灵汇总。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A19S",
+    "title": "记忆 · 首次保存一条经历",
+    "note": "首用故事线不继承老玩家的三条示例记忆。",
+    "file": "app/screens/A19S.svg",
+    "png": "app/screens/A19S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "第一次完成节拍",
+        "target": "A20"
+      },
+      {
+        "x": 104,
+        "y": 218,
+        "w": 304,
+        "h": 35,
+        "label": "筛选记忆",
+        "action": "只筛选当前器灵自己的已获准记忆，不跨器灵汇总。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A27S",
+    "title": "记忆 · 唯一一条正在清理",
+    "note": "只有本次经历，停止使用后待实体清理；无其他称呼或偏好记忆。",
+    "file": "app/screens/A27S.svg",
+    "png": "app/screens/A27S.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "查看待清理进度",
+        "target": "A23"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A22P",
+    "title": "记忆 · 练习偏好删除确认",
+    "note": "删除目标固定为练习偏好原ID；不能误删共同经历、称呼或其他记忆。",
+    "file": "app/screens/A22P.svg",
+    "png": "app/screens/A22P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A21",
+        "target": "A21"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "删除这条记忆",
+        "action": "仅删除选中记忆，不删除剑技或卡牌。原型不删除真实数据；真实不可逆操作需明确确认。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "取消删除，返回详情",
+        "target": "A21"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟云端完成/设备待清理",
+        "target": "A23P"
+      },
+      {
+        "label": "模拟全范围完成",
+        "target": "A24P"
+      },
+      {
+        "label": "模拟未发起成功",
+        "action": "删除请求未提交，记忆仍保留；可重试或返回，不显示已忘记。"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A23P",
+    "title": "记忆 · 练习偏好删除待确认",
+    "note": "删除目标固定为练习偏好原ID；不能误删共同经历、称呼或其他记忆。",
+    "file": "app/screens/A23P.svg",
+    "png": "app/screens/A23P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A27P"
+      },
+      {
+        "x": 568,
+        "y": 318,
+        "w": 252,
+        "h": 48,
+        "label": "连接雾光并继续",
+        "action": "连接原器灵并继续核对原删除目标；不生成第二个删除操作。"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 108,
+        "h": 48,
+        "label": "返回记忆列表",
+        "target": "A27P"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟设备清理确认",
+        "target": "A24P"
+      },
+      {
+        "label": "模拟仍离线",
+        "target": "A23P"
+      }
+    ],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A24P",
+    "title": "记忆 · 练习偏好删除完成",
+    "note": "删除目标固定为练习偏好原ID；不能误删共同经历、称呼或其他记忆。",
+    "file": "app/screens/A24P.svg",
+    "png": "app/screens/A24P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "replace",
+        "target": "A26P"
+      },
+      {
+        "x": 448,
+        "y": 318,
+        "w": 372,
+        "h": 48,
+        "label": "回到记忆列表",
+        "target": "A26P"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "action": "当前流程尚未完成。请先完成、取消或返回当前步骤，再进入主导航；不会跳到已登录或已解锁的示例。",
+        "disabled": true
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": true
+  },
+  {
+    "id": "A26P",
+    "title": "记忆 · 偏好已删除",
+    "note": "只处理练习偏好原ID；共同经历和称呼保留。",
+    "file": "app/screens/A26P.svg",
+    "png": "app/screens/A26P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "第一次完成节拍",
+        "target": "A20"
+      },
+      {
+        "x": 448,
+        "y": 177,
+        "w": 372,
+        "h": 81,
+        "label": "查看称呼偏好",
+        "action": "只读查看称呼偏好“阿澄”的内容和来源；删除必须确认该条ID和范围，不作用于其他记忆。不支持修改。"
+      },
+      {
+        "x": 104,
+        "y": 218,
+        "w": 304,
+        "h": 35,
+        "label": "筛选记忆",
+        "action": "只筛选当前器灵自己的已获准记忆，不跨器灵汇总。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  },
+  {
+    "id": "A27P",
+    "title": "记忆 · 偏好待清理",
+    "note": "只处理练习偏好原ID；共同经历和称呼保留。",
+    "file": "app/screens/A27P.svg",
+    "png": "app/screens/A27P.png",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 96,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "label": "返回",
+        "behavior": "back",
+        "fallback_target": "A06",
+        "target": "A06"
+      },
+      {
+        "x": 718,
+        "y": 16,
+        "w": 108,
+        "h": 44,
+        "label": "隐私设置",
+        "target": "A06"
+      },
+      {
+        "x": 448,
+        "y": 84,
+        "w": 372,
+        "h": 81,
+        "label": "第一次完成节拍",
+        "target": "A20"
+      },
+      {
+        "x": 448,
+        "y": 177,
+        "w": 372,
+        "h": 81,
+        "label": "查看称呼偏好",
+        "action": "只读查看称呼偏好“阿澄”的内容和来源；删除必须确认该条ID和范围，不作用于其他记忆。不支持修改。"
+      },
+      {
+        "x": 448,
+        "y": 270,
+        "w": 372,
+        "h": 81,
+        "label": "查看偏好清理进度",
+        "target": "A23P"
+      },
+      {
+        "x": 104,
+        "y": 218,
+        "w": 304,
+        "h": 35,
+        "label": "筛选记忆",
+        "action": "只筛选当前器灵自己的已获准记忆，不跨器灵汇总。"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "label": "器灵",
+        "target": "A01"
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "label": "训练",
+        "target": "G01"
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "label": "收藏",
+        "target": "A03"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "label": "我",
+        "target": "A05"
+      }
+    ],
+    "events": [],
+    "prototypeOnly": true,
+    "notSimulated": [
+      "真实登录或协议接受",
+      "系统授权、蓝牙及硬件通信",
+      "真实NFC消费、数据写入与删除",
+      "真实网络或验证码输入"
+    ],
+    "safeDefaultStatus": "design_proposal_not_release_approval",
+    "orientation": "landscape",
+    "navigationLocked": false
+  }
+]

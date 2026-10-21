@@ -1,0 +1,45 @@
+ERC report (2026-10-17T22:05:20+0800, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /MCU 主控与下载/
+
+***** Sheet /I2C 总线与上拉/
+
+***** Sheet /IMU 惯性传感器/
+
+***** Sheet /Touch 触摸控制器/
+
+***** Sheet /Electrodes 触摸电极接口/
+
+***** Sheet /Audio 数字功放/
+
+***** Sheet /Microphone 单麦与供电/
+
+***** Sheet /PDM Clock 单麦时钟隔离/
+
+***** Sheet /Expansion 扩展与状态/
+
+***** Sheet /Blade 独立剑身接口/
+
+***** Sheet /Display 非触摸显示屏/
+
+***** Sheet /USB 接口与保护/
+
+***** Sheet /Charger 单节电池充电/
+
+***** Sheet /Power 电源选择与总开关/
+
+***** Sheet /Buck 3.3V 降压/
+
+***** Sheet /Boost 5V 升压/
+
+***** Sheet /Battery 电压测量/
+
+***** Sheet /Motor 振动马达/
+
+***** Sheet /Test 测试点/
+
+***** Sheet /ERC 电气检查前提/
+
+ ** ERC messages: 0  Errors 0  Warnings 0

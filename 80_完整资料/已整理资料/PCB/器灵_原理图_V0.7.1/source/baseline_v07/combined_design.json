@@ -1,0 +1,4018 @@
+{
+  "components": [
+    {
+      "ref": "U1",
+      "value": "ESP32-S3-WROOM-1-N16R8",
+      "section": "MCU",
+      "pins": {
+        "1": "GND",
+        "2": "+3V3",
+        "3": "MCU_EN",
+        "40": "GND",
+        "41": "GND",
+        "4": "PDM_DATA_L",
+        "5": "PDM_CLK_MCU",
+        "6": "HAPTIC_ENABLE",
+        "7": "I2S_BCLK",
+        "8": "I2S_LRCLK",
+        "9": "I2S_DOUT",
+        "10": "AMP_ENABLE",
+        "11": null,
+        "12": "BOOST_EN",
+        "13": "USB_DM",
+        "14": "USB_DP",
+        "15": null,
+        "16": null,
+        "17": "LCD_DC_MCU",
+        "18": "LCD_CS_MCU",
+        "19": "LCD_MOSI_MCU",
+        "20": "LCD_SCK_MCU",
+        "21": "LCD_RST_N",
+        "22": "KEY_N",
+        "23": "BLADE_DATA_MCU",
+        "24": "EXP_IRQ_N",
+        "25": "LCD_BL_PWM",
+        "26": null,
+        "27": "BOOT_N",
+        "28": null,
+        "29": null,
+        "30": null,
+        "31": "IMU_INT1",
+        "32": "USB_PRESENT_N",
+        "33": "TOUCH_IRQ_N",
+        "34": "I2C_SCL",
+        "35": "I2C_SDA",
+        "36": "UART_RX",
+        "37": "UART_TX",
+        "38": "BLADE_ID_ADC",
+        "39": "BAT_ADC"
+      },
+      "pin_names": {
+        "1": "GND",
+        "2": "3V3",
+        "3": "EN",
+        "40": "GND",
+        "41": "EPAD",
+        "4": "GPIO4",
+        "5": "GPIO5",
+        "6": "GPIO6",
+        "7": "GPIO7",
+        "8": "GPIO15",
+        "9": "GPIO16",
+        "10": "GPIO17",
+        "11": "GPIO18",
+        "12": "GPIO8",
+        "13": "GPIO19",
+        "14": "GPIO20",
+        "15": "GPIO3",
+        "16": "GPIO46",
+        "17": "GPIO9",
+        "18": "GPIO10",
+        "19": "GPIO11",
+        "20": "GPIO12",
+        "21": "GPIO13",
+        "22": "GPIO14",
+        "23": "GPIO21",
+        "24": "GPIO47",
+        "25": "GPIO48",
+        "26": "GPIO45",
+        "27": "GPIO0",
+        "28": "GPIO35",
+        "29": "GPIO36",
+        "30": "GPIO37",
+        "31": "GPIO38",
+        "32": "GPIO39",
+        "33": "GPIO40",
+        "34": "GPIO41",
+        "35": "GPIO42",
+        "36": "GPIO44",
+        "37": "GPIO43",
+        "38": "GPIO2",
+        "39": "GPIO1"
+      },
+      "pin_types": {
+        "1": "W",
+        "2": "W",
+        "3": "I",
+        "40": "W",
+        "41": "W",
+        "4": "B",
+        "5": "B",
+        "6": "B",
+        "7": "B",
+        "8": "B",
+        "9": "B",
+        "10": "B",
+        "11": "B",
+        "12": "B",
+        "13": "B",
+        "14": "B",
+        "15": "B",
+        "16": "B",
+        "17": "B",
+        "18": "B",
+        "19": "B",
+        "20": "B",
+        "21": "B",
+        "22": "B",
+        "23": "B",
+        "24": "B",
+        "25": "B",
+        "26": "B",
+        "27": "B",
+        "28": "B",
+        "29": "B",
+        "30": "B",
+        "31": "B",
+        "32": "B",
+        "33": "B",
+        "34": "B",
+        "35": "B",
+        "36": "B",
+        "37": "B",
+        "38": "B",
+        "39": "B"
+      },
+      "footprint": "RF_Module:ESP32-S3-WROOM-1",
+      "lcsc": "C2913202",
+      "status": "datasheet_pin_checked",
+      "notes": "V0.7保留单麦。GPIO6/模组6脚经R135控制HAPTIC_ENABLE，R136默认下拉。GPIO18/模组11脚未使用NC，不再低侧PWM。触觉通过共享I2C地址0x5A及有限时长效果控制。",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C1",
+      "value": "100nF",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C2",
+      "value": "100nF",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C3",
+      "value": "1uF",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C4",
+      "value": "10uF",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R1",
+      "value": "10k",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "MCU_EN"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C5",
+      "value": "1uF",
+      "section": "MCU",
+      "pins": {
+        "1": "MCU_EN",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R2",
+      "value": "10k",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "BOOT_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R3",
+      "value": "10k",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "KEY_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C6",
+      "value": "100nF",
+      "section": "MCU",
+      "pins": {
+        "1": "KEY_N",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "SW1",
+      "value": "RESET",
+      "section": "MCU",
+      "pins": {
+        "1": "MCU_EN",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "mechanical_part_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "SW2",
+      "value": "BOOT",
+      "section": "MCU",
+      "pins": {
+        "1": "BOOT_N",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "mechanical_part_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "SW3",
+      "value": "USER_WAKE",
+      "section": "MCU",
+      "pins": {
+        "1": "KEY_N",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "mechanical_part_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "J1",
+      "value": "UART_DEBUG_3V3_LOGIC",
+      "section": "MCU",
+      "pins": {
+        "1": "+3V3",
+        "2": "UART_TX",
+        "3": "UART_RX",
+        "4": "MCU_EN",
+        "5": "BOOT_N",
+        "6": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P",
+        "4": "P",
+        "5": "P",
+        "6": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "logical_interface_connector_tbd",
+      "notes": "3V3 is target voltage reference. Do not power from debugger simultaneously. No automatic DTR/RTS circuit.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "R4",
+      "value": "4.7k",
+      "section": "I2C",
+      "pins": {
+        "1": "+3V3",
+        "2": "I2C_SDA"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R5",
+      "value": "4.7k",
+      "section": "I2C",
+      "pins": {
+        "1": "+3V3",
+        "2": "I2C_SCL"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "U2",
+      "value": "BMI270",
+      "section": "IMU",
+      "pins": {
+        "1": "+3V3",
+        "2": null,
+        "3": null,
+        "4": "IMU_INT1",
+        "5": "+3V3",
+        "6": "GND",
+        "7": "GND",
+        "8": "+3V3",
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": "+3V3",
+        "13": "I2C_SCL",
+        "14": "I2C_SDA"
+      },
+      "pin_names": {
+        "1": "SDO_SA0",
+        "2": "ASDx",
+        "3": "ASCx",
+        "4": "INT1",
+        "5": "VDDIO",
+        "6": "GNDIO",
+        "7": "GND",
+        "8": "VDD",
+        "9": "INT2",
+        "10": "OCSB",
+        "11": "OSDO",
+        "12": "CSB",
+        "13": "SCx",
+        "14": "SDx"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "B",
+        "3": "B",
+        "4": "O",
+        "5": "W",
+        "6": "W",
+        "7": "W",
+        "8": "W",
+        "9": "O",
+        "10": "I",
+        "11": "O",
+        "12": "I",
+        "13": "I",
+        "14": "B"
+      },
+      "footprint": "",
+      "lcsc": "C2836813",
+      "status": "datasheet_pin_checked",
+      "notes": "I2C 0x69, CSB tied high; unused AUX pins DNC never GND. 100nF at each supply pin. Firmware must upload Bosch config blob; boot is not plug-and-play.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "C7",
+      "value": "100nF",
+      "section": "IMU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C8",
+      "value": "100nF",
+      "section": "IMU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C9",
+      "value": "1uF",
+      "section": "IMU",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "U3",
+      "value": "CAP1296-1-AIA-TR",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS1",
+        "2": "TOUCH_IRQ_N",
+        "3": "I2C_SDA",
+        "4": "I2C_SCL",
+        "5": "+3V3",
+        "6": "TOUCH_CS6",
+        "7": "TOUCH_CS5",
+        "8": "TOUCH_CS4",
+        "9": "TOUCH_CS3",
+        "10": "TOUCH_CS2",
+        "11": "GND"
+      },
+      "pin_names": {
+        "1": "CS1",
+        "2": "ALERT#",
+        "3": "SMDATA",
+        "4": "SMCLK",
+        "5": "VDD",
+        "6": "CS6",
+        "7": "CS5",
+        "8": "CS4",
+        "9": "CS3/SG",
+        "10": "CS2",
+        "11": "GND_EP"
+      },
+      "pin_types": {
+        "1": "B",
+        "2": "C",
+        "3": "B",
+        "4": "I",
+        "5": "W",
+        "6": "B",
+        "7": "B",
+        "8": "B",
+        "9": "B",
+        "10": "B",
+        "11": "W"
+      },
+      "footprint": "Spirit_Touch:CAP1296_DFN-10-1EP_3x3mm_P0.5mm_EP1.6x2.3mm",
+      "lcsc": "C2652051",
+      "status": "datasheet_pin_package_checked_engineering_candidate",
+      "notes": "CAP1296-1-AIA-TR; 3.3V supply; fixed 7-bit I2C 0x28. DFN10 exposed ground pad is numbered 11 in this custom symbol and footprint. All six CS inputs wired through 1k resistors to ELE0..ELE5. CS3/SG used as CS3, no guard. R6=10k IRQ pull-up; C11=100nF/C12=1uF supply bypass. Enable only physically fitted electrodes in firmware; disable and ground unused CS inputs per datasheet. Tune thresholds and filtering on actual enclosure. Measure I2C rise time with final bus capacitance and existing pull-ups. GPIO40 IRQ is preserved and is not RTC deep-sleep wake. Firmware critical: clear 0x2A MULT_BLK_EN bit7 for simultaneous grip/rim touches; keep MTP_EN disabled and 0x20 MAX_DUR_EN bit3=0 for long grip. Any unused CS channel must be disabled and grounded, not left floating. Engineering candidate, not tested hardware.",
+      "footprint_status": "custom_datasheet_land_candidate_not_board_validated",
+      "dnp": false,
+      "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/00001569B.pdf"
+    },
+    {
+      "ref": "R6",
+      "value": "10k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "+3V3",
+        "2": "TOUCH_IRQ_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C11",
+      "value": "100nF",
+      "section": "TOUCH",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C12",
+      "value": "1uF",
+      "section": "TOUCH",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J2",
+      "value": "TOUCH_6CH_GND_LOGICAL",
+      "section": "TOUCH",
+      "pins": {
+        "1": "ELE0",
+        "2": "ELE1",
+        "3": "ELE2",
+        "4": "ELE3",
+        "5": "ELE4",
+        "6": "ELE5",
+        "7": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P",
+        "4": "P",
+        "5": "P",
+        "6": "P",
+        "7": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "new_logical_pin_order_connector_tbd",
+      "notes": "Seven-pin logical interface only: 1..6=ELE0..ELE5; 7=GND reference. Physical connector, pitch, mating orientation, shield termination and exact physical numbering remain TBD. Not compatible with previous 12-pin logical order. No physical connector footprint or catalog MPN assigned.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "U4",
+      "value": "MAX98357AETE+T",
+      "section": "AUDIO",
+      "pins": {
+        "1": "I2S_DOUT",
+        "2": null,
+        "3": "GND",
+        "4": "AMP_SD_MODE",
+        "5": null,
+        "6": null,
+        "7": "+5V_SYS",
+        "8": "+5V_SYS",
+        "9": "SPK_P",
+        "10": "SPK_N",
+        "11": "GND",
+        "12": null,
+        "13": null,
+        "14": "I2S_LRCLK",
+        "15": "GND",
+        "16": "I2S_BCLK",
+        "17": "GND"
+      },
+      "pin_names": {
+        "1": "DIN",
+        "2": "GAIN_SLOT",
+        "3": "GND",
+        "4": "SD_MODE",
+        "5": "NC",
+        "6": "NC",
+        "7": "VDD",
+        "8": "VDD",
+        "9": "OUTP",
+        "10": "OUTN",
+        "11": "GND",
+        "12": "NC",
+        "13": "NC",
+        "14": "LRCLK",
+        "15": "GND",
+        "16": "BCLK",
+        "17": "EP"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "I",
+        "3": "W",
+        "4": "I",
+        "5": "N",
+        "6": "N",
+        "7": "W",
+        "8": "W",
+        "9": "O",
+        "10": "O",
+        "11": "W",
+        "12": "N",
+        "13": "N",
+        "14": "I",
+        "15": "W",
+        "16": "I",
+        "17": "W"
+      },
+      "footprint": "",
+      "lcsc": "C910544",
+      "status": "datasheet_pin_checked",
+      "notes": "TQFN16+EP (logical EP17 must match chosen footprint). Floating GAIN gives9dB. SD_MODE driven through0R from AMP_ENABLE,10k pulldown; high selects LEFT channel, low shutdown. Firmware sends mono to left slot (or duplicate both); right-only audio is silent. SD_MODE selects channel/shutdown, NOT gain; gain is set by GAIN_SLOT. This is a deliberate default-off modification of old bias network. Speaker BTL neither wire GND. Keep clocks/data/enable LOW before +5V_SYS rises and before it falls; firmware sequencing validation required.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "R8",
+      "value": "0R",
+      "section": "AUDIO",
+      "pins": {
+        "1": "AMP_ENABLE",
+        "2": "AMP_SD_MODE"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R9",
+      "value": "10k",
+      "section": "AUDIO",
+      "pins": {
+        "1": "AMP_SD_MODE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R10",
+      "value": "100k",
+      "section": "AUDIO",
+      "pins": {
+        "1": "AMP_ENABLE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C13",
+      "value": "100nF",
+      "section": "AUDIO",
+      "pins": {
+        "1": "+5V_SYS",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C14",
+      "value": "10uF 10V",
+      "section": "AUDIO",
+      "pins": {
+        "1": "+5V_SYS",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J3",
+      "value": "SPEAKER_BTL",
+      "section": "AUDIO",
+      "pins": {
+        "1": "SPK_P",
+        "2": "SPK_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "connector_and_speaker_load_tbd",
+      "notes": "Two-wire BTL harness connector only. LS1 is the one offboard 8-ohm 2W speaker. Neither wire is GND. Connector and cable assembly remain TBD.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "U5",
+      "value": "LMD3526T261-OA5",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "PDM_CLK_MIC",
+        "3": "PDM_DATA_L_MIC",
+        "4": "GND",
+        "5": "GND",
+        "6": "GND"
+      },
+      "pin_names": {
+        "1": "VDD",
+        "2": "CLK",
+        "3": "DATA",
+        "4": "GND",
+        "5": "LR",
+        "6": "GND"
+      },
+      "pin_types": {
+        "1": "W",
+        "2": "I",
+        "3": "T",
+        "4": "W",
+        "5": "I",
+        "6": "W"
+      },
+      "footprint": "",
+      "lcsc": "C49230436",
+      "status": "datasheet_pin_checked",
+      "notes": "PDM not I2S. Top acoustic port; custom6pad land pattern must follow manufacturer drawing.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "C15",
+      "value": "100nF",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C16",
+      "value": "1uF",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "Q1",
+      "value": "AO3401A",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_GATE_N",
+        "2": "MIC_FEED",
+        "3": "MIC_3V3"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P"
+      },
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "lcsc": "C15127",
+      "status": "datasheet_pin_checked",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R11",
+      "value": "100k",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_FEED",
+        "2": "MIC_GATE_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R12",
+      "value": "100",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_ENABLE_N",
+        "2": "MIC_GATE_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R13",
+      "value": "10k",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Bleed switched rail after off; not a tested privacy timing guarantee.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "JP1",
+      "value": "EVT_MIC_POWER_ISOLATION",
+      "section": "MIC",
+      "pins": {
+        "1": "+3V3",
+        "2": "MIC_FEED"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "test_jumper_lcsc_tbd",
+      "notes": "EVT bench isolation jumper only, not an additional product user switch. Remove for independent test power cut. Single user button firmware fault response remains to validate.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "U10",
+      "value": "SN74LVC1T45DCKR",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND",
+        "3": "PDM_DATA_L_MIC",
+        "4": "PDM_DATA_L",
+        "5": "MIC_3V3",
+        "6": "+3V3"
+      },
+      "pin_names": {
+        "1": "VCCA",
+        "2": "GND",
+        "3": "A",
+        "4": "B",
+        "5": "DIR",
+        "6": "VCCB"
+      },
+      "pin_types": {
+        "1": "W",
+        "2": "W",
+        "3": "B",
+        "4": "B",
+        "5": "I",
+        "6": "W"
+      },
+      "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+      "lcsc": "C9382",
+      "status": "datasheet_pin_checked",
+      "notes": "PDM data direction MIC to MCU. VCCA=MIC_3V3; Ioff isolation prevents MCU internal pulls from back-powering powered-off microphone.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C19",
+      "value": "100nF",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C20",
+      "value": "100nF",
+      "section": "MIC",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R14",
+      "value": "100k",
+      "section": "MIC",
+      "pins": {
+        "1": "PDM_DATA_L_MIC",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R15",
+      "value": "100k",
+      "section": "MIC",
+      "pins": {
+        "1": "PDM_DATA_L",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "U7",
+      "value": "TCA9534PWR",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "GND",
+        "2": "GND",
+        "3": "GND",
+        "4": "DOCK_DET_N",
+        "5": "CHG_N",
+        "6": "PGOOD_N",
+        "7": "MIC_ENABLE_N",
+        "8": "GND",
+        "9": "NFC_RESET_N",
+        "10": "NFC_IRQ_N",
+        "11": "AUX_KEY_N",
+        "12": "EXP_SPARE",
+        "13": "EXP_IRQ_N",
+        "14": "I2C_SCL",
+        "15": "I2C_SDA",
+        "16": "+3V3"
+      },
+      "pin_names": {
+        "1": "A0",
+        "2": "A1",
+        "3": "A2",
+        "4": "P0",
+        "5": "P1",
+        "6": "P2",
+        "7": "P3",
+        "8": "GND",
+        "9": "P4",
+        "10": "P5",
+        "11": "P6",
+        "12": "P7",
+        "13": "INT_N",
+        "14": "SCL",
+        "15": "SDA",
+        "16": "VCC"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "I",
+        "3": "I",
+        "4": "B",
+        "5": "B",
+        "6": "B",
+        "7": "B",
+        "8": "W",
+        "9": "B",
+        "10": "B",
+        "11": "B",
+        "12": "B",
+        "13": "C",
+        "14": "I",
+        "15": "B",
+        "16": "W"
+      },
+      "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+      "lcsc": "C783615",
+      "status": "datasheet_pin_checked",
+      "notes": "I2C0x20, P0..P7 all inputs at POR. Preload output latch before direction. MIC active-low default high; external pullup. Faulted I2C cannot guarantee changed output; EVT jumper is bench isolation only, not a product interaction.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C23",
+      "value": "100nF",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R18",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "EXP_IRQ_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R19",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "DOCK_DET_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R20",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "NFC_IRQ_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R21",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "NFC_RESET_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R22",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "AUX_KEY_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R23",
+      "value": "10k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "MIC_ENABLE_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R24",
+      "value": "100k",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "EXP_SPARE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J4",
+      "value": "DOCK_DRY_CONTACT",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "DOCK_DET_N",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "logical_interface_connector_tbd",
+      "notes": "Passive contact closes only when physically seated; distinct from USB presence/charge. Actual dock sensor/contact and debounce not yet validated.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "J5",
+      "value": "NFC_I2C_3V3_MODULE_LOGICAL",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "I2C_SCL",
+        "4": "I2C_SDA",
+        "5": "NFC_IRQ_N",
+        "6": "NFC_RESET_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P",
+        "4": "P",
+        "5": "P",
+        "6": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "module_selection_blocked",
+      "notes": "Logical expansion only; not a selected NFC chip/module pinout, no antenna. Module must operate from target3V3 with matching I2C/IRQ/reset/address. Do not connect separately powered or5V module without isolation review. Full NFC capability remains blocked until module/antenna selected and tested.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "J6",
+      "value": "AUX_KEY",
+      "section": "EXPANSION",
+      "pins": {
+        "1": "AUX_KEY_N",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "logical_interface_connector_tbd",
+      "notes": "",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "U8",
+      "value": "SN74LVC1T45DCKR",
+      "section": "BLADE",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "BLADE_DATA_MCU",
+        "4": "BLADE_DATA_DRV",
+        "5": "+3V3",
+        "6": "+5V_BLADE"
+      },
+      "pin_names": {
+        "1": "VCCA",
+        "2": "GND",
+        "3": "A",
+        "4": "B",
+        "5": "DIR",
+        "6": "VCCB"
+      },
+      "pin_types": {
+        "1": "W",
+        "2": "W",
+        "3": "B",
+        "4": "B",
+        "5": "I",
+        "6": "W"
+      },
+      "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+      "lcsc": "C9382",
+      "status": "datasheet_pin_checked",
+      "notes": "DIR high A-to-B. Ioff and VCC-isolation when either supply at GND. Not an OE or power load switch. Never back-power B supply through external signal.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C24",
+      "value": "100nF",
+      "section": "BLADE",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C25",
+      "value": "100nF",
+      "section": "BLADE",
+      "pins": {
+        "1": "+5V_BLADE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R25",
+      "value": "100k",
+      "section": "BLADE",
+      "pins": {
+        "1": "BLADE_DATA_MCU",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "U9",
+      "value": "SN74LVC1T45DCKR",
+      "section": "MIC",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "PDM_CLK_MCU",
+        "4": "PDM_CLK_MIC",
+        "5": "+3V3",
+        "6": "MIC_3V3"
+      },
+      "pin_names": {
+        "1": "VCCA",
+        "2": "GND",
+        "3": "A",
+        "4": "B",
+        "5": "DIR",
+        "6": "VCCB"
+      },
+      "pin_types": {
+        "1": "W",
+        "2": "W",
+        "3": "B",
+        "4": "B",
+        "5": "I",
+        "6": "W"
+      },
+      "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+      "lcsc": "C9382",
+      "status": "datasheet_pin_checked",
+      "notes": "DIR high A-to-B. Ioff and VCC-isolation when either supply at GND. Not an OE or power load switch. Never back-power B supply through external signal.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C26",
+      "value": "100nF",
+      "section": "MIC",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C27",
+      "value": "100nF",
+      "section": "MIC",
+      "pins": {
+        "1": "MIC_3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R26",
+      "value": "100k",
+      "section": "MIC",
+      "pins": {
+        "1": "PDM_CLK_MCU",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R27",
+      "value": "100",
+      "section": "BLADE",
+      "pins": {
+        "1": "BLADE_DATA_DRV",
+        "2": "BLADE_DATA"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R28",
+      "value": "100k",
+      "section": "BLADE",
+      "pins": {
+        "1": "BLADE_DATA",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R29",
+      "value": "10k",
+      "section": "BLADE",
+      "pins": {
+        "1": "+5V_BLADE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Ensure unplugged level-shifter VCCB discharges; external supply load budget required.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J7",
+      "value": "BLADE_EXTERNAL_5V_LOGICAL",
+      "section": "BLADE",
+      "pins": {
+        "1": "+5V_BLADE",
+        "2": "GND",
+        "3": "BLADE_DATA",
+        "4": "BLADE_ID_RAW"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P",
+        "4": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "mechanical_and_current_rating_tbd",
+      "notes": "+5V_BLADE externally current-limited supply, NEVER bridged to +5V_SYS. Proposed one-wire addressable5V blade only; protocol/load/connector not confirmed. ID pin passive resistor-to-GND only, not powered signal.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    },
+    {
+      "ref": "R30",
+      "value": "10k 1%",
+      "section": "BLADE",
+      "pins": {
+        "1": "+3V3",
+        "2": "BLADE_ID_RAW"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R31",
+      "value": "1k",
+      "section": "BLADE",
+      "pins": {
+        "1": "BLADE_ID_RAW",
+        "2": "BLADE_ID_ADC"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C28",
+      "value": "100nF",
+      "section": "BLADE",
+      "pins": {
+        "1": "BLADE_ID_ADC",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R32",
+      "value": "33R",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_DC_MCU",
+        "2": "LCD_DC"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Source damping proposal; verify edge quality on actual FPC.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R33",
+      "value": "33R",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_CS_MCU",
+        "2": "LCD_CS"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Source damping proposal; verify edge quality on actual FPC.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R34",
+      "value": "33R",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_MOSI_MCU",
+        "2": "LCD_MOSI"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Source damping proposal; verify edge quality on actual FPC.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R35",
+      "value": "33R",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_SCK_MCU",
+        "2": "LCD_SCK"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "Source damping proposal; verify edge quality on actual FPC.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R36",
+      "value": "10k",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "+3V3",
+        "2": "LCD_RST_N"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C29",
+      "value": "100nF",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C30",
+      "value": "10uF",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J8",
+      "value": "XF2M-1015-1A",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_LEDA",
+        "2": "+3V3",
+        "3": "LCD_CS",
+        "4": "LCD_RST_N",
+        "5": "LCD_SCK",
+        "6": "LCD_MOSI",
+        "7": "LCD_DC",
+        "8": null,
+        "9": "LCD_LEDK",
+        "10": "GND"
+      },
+      "pin_names": {
+        "1": "LEDA",
+        "2": "VCI",
+        "3": "CS",
+        "4": "RESX",
+        "5": "SCL",
+        "6": "SDA",
+        "7": "D/CX",
+        "8": "TE",
+        "9": "LEDK",
+        "10": "GND"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P",
+        "4": "P",
+        "5": "P",
+        "6": "P",
+        "7": "P",
+        "8": "P",
+        "9": "P",
+        "10": "P"
+      },
+      "footprint": "Spirit_Display:Omron_XF2M-1015-1A_1x10_P0.5mm_DualContact_Candidate",
+      "lcsc": "C271735",
+      "status": "manufacturer_connector_candidate",
+      "notes": "Omron10pin0.5mm dual-contact FPC connector. Logical pin1..10 match TFT-H013A6QQIGC5N10 panel numbering; pin8 TE unused/NC. Cable contact side per panel front/display side, pin10 left/pin1 right in panel front view tail down. Dual-contact does NOT allow reversing numbered pin order. Tail0.30+/-0.05mm matches thickness; panelwidth5.5+/-0.1mm wider tolerance than connector5.5+/-0.05 recommendation, require sample fit/continuity. No old12pin or Waveshare8wire compatibility.",
+      "footprint_status": "datasheet_geometry_candidate_pending_sample",
+      "dnp": false
+    },
+    {
+      "ref": "R37",
+      "value": "100",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_BL_PWM",
+        "2": "LCD_BL_GATE"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "100ohm series MOSFET gate resistor; GPIO48 drives Q2 low-side backlight PWM. R38 pulldown defaults backlight off.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "J101",
+      "value": "TYPE-C-31-M-12",
+      "pins": {
+        "A1": "GND",
+        "A4": "USB_VBUS",
+        "A5": "USB_CC1",
+        "A6": "USB_DP_CONN",
+        "A7": "USB_DM_CONN",
+        "A8": null,
+        "A9": "USB_VBUS",
+        "A12": "GND",
+        "B1": "GND",
+        "B4": "USB_VBUS",
+        "B5": "USB_CC2",
+        "B6": "USB_DP_CONN",
+        "B7": "USB_DM_CONN",
+        "B8": null,
+        "B9": "USB_VBUS",
+        "B12": "GND",
+        "S1": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "",
+      "lcsc": "C165948",
+      "notes": "Manufacturer 16 electrical contacts; shield pad numbering/physical footprint must be mapped from manufacturer drawing before PCB. A8/B8 NC. USB2 only.",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "U101",
+      "value": "USBLC6-2SC6",
+      "pins": {
+        "1": "USB_DP_CONN",
+        "2": "GND",
+        "3": "USB_DM_CONN",
+        "4": "USB_DM_CONN",
+        "5": "USB_VBUS",
+        "6": "USB_DP_CONN"
+      },
+      "pin_names": {
+        "1": "IO1",
+        "2": "GND",
+        "3": "IO2",
+        "4": "IO2",
+        "5": "VBUS",
+        "6": "IO1"
+      },
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+      "lcsc": "C7519",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R101",
+      "value": "5.1k 1%",
+      "pins": {
+        "1": "USB_CC1",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R102",
+      "value": "5.1k 1%",
+      "pins": {
+        "1": "USB_CC2",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R103",
+      "value": "22R",
+      "pins": {
+        "1": "USB_DP_CONN",
+        "2": "USB_DP"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R104",
+      "value": "22R",
+      "pins": {
+        "1": "USB_DM_CONN",
+        "2": "USB_DM"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "F101",
+      "value": "PPTC 0.5A hold / >=6V",
+      "pins": {
+        "1": "USB_VBUS",
+        "2": "USB_5V_FUSED"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Fuse:Fuse_1206_3216Metric",
+      "notes": "BOM specification only: select exact fuse and validate trip/time/temperature before PCB release. Not USB current negotiation.",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false
+    },
+    {
+      "ref": "C101",
+      "value": "1uF 10V X7R",
+      "pins": {
+        "1": "USB_5V_FUSED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C102",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "USB_5V_FUSED",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "Q104",
+      "value": "AO3400A",
+      "pins": {
+        "1": "USB_DETECT_GATE",
+        "2": "GND",
+        "3": "USB_PRESENT_N"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "P",
+        "3": "P"
+      },
+      "section": "USB",
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "lcsc": "C20917",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R105",
+      "value": "100k",
+      "pins": {
+        "1": "USB_VBUS",
+        "2": "USB_DETECT_GATE"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R106",
+      "value": "100k",
+      "pins": {
+        "1": "USB_DETECT_GATE",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R107",
+      "value": "10k",
+      "pins": {
+        "1": "+3V3",
+        "2": "USB_PRESENT_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "USB",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "U102",
+      "value": "BQ24075RGTR",
+      "pins": {
+        "1": "BAT_NTC",
+        "2": "VBAT_PROT",
+        "3": "VBAT_PROT",
+        "4": "CHG_CE_N",
+        "5": "CHG_EN2",
+        "6": "GND",
+        "7": "PGOOD_N",
+        "8": "GND",
+        "9": "CHG_N",
+        "10": "VSYS_RAW",
+        "11": "VSYS_RAW",
+        "12": "CHG_ILIM",
+        "13": "USB_5V_FUSED",
+        "14": "CHG_TMR",
+        "15": "CHG_SYSOFF",
+        "16": "CHG_ISET",
+        "17": "GND"
+      },
+      "pin_names": {
+        "1": "TS",
+        "2": "BAT",
+        "3": "BAT",
+        "4": "CE_N",
+        "5": "EN2",
+        "6": "EN1",
+        "7": "PGOOD_N",
+        "8": "VSS",
+        "9": "CHG_N",
+        "10": "OUT",
+        "11": "OUT",
+        "12": "ILIM",
+        "13": "IN",
+        "14": "TMR",
+        "15": "SYSOFF",
+        "16": "ISET",
+        "17": "EP"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "W",
+        "3": "P",
+        "4": "I",
+        "5": "I",
+        "6": "I",
+        "7": "C",
+        "8": "W",
+        "9": "C",
+        "10": "w",
+        "11": "P",
+        "12": "I",
+        "13": "W",
+        "14": "I",
+        "15": "I",
+        "16": "P",
+        "17": "W"
+      },
+      "section": "Charger",
+      "footprint": "",
+      "lcsc": "C15464",
+      "notes": "BQ24075 non-T RGT0016C. EP land actual dimension must verify TI mechanical drawing; not generic same-pin QFN replacement.",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R108",
+      "value": "10k",
+      "pins": {
+        "1": "VSYS_RAW",
+        "2": "CHG_CE_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "J102",
+      "value": "CHARGE_ENABLE normally OPEN",
+      "pins": {
+        "1": "CHG_CE_N",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",
+      "notes": "Fit shunt only after protected battery, real NTC and charger current verified; default charge disabled.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R109",
+      "value": "100k",
+      "pins": {
+        "1": "CHG_EN2",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "J103",
+      "value": "ADAPTER_MODE normally OPEN",
+      "pins": {
+        "1": "USB_5V_FUSED",
+        "2": "CHG_EN2"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",
+      "notes": "Open USB100. Closed resistor limit ~0.42A; only with verified >=500mA source authorization. No automatic Type-C Rp detection.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R110",
+      "value": "3.65k 1%",
+      "pins": {
+        "1": "CHG_ILIM",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R111",
+      "value": "3.57k 1%",
+      "pins": {
+        "1": "CHG_ISET",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R112",
+      "value": "46.4k 1%",
+      "pins": {
+        "1": "CHG_TMR",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R113",
+      "value": "10k",
+      "pins": {
+        "1": "CHG_SYSOFF",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R114",
+      "value": "10k",
+      "pins": {
+        "1": "+3V3",
+        "2": "CHG_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R115",
+      "value": "10k",
+      "pins": {
+        "1": "+3V3",
+        "2": "PGOOD_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C103",
+      "value": "22uF 10V X5R",
+      "pins": {
+        "1": "VBAT_PROT",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C104",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "VBAT_PROT",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C105",
+      "value": "22uF 10V X5R",
+      "pins": {
+        "1": "VSYS_RAW",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C106",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "VSYS_RAW",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "J104",
+      "value": "1S PROTECTED PACK + NTC",
+      "pins": {
+        "1": "VBAT_PROT",
+        "2": "GND",
+        "3": "BAT_NTC"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Charger",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+      "notes": "Interface only; keyed final connector TBD. Pack must provide OVP/UVP/OCP/SCP and 10k 103AT-2-class NTC touching cell. No bare unprotected cell.",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false
+    },
+    {
+      "ref": "J105",
+      "value": "EXT regulated 5V current-limited",
+      "pins": {
+        "1": "EXT_5V_IN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Power selection",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",
+      "notes": "Bench supply 5.0V; verify polarity, set current limit. No reverse-polarity protection. Final keyed connector TBD.",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false
+    },
+    {
+      "ref": "F102",
+      "value": "PPTC 1A hold / >=6V",
+      "pins": {
+        "1": "EXT_5V_IN",
+        "2": "EXT_5V"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Power selection",
+      "footprint": "Fuse:Fuse_1812_4532Metric",
+      "notes": "Exact manufacturer TBD; source must independently limit current. Not a precise 1A electronic limiter.",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false
+    },
+    {
+      "ref": "J106",
+      "value": "MAIN SOURCE one shunt only",
+      "pins": {
+        "1": "VSYS_RAW",
+        "2": "MAIN_SOURCE",
+        "3": "EXT_5V"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Power selection",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+      "notes": "Default 2-3 EXT; 1-2 battery/USB. Move only power OFF. Remove shunt for hard-off. Never bridge all 3 pins.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "J107",
+      "value": "5V SOURCE one shunt only",
+      "pins": {
+        "1": "BOOST_5V",
+        "2": "AUX_SOURCE",
+        "3": "EXT_5V"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Power selection",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+      "notes": "Default 2-3 EXT; battery mode 1-2. Move only power OFF. No parallel regulators.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "SW101",
+      "value": "DPST MAIN HARD OFF",
+      "pins": {
+        "1": "MAIN_SOURCE",
+        "2": "MAIN_IN",
+        "3": "AUX_SOURCE",
+        "4": "+5V_SYS"
+      },
+      "pin_names": {
+        "1": "A_IN",
+        "2": "A_OUT",
+        "3": "B_IN",
+        "4": "B_OUT"
+      },
+      "pin_types": {},
+      "section": "Power selection",
+      "footprint": "",
+      "notes": "双刀开关：MAIN侧切断MAIN_IN及后级逻辑稳压/LRA；AUX侧切断+5V_SYS音频/背光。LRA已改同逻辑轨，不再来自旧TPS709的5V支路。开关不隔离电池、充电或剑身路径，维修须断开全部电源。",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false
+    },
+    {
+      "ref": "U103",
+      "value": "TLV62569DBVR",
+      "pins": {
+        "1": "BUCK_EN",
+        "2": "GND",
+        "3": "BUCK_SW",
+        "4": "MAIN_IN",
+        "5": "BUCK_FB"
+      },
+      "pin_names": {
+        "1": "EN",
+        "2": "GND",
+        "3": "SW",
+        "4": "VIN",
+        "5": "FB"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "W",
+        "3": "O",
+        "4": "W",
+        "5": "I"
+      },
+      "section": "Buck 3V3",
+      "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+      "lcsc": "C141836",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false,
+      "notes": "V0.6 +3V3 is historical net name; actual feedback target3.192V with R117432k/R118100k0.1%. Verify loaded3.0..3.3V at screen/MCU across all intended conditions. VFB table has25C default; power-save output can rise slightly. Low battery dropout remains a system limit; set measured brownout threshold. No charger topology change."
+    },
+    {
+      "ref": "R116",
+      "value": "100k",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "BUCK_EN"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R117",
+      "value": "RT0603BRD07432KL",
+      "pins": {
+        "1": "+3V3",
+        "2": "BUCK_FB"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "catalog_and_official_value_selected",
+      "dnp": false,
+      "notes": "V0.6 feedback precision pair432k/100k0.1%,25ppm/C; nominal3.192V. Historical net name +3V3 retained. Static25C VFB0.588..0.612 estimate3.12308..3.26113V; illustrative independent resistor drift25ppm/C x100C gives3.11044..3.27441V, NOT full-temperature converter guarantee. Qualify actual3.0..3.3V including startup, Wi-Fi, display, audio/motor, source changes, PSM ripple; no hotplug claim.",
+      "lcsc": "C861402"
+    },
+    {
+      "ref": "R118",
+      "value": "RT0603BRD07100KL",
+      "pins": {
+        "1": "BUCK_FB",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "catalog_and_official_value_selected",
+      "dnp": false,
+      "notes": "V0.6 feedback precision pair432k/100k0.1%,25ppm/C; nominal3.192V. Historical net name +3V3 retained. Static25C VFB0.588..0.612 estimate3.12308..3.26113V; illustrative independent resistor drift25ppm/C x100C gives3.11044..3.27441V, NOT full-temperature converter guarantee. Qualify actual3.0..3.3V including startup, Wi-Fi, display, audio/motor, source changes, PSM ripple; no hotplug claim.",
+      "lcsc": "C122538"
+    },
+    {
+      "ref": "L101",
+      "value": "2.2uH 74438357022",
+      "pins": {
+        "1": "BUCK_SW",
+        "2": "+3V3"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "",
+      "notes": "Wurth 4030 shielded; datasheet verified, LCSC SKU not confirmed. Final PCB land from official drawing.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C107",
+      "value": "10uF 10V X7R",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C108",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C109",
+      "value": "22uF 10V X5R",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C110",
+      "value": "6.8pF C0G DNP",
+      "pins": {
+        "1": "+3V3",
+        "2": "BUCK_FB"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Buck 3V3",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "dnp": true,
+      "status": "FOOTPRINT_CANDIDATE"
+    },
+    {
+      "ref": "U104",
+      "value": "TPS61023DRLR",
+      "pins": {
+        "1": "BOOST_FB",
+        "2": "BOOST_ENABLE",
+        "3": "MAIN_IN",
+        "4": "GND",
+        "5": "BOOST_SW",
+        "6": "BOOST_5V"
+      },
+      "pin_names": {
+        "1": "FB",
+        "2": "EN",
+        "3": "VIN",
+        "4": "GND",
+        "5": "SW",
+        "6": "VOUT"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "I",
+        "3": "W",
+        "4": "W",
+        "5": "O",
+        "6": "w"
+      },
+      "section": "Boost 5V",
+      "footprint": "Package_TO_SOT_SMD:SOT-563",
+      "lcsc": "C919459",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R119",
+      "value": "1k",
+      "pins": {
+        "1": "BOOST_EN",
+        "2": "BOOST_ENABLE"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R120",
+      "value": "100k",
+      "pins": {
+        "1": "BOOST_ENABLE",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R121",
+      "value": "732k 1%",
+      "pins": {
+        "1": "BOOST_5V",
+        "2": "BOOST_FB"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R122",
+      "value": "100k 1%",
+      "pins": {
+        "1": "BOOST_FB",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "L102",
+      "value": "1uH 74438357010",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "BOOST_SW"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "",
+      "notes": "Wurth 4030, 9.6A saturation /13.5mOhm max from TI recommended table; manufacturer verified. LCSC listing item6458464; exact C code TBD.",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C111",
+      "value": "10uF 10V X7R",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C112",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "MAIN_IN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C113",
+      "value": "22uF 10V X5R",
+      "pins": {
+        "1": "BOOST_5V",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C114",
+      "value": "220pF C0G DNP",
+      "pins": {
+        "1": "BOOST_5V",
+        "2": "BOOST_FB"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Boost 5V",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "dnp": true,
+      "notes": "Fit if measured total effective Cout >40uF then verify stability. 1/(2pi*732k*220p) ~988Hz.",
+      "status": "FOOTPRINT_CANDIDATE"
+    },
+    {
+      "ref": "Q102",
+      "value": "AO3401A",
+      "pins": {
+        "1": "BAT_SENSE_GATE",
+        "2": "VBAT_PROT",
+        "3": "VBAT_SENSE_ON"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "P",
+        "3": "P"
+      },
+      "section": "Battery measurement",
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "lcsc": "C15127",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "Q103",
+      "value": "AO3400A",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND",
+        "3": "BAT_SENSE_GATE"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {
+        "1": "I",
+        "2": "P",
+        "3": "P"
+      },
+      "section": "Battery measurement",
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "lcsc": "C20917",
+      "status": "PINOUT_VERIFIED_FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R123",
+      "value": "100k",
+      "pins": {
+        "1": "VBAT_PROT",
+        "2": "BAT_SENSE_GATE"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Battery measurement",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R124",
+      "value": "100k 1%",
+      "pins": {
+        "1": "VBAT_SENSE_ON",
+        "2": "BAT_ADC"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Battery measurement",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R125",
+      "value": "100k 1%",
+      "pins": {
+        "1": "BAT_ADC",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Battery measurement",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "R126",
+      "value": "100k",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Battery measurement",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "C115",
+      "value": "100nF 10V",
+      "pins": {
+        "1": "BAT_ADC",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Battery measurement",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "J110",
+      "value": "LRA_DIFFERENTIAL_HARNESS_2PIN",
+      "pins": {
+        "1": "HAPTIC_OUT_P",
+        "2": "HAPTIC_OUT_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Motor",
+      "footprint": "",
+      "notes": "唯一LRA的两线差分接口，不是第二个执行器。两线均为驱动输出，不能任一接地；不得连接ERM或直流电源。极性防呆插座与线束配套待定，断全部电源后插拔。",
+      "status": "LOGICAL_UNVERIFIED",
+      "dnp": false,
+      "footprint_status": "pending_not_selected"
+    },
+    {
+      "ref": "TP101",
+      "value": "USB_VBUS",
+      "pins": {
+        "1": "USB_VBUS"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP102",
+      "value": "USB_5V_FUSED",
+      "pins": {
+        "1": "USB_5V_FUSED"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP103",
+      "value": "VBAT_PROT",
+      "pins": {
+        "1": "VBAT_PROT"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP104",
+      "value": "VSYS_RAW",
+      "pins": {
+        "1": "VSYS_RAW"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP105",
+      "value": "MAIN_IN",
+      "pins": {
+        "1": "MAIN_IN"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP106",
+      "value": "+3V3",
+      "pins": {
+        "1": "+3V3"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP107",
+      "value": "BOOST_5V",
+      "pins": {
+        "1": "BOOST_5V"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP108",
+      "value": "+5V_SYS",
+      "pins": {
+        "1": "+5V_SYS"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP109",
+      "value": "CHG_N",
+      "pins": {
+        "1": "CHG_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP110",
+      "value": "PGOOD_N",
+      "pins": {
+        "1": "PGOOD_N"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP111",
+      "value": "CHG_SYSOFF",
+      "pins": {
+        "1": "CHG_SYSOFF"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP112",
+      "value": "BAT_ADC",
+      "pins": {
+        "1": "BAT_ADC"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "TP113",
+      "value": "GND",
+      "pins": {
+        "1": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Test points",
+      "footprint": "TestPoint:TestPoint_Pad_D1.5mm",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false
+    },
+    {
+      "ref": "#FLG01",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "GND"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: common external return connected",
+      "notes": "ASSUMPTION: common external return connected"
+    },
+    {
+      "ref": "#FLG02",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "USB_5V_FUSED"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: valid USB source within declared input budget",
+      "notes": "ASSUMPTION: valid USB source within declared input budget"
+    },
+    {
+      "ref": "#FLG03",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "VBAT_PROT"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: protected 1S pack connected; polarity checked",
+      "notes": "ASSUMPTION: protected 1S pack connected; polarity checked"
+    },
+    {
+      "ref": "#FLG04",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "MAIN_IN"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: J106 ONE shunt; SW101 closed; source valid",
+      "notes": "ASSUMPTION: J106 ONE shunt; SW101 closed; source valid"
+    },
+    {
+      "ref": "#FLG05",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "+5V_SYS"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: J107 ONE shunt; SW101 closed; source valid",
+      "notes": "ASSUMPTION: J107 ONE shunt; SW101 closed; source valid"
+    },
+    {
+      "ref": "#FLG06",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "+3V3"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: U103 + L101 buck regulates within input range",
+      "notes": "ASSUMPTION: U103 + L101 buck regulates within input range"
+    },
+    {
+      "ref": "#FLG07",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "MIC_3V3"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off",
+      "notes": "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off"
+    },
+    {
+      "ref": "#FLG08",
+      "value": "PWR_FLAG",
+      "pins": {
+        "1": "+5V_BLADE"
+      },
+      "pin_names": {
+        "1": "PWR_FLAG"
+      },
+      "pin_types": {
+        "1": "w"
+      },
+      "section": "ERC source assumptions",
+      "status": "ASSUMPTION: external protected current-limited blade supply",
+      "notes": "ASSUMPTION: external protected current-limited blade supply"
+    },
+    {
+      "ref": "R129",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS1",
+        "2": "ELE0"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R130",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS2",
+        "2": "ELE1"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R131",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS3",
+        "2": "ELE2"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R132",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS4",
+        "2": "ELE3"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R133",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS5",
+        "2": "ELE4"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R134",
+      "value": "1k",
+      "section": "TOUCH",
+      "pins": {
+        "1": "TOUCH_CS6",
+        "2": "ELE5"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": "C21190",
+      "status": "catalog_verified_series_resistor_candidate",
+      "notes": "1k series resistor close to CAP1296 CS pin. Engineering starting value; validate sensing margin, EMC and ESD with final electrode/harness.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "U105",
+      "value": "DRV2605LDGSR",
+      "pins": {
+        "1": "HAPTIC_REG",
+        "2": "I2C_SCL",
+        "3": "I2C_SDA",
+        "4": "GND",
+        "5": "HAPTIC_EN",
+        "6": "+3V3",
+        "7": "HAPTIC_OUT_P",
+        "8": "GND",
+        "9": "HAPTIC_OUT_N",
+        "10": "+3V3"
+      },
+      "pin_names": {
+        "1": "REG",
+        "2": "SCL",
+        "3": "SDA",
+        "4": "IN/TRIG",
+        "5": "EN",
+        "6": "VDD/NC",
+        "7": "OUT+",
+        "8": "GND",
+        "9": "OUT-",
+        "10": "VDD"
+      },
+      "pin_types": {
+        "1": "w",
+        "2": "I",
+        "3": "B",
+        "4": "I",
+        "5": "I",
+        "6": "W",
+        "7": "O",
+        "8": "W",
+        "9": "O",
+        "10": "W"
+      },
+      "section": "Motor",
+      "footprint": "Package_SO:VSSOP-10_3x3mm_P0.5mm",
+      "lcsc": "C527464",
+      "status": "official_datasheet_DGS_pinout_checked",
+      "dnp": false,
+      "notes": "DRV2605LDGSR专用LRA驱动，DGS10脚VSSOP无EP。6/10脚接同一+3V3逻辑轨，实际目标3.192V，不接5V。I2C地址0x5A，VIH≥1.3V、VIL≤0.5V；沿用4.7k上拉，先100kHz验证。4脚IN/TRIG接地；1脚REG仅接1µF去耦，不带外部负载。7/9脚差分输出直连LRA，不接地、不保留ERM续流或跨端电容。GPIO6 EN默认下拉关闭。EN低不清寄存器，甚至可能ACK但不能读写。上电等待≥250µs，显式复位、型号匹配配置、读回及校准后只播放有限时长单次效果。4.33ms看门狗只复位I2C协议，不是失联停振；待机总线锁死可能需整机断电。主控复位可下拉EN，卡死保持高时仍靠有限波形及主控看门狗；无独立硬件超时保证。TI8.3.12.4：欠压恢复斜率低于3.6kV/s可能状态未知，须完整断电并以更快斜率重新上电，EN切换不能保证恢复。输出电压寄存器存在厂家公式勘误疑点，不猜十六进制配置；须差分测量Vrms和峰值。实测带振动负载逻辑轨3.0–3.3V，核温升、IMU和触摸干扰。",
+      "footprint_status": "standard_VSSOP10_candidate_no_EP"
+    },
+    {
+      "ref": "R135",
+      "value": "1k",
+      "section": "Motor",
+      "pins": {
+        "1": "HAPTIC_ENABLE",
+        "2": "HAPTIC_EN"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "1k串联电阻，GPIO6至DRV2605L EN；不是执行器PWM功率驱动。",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R136",
+      "value": "100k",
+      "pins": {
+        "1": "HAPTIC_EN",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Motor",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false,
+      "notes": "100k EN下拉，主控复位时关闭驱动；芯片另有典型2MΩ内部下拉。EN低不清除寄存器。"
+    },
+    {
+      "ref": "C119",
+      "value": "10uF 10V X7R",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Motor",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false,
+      "notes": "10µF10V X7R本地输入储能，与主控共3.192V逻辑轨。靠近驱动布置，核有效电容、压降和纹波；不得改成独立断供但I2C仍带电的域。"
+    },
+    {
+      "ref": "M1",
+      "value": "LD0832BC-0195F",
+      "pins": {
+        "1": "HAPTIC_OUT_P",
+        "2": "HAPTIC_OUT_N"
+      },
+      "pin_names": {
+        "1": "OUT+",
+        "2": "OUT-"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "section": "Motor",
+      "footprint": "",
+      "notes": "LEADER LD0832BC-0195F，Z轴LRA，非ERM。额定1.8Vrms正弦，工作0.1–1.9Vrms，235±10Hz，谐振时≤90mArms，21±3Ω。100g夹具≥1Grms不代表整机手感。主体Ø8±0.1×3.25±0.1mm，另加0.3mm泡棉与0.15mm背胶；短双焊盘FPC从中心到尾10.4±0.2mm、尾宽4.2mm，不是出厂导线，也不是屏幕0.5mm排线。柔性引线焊接、应变释放及固定需工艺验证，不拉扯或挤压执行器。差分输出两端不能接地或直流电源。额定/最大值是RMS，名义正弦峰值2.546/2.687V不等于驱动寄存器数值。不得假设允许额外高压过驱；装壳后校准诊断，先低幅有限脉冲，再差分测量确认电压、温升和手感。",
+      "status": "LRA_manufacturer_datasheet_candidate",
+      "dnp": false,
+      "footprint_status": "offboard_no_pcb_footprint",
+      "offboard": true,
+      "lcsc": "C7472499"
+    },
+    {
+      "ref": "LS1",
+      "value": "20MM-8Ω2W-JFHM",
+      "section": "AUDIO",
+      "pins": {
+        "1": "SPK_P",
+        "2": "SPK_N"
+      },
+      "pin_names": {
+        "1": "+",
+        "2": "-"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": "C50387209",
+      "status": "catalog_and_datasheet_selection_candidate",
+      "notes": "One offboard XHXDZ dynamic speaker, diameter20mm thickness5.1mm,8ohm2W rated. Mount in enclosure, no PCB SMT footprint. Connect via J3 BTL harness; neither wire GND. Firmware startup mute/digital limiter and actual terminal polarity, sound chamber and vibration clearance require verification.",
+      "footprint_status": "offboard_no_pcb_footprint",
+      "dnp": false,
+      "offboard": true
+    },
+    {
+      "ref": "DS1",
+      "value": "TFT-H013A6QQIGC5N10",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_LEDA",
+        "2": "+3V3",
+        "3": "LCD_CS",
+        "4": "LCD_RST_N",
+        "5": "LCD_SCK",
+        "6": "LCD_MOSI",
+        "7": "LCD_DC",
+        "8": null,
+        "9": "LCD_LEDK",
+        "10": "GND"
+      },
+      "pin_names": {
+        "1": "LEDA",
+        "2": "VCI",
+        "3": "CS",
+        "4": "RESX",
+        "5": "SCL",
+        "6": "SDA",
+        "7": "D/CX",
+        "8": "TE",
+        "9": "LEDK",
+        "10": "GND"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "W",
+        "3": "I",
+        "4": "I",
+        "5": "I",
+        "6": "I",
+        "7": "I",
+        "8": "O",
+        "9": "P",
+        "10": "W"
+      },
+      "footprint": "",
+      "lcsc": "",
+      "status": "manufacturer_bare_panel_candidate",
+      "notes": "One HOTHMI bare round GC9A01 display, no touchscreen; plugs directly through10pin FPC J8. PanelVCI3.2+/-0.2V; older supplied GC9A01 chip operatingmax3.3V. Target3.192V and measure3.0..3.3V; SPI uses same rail. Manufacturer advertises3.3V MCU compatibility but internalIOVCC wiring not provided: logic compatibility remains sample-validation assumption, no absolute guarantee. TE pin8 unused. Backlight Vf3.0..3.4V at40mA specification, use68ohm derated5V resistor and low-side PWM. Contact surface faces same side as display; frontviewtaildown pin10left/pin1right. Verify purchased exact no-touch revision and FPC fit before power.",
+      "footprint_status": "offboard_panel_no_pcb_footprint",
+      "dnp": false,
+      "offboard": true
+    },
+    {
+      "ref": "Q2",
+      "value": "AO3400A",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_BL_GATE",
+        "2": "GND",
+        "3": "LCD_LEDK"
+      },
+      "pin_names": {
+        "1": "G",
+        "2": "S",
+        "3": "D"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P",
+        "3": "P"
+      },
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "lcsc": "C20917",
+      "status": "candidate_lcsc_recheck",
+      "notes": "AO3400A low-side LEDK MOSFET; gate via R37 from GPIO48, R38 defaults off. Return LED current away from microphone and IMU.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R38",
+      "value": "100k",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "LCD_BL_GATE",
+        "2": "GND"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "lcsc": null,
+      "status": "value_proposed_lcsc_tbd",
+      "notes": "100kohm Q2 gate pulldown: hardware default backlight off while MCU resets.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "R39",
+      "value": "1206W4F680JT5E",
+      "section": "DISPLAY",
+      "pins": {
+        "1": "+5V_SYS",
+        "2": "LCD_LEDA"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "Resistor_SMD:R_1206_3216Metric",
+      "lcsc": "C17976",
+      "status": "catalog_and_official_value_selected",
+      "notes": "68ohm1%250mW1206. 5V rail through R39 to LEDA; LEDK switches by Q2. Screen Vf3.0..3.4V; at5.5V/Rmin67.32ohm/Vf3.0V worst37.136mA and92.84mW, excluding MOSFET drop conservatively. Typical5V gives23.5..29.4mA, not constant40mA or guaranteed500nit. PCB/ambient power derating and current waveform test required.",
+      "footprint_status": "candidate_unverified",
+      "dnp": false
+    },
+    {
+      "ref": "C120",
+      "value": "1uF 10V X7R",
+      "pins": {
+        "1": "HAPTIC_REG",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Motor",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false,
+      "notes": "1µF10V X7R，REG第1脚至地，近端短回流。REG是内部1.8V输出，禁止给其他电路供电。"
+    },
+    {
+      "ref": "C121",
+      "value": "1uF 10V X7R",
+      "pins": {
+        "1": "+3V3",
+        "2": "GND"
+      },
+      "pin_names": {},
+      "pin_types": {},
+      "section": "Motor",
+      "footprint": "Capacitor_SMD:C_0805_2012Metric",
+      "status": "FOOTPRINT_CANDIDATE",
+      "dnp": false,
+      "notes": "1µF10V X7R，VDD第10脚近端去耦；第6脚也接VDD。核有效电容与短回流。"
+    }
+  ]
+}

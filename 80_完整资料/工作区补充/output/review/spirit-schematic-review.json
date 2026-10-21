@@ -1,0 +1,61 @@
+{
+  "project": "Spirit_V0.7.1_JLC_Order_Working",
+  "schematic": "Spirit_Native",
+  "scope": "17页原生原理图网络表、原生DRC、关键电源/接口资料核对；未做电路仿真、全器件数据手册逐条签核或样机测试。",
+  "component_count": 157,
+  "drc_records": {
+    "OBJECTOUTSIDESHEET": 637,
+    "ATTRMATCHCODE": 5
+  },
+  "findings": [
+    {
+      "priority": "先明确供电架构",
+      "item": "光刃5V没有板内供电源",
+      "evidence": "+5V_BLADE仅连接U8.6、C25.1、R29.1、J7.1；BOOST_5V通过J107及外置开关进入+5V_SYS，未连接+5V_BLADE。",
+      "impact": "若要求本板给光刃供电，当前不实现；若光刃独立供电，则需标清输入方向和电源要求。之前按升压向J7供电来解释C版布局不成立。"
+    },
+    {
+      "priority": "生产配置未定",
+      "item": "主电源和5V依赖手工跨接",
+      "evidence": "J106/J107 Add into BOM=no；装配注释要求断电时使用低矮绝缘线跨接。J111连接板外双刀硬关断开关。",
+      "impact": "只有PCB和SMT不能获得即插即用的完整电源路径。必须定义默认跨接、外置开关及线束装配。"
+    },
+    {
+      "priority": "生产配置未定",
+      "item": "默认禁止充电且USB输入限100mA",
+      "evidence": "R108将CE拉至VSYS_RAW；J102 normally OPEN。EN1接地，EN2经R109下拉，J103 normally OPEN。",
+      "impact": "这是EVT保守配置，不是用户直接插USB即可正常充电的成品配置。需确定最终输入限流、充电使能及热预算；不能无条件调大USB取电。",
+      "source": "https://www.ti.com/lit/ds/symlink/bq24075.pdf"
+    },
+    {
+      "priority": "低电量验证缺口",
+      "item": "主供电实际3.192V且只有降压",
+      "evidence": "R117=432k，R118=100k，Vout=0.6*(1+432/100)=3.192V。",
+      "impact": "锂电池经充电电源路径和开关再到降压，低电量时存在压降；需要确定关机阈值并测试Wi-Fi等瞬态下是否保持模组最低工作电压。不是已确认运行故障。",
+      "sources": [
+        "https://www.ti.com/lit/ds/symlink/tlv62569.pdf",
+        "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
+      ]
+    },
+    {
+      "priority": "图纸和物料清理",
+      "item": "原生检查仍有警告",
+      "evidence": "637条OBJECTOUTSIDESHEET；5组ATTRMATCHCODE，涉及122个不同图元。",
+      "impact": "图纸范围和属性/匹配料号需逐一清理；不能据此直接断言122个料号错误。"
+    },
+    {
+      "priority": "亮度目标复核",
+      "item": "屏幕背光为保守限流",
+      "evidence": "R39=68ohm；按5V输入、LED Vf=3.0..3.4V估算约23.5..29.4mA，忽略MOS及线损。历史选型文件标注额定40mA。",
+      "impact": "可能达不到标称亮度，但不是过流或必然失效；应按实际屏幕样品验证。"
+    },
+    {
+      "priority": "纠正历史描述",
+      "item": "F101实际为0.5A保持电流",
+      "evidence": "当前网络表器件BSMD1206-050-6V，C883122，Hold Current=500mA。",
+      "impact": "以前将其描述为1.5A不正确；最终电流预算应采用实际物料。"
+    }
+  ],
+  "confirmed": "没有重复位号或单引脚命名网络；与此前PCB网络表基线逐引脚比较未见差异。未报告原生error级错误，不能替代功能审查。",
+  "changes_made": false
+}

@@ -1,0 +1,143 @@
+{
+  "checked_date": "2026-10-17",
+  "status": "engineering_recommendation_not_purchase_or_production_release",
+  "display": {
+    "manufacturer": "Hot Display / HOTHMI / 鑫洪泰",
+    "mpn": "TFT-H013A6QQIGC5N10",
+    "drawing_revision": "V2-0, 2024-12-12; Chinese catalog suffix -V2",
+    "variant": "None / no touchscreen, official retail variation_id 12250",
+    "lcsc_code": null,
+    "status": "selected engineering candidate; FPC mandatory; not production release",
+    "driver": "GC9A01",
+    "resolution": [
+      240,
+      240
+    ],
+    "body_nominal_mm": [
+      35.6,
+      38.1,
+      1.6
+    ],
+    "body_tolerance_mm": [
+      0.2,
+      0.2,
+      0.2
+    ],
+    "outline_note": "Not pure circle: lower tab/protrusion and FPC; derive outline from official drawing, no manufacturer STEP available",
+    "active_area_diameter_mm": 32.4,
+    "vcI_operating_v": [
+      3.0,
+      3.4
+    ],
+    "nominal_interface_voltage_v": 3.3,
+    "backlight_vf_v": [
+      3.0,
+      3.4
+    ],
+    "backlight_if_ma": 40,
+    "fpc": {
+      "pin_count": 10,
+      "pitch_mm": 0.5,
+      "tail_width_mm": 5.5,
+      "tail_width_tolerance_mm": 0.1,
+      "tail_thickness_mm": 0.3,
+      "tail_thickness_tolerance_mm": 0.05,
+      "tail_length_from_panel_bottom_mm": 47.5,
+      "tail_length_tolerance_mm": 0.5,
+      "stiffener_length_mm": 5,
+      "stiffener_length_tolerance_mm": 0.5,
+      "contact_side": "same face as LCD viewing/front surface",
+      "pin1_orientation": "Front view, tail downward: pin10 left, pin1 right",
+      "bend_radius": "Not manufacturer specified; reserve gentle static loop, no crease at glass bond or stiffener; sample fit required"
+    },
+    "pins": {
+      "1": "LEDA",
+      "2": "VCI",
+      "3": "CS",
+      "4": "RESX",
+      "5": "SCL",
+      "6": "SDA",
+      "7": "D/CX",
+      "8": "TE",
+      "9": "LEDK",
+      "10": "GND"
+    },
+    "connector_candidate": {
+      "mpn": "XF2M-1015-1A",
+      "manufacturer": "OMRON",
+      "lcsc_code": "C271735",
+      "pitch_mm": 0.5,
+      "pins": 10,
+      "compatible_fpc_thickness_mm": [
+        0.25,
+        0.35
+      ],
+      "contacts": "dual-sided, manufacturer drawing verified",
+      "body_envelope_mm": [
+        9.1,
+        5.9,
+        2.1
+      ],
+      "open_height_mm": 3.1,
+      "land_pattern_width_mm": 9.5,
+      "tail_width_recommended_mm": [
+        5.45,
+        5.55
+      ],
+      "status": "selected engineering candidate; panel tail width tolerance is wider, sample fit still required",
+      "source": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf2m.pdf"
+    },
+    "procurement": {
+      "supplier": "HOTHMI official store; external to LCSC",
+      "price_usd_ex_shipping_tax": 10,
+      "availability": "None variant HTML is_in_stock=true/is_purchasable=true on2026-10-17; quantity/lead time not confirmed"
+    },
+    "sources": [
+      "https://www.hothmi.com/product/1-3-inch-circular-display-240x240-gc9a01/",
+      "https://www.display-lcd.com/product_details/1275.html",
+      "https://www.display-lcd.com/data/upload/admin/202412/675be23852632.pdf",
+      "https://www.display-lcd.com/data/upload/admin/202505/68367a582cb9d.pdf",
+      "https://www.lcsc.com/product-detail/C262680.html"
+    ],
+    "firmware_notes": [
+      "No touch screen UI.",
+      "Refresh/change static picture within2minutes per manufacturer image-retention warning.",
+      "SPI clock start conservatively; no panel-level maximum guaranteed by drawing."
+    ]
+  },
+  "speaker": {
+    "manufacturer": "XHXDZ 兴华鑫",
+    "mpn": "20MM-8Ω2W-JFHM",
+    "lcsc_code": "C50387209",
+    "sources": [
+      "https://item.szlcsc.com/53008592.html",
+      "https://jlcpcb.com/partdetail/XHXDZ-20MM_8_2WJFHM/C50387209",
+      "https://www.lcsc.com/ko/product-detail/C50387209.html"
+    ],
+    "diameter_nominal_mm": 20,
+    "height_nominal_mm": 5.1,
+    "general_drawing_tolerance_mm": 0.3,
+    "provisional_max_envelope_mm": [
+      20.3,
+      20.3,
+      5.4
+    ],
+    "rated_impedance_ohm": 8,
+    "impedance_tolerance_percent": 20,
+    "rated_power_w": 2,
+    "maximum_power_w": 3,
+    "resonance_hz": 850,
+    "resonance_tolerance_percent": 20,
+    "operating_temperature_c": [
+      -25,
+      50
+    ],
+    "lead_exit": "rear solder terminal geometry/strain relief still to be verified from drawing or sample",
+    "mounting": "soft gasket at rigid outer rim only; no membrane clamp, no magnet pressure on PCB; sealed front-to-rear acoustic separation",
+    "rear_cavity_depth_initial_mm": 5,
+    "rear_cavity_is_acoustically_validated": false,
+    "stock_status": "China page catalog verified, live CN stock not confirmed",
+    "power_handling_note": "MAX98357A 5V into8ohm ~1.8W at10%THD; use typical <=1W audio target, low hardware gain, hardware default mute and firmware ramp/limiter. No claim of safe full-scale DC/square-wave drive.",
+    "datasheet_review": "Manufacturer approval spec revisionA2024-11-04 linked on JLC read as indexedPDF text; mechanical image download failed, nominal20x5.1 is corroborated in JLC and CN LCSC catalog."
+  }
+}

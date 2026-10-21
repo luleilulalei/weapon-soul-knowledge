@@ -1,0 +1,147 @@
+stderr Warning: can't find the initialization file spinit.
+stdout ******
+stdout ** ngspice-45.2 shared library
+stdout ******
+stdout Note: No compatibility mode selected!
+stdout Circuit: mcu_reset
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout supply                                       0
+stdout en                                           0
+stdout vs#branch                                    0
+ Reference value :  0.00000e+00
+stdout No. of Data Rows : 6021
+stdout Note: No compatibility mode selected!
+stdout Circuit: battery_adc
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout bat                                          0
+stdout adc                                          0
+stdout vs#branch                                    0
+stdout No. of Data Rows : 5037
+stdout Note: No compatibility mode selected!
+stdout Circuit: mic_discharge
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout rail                                     3.192
+stdout ctrl                                     3.192
+stdout mic                                    3.19197
+stdout vc#branch                                    0
+stdout vs#branch                         -0.000319197
+stdout No. of Data Rows : 10036
+stdout Note: No compatibility mode selected!
+stdout Circuit: amp_enable
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout gpio                                         0
+stdout sd                                           0
+stdout vs#branch                                    0
+stdout No. of Data Rows : 3097
+stdout Note: No compatibility mode selected!
+stdout Circuit: i2c_50p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout rail                                     3.192
+stdout bus                                 0.00677707
+stdout ctl                                      3.192
+stdout vc#branch                                    0
+stdout vdd#branch                        -0.000677707
+stdout No. of Data Rows : 2034
+stdout Note: No compatibility mode selected!
+stdout Circuit: i2c_100p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout rail                                     3.192
+stdout bus                                 0.00677707
+stdout ctl                                      3.192
+stdout vc#branch                                    0
+stdout vdd#branch                        -0.000677707
+stdout No. of Data Rows : 2032
+stdout Note: No compatibility mode selected!
+stdout Circuit: i2c_200p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout rail                                     3.192
+stdout bus                                 0.00677707
+stdout ctl                                      3.192
+stdout vc#branch                                    0
+stdout vdd#branch                        -0.000677707
+stdout No. of Data Rows : 2031
+stdout Note: No compatibility mode selected!
+stdout Circuit: i2c_250p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout rail                                     3.192
+stdout bus                                 0.00677707
+stdout ctl                                      3.192
+stdout vc#branch                                    0
+stdout vdd#branch                        -0.000677707
+stdout No. of Data Rows : 2031
+stdout Note: No compatibility mode selected!
+stdout Circuit: blade_50p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout drv                                          0
+stdout data                                         0
+stdout vs#branch                                    0
+stdout No. of Data Rows : 1488
+stdout Note: No compatibility mode selected!
+stdout Circuit: blade_150p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout drv                                          0
+stdout data                                         0
+stdout vs#branch                                    0
+stdout No. of Data Rows : 1479
+stdout Note: No compatibility mode selected!
+stdout Circuit: blade_500p
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stdout Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout drv                                          0
+stdout data                                         0
+stdout vs#branch                                    0
+stdout No. of Data Rows : 1461

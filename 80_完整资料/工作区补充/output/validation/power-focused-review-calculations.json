@@ -1,0 +1,23 @@
+{
+  "USB_ILIM_corrected_A": [
+    1.258600436314818,
+    1.4723506248929976
+  ],
+  "buck_reference_and_resistors_V": [
+    3.1230847552447547,
+    3.2611329729729723
+  ],
+  "boost_illustrative_3V_0.5A": {
+    "assumed_efficiency": 0.85,
+    "L_H": 8e-07,
+    "f_typ_Hz": 1000000.0,
+    "Iavg_A": 0.9706666666666668,
+    "ripple_pp_A": 1.47745636716225,
+    "Ipeak_A": 1.7093948502477918,
+    "Irms_A": 1.0602359269757529,
+    "typ_valley_limit_plus_ripple_A": 5.17745636716225
+  },
+  "charging_loss_example_W": 1.6019999999999999,
+  "battery_budget_3V_illustrative_A": 2.22243137254902,
+  "buck_peak_example_5V_1A_A": 1.2186036363636363
+}

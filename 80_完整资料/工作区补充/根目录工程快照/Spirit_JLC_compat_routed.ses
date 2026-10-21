@@ -1,0 +1,7675 @@
+(session Spirit_JLC_compat_routed
+  (base_design Spirit_JLC_compat_routed)
+  (placement
+    (resolution mil 1000)
+    (component u1
+      (place u1 0 0 front 0)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution mil 1000)
+    (parser
+      (host_cad "EasyEDA Pro")
+      (host_version 4.1.78)
+    )
+    (library_out 
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle TopLayer 17700 0 0)
+        )
+        (shape
+          (circle Inner1 17700 0 0)
+        )
+        (shape
+          (circle Inner2 17700 0 0)
+        )
+        (shape
+          (circle BottomLayer 17700 0 0)
+        )
+      )
+      (padstack via2
+        (shape
+          (circle TopLayer 23600 0 0)
+        )
+        (shape
+          (circle Inner1 23600 0 0)
+        )
+        (shape
+          (circle Inner2 23600 0 0)
+        )
+        (shape
+          (circle BottomLayer 23600 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+      (padstack via0
+        (shape
+          (circle TopLayer 19700 0 0)
+        )
+        (shape
+          (circle Inner1 19700 0 0)
+        )
+        (shape
+          (circle Inner2 19700 0 0)
+        )
+        (shape
+          (circle BottomLayer 19700 0 0)
+        )
+      )
+    )
+    (network_out 
+      (net GND
+        (wire
+          (path BottomLayer 7870
+            984200 383900
+            964600 383900
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            984300 383900
+            984200 383900
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            984200 809100
+            964600 809100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            984300 809100
+            984200 809100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            1116100 3513800
+            1080800 3513800
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            1116200 3513800
+            1116100 3513800
+          )
+          (type protect)
+        )
+        (via via1 492100 2126000
+          (type protect)
+        )
+        (via via1 1080800 3513800
+          (type protect)
+        )
+        (via via1 966500 3533500
+          (type protect)
+        )
+        (via via1 315000 3366200
+          (type protect)
+        )
+        (via via1 224400 2834700
+          (type protect)
+        )
+        (via via1 738200 4015800
+          (type protect)
+        )
+        (via via1 679100 4043300
+          (type protect)
+        )
+        (via via1 1147600 3897700
+          (type protect)
+        )
+        (via via1 1179000 3189000
+          (type protect)
+        )
+        (via via1 1179000 2637800
+          (type protect)
+        )
+        (via via1 273500 1476400
+          (type protect)
+        )
+        (via via1 758900 2494800
+          (type protect)
+        )
+        (via via1 630900 2475100
+          (type protect)
+        )
+        (via via1 605300 2475100
+          (type protect)
+        )
+        (via via1 579700 2475100
+          (type protect)
+        )
+        (via via1 1176500 2869900
+          (type protect)
+        )
+        (via via1 1141700 2869900
+          (type protect)
+        )
+        (via via1 1106900 2869900
+          (type protect)
+        )
+        (via via1 629900 2372100
+          (type protect)
+        )
+        (via via1 679200 2342600
+          (type protect)
+        )
+        (via via1 714400 1446000
+          (type protect)
+        )
+        (via via1 748000 1479600
+          (type protect)
+        )
+        (via via1 324800 295500
+          (type protect)
+        )
+        (via via1 1013800 295500
+          (type protect)
+        )
+        (via via1 794700 1141800
+          (type protect)
+        )
+        (via via1 1030900 1122100
+          (type protect)
+        )
+        (via via1 275000 944900
+          (type protect)
+        )
+        (via via1 836600 3376100
+          (type protect)
+        )
+        (via via1 876100 767700
+          (type protect)
+        )
+        (via via1 846500 423400
+          (type protect)
+        )
+        (via via1 492300 3523600
+          (type protect)
+        )
+        (via via1 256000 3248100
+          (type protect)
+        )
+        (via via1 472600 2736200
+          (type protect)
+        )
+        (via via1 147800 3897700
+          (type protect)
+        )
+        (via via1 167500 4015800
+          (type protect)
+        )
+        (via via1 285400 3848600
+          (type protect)
+        )
+        (via via1 285400 4006100
+          (type protect)
+        )
+        (via via1 383900 3809200
+          (type protect)
+        )
+        (via via1 423400 3700800
+          (type protect)
+        )
+        (via via1 1013900 3661400
+          (type protect)
+        )
+        (via via1 935200 3907500
+          (type protect)
+        )
+        (via via1 1066900 3350500
+          (type protect)
+        )
+        (via via1 295400 2214600
+          (type protect)
+        )
+        (via via1 265900 2165400
+          (type protect)
+        )
+        (via via1 1171400 2539400
+          (type protect)
+        )
+        (via via1 1063000 1161600
+          (type protect)
+        )
+        (via via1 649700 2175200
+          (type protect)
+        )
+        (via via1 1171400 1141800
+          (type protect)
+        )
+        (via via1 1053000 3100400
+          (type protect)
+        )
+        (via via1 580700 3021800
+          (type protect)
+        )
+        (via via1 885800 2490300
+          (type protect)
+        )
+        (via via1 846600 2460700
+          (type protect)
+        )
+        (via via1 708700 2876000
+          (type protect)
+        )
+        (via via1 964600 809100
+          (type protect)
+        )
+        (via via1 1147500 3448700
+          (type protect)
+        )
+        (via via1 1019700 2608300
+          (type protect)
+        )
+        (via via1 1019900 3070900
+          (type protect)
+        )
+        (via via1 1040400 4051200
+          (type protect)
+        )
+        (via via1 1040400 3799200
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            580700 3446800
+            580700 3376000
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            580700 3446900
+            580700 3446800
+          )
+          (type protect)
+        )
+        (via via1 580700 3376000
+          (type protect)
+        )
+        (via via1 318700 1830700
+          (type protect)
+        )
+        (via via1 283000 3248100
+          (type protect)
+        )
+        (via via1 1045800 2106300
+          (type protect)
+        )
+        (via via1 302700 2972500
+          (type protect)
+        )
+        (via via1 324300 2559100
+          (type protect)
+        )
+        (via via1 283000 3602400
+          (type protect)
+        )
+        (via via1 1063000 3385800
+          (type protect)
+        )
+        (via via1 856300 3513800
+          (type protect)
+        )
+        (via via1 1191000 3582700
+          (type protect)
+        )
+        (via via1 964600 383900
+          (type protect)
+        )
+        (via via1 374000 3523600
+          (type protect)
+        )
+        (via via1 413400 3297300
+          (type protect)
+        )
+        (via via1 492100 3366200
+          (type protect)
+        )
+        (via via1 354300 3110300
+          (type protect)
+        )
+        (via via1 492100 2952800
+          (type protect)
+        )
+        (via via1 472400 2874000
+          (type protect)
+        )
+        (via via1 885800 3996100
+          (type protect)
+        )
+        (via via1 797200 3996100
+          (type protect)
+        )
+        (via via1 551200 4025600
+          (type protect)
+        )
+        (via via1 492100 3956700
+          (type protect)
+        )
+        (via via1 968600 4059200
+          (type protect)
+        )
+        (via via1 757900 4035500
+          (type protect)
+        )
+        (via via1 785400 3523600
+          (type protect)
+        )
+        (via via1 624100 3486400
+          (type protect)
+        )
+        (via via1 944900 618100
+          (type protect)
+        )
+        (via via1 1173200 2763800
+          (type protect)
+        )
+        (via via1 1082700 2763800
+          (type protect)
+        )
+        (via via1 244100 1397700
+          (type protect)
+        )
+        (via via1 283500 1555100
+          (type protect)
+        )
+        (via via1 854300 2362200
+          (type protect)
+        )
+        (via via1 1173200 3287400
+          (type protect)
+        )
+        (via via1 1055100 3259800
+          (type protect)
+        )
+        (via via1 1218500 3061000
+          (type protect)
+        )
+        (via via1 1055100 3031500
+          (type protect)
+        )
+        (via via1 452800 2399600
+          (type protect)
+        )
+        (via via1 576700 2379900
+          (type protect)
+        )
+        (via via1 342500 2539400
+          (type protect)
+        )
+        (via via1 374000 2468500
+          (type protect)
+        )
+        (via via1 775600 1614200
+          (type protect)
+        )
+        (via via1 893700 1456700
+          (type protect)
+        )
+        (via via1 657500 1456700
+          (type protect)
+        )
+        (via via1 944900 1149600
+          (type protect)
+        )
+        (via via1 460600 482300
+          (type protect)
+        )
+        (via via1 1169300 649600
+          (type protect)
+        )
+        (via via1 1169300 531500
+          (type protect)
+        )
+        (via via1 1169300 442900
+          (type protect)
+        )
+        (via via1 1169300 344500
+          (type protect)
+        )
+        (via via1 728400 599400
+          (type protect)
+        )
+        (via via1 783500 599400
+          (type protect)
+        )
+        (via via1 673200 599400
+          (type protect)
+        )
+        (via via1 673200 544300
+          (type protect)
+        )
+        (via via1 728400 544300
+          (type protect)
+        )
+        (via via1 783500 544300
+          (type protect)
+        )
+        (via via1 783500 654600
+          (type protect)
+        )
+        (via via1 683100 2395700
+          (type protect)
+        )
+        (via via1 683100 2368100
+          (type protect)
+        )
+        (via via1 655500 2395700
+          (type protect)
+        )
+        (via via1 655500 2368100
+          (type protect)
+        )
+        (via via1 704700 3972400
+          (type protect)
+        )
+        (via via1 704700 3940900
+          (type protect)
+        )
+        (via via1 673200 3972400
+          (type protect)
+        )
+        (via via1 673200 3940900
+          (type protect)
+        )
+        (via via1 273600 2476400
+          (type protect)
+        )
+        (via via1 273600 2441000
+          (type protect)
+        )
+        (via via1 238200 2476400
+          (type protect)
+        )
+        (via via1 238200 2441000
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            273600 2441000
+            238200 2441000
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            273100 2352400
+            226400 2352400
+            226400 2429100
+            238200 2441000
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            659500 2441000
+            669300 2381900
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            630900 2475100
+            605300 2475100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            931100 3533500
+            966500 3533500
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            295300 3366200
+            315000 3366200
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            718500 4015800
+            738200 4015800
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            679100 4015800
+            679100 4043300
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            758900 2475100
+            758900 2494800
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            610200 2372100
+            629900 2372100
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            679200 2322900
+            679200 2342600
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            728300 1459900
+            714400 1446000
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            748000 1459900
+            748000 1479600
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            302600 944900
+            275000 944900
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            275700 3248100
+            256000 3248100
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            935200 3927200
+            935200 3907500
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1053000 3336600
+            1066900 3350500
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            826900 2460700
+            846600 2460700
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1161400 3462600
+            1147500 3448700
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            283000 2972500
+            302700 2972500
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            288900 2559100
+            324300 2559100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            816900 3996100
+            797200 3996100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            954700 4045300
+            968600 4059200
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            610200 3472500
+            624100 3486400
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1200800 2763800
+            1173200 2763800
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1055100 3287400
+            1055100 3259800
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            452800 2379900
+            452800 2399600
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            541300 2379900
+            576700 2379900
+          )
+          (type protect)
+        )
+      )
+      (net BUCK_SW
+        (wire
+          (path BottomLayer 7870
+            224400 2872100
+            224400 2872000
+          )
+        )
+        (wire
+          (path BottomLayer 19690
+            224400 2872100
+            224400 2895700
+            216500 2903600
+            216500 2931100
+            208600 2939000
+            206700 2945500
+          )
+          (type protect)
+        )
+      )
+      (net BOOST_SW
+        (wire
+          (path BottomLayer 7870
+            295200 3385900
+            295300 3385800
+          )
+        )
+        (wire
+          (path BottomLayer 9840
+            295200 3385900
+            236200 3385900
+            233300 3385800
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 9840
+            295300 3385900
+            295200 3385900
+          )
+          (type protect)
+        )
+      )
+      (net BOOST_5V
+        (wire
+          (path BottomLayer 19686
+            482400 3444900
+            471681 3455619
+            459162 3455619
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            489325 3412465
+            489325 3437975
+            482400 3444900
+          )
+        )
+        (via via0 489325 3412465
+        )
+        (wire
+          (path TopLayer 19686
+            509858 3107790
+            517538 3115470
+            517538 3384252
+            489325 3412465
+          )
+        )
+        (via via0 509858 3107790
+        )
+        (wire
+          (path BottomLayer 19686
+            456580 3092466
+            494534 3092466
+            509858 3107790
+          )
+        )
+        (via via0 456580 3092466
+        )
+        (wire
+          (path TopLayer 19686
+            367227 2356943
+            367227 2395580
+            439095 2467448
+            439095 2937063
+            456580 2954548
+            456580 3092466
+          )
+        )
+        (via via0 367227 2356943
+        )
+        (wire
+          (path BottomLayer 19686
+            368134 2320704
+            368134 2356036
+            367227 2356943
+          )
+        )
+        (via via0 368134 2320704
+        )
+        (wire
+          (path TopLayer 19686
+            467942 1940170
+            368134 2039978
+            368134 2320704
+          )
+        )
+        (via via0 467942 1940170
+        )
+        (wire
+          (path BottomLayer 19686
+            728400 1889800
+            678030 1940170
+            467942 1940170
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            332260 3633929
+            398449 3567740
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            352800 3878000
+            332260 3857460
+            332260 3633929
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            287400 3497455
+            258025 3526830
+            258025 3613051
+            278903 3633929
+            332260 3633929
+          )
+        )
+        (via via0 459162 3455619
+        )
+        (wire
+          (path Inner2 19686
+            398449 3567740
+            459162 3507027
+            459162 3455619
+          )
+        )
+        (via via0 398449 3567740
+        )
+        (wire
+          (path BottomLayer 19686
+            581828 3504320
+            581828 3507028
+            598400 3523600
+          )
+        )
+        (via via0 581828 3504320
+        )
+        (wire
+          (path Inner2 19686
+            352800 3878000
+            465694 3765106
+            465694 3620454
+            581828 3504320
+          )
+        )
+        (wire
+          (path BottomLayer 9840
+            287400 3497455
+            287400 3507800
+            291400 3511800
+            291400 3519600
+            295300 3523600
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 9840
+            295300 3405500
+            295300 3429100
+            287400 3437000
+            287400 3497455
+          )
+          (type protect)
+        )
+      )
+      (net MAIN_IN
+        (wire
+          (path TopLayer 19686
+            69636 1714961
+            61003 1714961
+            46843 1700801
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            157500 2795235
+            46843 2684578
+            46843 1700801
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            157500 2795235
+            157500 2773260
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            157500 2805000
+            157500 2795235
+          )
+        )
+        (via via0 46843 1700801
+        )
+        (via via0 69636 1714961
+        )
+        (wire
+          (path BottomLayer 19686
+            344191 1859705
+            214380 1859705
+            69636 1714961
+          )
+        )
+        (via via0 344191 1859705
+        )
+        (wire
+          (path TopLayer 19686
+            448743 1802959
+            391997 1859705
+            344191 1859705
+          )
+        )
+        (via via0 448743 1802959
+        )
+        (wire
+          (path BottomLayer 19686
+            492100 1889800
+            492100 1846316
+            448743 1802959
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            438403 3398085
+            438403 3201483
+            409658 3172738
+            409658 2956542
+            413400 2952800
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            438403 3398085
+            433452 3403036
+            433452 3619683
+            507229 3693460
+            652374 3693460
+            686998 3658836
+            708724 3658836
+            730363 3680475
+            730363 3688931
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            438403 3398085
+            442139 3398085
+          )
+        )
+        (via via0 413400 2952800
+        )
+        (wire
+          (path BottomLayer 19686
+            391590 2952800
+            369780 2952800
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            391590 2952800
+            413400 2952800
+          )
+        )
+        (wire
+          (path Inner2 31500
+            334700 3283500
+            218600 3399600
+            121100 3399600
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 19686
+            413400 3366200
+            413400 3366100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            442139 3398085
+            442139 3394939
+            413400 3366200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            698800 3803000
+            698800 3767460
+          )
+        )
+        (via via0 442139 3398085
+        )
+        (via via0 730363 3688931
+        )
+        (wire
+          (path BottomLayer 19686
+            698800 3767460
+            730363 3735897
+            730363 3688931
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            334700 3311100
+            334600 3311000
+            334600 3297200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            342500 3335630
+            334700 3327830
+            334700 3311100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            289290 2872000
+            289290 2806114
+            252231 2769055
+            161705 2769055
+            157500 2773260
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            326800 2872000
+            289290 2872000
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            326800 2872000
+            326900 2872100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            326900 2872100
+            369780 2914980
+            369780 2952800
+          )
+        )
+        (wire
+          (path BottomLayer 19690
+            326900 2872100
+            389800 2872100
+            393700 2874000
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 19690
+            326800 2872100
+            326900 2872100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 19686
+            121100 3427100
+            121100 3385800
+          )
+        )
+        (wire
+          (path BottomLayer 9840
+            342500 3335630
+            342500 3311100
+            338500 3307100
+            338500 3303200
+            334600 3299200
+            334700 3297300
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 9840
+            354300 3366100
+            354300 3354400
+            342500 3342600
+            342500 3335630
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 9840
+            413400 3366200
+            354300 3366200
+            354300 3366100
+          )
+          (type protect)
+        )
+        (via via2 121100 3427100
+          (type protect)
+        )
+        (via via2 121100 3399600
+          (type protect)
+        )
+        (via via2 334700 3311100
+          (type protect)
+        )
+        (via via2 334700 3283500
+          (type protect)
+        )
+        (wire
+          (path Inner2 31500
+            121100 3399600
+            121100 3427100
+          )
+          (type protect)
+        )
+        (wire
+          (path Inner2 31500
+            334700 3283500
+            334700 3311100
+          )
+          (type protect)
+        )
+      )
+      (net +3V3
+        (wire
+          (path BottomLayer 19686
+            1145793 3412035
+            1145793 3412034
+            1145793 3353883
+            1099010 3307100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1085720 3474400
+            1085720 3472107
+            1145793 3412035
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1145793 3412035
+            1190900 3457142
+            1190900 3503900
+          )
+        )
+        (wire
+          (path BottomLayer 11818
+            1085720 3474400
+            1116100 3474400
+          )
+        )
+        (wire
+          (path BottomLayer 11818
+            1074648 3474400
+            1085720 3474400
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1074648 3555255
+            1055761 3536368
+            1055761 3493287
+            1074648 3474400
+          )
+        )
+        (wire
+          (path Inner2 19686
+            620983 2612942
+            620983 2522817
+            760705 2383095
+            760705 2348408
+          )
+        )
+        (wire
+          (path Inner2 19686
+            182106 2761094
+            483024 2761094
+            620983 2623135
+            620983 2612942
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            328392 2040508
+            474453 1894447
+            474453 1631525
+            469891 1626963
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            602400 1456700
+            602400 1423120
+          )
+        )
+        (wire
+          (path BottomLayer 10628
+            767700 1432128
+            767700 1459800
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            602400 1423120
+            604264 1421256
+            756828 1421256
+            767700 1432128
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            602400 1614200
+            602400 1456700
+          )
+        )
+        (wire
+          (path Inner2 19686
+            182106 2761094
+            72368 2870832
+            72368 3210927
+          )
+        )
+        (wire
+          (path Inner2 19686
+            182106 2743075
+            182106 2761094
+          )
+        )
+        (via via0 639600 649600
+        )
+        (wire
+          (path TopLayer 19686
+            578399 422915
+            639600 484116
+            639600 649600
+          )
+        )
+        (via via0 578399 422915
+        )
+        (wire
+          (path Inner2 19686
+            627403 374981
+            626333 374981
+            578399 422915
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1115039 531152
+            1115039 345339
+            1114200 344500
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1013800 345500
+            1059190 345500
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1131900 590400
+            1131900 548013
+            1115039 531152
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1114200 344500
+            1060190 344500
+            1059190 345500
+          )
+        )
+        (via via0 1114200 344500
+        )
+        (wire
+          (path TopLayer 19686
+            1114374 531152
+            1114374 476654
+            1114200 476480
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1114200 531500
+            1114374 531326
+            1114374 531152
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1114374 531152
+            1115039 531152
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1114200 442900
+            1114200 476480
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1156547 594764
+            1152183 590400
+            1131900 590400
+          )
+        )
+        (via via0 1156547 594764
+        )
+        (wire
+          (path TopLayer 19686
+            1114200 649600
+            1114200 637111
+            1156547 594764
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            688890 1614200
+            602400 1614200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            563970 1626963
+            576733 1614200
+            602400 1614200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            469891 1626963
+            563970 1626963
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            563970 1626963
+            563970 1843570
+            610200 1889800
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            914614 1561655
+            930562 1577603
+            930562 2126838
+            901663 2155737
+            896654 2155737
+            760705 2291686
+            760705 2348408
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            407580 2490994
+            393245 2505329
+            320568 2505329
+            287400 2538497
+            287400 2539400
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            407580 2413400
+            407580 2490994
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            407580 2490994
+            465786 2549200
+            657060 2549200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            374000 2413400
+            407580 2413400
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1157581 3248346
+            1099010 3306917
+            1099010 3307100
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1157581 3248346
+            1222926 3248346
+            1228400 3253820
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1072090 3163400
+            1072090 3227369
+            1093067 3248346
+            1157581 3248346
+          )
+        )
+        (via via0 1157581 3248346
+        )
+        (wire
+          (path Inner2 19686
+            760705 2348408
+            830868 2348408
+            856469 2322807
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            807100 2390863
+            764645 2348408
+            760705 2348408
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            856469 2322807
+            856469 2303169
+            807100 2253800
+          )
+        )
+        (via via0 856469 2322807
+        )
+        (via via0 760705 2348408
+        )
+        (wire
+          (path BottomLayer 19686
+            807100 2411300
+            807100 2395430
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            807100 2390863
+            807100 2379560
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            807100 2395430
+            807100 2390863
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            296514 1710701
+            386153 1710701
+            469891 1626963
+          )
+        )
+        (via via0 296514 1710701
+        )
+        (wire
+          (path BottomLayer 19686
+            228400 1555100
+            228400 1642587
+            296514 1710701
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            228400 1544740
+            228400 1555100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            228400 1544740
+            228400 1521520
+          )
+        )
+        (wire
+          (path TopLayer 12398
+            1104500 2637800
+            1075734 2637800
+          )
+        )
+        (wire
+          (path TopLayer 12398
+            1072088 2641355
+            1072179 2641355
+            1075734 2637800
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1082700 2708700
+            1072088 2698088
+            1072088 2641355
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            711358 3501586
+            711358 3478919
+            775669 3414608
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            730300 3523600
+            730300 3520528
+            711358 3501586
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            710711 3501586
+            711358 3501586
+          )
+        )
+        (wire
+          (path Inner2 19686
+            833857 2821783
+            1017840 2637800
+            1104500 2637800
+          )
+        )
+        (wire
+          (path Inner2 19686
+            746236 2821783
+            833857 2821783
+          )
+        )
+        (wire
+          (path Inner2 19686
+            833857 2858935
+            833857 2821783
+          )
+        )
+        (via via0 833857 2858935
+        )
+        (wire
+          (path TopLayer 19686
+            829288 3244676
+            833857 3240107
+            833857 2858935
+          )
+        )
+        (via via0 829288 3244676
+        )
+        (wire
+          (path Inner2 19686
+            775669 3414608
+            781729 3420668
+            827174 3420668
+            861310 3386532
+            861310 3276698
+            829288 3244676
+          )
+        )
+        (via via0 775669 3414608
+        )
+        (wire
+          (path BottomLayer 19686
+            1063000 3307100
+            1099010 3307100
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            342991 3764627
+            362512 3784148
+            394163 3784148
+            408709 3798694
+            408709 3819527
+            402797 3825439
+            402797 3917352
+            366273 3953876
+            366008 3953876
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            252000 3472400
+            330477 3550877
+            330477 3752113
+            342991 3764627
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            342991 3764627
+            315943 3791674
+            283000 3791674
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            283000 3791674
+            120628 3791674
+            118527 3789573
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            108100 3779500
+            118173 3789573
+            118527 3789573
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            283000 3791674
+            283000 3799200
+          )
+        )
+        (via via0 118527 3789573
+        )
+        (wire
+          (path TopLayer 19686
+            72368 3210927
+            72368 3614444
+            99647 3641723
+            99647 3678056
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            118010 3210927
+            72368 3210927
+          )
+        )
+        (wire
+          (path TopLayer 9838
+            738200 3446800
+            738200 3479386
+          )
+        )
+        (via via0 710711 3501586
+        )
+        (wire
+          (path TopLayer 19686
+            719835 3490880
+            710711 3500004
+            710711 3501586
+          )
+        )
+        (wire
+          (path TopLayer 9838
+            719835 3490880
+            731329 3479386
+            738200 3479386
+          )
+        )
+        (wire
+          (path Inner2 19686
+            1074501 1031506
+            1074501 1037282
+            970438 1141345
+            970438 1160044
+            949003 1181479
+            915879 1181479
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            627403 374981
+            486504 515880
+            383181 515880
+            373697 506396
+            373697 456273
+            403400 426570
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            403400 393700
+            403400 426570
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            627403 374981
+            656884 345500
+            1013800 345500
+          )
+        )
+        (via via0 627403 374981
+        )
+        (wire
+          (path BottomLayer 19686
+            147500 3628530
+            147500 3628089
+            167847 3607742
+            167847 3260764
+            118010 3210927
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1074501 1031506
+            948660 905665
+            948660 883900
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            816800 767700
+            866940 817840
+            932227 817840
+            948660 834273
+            948660 883900
+          )
+        )
+        (via via0 1074501 1031506
+        )
+        (wire
+          (path TopLayer 19686
+            1112100 1043300
+            1100306 1031506
+            1074501 1031506
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            826800 1092400
+            915879 1181479
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            838600 1456700
+            838600 1258758
+            915879 1181479
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            838600 1456700
+            838600 1510220
+          )
+        )
+        (via via0 915879 1181479
+        )
+        (wire
+          (path BottomLayer 19686
+            838600 1510220
+            890035 1561655
+            914614 1561655
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            816800 767700
+            738100 767700
+            669200 698800
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            984200 883900
+            948660 883900
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            639600 649600
+            639600 682470
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            669200 698800
+            652870 682470
+            639600 682470
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            334600 2273500
+            334600 2241760
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            720500 1614200
+            688890 1614200
+          )
+        )
+        (via via0 469891 1626963
+        )
+        (via via0 328392 2040508
+        )
+        (wire
+          (path BottomLayer 19686
+            334600 2241760
+            328392 2235552
+            328392 2040508
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            551200 2844400
+            723619 2844400
+            746236 2821783
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            807100 2379560
+            799200 2371660
+            799200 2362200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            531500 2411300
+            482400 2362200
+            482200 2362200
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            531500 2253800
+            564370 2253800
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            821755 1527065
+            838600 1510220
+          )
+        )
+        (wire
+          (path BottomLayer 10628
+            821755 1527065
+            818706 1527065
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            818706 1527065
+            817241 1525600
+          )
+        )
+        (via via0 914614 1561655
+        )
+        (wire
+          (path BottomLayer 19686
+            688800 2549200
+            657060 2549200
+          )
+        )
+        (via via0 746236 2821783
+        )
+        (wire
+          (path TopLayer 19686
+            620983 2612942
+            746236 2738195
+            746236 2821783
+          )
+        )
+        (via via0 620983 2612942
+        )
+        (wire
+          (path BottomLayer 19686
+            657060 2549200
+            657060 2576865
+            620983 2612942
+          )
+        )
+        (via via0 1115039 531152
+        )
+        (wire
+          (path BottomLayer 19686
+            610200 3417300
+            576620 3417300
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            551200 3415200
+            574520 3415200
+            576620 3417300
+          )
+        )
+        (via via0 366008 3953876
+        )
+        (wire
+          (path BottomLayer 19686
+            373900 3966500
+            366008 3958608
+            366008 3953876
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            305000 2704980
+            307100 2702880
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            182106 2743075
+            266905 2743075
+            305000 2704980
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            305000 2736200
+            305000 2704980
+          )
+        )
+        (via via0 182106 2743075
+        )
+        (wire
+          (path BottomLayer 19686
+            118010 3038800
+            118010 3210927
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            108100 3779500
+            108100 3746630
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            99647 3678056
+            99647 3738177
+            108100 3746630
+          )
+        )
+        (via via0 99647 3678056
+        )
+        (via via0 72368 3210927
+        )
+        (wire
+          (path BottomLayer 19686
+            307100 2669300
+            307100 2702880
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            243007 1501095
+            243007 1506913
+            228400 1521520
+          )
+        )
+        (wire
+          (path BottomLayer 12398
+            253959 1501095
+            272495 1501095
+            273400 1502000
+          )
+        )
+        (wire
+          (path BottomLayer 10628
+            794100 1525600
+            817241 1525600
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            720500 1614200
+            720500 1580620
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            726480 1546782
+            726480 1574640
+            720500 1580620
+          )
+        )
+        (wire
+          (path BottomLayer 10628
+            726480 1546782
+            726480 1534120
+            728300 1532300
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            579700 2249400
+            568770 2249400
+            564370 2253800
+          )
+        )
+        (wire
+          (path BottomLayer 12398
+            199000 1476400
+            227776 1476400
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            243007 1501095
+            253959 1501095
+          )
+        )
+        (wire
+          (path BottomLayer 12398
+            239540 1486489
+            243007 1489956
+            243007 1501095
+          )
+        )
+        (wire
+          (path BottomLayer 12398
+            231422 1486489
+            227776 1482843
+            227776 1476400
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            239540 1486489
+            231422 1486489
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1104500 2637800
+            1150695 2591605
+            1156943 2591605
+          )
+        )
+        (via via0 1156943 2591605
+        )
+        (wire
+          (path TopLayer 19686
+            1179000 2612200
+            1158405 2591605
+            1156943 2591605
+          )
+        )
+        (via via0 1104500 2637800
+        )
+        (wire
+          (path TopLayer 19686
+            1228400 3287400
+            1228400 3253820
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1104500 3163400
+            1072090 3163400
+          )
+        )
+        (wire
+          (path BottomLayer 11818
+            1116100 3553100
+            1078584 3553100
+          )
+        )
+        (wire
+          (path BottomLayer 11818
+            1074648 3555255
+            1076429 3555255
+            1078584 3553100
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            147500 3661400
+            147500 3628530
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            206700 3038800
+            118010 3038800
+          )
+        )
+        (wire
+          (path BottomLayer 31500
+            206700 3038800
+            336600 3038800
+            340600 3034800
+            344500 3034800
+            348400 3030900
+            354300 3031500
+          )
+          (type protect)
+        )
+      )
+      (net BUCK_FB
+        (wire
+          (path BottomLayer 7870
+            346500 2777550
+            362200 2761850
+            362200 2669300
+          )
+        )
+        (wire
+          (path BottomLayer 7090
+            346500 2777550
+            346500 2773700
+            350400 2769700
+            350400 2765800
+            354400 2761800
+            354400 2757900
+            358300 2754000
+            358300 2750000
+            362200 2746100
+            362200 2742200
+            364300 2736200
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7090
+            336650 2787450
+            346500 2777600
+            346500 2777550
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            336650 2787450
+            336550 2787450
+            326800 2797200
+          )
+        )
+        (wire
+          (path BottomLayer 7090
+            326800 2797300
+            336650 2787450
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7090
+            413200 2736200
+            413300 2736200
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7090
+            364300 2736200
+            413200 2736200
+          )
+          (type protect)
+        )
+      )
+      (net BOOST_FB
+        (wire
+          (path BottomLayer 7870
+            423100 3484250
+            503950 3484250
+            543300 3523600
+          )
+        )
+        (wire
+          (path BottomLayer 7090
+            423100 3484250
+            423100 3507900
+            427000 3511800
+            427000 3515700
+            431000 3519700
+            432900 3523600
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7090
+            423100 3444900
+            423100 3484250
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7090
+            354300 3405500
+            374000 3425200
+            381800 3425200
+            385800 3429100
+            389700 3429100
+            393700 3433000
+            397600 3433000
+            401500 3437000
+            405500 3437000
+            409400 3440900
+            413400 3440900
+            417300 3444800
+            423100 3444900
+          )
+          (type protect)
+        )
+      )
+      (net USB_VBUS
+        (wire
+          (path TopLayer 19686
+            1040400 4019700
+            998950 4019700
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            952600 4005900
+            991890 4005900
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            991890 4005900
+            998950 4012960
+            998950 4019700
+          )
+        )
+      )
+      (net USB_5V_FUSED
+        (wire
+          (path Inner2 19686
+            852115 3802867
+            852115 3570415
+            932905 3489625
+            932905 3347795
+            984200 3296500
+          )
+        )
+        (wire
+          (path Inner2 19686
+            809209 4043992
+            852912 4000289
+            852912 3803664
+            852115 3802867
+          )
+        )
+        (wire
+          (path Inner2 19686
+            852115 3802867
+            804727 3802867
+            798773 3808821
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            809209 4043992
+            838800 4014401
+            838800 4005900
+          )
+        )
+        (via via0 809209 4043992
+        )
+        (wire
+          (path BottomLayer 19686
+            954700 3966500
+            997232 4009032
+            997232 4080379
+            988141 4089470
+            854687 4089470
+            809209 4043992
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            757900 3956700
+            800340 3956700
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            838800 4005900
+            838800 3956020
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            838800 3956020
+            801020 3956020
+            800340 3956700
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            726740 3889360
+            798773 3817327
+            798773 3808821
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            726740 3889360
+            718500 3897600
+          )
+        )
+        (via via0 798773 3808821
+        )
+      )
+      (net VBAT_PROT
+        (wire
+          (path BottomLayer 19686
+            1051691 1472181
+            1234801 1289071
+            1234801 1277146
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            997819 1821098
+            1051691 1767226
+            1051691 1472181
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            877263 1722017
+            898738 1722017
+            997819 1821098
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1130125 777490
+            1147600 777490
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1072700 728400
+            1121790 777490
+            1130125 777490
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1130125 783942
+            1130125 777490
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1177105 2371004
+            1180993 2367116
+            1225892 2367116
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1182997 2242949
+            1182997 2365112
+            1177105 2371004
+          )
+        )
+        (via via0 1130125 783942
+        )
+        (wire
+          (path TopLayer 19686
+            1302616 834981
+            1181164 834981
+            1130125 783942
+          )
+        )
+        (via via0 1302616 834981
+        )
+        (wire
+          (path BottomLayer 19686
+            1225892 2367116
+            1302616 2290392
+            1302616 834981
+          )
+        )
+        (via via0 1225892 2367116
+        )
+        (via via0 1177105 2371004
+        )
+        (via via0 1182997 2242949
+        )
+        (wire
+          (path TopLayer 19686
+            1234801 1277146
+            1182997 1328950
+            1182997 2242949
+          )
+        )
+        (via via0 1234801 1277146
+        )
+        (via via0 1051691 1472181
+        )
+        (via via0 997819 1821098
+        )
+        (via via0 877263 1722017
+        )
+        (wire
+          (path TopLayer 19686
+            758752 1745871
+            853409 1745871
+            877263 1722017
+          )
+        )
+        (via via0 758752 1745871
+        )
+        (wire
+          (path BottomLayer 19686
+            728400 1771600
+            733023 1771600
+            758752 1745871
+          )
+        )
+        (wire
+          (path Inner2 19686
+            915046 3203534
+            901782 3216798
+            901782 3402406
+            811767 3492421
+            811767 3740395
+            792437 3759725
+            767875 3759725
+            570900 3956700
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            1019900 3129900
+            984360 3129900
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            915046 3203534
+            984360 3134220
+            984360 3129900
+          )
+        )
+        (via via0 915046 3203534
+        )
+        (wire
+          (path BottomLayer 19686
+            614520 3956700
+            629900 3956700
+          )
+        )
+        (via via0 570900 3956700
+        )
+        (wire
+          (path TopLayer 19686
+            472400 4025600
+            502000 4025600
+            570900 3956700
+          )
+        )
+        (via via0 472400 4025600
+        )
+        (wire
+          (path BottomLayer 19686
+            1147600 809100
+            1147600 777490
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            629900 3956700
+            629900 3962506
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            629900 3946800
+            629900 3956700
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            570900 3956700
+            614520 3956700
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            629900 3964828
+            629900 3962506
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            629900 3964828
+            629900 3966500
+          )
+        )
+      )
+      (net VSYS_RAW
+        (wire
+          (path BottomLayer 19686
+            885800 3917300
+            843370 3917300
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            748000 3948656
+            748000 3946800
+          )
+        )
+        (wire
+          (path BottomLayer 11018
+            748000 3966500
+            748000 3948656
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            748000 3948656
+            785544 3948656
+            816900 3917300
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            816900 3917300
+            843370 3917300
+          )
+        )
+      )
+      (net +5V_SYS
+        (wire
+          (path TopLayer 19686
+            452800 2324800
+            419220 2324800
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            1066434 2517899
+            994990 2589343
+            994990 2745123
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            898816 2699061
+            944878 2745123
+            994990 2745123
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            517109 3082080
+            520508 3082080
+            567040 3128612
+            567040 3137801
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            435368 3162089
+            484148 3113309
+            484148 3097141
+            499209 3082080
+            517109 3082080
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            419220 2324800
+            419220 2410472
+            517109 2508361
+            517109 3082080
+          )
+        )
+        (via via0 567040 3137801
+        )
+        (wire
+          (path BottomLayer 19686
+            774969 2999822
+            636990 3137801
+            567040 3137801
+          )
+        )
+        (via via0 774969 2999822
+        )
+        (wire
+          (path TopLayer 19686
+            898816 2699061
+            788178 2809699
+            788178 2986613
+            774969 2999822
+          )
+        )
+        (via via0 898816 2699061
+        )
+        (via via0 994990 2745123
+        )
+        (via via0 1066434 2517899
+        )
+        (wire
+          (path BottomLayer 19686
+            995777 2160908
+            1066434 2231565
+            1066434 2517899
+          )
+        )
+        (via via0 995777 2160908
+        )
+        (wire
+          (path TopLayer 19686
+            867855 2272744
+            883941 2272744
+            995777 2160908
+          )
+        )
+        (via via0 867855 2272744
+        )
+        (wire
+          (path BottomLayer 19686
+            795831 2161397
+            839970 2205536
+            839970 2244859
+            867855 2272744
+          )
+        )
+        (via via0 795831 2161397
+        )
+        (wire
+          (path TopLayer 19686
+            846500 1889800
+            782704 1953596
+            782704 2148270
+            795831 2161397
+          )
+        )
+        (via via0 846500 1889800
+        )
+        (wire
+          (path TopLayer 19686
+            541300 2324800
+            452800 2324800
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            435368 3162089
+            435368 3171263
+            582078 3317973
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            610770 3346500
+            582243 3317973
+            582078 3317973
+          )
+        )
+        (via via0 435368 3162089
+        )
+        (wire
+          (path TopLayer 19686
+            622361 3568063
+            609212 3568063
+            555990 3514841
+            555990 3344061
+            582078 3317973
+          )
+        )
+        (via via0 582078 3317973
+        )
+        (via via0 622361 3568063
+        )
+        (wire
+          (path BottomLayer 19686
+            615756 3737239
+            640405 3712590
+            640405 3586107
+            622361 3568063
+          )
+        )
+        (via via0 615756 3737239
+        )
+        (wire
+          (path TopLayer 19686
+            580700 3803000
+            580700 3772295
+            615756 3737239
+          )
+        )
+        (via via0 580700 3803000
+        )
+        (wire
+          (path BottomLayer 19686
+            650400 3346500
+            610770 3346500
+          )
+        )
+        (wire
+          (path TopLayer 9838
+            728400 2391800
+            728400 2411500
+          )
+        )
+      )
+      (net CHG_N
+        (wire
+          (path BottomLayer 7870
+            41444 4090334
+            47347 4096237
+            724082 4096237
+            777613 4042706
+            777613 4015813
+            748000 3986200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            41444 4090334
+            41444 3838652
+            121767 3758329
+            142259 3758329
+          )
+        )
+        (via via0 41444 4090334
+        )
+        (via via0 142259 3758329
+        )
+        (wire
+          (path BottomLayer 7870
+            167500 3779500
+            163430 3779500
+            142259 3758329
+          )
+        )
+      )
+      (net PGOOD_N
+        (wire
+          (path BottomLayer 7870
+            715105 4059702
+            698800 4043397
+            698800 4015800
+          )
+        )
+        (via via0 715105 4059702
+        )
+        (wire
+          (path Inner2 7870
+            206789 3654702
+            182618 3678873
+            182618 3943351
+            335484 4096217
+            678590 4096217
+            715105 4059702
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            208468 2682939
+            257925 2633482
+            651588 2633482
+            715588 2569482
+            715588 2482888
+            707700 2475000
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            206789 3654702
+            186146 3634059
+            186146 3617437
+            196598 3606985
+            196598 3125181
+            199421 3122358
+            199421 2753765
+            208468 2744718
+            208468 2682939
+          )
+        )
+        (wire
+          (path Inner2 7870
+            208468 2682939
+            208468 2440919
+            558185 2091202
+            558185 1987300
+            566530 1978955
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            206800 3661400
+            206800 3654713
+            206789 3654702
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            566530 1978955
+            581255 1978955
+            610200 2007900
+          )
+        )
+        (via via0 566530 1978955
+        )
+        (via via0 208468 2682939
+        )
+        (via via0 206789 3654702
+        )
+      )
+      (net BAT_ADC
+        (wire
+          (path Inner2 7870
+            819039 543526
+            1254603 979090
+            1254603 1285349
+            1241872 1298080
+            1241871 1298080
+            1241871 1327918
+            988393 1581396
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            988393 1581396
+            974522 1595267
+            974522 2007545
+            974521 2007545
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            974521 2007545
+            846855 2007545
+            846500 2007900
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 459931
+            902634 459931
+            819039 543526
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            944900 476268
+            921837 476268
+            905500 459931
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 459931
+            905500 383900
+          )
+        )
+        (via via0 974521 2007545
+        )
+        (via via0 988393 1581396
+        )
+        (via via0 819039 543526
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 383900
+            905500 347378
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 347378
+            846500 347378
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            944900 502100
+            944900 476268
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            846500 347378
+            806115 306993
+            543616 306993
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            846500 351084
+            846500 347378
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            846500 364000
+            846500 351084
+          )
+        )
+        (via via0 543616 306993
+        )
+        (wire
+          (path TopLayer 7870
+            324800 345500
+            505109 345500
+            543616 306993
+          )
+        )
+      )
+      (net MCU_EN
+        (wire
+          (path BottomLayer 7870
+            130500 898338
+            193139 835699
+            199678 835699
+            219753 815624
+            219753 787270
+            367509 639514
+            567354 639514
+            567354 639513
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            130500 944900
+            130500 898338
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            567354 639513
+            558597 630756
+            558597 411661
+            567354 402904
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            130500 944900
+            130500 1224381
+            181090 1274971
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            242538 3681100
+            225330 3698308
+            91637 3698308
+            77423 3684094
+            77423 3671690
+            65824 3660091
+            53399 3660091
+            12817 3619509
+            12817 2035850
+            181090 1867577
+            181090 1274971
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            283000 3681100
+            242538 3681100
+          )
+        )
+        (via via0 181090 1274971
+        )
+        (wire
+          (path BottomLayer 7870
+            462700 393700
+            436868 393700
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            436868 393700
+            431202 399366
+            431202 482300
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            567324 331754
+            505378 393700
+            462700 393700
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            405500 482300
+            431202 482300
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            567354 402904
+            567354 331784
+            567324 331754
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1013800 395500
+            1006396 402904
+            567354 402904
+          )
+        )
+        (via via0 567354 639513
+        )
+        (via via0 567324 331754
+        )
+      )
+      (net KEY_N
+        (wire
+          (path Inner2 7870
+            944900 1094500
+            780127 1094500
+            687666 1186961
+          )
+        )
+        (via via0 944900 1094500
+        )
+        (wire
+          (path TopLayer 7870
+            826800 1177532
+            817371 1186961
+            687666 1186961
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            622600 1188262
+            686365 1188262
+            687666 1186961
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            622600 1141700
+            622600 1188262
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            622600 1141700
+            622600 1001356
+            606134 984890
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            826800 1151700
+            826800 1177532
+          )
+        )
+        (via via0 687666 1186961
+        )
+        (wire
+          (path TopLayer 7870
+            594300 995900
+            605310 984890
+            606134 984890
+          )
+        )
+        (via via0 606134 984890
+        )
+      )
+      (net MIC_3V3
+        (wire
+          (path BottomLayer 7870
+            179619 3114155
+            224562 3069212
+            538352 3069212
+            553345 3054219
+          )
+        )
+        (wire
+          (path Inner2 7870
+            1163400 3061000
+            1115046 3012646
+            790150 3012646
+            783172 3019624
+            766767 3019624
+            762188 3015045
+            636317 3015045
+            597143 3054219
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1200800 2682998
+            1205512 2678286
+            1205512 2525789
+            1192161 2512438
+            1091808 2512438
+            1086236 2518010
+            1086236 2583912
+            1077998 2592150
+            1077998 2612200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1200800 2708700
+            1200800 2734402
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1215450 3008950
+            1217784 3011284
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1176500 2956900
+            1176500 2970000
+            1215450 3008950
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1215450 3008950
+            1163400 3061000
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1200800 2734402
+            1219273 2734402
+            1228472 2743601
+            1228472 3000596
+            1217784 3011284
+          )
+        )
+        (via via0 1217784 3011284
+        )
+        (wire
+          (path TopLayer 7870
+            1104500 2612200
+            1077998 2612200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1200800 2708700
+            1200800 2682998
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            580700 2988332
+            566977 2988332
+            553345 3001964
+            553345 3054219
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            553345 3054219
+            597143 3054219
+          )
+        )
+        (via via0 597143 3054219
+        )
+        (wire
+          (path BottomLayer 7870
+            580700 2962500
+            580700 2988332
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            161400 3435000
+            161400 3409298
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            179619 3114155
+            179619 3391079
+            161400 3409298
+          )
+        )
+        (via via0 179619 3114155
+        )
+        (wire
+          (path TopLayer 7870
+            1138132 3061000
+            1112028 3061000
+            1110200 3059172
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1163400 3061000
+            1138132 3061000
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1160349 3163400
+            1130904 3133955
+            1088787 3133955
+            1086483 3131651
+            1086483 3124804
+            1088111 3123176
+            1088112 3123176
+            1092298 3127362
+            1132302 3127362
+            1138132 3121532
+            1138132 3061000
+          )
+        )
+        (via via0 1163400 3061000
+        )
+        (via via0 1176500 2956900
+        )
+        (wire
+          (path TopLayer 7870
+            1110200 3031500
+            1110200 3059172
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1161329 3163400
+            1160349 3163400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1160349 3163400
+            1152498 3163400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1179000 3163400
+            1161329 3163400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1104500 3189000
+            1131012 3189000
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1131012 3189000
+            1152498 3167514
+            1152498 3163400
+          )
+        )
+      )
+      (net +5V_BLADE
+        (wire
+          (path BottomLayer 19686
+            268611 1951871
+            268611 1952829
+            174209 2047231
+            174209 2188375
+            200434 2214600
+            236100 2214600
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            166605 1502000
+            166590 1501985
+            166590 1420010
+            189000 1397600
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            173020 1502000
+            166605 1502000
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            166605 1502000
+            166590 1502000
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            199000 1502000
+            173020 1502000
+          )
+        )
+        (wire
+          (path TopLayer 19686
+            268611 1951871
+            283160 1937322
+            283160 1771600
+          )
+        )
+        (via via0 283160 1771600
+        )
+        (via via0 268611 1951871
+        )
+        (wire
+          (path BottomLayer 19686
+            318700 1771600
+            283160 1771600
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            166590 1502000
+            166590 1655030
+            283160 1771600
+          )
+        )
+      )
+      (net BLADE_ID_ADC
+        (wire
+          (path BottomLayer 7870
+            917228 563000
+            910831 556603
+            910831 503596
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1043300 561200
+            1043300 587032
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1082754 587831
+            1044099 587831
+            1043300 587032
+          )
+        )
+        (via via0 1082754 587831
+        )
+        (wire
+          (path Inner2 7870
+            910831 503596
+            998519 503596
+            1082754 587831
+          )
+        )
+        (via via0 910831 503596
+        )
+        (wire
+          (path BottomLayer 7870
+            917228 563000
+            916230 563998
+            393837 563998
+            287596 457757
+            279188 457757
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 395500
+            285318 395500
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            944900 563000
+            917228 563000
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            285318 395500
+            285318 451627
+            279188 457757
+          )
+        )
+        (via via0 279188 457757
+        )
+      )
+      (net EXT_5V
+        (wire
+          (path BottomLayer 19686
+            821000 2801240
+            808147 2814093
+            808147 2977001
+            814566 2983420
+            814566 3143734
+            769300 3189000
+          )
+        )
+        (wire
+          (path BottomLayer 19686
+            821000 2716500
+            821000 2801240
+          )
+        )
+        (wire
+          (path Inner2 19686
+            552800 3878000
+            552800 3794308
+            570713 3776395
+            613745 3776395
+            666351 3723789
+            666351 3607725
+            736583 3537493
+            736583 3221717
+            769300 3189000
+          )
+        )
+      )
+      (net EXT_5V_IN
+        (wire
+          (path BottomLayer 7870
+            1019700 2667300
+            990068 2667300
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            990068 2667300
+            977686 2679682
+            944630 2679682
+            932249 2667301
+            932249 2667300
+            915528 2667300
+            899116 2650888
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            899116 2650888
+            743241 2650888
+            736275 2657854
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            675100 2637668
+            716089 2637668
+            736275 2657854
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            675100 2716500
+            675100 2637668
+          )
+        )
+        (via via0 736275 2657854
+        )
+        (via via0 899116 2650888
+        )
+      )
+      (net UART_RX
+        (wire
+          (path TopLayer 7870
+            221902 1963178
+            221902 1347877
+            222204 1347575
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            226703 503330
+            95513 634520
+            95513 1220884
+            222204 1347575
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 495500
+            285318 495500
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            226703 503330
+            277488 503330
+            285318 495500
+          )
+        )
+        (via via0 226703 503330
+        )
+        (via via0 222204 1347575
+        )
+        (via via0 221902 1963178
+        )
+        (wire
+          (path BottomLayer 7870
+            72924 2003747
+            181333 2003747
+            221902 1963178
+          )
+        )
+        (via via0 72924 2003747
+        )
+        (wire
+          (path TopLayer 7870
+            52498 3630934
+            52498 2936854
+            32128 2916484
+            32128 2044543
+            72924 2003747
+          )
+        )
+        (via via0 52498 3630934
+        )
+        (wire
+          (path BottomLayer 7870
+            57621 3679893
+            57621 3636057
+            52498 3630934
+          )
+        )
+        (via via0 57621 3679893
+        )
+        (wire
+          (path TopLayer 7870
+            283000 3720500
+            94190 3720500
+            57621 3683931
+            57621 3679893
+          )
+        )
+      )
+      (net BOOT_N
+        (wire
+          (path TopLayer 7870
+            324800 945500
+            306485 963815
+            158732 963815
+            29898 834981
+          )
+        )
+        (wire
+          (path Inner2 7870
+            205948 3625639
+            12462 3432153
+            12462 852417
+            29898 834981
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 945500
+            609247 945500
+            718207 836540
+            731275 836540
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            283000 3641700
+            242538 3641700
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            205948 3625639
+            226477 3625639
+            242538 3641700
+          )
+        )
+        (via via0 205948 3625639
+        )
+        (via via0 29898 834981
+        )
+        (wire
+          (path TopLayer 7870
+            1171400 1043300
+            1171400 1016338
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1190998 1010977
+            1185637 1016338
+            1171400 1016338
+          )
+        )
+        (via via0 1190998 1010977
+        )
+        (wire
+          (path Inner2 7870
+            731275 836540
+            1016561 836540
+            1190998 1010977
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            858900 1122000
+            858900 969868
+            731276 842244
+            731276 836540
+            731275 836540
+          )
+        )
+        (via via0 731275 836540
+        )
+      )
+      (net ELE0
+        (wire
+          (path TopLayer 7870
+            368088 2588700
+            368088 2983627
+            318153 3033562
+            248214 3033562
+            242200 3027548
+            242200 2901242
+            248438 2895004
+            248438 2795300
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            226400 2588700
+            368088 2588700
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            288900 2795300
+            248438 2795300
+          )
+        )
+        (via via0 368088 2588700
+        )
+      )
+      (net ELE1
+        (wire
+          (path TopLayer 7870
+            288900 2755900
+            248438 2755900
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            248438 2755900
+            248438 2699478
+            234340 2685380
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            234340 2685380
+            216942 2702778
+            200122 2702778
+            157500 2660156
+            157500 2529700
+          )
+        )
+        (via via0 234340 2685380
+        )
+      )
+      (net ELE3
+        (wire
+          (path TopLayer 7870
+            77784 2154951
+            46015 2186720
+            46015 2551178
+            154384 2659547
+            237813 2659547
+            255466 2677200
+            288900 2677200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            199438 2352500
+            199438 2333651
+            157228 2291441
+            157228 2234395
+            77784 2154951
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            226400 2352500
+            199438 2352500
+          )
+        )
+        (via via0 77784 2154951
+        )
+      )
+      (net ELE4
+        (wire
+          (path TopLayer 7870
+            192648 2271162
+            162837 2241351
+            87306 2241351
+            59902 2268755
+            59902 2544932
+            152770 2637800
+            288900 2637800
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            285400 2352500
+            285400 2326668
+          )
+        )
+        (via via0 192648 2271162
+        )
+        (wire
+          (path BottomLayer 7870
+            285400 2326668
+            212213 2326668
+            192648 2307103
+            192648 2271162
+          )
+        )
+      )
+      (net ELE5
+        (wire
+          (path TopLayer 7870
+            248438 2598400
+            214447 2564409
+            108300 2564409
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            108300 2510000
+            108300 2564409
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            288900 2598400
+            248438 2598400
+          )
+        )
+        (via via0 108300 2564409
+        )
+      )
+      (net SPK_N
+        (wire
+          (path TopLayer 7870
+            952832 2659880
+            939930 2672782
+            939930 2861176
+            939929 2861176
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            824949 2529733
+            858977 2563761
+            858977 2780224
+            939929 2861176
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            679100 2440900
+            679100 2462662
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            824949 2529733
+            746171 2529733
+            679100 2462662
+          )
+        )
+        (via via0 824949 2529733
+        )
+        (via via0 939929 2861176
+        )
+        (via via0 952832 2659880
+        )
+        (wire
+          (path BottomLayer 7870
+            935621 2439730
+            935621 2642669
+            952832 2659880
+          )
+        )
+        (via via0 935621 2439730
+        )
+        (wire
+          (path TopLayer 7870
+            1055600 2411400
+            963951 2411400
+            935621 2439730
+          )
+        )
+      )
+      (net SPK_P
+        (wire
+          (path TopLayer 7870
+            1015138 2372000
+            1001370 2385768
+            775830 2385768
+            762899 2398699
+            762899 2408487
+            730486 2440900
+            698800 2440900
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1055600 2372000
+            1015138 2372000
+          )
+        )
+      )
+      (net DOCK_DET_N
+        (wire
+          (path BottomLayer 7870
+            531500 2470600
+            531500 2496432
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            531500 2496432
+            554234 2519166
+            637609 2519166
+            656500 2500275
+            656500 2475000
+          )
+        )
+      )
+      (net I2C_SCL
+        (wire
+          (path BottomLayer 7870
+            778554 2061246
+            999684 2061246
+            1005338 2066900
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            520702 2073734
+            766066 2073734
+            778554 2061246
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            768355 1703148
+            778554 1713347
+            778554 2061246
+          )
+        )
+        (wire
+          (path Inner2 7870
+            728500 698800
+            473958 953342
+            473958 1590592
+            520702 1637336
+            520702 2073734
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1045800 2066900
+            1005338 2066900
+          )
+        )
+        (wire
+          (path Inner2 7870
+            768355 1703148
+            1245694 2180487
+            1245694 3283552
+            1025181 3504065
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            748000 1532300
+            748000 1682793
+            768355 1703148
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1025181 3504065
+            1015216 3494100
+            966642 3494100
+          )
+        )
+        (via via0 1025181 3504065
+        )
+        (via via0 768355 1703148
+        )
+        (wire
+          (path BottomLayer 7870
+            630900 2249400
+            630899 2249400
+            630899 2224165
+            612102 2205368
+            515102 2205368
+            452541 2142807
+            452541 2109590
+            488397 2073734
+            520702 2073734
+          )
+        )
+        (via via0 520702 2073734
+        )
+        (wire
+          (path TopLayer 7870
+            728500 698800
+            596869 698800
+            493569 595500
+            324800 595500
+          )
+        )
+        (via via0 728500 698800
+        )
+        (wire
+          (path BottomLayer 7870
+            931100 3494100
+            966642 3494100
+          )
+        )
+      )
+      (net I2C_SDA
+        (wire
+          (path Inner2 7870
+            605300 2229928
+            1129736 2229928
+            1135129 2224535
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1086262 2027600
+            1135129 2076467
+            1135129 2224535
+          )
+        )
+        (wire
+          (path Inner2 7870
+            866003 1579363
+            868098 1581458
+            923419 1581458
+            1031889 1472988
+            1031889 1452054
+            1227730 1256213
+            1227730 1016963
+            783829 573062
+            374893 573062
+            352980 551149
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            605300 2229928
+            605300 2249400
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            829502 1615864
+            1086262 1872624
+            1086262 2027600
+          )
+        )
+        (via via0 605300 2229928
+        )
+        (via via0 1135129 2224535
+        )
+        (wire
+          (path TopLayer 7870
+            324800 545500
+            347331 545500
+            352980 551149
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            673168 649600
+            673168 635876
+            656484 619192
+            421023 619192
+            352980 551149
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            767700 1554062
+            829502 1615864
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            866003 1579363
+            829502 1615864
+          )
+        )
+        (via via0 866003 1579363
+        )
+        (wire
+          (path BottomLayer 7870
+            699000 649600
+            673168 649600
+          )
+        )
+        (via via0 352980 551149
+        )
+        (wire
+          (path BottomLayer 7870
+            1045800 2027600
+            1086262 2027600
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            767700 1532300
+            767700 1554062
+          )
+        )
+      )
+      (net NFC_IRQ_N
+        (wire
+          (path TopLayer 7870
+            460494 2058968
+            460494 2180787
+            579272 2299565
+            579272 2344043
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1045800 1988200
+            1005338 1988200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            856380 1960493
+            977631 1960493
+            1005338 1988200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            578714 2119908
+            578714 2131230
+            722796 2275312
+            733038 2275312
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            733300 2249400
+            733300 2275050
+            733038 2275312
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            852073 2102732
+            852073 1964800
+            856380 1960493
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            577987 2053410
+            577987 2119181
+            578714 2119908
+          )
+        )
+        (via via0 578714 2119908
+        )
+        (wire
+          (path BottomLayer 7870
+            852073 2102732
+            834897 2119908
+            578714 2119908
+          )
+        )
+        (via via0 852073 2102732
+        )
+        (via via0 856380 1960493
+        )
+        (wire
+          (path BottomLayer 7870
+            460494 2058968
+            466052 2053410
+            577987 2053410
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            541500 2362200
+            567332 2362200
+          )
+        )
+        (via via0 733038 2275312
+        )
+        (via via0 577987 2053410
+        )
+        (via via0 460494 2058968
+        )
+        (via via0 579272 2344043
+        )
+        (wire
+          (path BottomLayer 7870
+            567332 2362200
+            567332 2355983
+            579272 2344043
+          )
+        )
+      )
+      (net AUX_KEY_N
+        (wire
+          (path BottomLayer 7870
+            707700 2249400
+            707700 2223971
+            726813 2204858
+            765262 2204858
+            775602 2215198
+            775602 2269493
+            793377 2287268
+            807100 2287268
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            807100 2313100
+            807100 2287268
+          )
+        )
+      )
+      (net BLADE_DATA
+        (wire
+          (path TopLayer 7870
+            292255 2066953
+            308590 2050618
+            308590 1901067
+            318700 1890957
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            318700 1890957
+            318700 1889800
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            318700 1890957
+            389681 1890957
+          )
+        )
+        (via via0 318700 1889800
+        )
+        (wire
+          (path BottomLayer 7870
+            206600 2165400
+            206600 2138438
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            384000 1476400
+            384000 1503362
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            389681 1890957
+            389681 1509043
+            384000 1503362
+          )
+        )
+        (via via0 389681 1890957
+        )
+        (via via0 292255 2066953
+        )
+        (wire
+          (path BottomLayer 7870
+            206600 2138438
+            220770 2138438
+            292255 2066953
+          )
+        )
+      )
+      (net BLADE_ID_RAW
+        (wire
+          (path BottomLayer 7870
+            1043300 527632
+            1057023 527632
+            1102556 573165
+            1102556 608247
+            1118177 623868
+            1131900 623868
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            87880 1932069
+            10080 1854269
+            10080 338357
+            41444 306993
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            87880 1932069
+            276814 1932069
+            289068 1944323
+            289068 1948800
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            318700 1948800
+            289068 1948800
+          )
+        )
+        (via via0 87880 1932069
+        )
+        (via via0 41444 306993
+        )
+        (wire
+          (path BottomLayer 7870
+            1043300 501800
+            1043300 297764
+            1022234 276698
+            71739 276698
+            41444 306993
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1043300 510051
+            1043300 501800
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1043300 510051
+            1043300 527632
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1131900 649700
+            1131900 623868
+          )
+        )
+      )
+      (net LCD_LEDA
+        (wire
+          (path TopLayer 7870
+            757900 3446800
+            755867 3444767
+            755867 3357533
+            766900 3346500
+          )
+        )
+        (via via0 766900 3346500
+        )
+      )
+      (net LCD_CS
+        (wire
+          (path BottomLayer 7870
+            478937 2433753
+            460086 2433753
+            419586 2393253
+            419586 1267448
+            431686 1255348
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            718500 3446800
+            718500 3371864
+            728452 3361912
+            728452 3209552
+            725883 3206983
+            725883 3020904
+            766579 2980208
+            766579 2721395
+            478937 2433753
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            431686 1255348
+            431686 1244295
+            498449 1177532
+            521600 1177532
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            521600 1151700
+            521600 1177532
+          )
+        )
+        (via via0 478937 2433753
+        )
+        (via via0 431686 1255348
+        )
+      )
+      (net LCD_RST_N
+        (wire
+          (path Inner2 7870
+            642869 956830
+            642869 993641
+            591129 1045381
+            591129 1553926
+            763272 1726069
+            766955 1726069
+            1202799 2161913
+            1202799 2251152
+            1197910 2256041
+            1197910 3054908
+            1126983 3125835
+            770893 3125835
+            716605 3180123
+            716605 3223532
+            643345 3296792
+            643345 3505141
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            644300 956418
+            643281 956418
+            642869 956830
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            644300 995900
+            644300 956418
+          )
+        )
+        (via via0 642869 956830
+        )
+        (wire
+          (path BottomLayer 7870
+            551200 3474500
+            551200 3448668
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            698800 3446800
+            698800 3478402
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            643345 3505141
+            672061 3505141
+            698800 3478402
+          )
+        )
+        (via via0 643345 3505141
+        )
+        (wire
+          (path BottomLayer 7870
+            551200 3448668
+            553568 3446300
+            631681 3446300
+            643345 3457964
+            643345 3505141
+          )
+        )
+      )
+      (net LCD_MOSI
+        (wire
+          (path BottomLayer 7870
+            878764 2090894
+            878764 2104046
+            871211 2111599
+            871211 2248095
+            887657 2264541
+            887657 2280947
+            880002 2288602
+            880002 2453922
+            823993 2509931
+            816747 2509931
+            783358 2543320
+            783358 2980206
+            794771 2991619
+            794771 3008025
+            715446 3087350
+            715446 3204496
+            677088 3242854
+            666346 3242854
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            590600 1177532
+            590600 1605895
+            878764 1894059
+            878764 2090894
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            590600 1151700
+            590600 1177532
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            659500 3446800
+            659500 3249700
+            666346 3242854
+          )
+        )
+        (via via0 666346 3242854
+        )
+        (via via0 878764 2090894
+        )
+      )
+      (net LCD_DC
+        (wire
+          (path BottomLayer 7870
+            969279 2620562
+            969279 2165370
+            904636 2100727
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            904636 2100727
+            904636 1579697
+            611065 1286126
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            799353 3394358
+            799353 3353949
+            972976 3180326
+            972976 2624259
+            969279 2620562
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            452800 1177532
+            411200 1219132
+            411200 1263432
+            437697 1289929
+            439389 1289929
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            611065 1286126
+            602110 1295081
+            444541 1295081
+            439389 1289929
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            708650 3353709
+            708650 3293929
+            708639 3293918
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            638802 3253042
+            679678 3293918
+            708639 3293918
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            799353 3394358
+            743173 3394358
+            708650 3359835
+            708650 3353709
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            452800 1151700
+            452800 1177532
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            638802 3253042
+            639700 3253940
+            639700 3446900
+          )
+        )
+        (via via0 638802 3253042
+        )
+        (via via0 708639 3293918
+        )
+        (via via0 708650 3353709
+        )
+        (via via0 799353 3394358
+        )
+        (via via0 969279 2620562
+        )
+        (via via0 904636 2100727
+        )
+        (via via0 611065 1286126
+        )
+        (via via0 439389 1289929
+        )
+      )
+      (net LCD_LEDK
+        (wire
+          (path TopLayer 7870
+            1082700 3425200
+            1053068 3425200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1053068 3425200
+            1036893 3409025
+            1036893 3384560
+            1003446 3351113
+            910662 3351113
+            736503 3525272
+            634555 3525272
+            600400 3491117
+            600400 3446800
+          )
+        )
+      )
+      (net USB_CC1
+        (wire
+          (path TopLayer 7870
+            1040400 3876000
+            919152 3876000
+            874904 3831752
+            827031 3831752
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            794993 3864395
+            794993 3863790
+            827031 3831752
+          )
+        )
+        (via via0 827031 3831752
+        )
+        (wire
+          (path TopLayer 7870
+            849968 3927200
+            849968 3919370
+            794993 3864395
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            875800 3927200
+            849968 3927200
+          )
+        )
+        (via via0 794993 3864395
+        )
+      )
+      (net USB_DM_CONN
+        (via via1 992100 3895700
+          (type protect)
+        )
+        (via via1 1098400 3935100
+          (type protect)
+        )
+        (via via1 1147600 3860300
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            992100 3895700
+            1011800 3895700
+            1027600 3879900
+            1027600 3868100
+            1035400 3860300
+            1057100 3860300
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1040400 3895700
+            992100 3895700
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 10000
+            1098400 3860300
+            1147600 3860300
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 10000
+            1057100 3860300
+            1098400 3860300
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            1098400 3935100
+            1098400 3860300
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1040400 3935100
+            1098400 3935100
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 10000
+            1171400 895700
+            1273600 895700
+            1303400 925500
+            1303400 1535400
+            1321800 1553800
+            1321800 1593200
+            1303400 1611500
+            1303400 3805800
+            1254700 3854600
+            1169300 3854600
+            1163600 3860300
+            1147600 3860300
+          )
+          (type protect)
+        )
+      )
+      (net USB_DP_CONN
+        (via via1 1000000 3954700
+          (type protect)
+        )
+        (via via1 1147600 3935100
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 7870
+            1000000 3954700
+            1000000 3968500
+            1057100 3968500
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1000000 3954700
+            1040400 3954700
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 7870
+            1040400 3915400
+            1000000 3915400
+            1000000 3954700
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 10000
+            1057100 3968500
+            1147600 3968500
+            1147600 3935100
+          )
+          (type protect)
+        )
+        (wire
+          (path BottomLayer 10000
+            1057100 3935100
+            1057100 3968500
+          )
+          (type protect)
+        )
+        (wire
+          (path TopLayer 10000
+            1171400 945500
+            1208700 945500
+            1287400 1024200
+            1287400 3799200
+            1248000 3838600
+            1122000 3838600
+            1114200 3846500
+            1114200 3917300
+            1131900 3935100
+            1147600 3935100
+          )
+          (type protect)
+        )
+      )
+      (net CHG_CE_N
+        (wire
+          (path TopLayer 7870
+            629900 3990539
+            629900 3885713
+            785829 3729784
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            919218 3729500
+            918934 3729784
+            785829 3729784
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            413500 4015800
+            413500 4042762
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            413500 4042762
+            432870 4062132
+            583411 4062132
+            629900 4015643
+            629900 3990539
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            629900 3986200
+            629900 3990539
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            964600 3729500
+            919218 3729500
+          )
+        )
+        (via via0 785829 3729784
+        )
+        (via via0 629900 3990539
+        )
+      )
+      (net CHG_EN2
+        (wire
+          (path TopLayer 7870
+            657400 4017800
+            653649 4014049
+            653649 3887508
+            707016 3834141
+            709814 3834141
+            875268 3668687
+            875268 3494508
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            614693 3667520
+            787705 3494508
+            875268 3494508
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            383900 3775732
+            405323 3775732
+            407424 3773631
+            407424 3771188
+            406138 3769902
+            406138 3729898
+            406645 3729391
+            406645 3729390
+            405017 3727762
+            403398 3727762
+            397568 3721932
+            397568 3679668
+            409715 3667521
+            614693 3667521
+            614693 3667520
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            875268 3494508
+            973276 3396500
+            984200 3396500
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            383900 3749900
+            383900 3775732
+          )
+        )
+        (via via0 614693 3667520
+        )
+        (wire
+          (path BottomLayer 7870
+            659400 4015800
+            657400 4017800
+          )
+        )
+        (via via0 657400 4017800
+        )
+      )
+      (net BAT_NTC
+        (wire
+          (path BottomLayer 7870
+            697792 3684576
+            688832 3675616
+            688832 3341730
+            750355 3280207
+            750355 3271486
+            990268 3031573
+            990268 3011800
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            697792 3684576
+            604382 3777986
+            604382 3863571
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1019900 3011800
+            990268 3011800
+          )
+        )
+        (via via0 697792 3684576
+        )
+        (via via0 604382 3863571
+        )
+        (wire
+          (path BottomLayer 7870
+            629900 3927200
+            629900 3889089
+            604382 3863571
+          )
+        )
+      )
+      (net AUX_SOURCE
+        (wire
+          (path BottomLayer 7870
+            639800 3803000
+            639800 3773368
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            452800 3878000
+            502118 3828682
+            502118 3750418
+            502119 3750418
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            639800 3773368
+            525069 3773368
+            502119 3750418
+          )
+        )
+        (via via0 502119 3750418
+        )
+      )
+      (net HAPTIC_OUT_P
+        (wire
+          (path BottomLayer 7870
+            1055600 3572800
+            1057909 3575109
+            1140134 3575109
+            1151642 3563601
+            1151642 3533500
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1116100 3533500
+            1151642 3533500
+          )
+        )
+        (via via0 1055600 3572800
+        )
+      )
+      (net MIC_GATE_N
+        (wire
+          (path Inner2 7870
+            551200 2903700
+            551200 3094453
+            519602 3126051
+            519602 3218153
+            232667 3505088
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            252000 3423302
+            251197 3423302
+            222029 3452470
+            222029 3494450
+            232667 3505088
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            252000 3397600
+            252000 3423302
+          )
+        )
+        (via via0 232667 3505088
+        )
+        (via via0 551200 2903700
+        )
+        (wire
+          (path TopLayer 7870
+            561200 2795300
+            561200 2893700
+            551200 2903700
+          )
+        )
+        (via via0 561200 2795300
+        )
+      )
+      (net LCD_BL_GATE
+        (wire
+          (path TopLayer 7870
+            1161400 3379768
+            1161400 3387800
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1125216 3336600
+            1161400 3372784
+            1161400 3379768
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1161400 3379768
+            1220500 3379768
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1112300 3336600
+            1125216 3336600
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1220500 3405600
+            1220500 3379768
+          )
+        )
+      )
+      (net BAT_SENSE_GATE
+        (wire
+          (path BottomLayer 7870
+            905500 846500
+            875868 846500
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1146266 1009095
+            1147600 1007761
+            1147600 883900
+          )
+        )
+        (via via0 1146266 1009095
+        )
+        (wire
+          (path TopLayer 7870
+            984272 987150
+            1124321 987150
+            1146266 1009095
+          )
+        )
+        (via via0 984272 987150
+        )
+        (wire
+          (path BottomLayer 7870
+            875868 846500
+            875868 878746
+            984272 987150
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1147600 883900
+            1147600 858198
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1132000 728400
+            1157832 728400
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1157832 728400
+            1177242 747810
+            1177242 829359
+            1148403 858198
+            1147600 858198
+          )
+        )
+      )
+      (net USB_DETECT_GATE
+        (wire
+          (path Inner2 7870
+            375459 3694333
+            375459 3682685
+            612713 3445431
+            612713 3111257
+            689039 3034931
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            708700 2950800
+            679068 2950800
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            689039 3034931
+            679068 3024960
+            679068 2950800
+          )
+        )
+        (via via0 689039 3034931
+        )
+        (wire
+          (path TopLayer 7870
+            375459 3694333
+            480375 3799249
+            480375 3809200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            433100 3809200
+            480375 3809200
+          )
+        )
+        (via via0 480375 3809200
+        )
+        (via via0 375459 3694333
+        )
+        (wire
+          (path BottomLayer 7870
+            364000 3700800
+            368992 3700800
+            375459 3694333
+          )
+        )
+      )
+      (net USB_PRESENT_N
+        (wire
+          (path BottomLayer 7870
+            32696 3290619
+            26524 3284447
+            26524 866375
+            58449 834450
+            58449 785609
+            41444 768604
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            600268 2913400
+            600268 2934596
+            616945 2951273
+            616945 3062709
+            561655 3117999
+            527654 3117999
+            518061 3127592
+            441861 3127592
+            416139 3153314
+            152960 3153314
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            285318 695500
+            114548 695500
+            41444 768604
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            407368 3966500
+            407368 3952777
+            376003 3921412
+            311147 3921412
+            204709 3814974
+            96138 3814974
+            32696 3751532
+            32696 3290619
+          )
+        )
+        (wire
+          (path Inner2 7870
+            152960 3153314
+            152960 3170355
+            32696 3290619
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            629900 2913400
+            600268 2913400
+          )
+        )
+        (via via0 152960 3153314
+        )
+        (via via0 32696 3290619
+        )
+        (wire
+          (path BottomLayer 7870
+            433200 3966500
+            407368 3966500
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 695500
+            285318 695500
+          )
+        )
+        (via via0 41444 768604
+        )
+      )
+      (net TOUCH_IRQ_N
+        (wire
+          (path BottomLayer 7870
+            375193 659834
+            366503 668524
+            366503 1137589
+            358168 1145924
+            358168 1845677
+            363993 1851502
+            363993 1867908
+            361562 1870339
+            361562 2293729
+            348323 2306968
+            334600 2306968
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            364282 645500
+            364282 648891
+            375209 659818
+            375209 659834
+            375193 659834
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            334600 2332800
+            334600 2306968
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 645500
+            364282 645500
+          )
+        )
+        (via via0 375193 659834
+        )
+      )
+      (net AMP_SD_MODE
+        (wire
+          (path TopLayer 7870
+            698900 2301038
+            698900 2295523
+            550400 2147023
+            541031 2147023
+            541031 2147022
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            541031 2147022
+            541031 2129587
+            579724 2090894
+            808501 2090894
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            797200 2424516
+            817858 2403858
+            927693 2403858
+            930501 2406666
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            891013 2130027
+            930501 2169515
+            930501 2406666
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            698900 2322800
+            698900 2301038
+          )
+        )
+        (via via0 541031 2147022
+        )
+        (via via0 808501 2090894
+        )
+        (wire
+          (path TopLayer 7870
+            891013 2130027
+            847634 2130027
+            808501 2090894
+          )
+        )
+        (via via0 891013 2130027
+        )
+        (via via0 930501 2406666
+        )
+        (wire
+          (path TopLayer 7870
+            797200 2424516
+            797200 2437432
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            797200 2411600
+            797200 2424516
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            767600 2460600
+            793432 2460600
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            793432 2460600
+            793432 2441200
+            797200 2437432
+          )
+        )
+      )
+      (net AMP_ENABLE
+        (wire
+          (path TopLayer 7870
+            906887 2181932
+            1098198 1990621
+            1098198 1186973
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            797200 2326368
+            797200 2291619
+            906887 2181932
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            885800 2431000
+            899548 2431000
+            906887 2423661
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            906887 2181932
+            906887 2423661
+          )
+        )
+        (via via0 906887 2181932
+        )
+        (via via0 906887 2423661
+        )
+        (wire
+          (path BottomLayer 7870
+            1098198 1186973
+            1213912 1071259
+            1213912 746983
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            797200 2352200
+            797200 2326368
+          )
+        )
+        (via via0 1098198 1186973
+        )
+        (via via0 1213912 746983
+        )
+        (wire
+          (path TopLayer 7870
+            1013800 745500
+            1212429 745500
+            1213912 746983
+          )
+        )
+      )
+      (net MIC_ENABLE_N
+        (wire
+          (path BottomLayer 7870
+            748200 2547949
+            748200 2549200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            748200 2547949
+            748200 2522238
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            733300 2475000
+            733300 2507338
+            748200 2522238
+          )
+        )
+      )
+      (net PDM_DATA_L_MIC
+        (wire
+          (path TopLayer 7870
+            1106900 3003828
+            1153772 3003828
+            1189102 3039158
+            1189102 3117957
+            1205512 3134367
+            1205512 3214600
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1086468 3100400
+            1078832 3108036
+            1078832 3121532
+            1073002 3127362
+            1032998 3127362
+            1012114 3106478
+            1012114 3089702
+            1012113 3089702
+            1001098 3078687
+            1001098 3063113
+            1012113 3052098
+            1027688 3052098
+            1034892 3059302
+            1075577 3059302
+            1084498 3050381
+            1084498 3009428
+            1090098 3003828
+            1106900 3003828
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1106900 2988502
+            1106900 3003828
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1106900 2956900
+            1106900 2988502
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1112300 3100400
+            1086468 3100400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1179000 3214600
+            1205512 3214600
+          )
+        )
+      )
+      (net PDM_DATA_L
+        (wire
+          (path TopLayer 7870
+            1112100 1168662
+            1118350 1174912
+            1118350 2073325
+            1115327 2076348
+            1115327 2408699
+            1053703 2470323
+            1046728 2470323
+            992005 2525046
+            878764 2525046
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            878764 2525046
+            878764 2771928
+            1104500 2997664
+            1104500 3214600
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1125812 1126015
+            1112100 1139727
+            1112100 1141700
+          )
+        )
+        (via via0 1125812 1126015
+        )
+        (wire
+          (path BottomLayer 7870
+            1013800 445500
+            1013800 586990
+            1020299 593489
+            1020299 864839
+            1125812 970352
+            1125812 1126015
+          )
+        )
+        (via via0 1013800 445500
+        )
+        (wire
+          (path TopLayer 7870
+            1112100 1141700
+            1112100 1168662
+          )
+        )
+        (via via0 878764 2525046
+        )
+        (via via0 1104500 3214600
+        )
+      )
+      (net EXP_IRQ_N
+        (wire
+          (path TopLayer 7870
+            543616 1274971
+            543616 2120600
+            727959 2304943
+            727959 2305689
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            494300 995900
+            505692 1007292
+            505692 1250872
+            529791 1274971
+            543616 1274971
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            707399 2326250
+            707398 2326250
+            707398 2339842
+            777687 2410131
+            777687 2429078
+            793377 2444768
+            807100 2444768
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            727959 2305689
+            707399 2326250
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            656500 2249400
+            656500 2275351
+            707399 2326250
+          )
+        )
+        (via via0 727959 2305689
+        )
+        (via via0 543616 1274971
+        )
+        (via via0 494300 995900
+        )
+        (wire
+          (path BottomLayer 7870
+            807100 2470600
+            807100 2444768
+          )
+        )
+      )
+      (net EXP_SPARE
+        (wire
+          (path BottomLayer 7870
+            590400 2175200
+            616232 2175200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            682100 2249400
+            682100 2224082
+            663386 2205368
+            632677 2205368
+            616232 2188923
+            616232 2175200
+          )
+        )
+      )
+      (net BLADE_DATA_MCU
+        (wire
+          (path TopLayer 7870
+            691662 1213898
+            928375 1213898
+            1012086 1130187
+            1012086 1114293
+            1024179 1102200
+            1063000 1102200
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            526628 1243804
+            521130 1243804
+            314134 1450800
+            246898 1450800
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            543616 1213898
+            543616 1226816
+            526628 1243804
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            543616 996183
+            543616 1213898
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            691662 1213898
+            543616 1213898
+          )
+        )
+        (via via0 691662 1213898
+        )
+        (wire
+          (path TopLayer 7870
+            544300 995900
+            543899 995900
+            543616 996183
+          )
+        )
+        (via via0 526628 1243804
+        )
+        (via via0 543616 996183
+        )
+        (wire
+          (path BottomLayer 7870
+            273400 1450800
+            246898 1450800
+          )
+        )
+        (via via0 246898 1450800
+        )
+      )
+      (net PDM_CLK_MCU
+        (wire
+          (path TopLayer 7870
+            1137932 2539400
+            1137932 2539971
+            1137157 2540746
+            1137156 2540746
+            1137141 2540761
+            1137141 2648043
+            1152498 2663400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1112100 2539400
+            1137932 2539400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1179000 2663400
+            1152498 2663400
+          )
+        )
+      )
+      (net BLADE_DATA_DRV
+        (wire
+          (path BottomLayer 7870
+            225512 1450800
+            225512 1439828
+            218174 1432490
+            218174 1375982
+            224821 1369335
+            264175 1369335
+            324700 1429860
+            324700 1476400
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            199000 1450800
+            225512 1450800
+          )
+        )
+      )
+      (net LCD_DC_MCU
+        (wire
+          (path TopLayer 7870
+            452800 1092400
+            425838 1092400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            389147 1098975
+            419263 1098975
+            425838 1092400
+          )
+        )
+        (via via0 389147 1098975
+        )
+        (wire
+          (path BottomLayer 7870
+            655241 927510
+            534152 927510
+            389147 1072515
+            389147 1098975
+          )
+        )
+        (via via0 655241 927510
+        )
+        (wire
+          (path TopLayer 7870
+            844300 995900
+            844300 898865
+            824784 879349
+            703402 879349
+            655241 927510
+          )
+        )
+      )
+      (net LCD_CS_MCU
+        (wire
+          (path TopLayer 7870
+            794300 995900
+            788289 989889
+            779789 989889
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            779789 989889
+            733482 1036196
+            733482 1089759
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            521600 1118232
+            522675 1119307
+            703934 1119307
+            733482 1089759
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            521600 1092400
+            521600 1118232
+          )
+        )
+        (via via0 733482 1089759
+        )
+        (via via0 779789 989889
+        )
+      )
+      (net LCD_MOSI_MCU
+        (wire
+          (path TopLayer 7870
+            1008632 1066568
+            911988 1066568
+            899949 1078607
+            883544 1078607
+            871506 1066569
+            871506 1066568
+            617331 1066568
+            617316 1066583
+            592354 1066583
+            592339 1066568
+            590600 1066568
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            816443 899407
+            983603 1066567
+            1008632 1066567
+            1008632 1066568
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            590600 1092400
+            590600 1066568
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            744300 995900
+            744300 956418
+          )
+        )
+        (via via0 1008632 1066568
+        )
+        (via via0 816443 899407
+        )
+        (wire
+          (path TopLayer 7870
+            744300 956418
+            759432 956418
+            816443 899407
+          )
+        )
+      )
+      (net LCD_SCK_MCU
+        (wire
+          (path TopLayer 7870
+            694300 956418
+            691865 956418
+            690144 958139
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            690144 958139
+            690144 1095837
+            687006 1098975
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            694300 995900
+            694300 956418
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            649600 1092400
+            676562 1092400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            687006 1098975
+            683137 1098975
+            676562 1092400
+          )
+        )
+        (via via0 687006 1098975
+        )
+        (via via0 690144 958139
+        )
+      )
+      (net LCD_BL_PWM
+        (wire
+          (path TopLayer 7870
+            444300 1035382
+            1050373 1035382
+            1120111 1105120
+            1182422 1105120
+            1254603 1177301
+            1254603 3308968
+            1243103 3320468
+            1220500 3320468
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1220500 3346300
+            1220500 3320468
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            444300 995900
+            444300 1035382
+          )
+        )
+      )
+      (net USB_DP
+        (wire
+          (path TopLayer 10000
+            1013800 945500
+            1112100 945500
+          )
+          (type protect)
+        )
+      )
+      (net USB_DM
+        (wire
+          (path TopLayer 10000
+            1013800 895500
+            1112100 895700
+          )
+          (type protect)
+        )
+      )
+      (net CHG_ISET
+        (wire
+          (path BottomLayer 7870
+            659400 3897600
+            663147 3893853
+            663147 3422198
+            630881 3389932
+            622489 3389932
+            453584 3221027
+            196073 3221027
+            190568 3226532
+            190568 3613015
+            180968 3622615
+            180968 3683022
+            261313 3763367
+            261313 3763368
+            285400 3763368
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            285400 3789200
+            285400 3763368
+          )
+        )
+      )
+      (net CHG_TMR
+        (wire
+          (path TopLayer 7870
+            345712 4060613
+            381681 4096582
+            894009 4096582
+            918819 4071772
+            918819 3957783
+            909368 3948332
+            909368 3913563
+            847359 3851554
+            812379 3851554
+            805418 3844593
+            724584 3844593
+            715234 3853943
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            698800 3897600
+            698800 3870377
+            715234 3853943
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            108100 4015800
+            133932 4015800
+          )
+        )
+        (via via0 715234 3853943
+        )
+        (via via0 345712 4060613
+        )
+        (wire
+          (path BottomLayer 7870
+            133932 4015800
+            133932 4029523
+            165022 4060613
+            345712 4060613
+          )
+        )
+      )
+      (net BUCK_EN
+        (wire
+          (path BottomLayer 7870
+            157500 2864300
+            157500 2838468
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            224400 2797200
+            192798 2797200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            192798 2797200
+            192798 2816893
+            171223 2838468
+            157500 2838468
+          )
+        )
+      )
+      (net BOOST_ENABLE
+        (wire
+          (path BottomLayer 7870
+            332538 3385800
+            332538 3422938
+            348368 3438768
+            348368 3464600
+          )
+        )
+        (via via0 374200 3464600
+        )
+        (wire
+          (path TopLayer 7870
+            216400 3248000
+            216400 3277576
+            286222 3347398
+            322788 3347398
+            374200 3398810
+            374200 3464600
+          )
+        )
+        (via via0 216400 3248000
+        )
+        (wire
+          (path BottomLayer 7870
+            374200 3464600
+            348368 3464600
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            354300 3385800
+            332538 3385800
+          )
+        )
+      )
+      (net TOUCH_CS4
+        (wire
+          (path TopLayer 7870
+            340474 2436304
+            340474 2232728
+            303310 2195564
+            287842 2195564
+            226400 2257006
+            226400 2293200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            311300 2440900
+            335878 2440900
+            340474 2436304
+          )
+        )
+        (via via0 226400 2293200
+        )
+        (via via0 340474 2436304
+        )
+      )
+      (net TOUCH_CS6
+        (wire
+          (path BottomLayer 7870
+            280490 2505460
+            286140 2505460
+            311300 2480300
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            108300 2261263
+            87261 2261263
+            73789 2274735
+            73789 2530692
+            84786 2541689
+            210685 2541689
+            218198 2549202
+            236748 2549202
+            280490 2505460
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            108300 2261263
+            113394 2266357
+            113394 2419774
+            108300 2424868
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            108300 2450700
+            108300 2424868
+          )
+        )
+        (via via0 280490 2505460
+        )
+        (via via0 108300 2261263
+        )
+      )
+      (net HAPTIC_EN
+        (wire
+          (path BottomLayer 7870
+            905500 3336800
+            905500 3362632
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            931100 3553200
+            895558 3553200
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            895558 3553200
+            895558 3372574
+            905500 3362632
+          )
+        )
+      )
+      (net HAPTIC_ENABLE
+        (wire
+          (path BottomLayer 7870
+            1148124 2434098
+            1206090 2376132
+            1206090 2358914
+            1254603 2310401
+            1254603 557005
+            1234556 536958
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            901787 3148058
+            918918 3130927
+            918918 2637411
+            1058232 2498097
+            1084125 2498097
+            1148124 2434098
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 3277400
+            905500 3251568
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            905500 3251568
+            895244 3241312
+            895244 3154601
+            901787 3148058
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1013800 545500
+            1080657 545500
+            1080657 545501
+            1094328 559172
+            1212342 559172
+            1234556 536958
+          )
+        )
+        (via via0 901787 3148058
+        )
+        (via via0 1148124 2434098
+        )
+        (via via0 1234556 536958
+        )
+      )
+      (net I2S_LRCLK
+        (wire
+          (path TopLayer 7870
+            610200 2391800
+            598738 2391800
+            560443 2430095
+            560443 2482475
+            627503 2549535
+            987155 2549535
+            1052480 2484210
+            1059478 2484210
+            1154931 2388757
+            1154931 1246973
+            1207620 1194284
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1013800 645500
+            1070736 645500
+            1141274 574962
+            1177714 574962
+            1181727 578975
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            1207620 1194284
+            1234355 1167549
+            1234355 631603
+            1181727 578975
+          )
+        )
+        (via via0 1207620 1194284
+        )
+        (via via0 1181727 578975
+        )
+      )
+      (net IMU_INT1
+        (wire
+          (path TopLayer 7870
+            364282 745500
+            365749 746967
+            627403 746967
+          )
+        )
+        (wire
+          (path BottomLayer 7870
+            794100 1466500
+            794100 1307773
+            711464 1225137
+            711464 831028
+            627403 746967
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            324800 745500
+            364282 745500
+          )
+        )
+        (via via0 627403 746967
+        )
+      )
+      (net PDM_CLK_MIC
+        (wire
+          (path TopLayer 7870
+            1141700 2956900
+            1141700 2988502
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1141700 2988502
+            1195001 2988502
+            1200232 2983271
+            1200232 2817935
+            1131012 2748715
+            1131012 2663400
+          )
+        )
+        (wire
+          (path TopLayer 7870
+            1104500 2663400
+            1131012 2663400
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,1735 @@
+{
+  "blender_version": "4.3.2",
+  "source": "/workspace/shared/spirit_mechanical_v02/model/Spirit_EVT_mechanical_v02.blend",
+  "unit_system": "METRIC",
+  "scale_length": 0.0010000000474974513,
+  "length_unit": "MILLIMETERS",
+  "objects": [
+    {
+      "name": "P01_front_sculpted_shell",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -30.0,
+          -13.0,
+          0.0
+        ],
+        [
+          30.0,
+          190.0,
+          19.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        60.0,
+        203.0,
+        19.5
+      ],
+      "vertices": 5825,
+      "faces": 11670,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 41599.12874930469,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P02_rear_panel",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -30.0,
+          0.0,
+          -30.0
+        ],
+        [
+          30.0,
+          190.0,
+          0.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        60.0,
+        190.0,
+        30.0
+      ],
+      "vertices": 4025,
+      "faces": 8078,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 54377.12154906013,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P03_removable_PCB_carrier",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -23.5,
+          34.0,
+          -2.0
+        ],
+        [
+          23.5,
+          143.0,
+          3.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        47.0,
+        109.0,
+        5.0
+      ],
+      "vertices": 890,
+      "faces": 1796,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 2931.5745468203913,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P04_18650_open_cradle",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -21.5,
+          58.0,
+          -26.950000762939453
+        ],
+        [
+          21.5,
+          137.0,
+          -15.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        43.0,
+        79.0,
+        11.950000762939453
+      ],
+      "vertices": 1516,
+      "faces": 3060,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 6988.841639644465,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P05_FPC_bare_panel_retainer",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -26.100000381469727,
+          121.505615234375,
+          13.899999618530273
+        ],
+        [
+          26.100000381469727,
+          160.8000030517578,
+          15.899999618530273
+        ]
+      ],
+      "dimensions_scene_units": [
+        52.20000076293945,
+        39.29438781738281,
+        2.0
+      ],
+      "vertices": 742,
+      "faces": 1488,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1053.517393490304,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P06_crown_blank_plug",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          182.0,
+          -15.0
+        ],
+        [
+          15.0,
+          193.5,
+          15.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        30.0,
+        11.5,
+        30.0
+      ],
+      "vertices": 384,
+      "faces": 764,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 6628.737803238204,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P07_20mm_speaker_nest",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          -12.649999618530273,
+          67.3499984741211,
+          7.699999809265137
+        ],
+        [
+          21.0,
+          92.6500015258789,
+          15.300000190734863
+        ]
+      ],
+      "dimensions_scene_units": [
+        33.64999961853027,
+        25.300003051757812,
+        7.600000381469727
+      ],
+      "vertices": 1130,
+      "faces": 2268,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 2,
+      "signed_volume_scene_units3": 1649.8248238395772,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P11_LRA_rear_seat",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          4.0,
+          134.5,
+          -27.200000762939453
+        ],
+        [
+          24.399999618530273,
+          163.0,
+          -21.69999885559082
+        ]
+      ],
+      "dimensions_scene_units": [
+        20.399999618530273,
+        28.5,
+        5.500001907348633
+      ],
+      "vertices": 1921,
+      "faces": 3854,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1046.4883378759412,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P12_LRA_removable_axial_stop",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          12.5,
+          134.5,
+          -21.700000762939453
+        ],
+        [
+          21.5,
+          163.0,
+          -20.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        9.0,
+        28.5,
+        1.2000007629394531
+      ],
+      "vertices": 584,
+      "faces": 1176,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 273.1041289798985,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "P08_M2p5_fit_coupon",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          42.0,
+          20.0,
+          0.0
+        ],
+        [
+          98.0,
+          40.0,
+          4.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        56.0,
+        20.0,
+        4.0
+      ],
+      "vertices": 879,
+      "faces": 1770,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 4295.4338785915825,
+      "custom_properties": {},
+      "hidden_render": true
+    },
+    {
+      "name": "P09_PCB_slot_sliding_fit_coupon",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          40.0,
+          57.5,
+          0.0
+        ],
+        [
+          110.0,
+          82.5,
+          6.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        70.0,
+        25.0,
+        6.0
+      ],
+      "vertices": 128,
+      "faces": 252,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 9592.715112069114,
+      "custom_properties": {},
+      "hidden_render": true
+    },
+    {
+      "name": "P10_10mm_sliding_test_peg",
+      "collections": [
+        "01_PRINTED_PARTS_mm"
+      ],
+      "bounds_scene_units": [
+        [
+          100.0,
+          65.0,
+          0.0
+        ],
+        [
+          110.0,
+          75.0,
+          6.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        10.0,
+        10.0,
+        6.0
+      ],
+      "vertices": 8,
+      "faces": 12,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 600.0,
+      "custom_properties": {},
+      "hidden_render": true
+    },
+    {
+      "name": "DUMMY_PCB_34x105_UNROUTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -17.0,
+          36.0,
+          0.0
+        ],
+        [
+          17.0,
+          141.0,
+          1.600000023841858
+        ]
+      ],
+      "dimensions_scene_units": [
+        34.0,
+        105.0,
+        1.600000023841858
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 5699.391894225174,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_PCB_top_allowance_NOT_placement",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          38.0,
+          1.5999999046325684
+        ],
+        [
+          15.0,
+          139.0,
+          5.599999904632568
+        ]
+      ],
+      "dimensions_scene_units": [
+        30.0,
+        101.0,
+        4.0
+      ],
+      "vertices": 112,
+      "faces": 110,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 7299.09607248563,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_PCB_bottom_allowance_NOT_placement",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          38.0,
+          -3.0
+        ],
+        [
+          15.0,
+          139.0,
+          0.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        30.0,
+        101.0,
+        3.0
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 9077.98586899702,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_Keeppower_400T_MAKER_MAX_19p1x69p2",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -9.550000190734863,
+          61.400001525878906,
+          -24.550003051757812
+        ],
+        [
+          9.550000190734863,
+          130.60000610351562,
+          -5.449997901916504
+        ]
+      ],
+      "dimensions_scene_units": [
+        19.100000381469727,
+        69.20000457763672,
+        19.10000514984131
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 19813.109578710417,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_HOTHMI_MAX_BODY_CONSERVATIVE_2D_ENVELOPE",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -17.899999618530273,
+          119.60000610351562,
+          16.200000762939453
+        ],
+        [
+          17.899999618530273,
+          157.89999389648438,
+          18.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        35.79999923706055,
+        38.29998779296875,
+        1.7999992370605469
+      ],
+      "vertices": 208,
+      "faces": 91,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1917.2552524576213,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_rear_perimeter_pad_0p3_MAX_BODY_TRIAL",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -17.399999618530273,
+          138.0,
+          15.899999618530273
+        ],
+        [
+          -16.19999885559082,
+          142.0,
+          16.19999885559082
+        ]
+      ],
+      "dimensions_scene_units": [
+        1.2000007629394531,
+        4.0,
+        0.2999992370605469
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 1.3219948109850144,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_rear_perimeter_pad_0p3_MAX_BODY_TRIAL.001",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          16.19999885559082,
+          138.0,
+          15.899999618530273
+        ],
+        [
+          17.399999618530273,
+          142.0,
+          16.19999885559082
+        ]
+      ],
+      "dimensions_scene_units": [
+        1.2000007629394531,
+        4.0,
+        0.2999992370605469
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 1.3219948109849966,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_front_perimeter_pad_0p3_MAX_BODY_TRIAL",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -17.5,
+          138.5,
+          18.0
+        ],
+        [
+          -16.900001525878906,
+          141.5,
+          18.299999237060547
+        ]
+      ],
+      "dimensions_scene_units": [
+        0.5999984741210938,
+        3.0,
+        0.2999992370605469
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 0.45799571608387346,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_front_perimeter_pad_0p3_MAX_BODY_TRIAL.001",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          16.900001525878906,
+          138.5,
+          18.0
+        ],
+        [
+          17.5,
+          141.5,
+          18.299999237060547
+        ]
+      ],
+      "dimensions_scene_units": [
+        0.5999984741210938,
+        3.0,
+        0.2999992370605469
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 0.457995716083861,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_FPC47p5_ROUTE_ASSUMPTION_R6p7",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -2.799999952316284,
+          102.7249984741211,
+          3.0250000953674316
+        ],
+        [
+          2.799999952316284,
+          126.05133056640625,
+          16.774999618530273
+        ]
+      ],
+      "dimensions_scene_units": [
+        5.599999904632568,
+        23.326332092285156,
+        13.749999523162842
+      ],
+      "vertices": 268,
+      "faces": 266,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 93.08351931142195,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_XHXDZ_20MM_8ohm2W_MAX20p3x5p4",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -10.149999618530273,
+          69.8499984741211,
+          10.5
+        ],
+        [
+          10.149999618530273,
+          90.1500015258789,
+          15.899999618530273
+        ]
+      ],
+      "dimensions_scene_units": [
+        20.299999237060547,
+        20.300003051757812,
+        5.399999618530273
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1746.487747405632,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_LEADER_LD0832BC0195F_BODY_MAX8p1x3p35",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          12.949999809265137,
+          143.9499969482422,
+          -25.849998474121094
+        ],
+        [
+          21.049999237060547,
+          152.0500030517578,
+          -22.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.09999942779541,
+        8.100006103515625,
+        3.3499984741210938
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 172.50215426479605,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_LRA_bottom_adhesive_NOMINAL0p15",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          13.5,
+          144.5,
+          -26.0
+        ],
+        [
+          20.5,
+          151.5,
+          -25.849998474121094
+        ]
+      ],
+      "dimensions_scene_units": [
+        7.0,
+        7.0,
+        0.15000152587890625
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 5.768612393211583,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_LRA_top_foam_NOMINAL0p3",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          13.5,
+          144.5,
+          -22.5
+        ],
+        [
+          20.5,
+          151.5,
+          -22.200000762939453
+        ]
+      ],
+      "dimensions_scene_units": [
+        7.0,
+        7.0,
+        0.2999992370605469
+      ],
+      "vertices": 192,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 11.537078084516452,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_LRA_short_FPC_solder_tail_MAX_LENGTH10p6",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          6.400000095367432,
+          145.64999389648438,
+          -25.875
+        ],
+        [
+          12.950000762939453,
+          150.35000610351562,
+          -25.724998474121094
+        ]
+      ],
+      "dimensions_scene_units": [
+        6.5500006675720215,
+        4.70001220703125,
+        0.15000152587890625
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 4.554391692182122,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_SEMITEC103AT2_MAX_4x3p7x2p4",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          9.550000190734863,
+          94.0,
+          -16.850000381469727
+        ],
+        [
+          11.949999809265137,
+          98.0,
+          -13.149999618530273
+        ]
+      ],
+      "dimensions_scene_units": [
+        2.3999996185302734,
+        4.0,
+        3.700000762939453
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 34.656968167290536,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_NFC_module_UNSELECTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -10.0,
+          150.0,
+          -17.5
+        ],
+        [
+          10.0,
+          170.0,
+          -14.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        20.0,
+        20.0,
+        3.0
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1196.1759190488733,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_NFC_antenna_UNSELECTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -14.0,
+          138.5,
+          -20.0
+        ],
+        [
+          14.0,
+          173.5,
+          -19.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        28.0,
+        35.0,
+        1.0
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 974.285932959554,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_MIC_carrier_UNVERIFIED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          8.0,
+          106.0,
+          12.0
+        ],
+        [
+          16.0,
+          114.0,
+          16.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        8.0,
+        4.0
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 254.24595768738715,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS1_grip_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          61.0,
+          17.100000381469727
+        ],
+        [
+          -7.0,
+          79.0,
+          17.30000114440918
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        18.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 28.53981608307174,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS2_grip_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          7.0,
+          61.0,
+          17.100000381469727
+        ],
+        [
+          15.0,
+          79.0,
+          17.30000114440918
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        18.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 28.539816083071855,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS3_grip_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          82.0,
+          17.100000381469727
+        ],
+        [
+          -7.0,
+          100.0,
+          17.30000114440918
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        18.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 28.539816083072424,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS4_grip_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          7.0,
+          82.0,
+          17.100000381469727
+        ],
+        [
+          15.0,
+          100.0,
+          17.30000114440918
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        18.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 28.539816083072537,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS5_rim_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          -14.0,
+          159.0,
+          17.299999237060547
+        ],
+        [
+          -6.0,
+          165.0,
+          17.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        6.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 9.459729904086203,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "DUMMY_CS6_rim_foil_UNPRINTED",
+      "collections": [
+        "02_UNPRINTED_DUMMY_COMPONENTS"
+      ],
+      "bounds_scene_units": [
+        [
+          6.0,
+          159.0,
+          17.299999237060547
+        ],
+        [
+          14.0,
+          165.0,
+          17.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        6.0,
+        0.20000076293945312
+      ],
+      "vertices": 96,
+      "faces": 98,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 16,
+      "signed_volume_scene_units3": 9.45972990408626,
+      "custom_properties": {},
+      "hidden_render": false
+    },
+    {
+      "name": "RF_15mm_ANTENNA_REVIEW",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -24.0,
+          19.0,
+          -15.0
+        ],
+        [
+          24.0,
+          59.0,
+          18.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        48.0,
+        40.0,
+        33.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 63360.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "FPC_CHIP_REGION_NO_BEND_UNDIMENSIONED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -7.5,
+          109.69999694824219,
+          15.600000381469727
+        ],
+        [
+          7.5,
+          119.69999694824219,
+          17.600000381469727
+        ]
+      ],
+      "dimensions_scene_units": [
+        15.0,
+        10.0,
+        2.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 300.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "FPC_SOCKET_LAYOUT_REACH_CONSTRAINT",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -6.5,
+          121.55133056640625,
+          1.5999999046325684
+        ],
+        [
+          6.5,
+          130.55133056640625,
+          5.599999904632568
+        ]
+      ],
+      "dimensions_scene_units": [
+        13.0,
+        9.0,
+        4.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 468.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "FPC_LATCH_TOOL_AFTER_CARRIER_REMOVAL",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -7.0,
+          118.05133056640625,
+          3.6000003814697266
+        ],
+        [
+          7.0,
+          134.05133056640625,
+          13.600000381469727
+        ]
+      ],
+      "dimensions_scene_units": [
+        14.0,
+        16.0,
+        10.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 2240.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "wire_corridor",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          15.5,
+          60.0,
+          -10.5
+        ],
+        [
+          20.5,
+          128.0,
+          -5.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        5.0,
+        68.0,
+        5.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1699.9999999999998,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "local_header_10mm_TBD",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -15.0,
+          94.0,
+          1.5999999046325684
+        ],
+        [
+          -5.0,
+          106.0,
+          11.600000381469727
+        ]
+      ],
+      "dimensions_scene_units": [
+        10.0,
+        12.0,
+        10.000000476837158
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1200.000057220459,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "USB_service_NOT_VALIDATED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          18.0,
+          127.0,
+          -12.0
+        ],
+        [
+          32.0,
+          145.0,
+          -4.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        14.0,
+        18.0,
+        8.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 2016.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "hard_off_switch_NOT_VALIDATED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -31.0,
+          128.0,
+          -13.0
+        ],
+        [
+          -19.0,
+          144.0,
+          -3.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        12.0,
+        16.0,
+        10.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1920.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "user_button_NO_FINAL_MOUNT",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -4.0,
+          93.0,
+          9.0
+        ],
+        [
+          4.0,
+          101.0,
+          15.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        8.0,
+        8.0,
+        6.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 384.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "speaker_rear_air_UNTUNED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -11.5,
+          68.5,
+          2.0
+        ],
+        [
+          11.5,
+          91.5,
+          7.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        23.0,
+        23.0,
+        5.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 2645.000000000001,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "speaker_solder_tail_UNVERIFIED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -11.5,
+          66.0,
+          9.0
+        ],
+        [
+          -4.5,
+          74.0,
+          14.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        7.0,
+        8.0,
+        5.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 279.99999999999983,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "battery_factory_wire_EXIT_UNVERIFIED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -5.0,
+          131.1999969482422,
+          -18.5
+        ],
+        [
+          5.0,
+          149.1999969482422,
+          -11.5
+        ]
+      ],
+      "dimensions_scene_units": [
+        10.0,
+        18.0,
+        7.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 1260.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "NTC_side_allowance",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          9.550000190734863,
+          92.0,
+          -18.0
+        ],
+        [
+          13.050000190734863,
+          100.0,
+          -12.0
+        ]
+      ],
+      "dimensions_scene_units": [
+        3.5,
+        8.0,
+        6.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 168.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "LRA_tail_UV_AND_LEAD_REVIEW",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          6.425000190734863,
+          145.5,
+          -25.75
+        ],
+        [
+          12.925000190734863,
+          150.5,
+          -23.049999237060547
+        ]
+      ],
+      "dimensions_scene_units": [
+        6.5,
+        5.0,
+        2.700000762939453
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 87.75002479553214,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "LRA_soldered_flexible_wire_EXIT",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          0.5,
+          145.0,
+          -25.799999237060547
+        ],
+        [
+          6.5,
+          151.0,
+          -22.799999237060547
+        ]
+      ],
+      "dimensions_scene_units": [
+        6.0,
+        6.0,
+        3.0
+      ],
+      "vertices": 8,
+      "faces": 6,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 108.0,
+      "custom_properties": {
+        "status": "Review volume; selected-body geometry does not validate harness, thermal attachment or service motion."
+      },
+      "hidden_render": true
+    },
+    {
+      "name": "FPC_ROUTED_SERVICE_RADIUS_UNVERIFIED",
+      "collections": [
+        "03_REVIEW_VOLUMES_NOT_FIT_APPROVAL"
+      ],
+      "bounds_scene_units": [
+        [
+          -4.5,
+          101.9000015258789,
+          2.200000047683716
+        ],
+        [
+          4.5,
+          126.05133056640625,
+          17.600000381469727
+        ]
+      ],
+      "dimensions_scene_units": [
+        9.0,
+        24.151329040527344,
+        15.40000033378601
+      ],
+      "vertices": 268,
+      "faces": 266,
+      "non_manifold_edges": 0,
+      "boundary_edges": 0,
+      "non_contiguous_edges": 0,
+      "zero_area_faces": 0,
+      "signed_volume_scene_units3": 854.8478232608068,
+      "custom_properties": {},
+      "hidden_render": true
+    }
+  ]
+}

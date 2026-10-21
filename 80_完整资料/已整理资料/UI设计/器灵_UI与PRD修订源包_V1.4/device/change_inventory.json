@@ -1,0 +1,570 @@
+{
+  "version": "V1.4 / display-only R2",
+  "date": "2026-10-18",
+  "source_package": "spirit_display_only_revision",
+  "source_unchanged": true,
+  "state_count": 66,
+  "content_changed_ids": [
+    "D21",
+    "D22",
+    "D23",
+    "D24",
+    "D25",
+    "D26",
+    "M01",
+    "M02"
+  ],
+  "screen_graphics_changed_ids": [
+    "D21",
+    "D25",
+    "M02"
+  ],
+  "state_changes": [
+    {
+      "id": "D01",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "等你开口",
+      "new_title": "等你开口"
+    },
+    {
+      "id": "D02",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "被叫到名字",
+      "new_title": "被叫到名字"
+    },
+    {
+      "id": "D03",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "认真听你说",
+      "new_title": "认真听你说"
+    },
+    {
+      "id": "D04",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "想一想",
+      "new_title": "想一想"
+    },
+    {
+      "id": "D05",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "回答你",
+      "new_title": "回答你"
+    },
+    {
+      "id": "D06",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "留一点空白",
+      "new_title": "留一点空白"
+    },
+    {
+      "id": "D07",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "听到你打断",
+      "new_title": "听到你打断"
+    },
+    {
+      "id": "D08",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "没有听清",
+      "new_title": "没有听清"
+    },
+    {
+      "id": "D09",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "这轮聊完了",
+      "new_title": "这轮聊完了"
+    },
+    {
+      "id": "D10",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "网络断开",
+      "new_title": "网络断开"
+    },
+    {
+      "id": "D11",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "这次没答上",
+      "new_title": "这次没答上"
+    },
+    {
+      "id": "D12",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "网络回来了",
+      "new_title": "网络回来了"
+    },
+    {
+      "id": "D13",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "离线也能陪你",
+      "new_title": "离线也能陪你"
+    },
+    {
+      "id": "D14",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "先站稳，再开始",
+      "new_title": "先站稳，再开始"
+    },
+    {
+      "id": "D15",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "跟随本地节拍",
+      "new_title": "跟随本地节拍"
+    },
+    {
+      "id": "D16",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "动作被收到了",
+      "new_title": "动作被收到了"
+    },
+    {
+      "id": "D17",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "本次练习结束",
+      "new_title": "本次练习结束"
+    },
+    {
+      "id": "D18",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "麦克风关闭",
+      "new_title": "麦克风关闭"
+    },
+    {
+      "id": "D19",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "关麦，也会开心",
+      "new_title": "关麦，也会开心"
+    },
+    {
+      "id": "D20",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "关麦中的战斗",
+      "new_title": "关麦中的战斗"
+    },
+    {
+      "id": "D21",
+      "changed_fields": [
+        "title",
+        "sub",
+        "note",
+        "voice",
+        "voice_endpoint",
+        "memory_action",
+        "memory_source",
+        "existing_memory_update_allowed",
+        "game_memory_retention_prompt"
+      ],
+      "old_title": "先问你是否记住",
+      "new_title": "对话新记忆待许可"
+    },
+    {
+      "id": "D22",
+      "changed_fields": [
+        "title",
+        "note",
+        "voice_endpoint",
+        "memory_action",
+        "memory_source",
+        "existing_memory_update_allowed",
+        "game_memory_retention_prompt"
+      ],
+      "old_title": "许可后的保存",
+      "new_title": "对话新记忆保存中"
+    },
+    {
+      "id": "D23",
+      "changed_fields": [
+        "title",
+        "note",
+        "voice_endpoint",
+        "memory_action",
+        "memory_source",
+        "existing_memory_update_allowed",
+        "game_memory_retention_prompt"
+      ],
+      "old_title": "确实保存好了",
+      "new_title": "对话新记忆已保存"
+    },
+    {
+      "id": "D24",
+      "changed_fields": [
+        "title",
+        "note",
+        "voice_endpoint",
+        "memory_action",
+        "memory_source",
+        "existing_memory_update_allowed",
+        "game_memory_retention_prompt"
+      ],
+      "old_title": "这次没有存好",
+      "new_title": "对话新记忆未保存"
+    },
+    {
+      "id": "D25",
+      "changed_fields": [
+        "title",
+        "label",
+        "sub",
+        "note",
+        "voice",
+        "voice_endpoint",
+        "memory_action",
+        "read_only",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "先找到要改的内容",
+      "new_title": "查阅记忆前定位"
+    },
+    {
+      "id": "D26",
+      "changed_fields": [
+        "note",
+        "voice_endpoint",
+        "memory_action",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "忘掉哪一条",
+      "new_title": "忘掉哪一条"
+    },
+    {
+      "id": "D27",
+      "changed_fields": [
+        "voice_endpoint",
+        "memory_action",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "正在处理遗忘",
+      "new_title": "正在处理遗忘"
+    },
+    {
+      "id": "D28",
+      "changed_fields": [
+        "voice_endpoint",
+        "memory_action",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "遗忘结果已确认",
+      "new_title": "遗忘结果已确认"
+    },
+    {
+      "id": "D29",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "低电，仍可使用",
+      "new_title": "低电，仍可使用"
+    },
+    {
+      "id": "D30",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "先暂停高耗电玩法",
+      "new_title": "先暂停高耗电玩法"
+    },
+    {
+      "id": "D31",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "准备安全关机",
+      "new_title": "准备安全关机"
+    },
+    {
+      "id": "D32",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "充电时，好好聊",
+      "new_title": "充电时，好好聊"
+    },
+    {
+      "id": "D33",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "充电且麦克风关闭",
+      "new_title": "充电且麦克风关闭"
+    },
+    {
+      "id": "D34",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "放好了，但没充上",
+      "new_title": "放好了，但没充上"
+    },
+    {
+      "id": "D35",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "严重异常优先",
+      "new_title": "严重异常优先"
+    },
+    {
+      "id": "D36",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "恢复前再确认",
+      "new_title": "恢复前再确认"
+    },
+    {
+      "id": "D37",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "入座，结束这一局",
+      "new_title": "入座，结束这一局"
+    },
+    {
+      "id": "D38",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "取下，重新出发",
+      "new_title": "取下，重新出发"
+    },
+    {
+      "id": "D39",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "浅眠仍可唤醒",
+      "new_title": "浅眠仍可唤醒"
+    },
+    {
+      "id": "D40",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "深眠待按键唤醒",
+      "new_title": "深眠待按键唤醒"
+    },
+    {
+      "id": "D41",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "正在关机",
+      "new_title": "正在关机"
+    },
+    {
+      "id": "D42",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "关机完成提示",
+      "new_title": "关机完成提示"
+    },
+    {
+      "id": "D43",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "开机识别剑身",
+      "new_title": "开机识别剑身"
+    },
+    {
+      "id": "D44",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "没有认出剑身",
+      "new_title": "没有认出剑身"
+    },
+    {
+      "id": "M01",
+      "changed_fields": [
+        "title",
+        "note",
+        "voice_endpoint",
+        "memory_action",
+        "memory_source",
+        "existing_memory_update_allowed",
+        "game_memory_retention_prompt"
+      ],
+      "old_title": "保存结果尚未确认",
+      "new_title": "对话保存结果待核对"
+    },
+    {
+      "id": "M02",
+      "changed_fields": [
+        "title",
+        "label",
+        "sub",
+        "badge",
+        "note",
+        "voice",
+        "voice_endpoint",
+        "memory_action",
+        "read_only",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "更正确认完成",
+      "new_title": "记忆只读查阅"
+    },
+    {
+      "id": "M03",
+      "changed_fields": [
+        "voice_endpoint",
+        "memory_action",
+        "existing_memory_update_allowed"
+      ],
+      "old_title": "删除尚未完成",
+      "new_title": "删除尚未完成"
+    },
+    {
+      "id": "M04",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "充电状态还不确定",
+      "new_title": "充电状态还不确定"
+    },
+    {
+      "id": "M05",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "关麦结果未确认",
+      "new_title": "关麦结果未确认"
+    },
+    {
+      "id": "M06",
+      "changed_fields": [
+        "voice_endpoint"
+      ],
+      "old_title": "浅眠且麦克风关闭",
+      "new_title": "浅眠且麦克风关闭"
+    }
+  ],
+  "primary_changed_boards": [
+    "01_圆屏与输入物理分离",
+    "03_离线隐私与记忆",
+    "05_异常与补充分支"
+  ],
+  "all_board_headers": "R2",
+  "changed_files": [
+    "README.md",
+    "boards/01_圆屏与输入物理分离.png",
+    "boards/01_圆屏与输入物理分离.svg",
+    "boards/02_表情与对话.png",
+    "boards/02_表情与对话.svg",
+    "boards/03_离线隐私与记忆.png",
+    "boards/03_离线隐私与记忆.svg",
+    "boards/04_电源与恢复.png",
+    "boards/04_电源与恢复.svg",
+    "boards/05_异常与补充分支.png",
+    "boards/05_异常与补充分支.svg",
+    "boards/06_外部控制状态反馈.png",
+    "boards/06_外部控制状态反馈.svg",
+    "boards/07_真实结果与安全完成.png",
+    "boards/07_真实结果与安全完成.svg",
+    "index.html",
+    "qa/pdf-1.png",
+    "qa/pdf-2.png",
+    "qa/pdf-3.png",
+    "qa/pdf-4.png",
+    "qa/pdf-5.png",
+    "qa/pdf-6.png",
+    "qa/pdf-7.png",
+    "qa/pdf_contact_sheet.png",
+    "qa/static_validation.json",
+    "screens/D03.png",
+    "screens/D05.png",
+    "screens/D21.png",
+    "screens/D21.svg",
+    "screens/D25.png",
+    "screens/D25.svg",
+    "screens/D32.png",
+    "screens/M02.png",
+    "screens/M02.svg",
+    "source/__pycache__/face_primitives.cpython-312.pyc",
+    "source/base_states.json",
+    "source/build_revision.py",
+    "source/extension_states.json",
+    "source/test_static.cjs",
+    "spec/build_revision_doc.py",
+    "spec/qa/page-1.png",
+    "spec/qa/page-2.png",
+    "spec/qa/page-3.png",
+    "spec/qa/page-4.png",
+    "spec/qa/page-5.png",
+    "spec/qa/page-6.png",
+    "spec/qa/器灵_非触摸显示屏_补充修订.pdf",
+    "spec/器灵_非触摸显示屏_补充修订.docx",
+    "spec/器灵_非触摸显示屏_补充修订.md",
+    "spec/旧66状态修订映射.md",
+    "spec/旧条款替代清单.md",
+    "states.json",
+    "states_mapping.md",
+    "器灵_非触摸圆屏完整状态板.pdf"
+  ],
+  "new_files": [
+    "CHANGELOG.md",
+    "change_inventory.json",
+    "qa/browser_validation.json",
+    "qa/original_hashes.json",
+    "qa/revision_validation.json",
+    "qa/svg_render_validation.json",
+    "qa/visual_review.json",
+    "scope_rules.json",
+    "source/render_svg.py",
+    "source/scope_rules.json",
+    "spec/qa/page-7.png"
+  ],
+  "decisions": {
+    "existing_memory": "view and delete only; no edit",
+    "game_memory_retention_prompt": "removed/not supported",
+    "game_memory_automatic_retention": "unspecified",
+    "conversation": "hardware only"
+  },
+  "validation": {
+    "static_dom": "pass",
+    "svg_rasterization": "pass - 74 files",
+    "hardware": "not performed",
+    "browser": "blocked at Chromium launch by sandbox socket restriction",
+    "visual_review": "pass; seven board PDF pages, key full-size boards/screens and all seven DOCX pages"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "parts": 172,
+  "pins": 526,
+  "connected": 505,
+  "nc": 21,
+  "removed": [
+    "JP1"
+  ],
+  "added": [],
+  "actual_net_changes": [
+    [
+      [
+        "JP1",
+        "1"
+      ],
+      "+3V3",
+      null
+    ],
+    [
+      [
+        "JP1",
+        "2"
+      ],
+      "MIC_FEED",
+      null
+    ],
+    [
+      [
+        "Q1",
+        "2"
+      ],
+      "MIC_FEED",
+      "+3V3"
+    ],
+    [
+      [
+        "R11",
+        "1"
+      ],
+      "MIC_FEED",
+      "+3V3"
+    ]
+  ],
+  "all_other_net_partitions_identical": true,
+  "source_actual_match": true
+}

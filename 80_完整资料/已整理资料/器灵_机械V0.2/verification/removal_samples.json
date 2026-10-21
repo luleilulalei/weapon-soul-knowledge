@@ -1,0 +1,9 @@
+[
+  {
+    "test": "battery_and_attached_ntc_lift_from_removed_back",
+    "step_mm": 0.5,
+    "distance_mm": 32,
+    "collision_samples": [],
+    "limitation": "Sampled rigid translation only. Not continuous swept-volume proof; wires, unplugging, fingers, tolerances and compression are not modeled."
+  }
+]

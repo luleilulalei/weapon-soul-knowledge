@@ -1,0 +1,5 @@
+(sym_lib_table
+(lib (name "Generic") (type "KiCad") (uri "${KIPRJMOD}/Generic.kicad_sym") (options "") (descr "Catalog naming candidates; not procurement approval"))
+(lib (name "LCSC") (type "KiCad") (uri "${KIPRJMOD}/LCSC.kicad_sym") (options "") (descr "Catalog naming candidates; not procurement approval"))
+(lib (name "Virtual") (type "KiCad") (uri "${KIPRJMOD}/Virtual.kicad_sym") (options "") (descr "Catalog naming candidates; not procurement approval"))
+)

@@ -1,0 +1,29 @@
+{
+  "engine": "ngspice shared library bundled with KiCad",
+  "scope": "Linear/ideal-switch peripheral models only; not vendor IC or whole-board simulation",
+  "results": {
+    "reset_75_percent_ms": 14.37499999999958,
+    "battery_adc_final_v": 2.099883540376126,
+    "mic_below_0_1v_after_disable_ms": 45.02967915949759,
+    "amp_sd_high_v": 2.5700483091787443,
+    "i2c_30_70_rise_ns": {
+      "50": 199.11388200028216,
+      "100": 398.2296100002735,
+      "200": 796.45941239185,
+      "250": 995.57494042641
+    },
+    "blade_10_90_rise_ns": {
+      "50": 36.61969144864403,
+      "150": 109.86969818225046,
+      "500": null
+    }
+  },
+  "assertions": {
+    "reset_reaches_high": true,
+    "adc_4_2V_maps_to_2_1V": true,
+    "mic_discharges_below_0_1V_within_60ms": true,
+    "amp_sd_above_1_4V": true,
+    "i2c_200p_100kHz_rise_below_1000ns": true,
+    "i2c_200p_400kHz_rise_below_300ns": false
+  }
+}

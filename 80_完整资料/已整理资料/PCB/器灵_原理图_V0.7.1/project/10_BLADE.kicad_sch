@@ -1,0 +1,580 @@
+(kicad_sch (version 20231120) (generator "eeschema") (uuid "a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6") (paper "User" 590 297)
+(title_block (title "Spirit V0.3 - Blade 独立剑身接口") (date "2026-10-17") (rev "V0.3 REVIEW") (company "Qiling / Spirit") (comment 1 "NOT FOR FABRICATION. Verify interface pinouts, power limits and footprints."))
+(lib_symbols
+(symbol "LCSC:SN74LVC1T45DCKR"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "U" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "SN74LVC1T45DCKR" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "SN74LVC1T45DCKR_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "SN74LVC1T45DCKR_1_1"
+(pin power_in line (at -25.4 7.62 0) (length 5.08) (name "VCCA" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at -25.4 2.54 0) (length 5.08) (name "GND" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin bidirectional line (at -25.4 -2.54 0) (length 5.08) (name "A" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+(pin bidirectional line (at 25.4 7.62 180) (length 5.08) (name "B" (effects (font (size 1.0 1.0)) )) (number "4" (effects (font (size 1.0 1.0)) )))
+(pin input line (at 25.4 2.54 180) (length 5.08) (name "DIR" (effects (font (size 1.0 1.0)) )) (number "5" (effects (font (size 1.0 1.0)) )))
+(pin power_in line (at 25.4 -2.54 180) (length 5.08) (name "VCCB" (effects (font (size 1.0 1.0)) )) (number "6" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "单比特双电源总线收发器，具备可配置电压转换和三态输出功能" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "LCSC:CC0603KRX7R9BB104"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "C" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "CC0603KRX7R9BB104" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "CC0603KRX7R9BB104_0_1"
+(polyline (pts (xy -1.524 3.556) (xy -1.524 -3.556)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy 1.524 3.556) (xy 1.524 -3.556)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy -5.08 0.0) (xy -1.524 0.0)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy 1.524 0.0) (xy 5.08 0.0)) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "CC0603KRX7R9BB104_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "100nF; 50V; X7R; ±10%" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "LCSC:0603WAF1003T5E"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "R" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "0603WAF1003T5E" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "0603WAF1003T5E_0_1"
+(rectangle (start -5.08 2.032) (end 5.08 -2.032) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "0603WAF1003T5E_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "100k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "LCSC:0603WAF1000T5E"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "R" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "0603WAF1000T5E" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "0603WAF1000T5E_0_1"
+(rectangle (start -5.08 2.032) (end 5.08 -2.032) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "0603WAF1000T5E_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "100; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "LCSC:0603WAF1002T5E"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "R" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "0603WAF1002T5E" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "0603WAF1002T5E_0_1"
+(rectangle (start -5.08 2.032) (end 5.08 -2.032) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "0603WAF1002T5E_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "10k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "Generic:4-Pin Power Signal Connector"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "J" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "4-Pin Power Signal Connector" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "4-Pin Power Signal Connector_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "4-Pin Power Signal Connector_1_1"
+(pin passive line (at -25.4 7.62 0) (length 5.08) (name "1" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at -25.4 2.54 0) (length 5.08) (name "2" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 25.4 7.62 180) (length 5.08) (name "3" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 25.4 2.54 180) (length 5.08) (name "4" (effects (font (size 1.0 1.0)) )) (number "4" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "BLADE_EXTERNAL_5V_LOGICAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "LCSC:0603WAF1001T5E"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "R" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "0603WAF1001T5E" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "0603WAF1001T5E_0_1"
+(rectangle (start -5.08 2.032) (end 5.08 -2.032) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "0603WAF1001T5E_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "1k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+)
+(text "Blade 独立剑身接口" (at 15.24 17.78 0) (effects (font (face "Noto Sans CJK SC") (size 2.2 2.2)) (justify left bottom)) (uuid "abf777e1-042a-532d-9e50-243ce04d6de3"))
+(text "Global labels are electrical connections. LOGICAL/UNVERIFIED interfaces require resolution before PCB layout." (at 15.24 25.4 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) (justify left bottom)) (uuid "5ac99397-7104-5bfd-9041-285ba10de096"))
+(symbol (lib_id "LCSC:SN74LVC1T45DCKR") (at 71.12 50.8 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "4b52ee02-f48a-5f62-a687-df7b5ed9ca15")
+(property "LCSC_Candidate_Unverified" "C9382" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "DIR high A-to-B. Ioff and VCC-isolation when either supply at GND. Not an OE or power load switch. Never back-power B supply through external signal." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "U8" (at 71.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "SN74LVC1T45DCKR" (at 71.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "datasheet_pin_checked" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "d488fc04-2cfd-559e-8664-cb4cc9c3fc91"))
+(pin "2" (uuid "60fd3676-d192-5c36-8b1a-4ba6be9fd2a3"))
+(pin "3" (uuid "29571587-773c-565c-9c2a-d0c59733cc1e"))
+(pin "4" (uuid "d9bd5574-b54e-5432-a9e6-64b08ae973db"))
+(pin "5" (uuid "e38ede3e-e5d9-592a-be38-d8d2be640d85"))
+(pin "6" (uuid "92d79249-29c4-5bc0-bbb5-08b603f3f218"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "U8") (unit 1))))
+
+(property "Name" "SN74LVC1T45DCKR" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "SN74LVC1T45DCKR" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "SN74LVC1T45DCKR" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "TI(德州仪器)" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "单比特双电源总线收发器，具备可配置电压转换和三态输出功能" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C9382" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C9382" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_identity_verified; footprint_candidate_not_released" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://item.szlcsc.com/9911.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "原候选料号与官方商品型号一致，未替换器件。商品名称按中国站页面显示抄录；商品参数不能代替原厂数据手册或封装验证。" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 43.18) (xy 35.56 43.18)) (stroke (width 0) (type default)) (uuid "f18394e5-91ce-581e-ab0f-c023e882b155"))
+(global_label "+3V3" (shape bidirectional) (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "fbf6a524-c40f-5e60-9a49-3e0206fc48e3") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 45.72 48.26) (xy 35.56 48.26)) (stroke (width 0) (type default)) (uuid "e85d9d01-c764-54c2-a2cc-c028ce84f374"))
+(global_label "GND" (shape bidirectional) (at 35.56 48.26 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "e8b061d5-c360-520d-be0c-4eece3874636") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 48.26 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 45.72 53.34) (xy 35.56 53.34)) (stroke (width 0) (type default)) (uuid "0b146c65-f98a-58e7-a2d2-3aaf46af20da"))
+(global_label "BLADE_DATA_MCU" (shape bidirectional) (at 35.56 53.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "f1a13190-e72a-5128-9b2a-0197e22308c6") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 53.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 96.52 43.18) (xy 106.68 43.18)) (stroke (width 0) (type default)) (uuid "480b96ab-696b-5ec3-b1c5-139499af92b2"))
+(global_label "BLADE_DATA_DRV" (shape bidirectional) (at 106.68 43.18 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "3aa13258-adb3-58f8-937f-ac7c976eef42") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 106.68 43.18 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 96.52 48.26) (xy 106.68 48.26)) (stroke (width 0) (type default)) (uuid "d1c9845d-75da-50b0-a8e3-f086b08df05b"))
+(global_label "+3V3" (shape bidirectional) (at 106.68 48.26 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "0990b3bb-fa5e-5dbb-9840-8d4f992efa41") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 106.68 48.26 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 96.52 53.34) (xy 106.68 53.34)) (stroke (width 0) (type default)) (uuid "9a2e540c-302d-5a1c-8b92-ebb3940c035d"))
+(global_label "+5V_BLADE" (shape bidirectional) (at 106.68 53.34 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "21da873a-2ee3-566f-a2db-eb512dc47669") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 106.68 53.34 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:CC0603KRX7R9BB104") (at 198.12 44.45 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "65b08c77-7df6-59a8-8d1a-fe9055cd7a86")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "C24" (at 198.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100nF" (at 198.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "6c4a957a-1294-5861-adbb-afc3e41bc5af"))
+(pin "2" (uuid "e69dbda4-393e-530d-9a30-bbc5888225d1"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "C24") (unit 1))))
+
+(property "Name" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "YAGEO" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100nF; 50V; X7R; ±10%" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C14663.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. Unspecified voltage, dielectric and tolerance filled as explicit proposals. MLCC nominal capacitance is not guaranteed effective capacitance under DC bias; validate capacitance, temperature, aging and regulator stability at operating voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 44.45) (xy 177.8 44.45)) (stroke (width 0) (type default)) (uuid "23abe2b0-8e28-5710-92d4-1bf7eb81e782"))
+(global_label "+3V3" (shape bidirectional) (at 177.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "c54cc53b-29a1-5cab-8ded-01434749a2d2") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 44.45) (xy 218.44 44.45)) (stroke (width 0) (type default)) (uuid "2ce1bd53-9f65-51de-b7a5-698c7b38c216"))
+(global_label "GND" (shape bidirectional) (at 218.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "12ed0e3c-cf61-581a-bff9-06a041dfb776") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:CC0603KRX7R9BB104") (at 325.12 44.45 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "ab3fafc7-90c4-5f75-a22f-b2fead3849d2")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "C25" (at 325.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100nF" (at 325.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 325.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 325.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "5899bf50-1373-5432-b926-4b39dcd1d4d6"))
+(pin "2" (uuid "65583aff-f4bf-51bf-8065-b53957bb14a1"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "C25") (unit 1))))
+
+(property "Name" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "YAGEO" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100nF; 50V; X7R; ±10%" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C14663.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. Unspecified voltage, dielectric and tolerance filled as explicit proposals. MLCC nominal capacitance is not guaranteed effective capacitance under DC bias; validate capacitance, temperature, aging and regulator stability at operating voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 314.96 44.45) (xy 304.8 44.45)) (stroke (width 0) (type default)) (uuid "ddfb7de8-a7d4-5ca9-8b8a-a954d5578cd7"))
+(global_label "+5V_BLADE" (shape bidirectional) (at 304.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "bb5f7f96-f3e3-5126-bacc-4c5adbc77100") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 304.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 335.28 44.45) (xy 345.44 44.45)) (stroke (width 0) (type default)) (uuid "7a0e5243-251c-51f5-850b-aaa43d211d2d"))
+(global_label "GND" (shape bidirectional) (at 345.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "d7837c81-85ad-5733-971b-e7c271b74741") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 345.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:0603WAF1003T5E") (at 198.12 66.04 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "6d5849d6-cf64-5656-bb52-6268a49e4b5d")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R25" (at 198.12 56.642 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100k" (at 198.12 59.182 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 198.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 198.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "06fff9bf-38c1-5526-859b-435de9a16b0e"))
+(pin "2" (uuid "3c9dfcd6-b732-57b9-94dd-9188df861fef"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R25") (unit 1))))
+
+(property "Name" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C25803" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C25803" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C25803.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 66.04) (xy 177.8 66.04)) (stroke (width 0) (type default)) (uuid "4a0fb06a-721c-5d1d-901c-d1ecdf4fc278"))
+(global_label "BLADE_DATA_MCU" (shape bidirectional) (at 177.8 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "3b8d397c-cc7d-51c5-a0b2-0199fdc5477c") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 66.04) (xy 218.44 66.04)) (stroke (width 0) (type default)) (uuid "ac93e929-1e31-5ec9-8c29-4a97ec9a58bf"))
+(global_label "GND" (shape bidirectional) (at 218.44 66.04 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "9769a772-69fb-5e68-8a98-923ad5c11fcf") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 66.04 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:0603WAF1000T5E") (at 325.12 66.04 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "38c7f775-5b02-5367-91f3-a126ddbe9846")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R27" (at 325.12 56.642 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100" (at 325.12 59.182 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 325.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 325.12 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "76e07c50-029d-500e-9a52-1f8e9e35b318"))
+(pin "2" (uuid "f6f90dc9-7eea-5e93-8e36-462fab5a4748"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R27") (unit 1))))
+
+(property "Name" "0603WAF1000T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1000T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1000T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C22775" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C22775" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C22775.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 314.96 66.04) (xy 304.8 66.04)) (stroke (width 0) (type default)) (uuid "719e458c-a213-5fe0-8435-71da6c0cc5b8"))
+(global_label "BLADE_DATA_DRV" (shape bidirectional) (at 304.8 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "19fdc338-9424-5c1a-8e18-904e8b850637") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 304.8 66.04 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 335.28 66.04) (xy 345.44 66.04)) (stroke (width 0) (type default)) (uuid "3a8c5ed3-d0f7-5259-9c59-f4430752d798"))
+(global_label "BLADE_DATA" (shape bidirectional) (at 345.44 66.04 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "f10e473b-58ce-5563-8793-9d9ad2f10bb1") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 345.44 66.04 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:0603WAF1003T5E") (at 71.12 87.63 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "4166b6e8-ed0c-5a7e-b378-74075bb2363b")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R28" (at 71.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100k" (at 71.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 71.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 71.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "e2848f83-f58b-583f-8613-a7c94cd70a13"))
+(pin "2" (uuid "d2a7c837-b5cf-542f-8d85-91b6657ad188"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R28") (unit 1))))
+
+(property "Name" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1003T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C25803" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C25803" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C25803.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 60.96 87.63) (xy 50.8 87.63)) (stroke (width 0) (type default)) (uuid "b658f10d-bf47-558d-a317-71e5088308a6"))
+(global_label "BLADE_DATA" (shape bidirectional) (at 50.8 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "f5bfa78f-c20e-5d7f-ad83-c033d93bcaf7") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 50.8 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 81.28 87.63) (xy 91.44 87.63)) (stroke (width 0) (type default)) (uuid "bc2e4e30-3210-54aa-8d2d-026bac81cc84"))
+(global_label "GND" (shape bidirectional) (at 91.44 87.63 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "825f4cee-e49f-5d0a-ae08-890b9e28712c") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.44 87.63 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:0603WAF1002T5E") (at 198.12 87.63 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "3a73b82d-59c4-5c34-b195-d79150cafad4")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "Ensure unplugged level-shifter VCCB discharges; external supply load budget required." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R29" (at 198.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "10k" (at 198.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 198.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 198.12 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "52057d45-2548-5e65-b4b7-565b1833bbb8"))
+(pin "2" (uuid "9475c70f-bb51-52ef-895b-3cf965585b38"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R29") (unit 1))))
+
+(property "Name" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "10k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C25804" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C25804" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C25804.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 87.63) (xy 177.8 87.63)) (stroke (width 0) (type default)) (uuid "81ee5cdc-d89d-5bfc-a978-ef7af138979a"))
+(global_label "+5V_BLADE" (shape bidirectional) (at 177.8 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "41b711d2-8564-5c77-a046-dec32eba1db6") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 87.63 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 87.63) (xy 218.44 87.63)) (stroke (width 0) (type default)) (uuid "f1f8840e-535e-52f3-a9ee-f81be177df53"))
+(global_label "GND" (shape bidirectional) (at 218.44 87.63 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "ba157966-730a-5598-a649-893e3163dd58") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 87.63 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Generic:4-Pin Power Signal Connector") (at 325.12 93.98 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "2e966a45-c77e-5850-a5c2-a7c8df157564")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "pending_not_selected" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "+5V_BLADE externally current-limited supply, NEVER bridged to +5V_SYS. Proposed one-wire addressable5V blade only; protocol/load/connector not confirmed. ID pin passive resistor-to-GND only, not powered signal." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "J7" (at 325.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "BLADE_EXTERNAL_5V_LOGICAL" (at 325.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "mechanical_and_current_rating_tbd" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "711abf96-30a1-5af1-8abb-7cd14f778bfc"))
+(pin "2" (uuid "10799059-2c37-5003-8513-e325e40fe636"))
+(pin "3" (uuid "6a6bd13a-1d87-54db-853e-511d8e25fb48"))
+(pin "4" (uuid "c4baf2ee-896b-51be-9ff4-4c47a2a5517b"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "J7") (unit 1))))
+
+(property "Name" "4-Pin Power Signal Connector" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "4-Pin Power Signal Connector" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "BLADE_EXTERNAL_5V_LOGICAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: pitch, mating part, polarization/keying, mounting/orientation, contact-current rating and exact physical pin numbering. Blade protocol/load current and harness dimensions are not defined; no connector SKU can be safely selected." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "+5V_BLADE externally current-limited supply, NEVER bridged to +5V_SYS. Proposed one-wire addressable5V blade only; protocol/load/connector not confirmed. ID pin passive resistor-to-GND only, not powered signal." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 86.36) (xy 289.56 86.36)) (stroke (width 0) (type default)) (uuid "f4e7b9b3-a8a7-5fe0-9a8c-cdc6aa024470"))
+(global_label "+5V_BLADE" (shape bidirectional) (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "6d890976-cb78-5bd1-a020-2ce729845494") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 299.72 91.44) (xy 289.56 91.44)) (stroke (width 0) (type default)) (uuid "c6c78793-4f4b-59e5-b863-de435cee6da1"))
+(global_label "GND" (shape bidirectional) (at 289.56 91.44 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "96ca3d22-515e-5a05-b40e-ff0ab6258c87") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 91.44 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 350.52 86.36) (xy 360.68 86.36)) (stroke (width 0) (type default)) (uuid "bd44c0a2-c421-5df9-84f9-daa17a874c12"))
+(global_label "BLADE_DATA" (shape bidirectional) (at 360.68 86.36 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "4530e121-47e4-5442-9a5d-e64b227c56b2") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 360.68 86.36 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 350.52 91.44) (xy 360.68 91.44)) (stroke (width 0) (type default)) (uuid "73c5ec58-4de8-5655-882a-fddb98752633"))
+(global_label "BLADE_ID_RAW" (shape bidirectional) (at 360.68 91.44 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "e88fda55-d995-5ba2-abf7-bc7b4255d55d") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 360.68 91.44 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "mechanical_and_current_rating_tbd" (at 299.72 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "82073dfc-1f8a-5fe5-a622-441eb2be180c"))
+(symbol (lib_id "LCSC:0603WAF1002T5E") (at 71.12 109.22 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "245aca41-849d-5046-a0a2-dc8d915ceba5")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R30" (at 71.12 99.822 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "10k 1%" (at 71.12 102.362 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 71.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 71.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "86c14079-06a0-5875-a710-1c5e30fbd2dd"))
+(pin "2" (uuid "2e27811e-b8c0-52d7-877d-b5b25626155c"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R30") (unit 1))))
+
+(property "Name" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1002T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "10k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C25804" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C25804" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C25804.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 60.96 109.22) (xy 50.8 109.22)) (stroke (width 0) (type default)) (uuid "2069f8dd-2567-5d55-b780-4686b89d9c39"))
+(global_label "+3V3" (shape bidirectional) (at 50.8 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "7f374530-f756-5a75-b5a5-dd23372bf631") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 50.8 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 81.28 109.22) (xy 91.44 109.22)) (stroke (width 0) (type default)) (uuid "4ba19d5f-4f81-5e8c-b8d0-8e95ff7012dc"))
+(global_label "BLADE_ID_RAW" (shape bidirectional) (at 91.44 109.22 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "dffd2b5b-f2ff-5fe3-af06-9d121a1c0cb4") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.44 109.22 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:0603WAF1001T5E") (at 198.12 109.22 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "9e10f63b-bec1-5dbd-8788-b3d6d74a8aef")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "R31" (at 198.12 99.822 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "1k" (at 198.12 102.362 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 198.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 198.12 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "77d91ac2-edba-5641-bde7-bb0660a0649a"))
+(pin "2" (uuid "7c2f19cd-8404-5658-a8df-2056b583d59e"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "R31") (unit 1))))
+
+(property "Name" "0603WAF1001T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "0603WAF1001T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "0603WAF1001T5E" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "UNI-ROYAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "1k; ±1%; 100mW; 75V; ±100ppm/°C" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C21190" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C21190" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C21190.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. 100mW rating and ±1% tolerance are proposed where unspecified; verify actual dissipation, derating, pulses and resistor voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 109.22) (xy 177.8 109.22)) (stroke (width 0) (type default)) (uuid "bf0700c3-ad37-5124-8525-86b5e0412d4e"))
+(global_label "BLADE_ID_RAW" (shape bidirectional) (at 177.8 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "6f052c75-527c-5a69-accd-4e2e00b0cc6d") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 109.22 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 109.22) (xy 218.44 109.22)) (stroke (width 0) (type default)) (uuid "72b1caf8-fb84-591a-936e-c7ee238d53f8"))
+(global_label "BLADE_ID_ADC" (shape bidirectional) (at 218.44 109.22 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "a5f7b8de-ff3a-55ad-95f1-027582892871") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 109.22 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "LCSC:CC0603KRX7R9BB104") (at 71.12 130.81 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "9f5ab9c9-3e83-5e39-a304-552d1c14119e")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "C28" (at 71.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "100nF" (at 71.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 71.12 130.81 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 130.81 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "value_proposed_lcsc_tbd" (at 71.12 130.81 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "000e8746-f0c2-5e9b-983d-5535d2f49ecd"))
+(pin "2" (uuid "93159939-e732-50d9-a39a-4f960878d5eb"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/a8f8386f-ac0b-5ba8-94e9-7e92c0a54ba6" (reference "C28") (unit 1))))
+
+(property "Name" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "CC0603KRX7R9BB104" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "YAGEO" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "100nF; 50V; X7R; ±10%" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "C14663" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "catalog_verified_proposed_not_electrically_validated" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "https://www.lcsc.com/product-detail/C14663.html" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Catalog identity/specification verified; selection proposed, circuit suitability and production footprint not validated. Original schematic value preserved. JLCPCB assembly availability and current stock must be rechecked at order time. Unspecified voltage, dielectric and tolerance filled as explicit proposals. MLCC nominal capacitance is not guaranteed effective capacitance under DC bias; validate capacitance, temperature, aging and regulator stability at operating voltage." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 60.96 130.81) (xy 50.8 130.81)) (stroke (width 0) (type default)) (uuid "a0de1028-398b-5a03-be5c-df77815caa24"))
+(global_label "BLADE_ID_ADC" (shape bidirectional) (at 50.8 130.81 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "aa0f3e5e-aad8-5f95-ac27-b33cebfc7cca") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 50.8 130.81 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 81.28 130.81) (xy 91.44 130.81)) (stroke (width 0) (type default)) (uuid "9f48db29-2bcd-50d0-8bd0-9af9abe80191"))
+(global_label "GND" (shape bidirectional) (at 91.44 130.81 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "4cc86cb8-9816-5060-b380-561ae9486f73") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.44 130.81 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 218.44 44.45) (xy 218.44 66.04)) (stroke (width 0) (type default)) (uuid "f41d435c-a346-58fd-9fff-862e4d3dbd6c"))
+(wire (pts (xy 218.44 66.04) (xy 218.44 87.63)) (stroke (width 0) (type default)) (uuid "a8aee655-09ac-5d45-85de-cb8908f050b2"))
+
+(text "V0.3 读图说明 | Blade 独立剑身接口" (at 426 18 0) (effects (font (face "Noto Sans CJK SC") (size 2.0 2.0)) (justify left top)) (uuid "9bc93005-c4c0-5c5e-a738-c667992aef66"))
+(text "用途：独立外部 +5V_BLADE 剑身电源域。" (at 426 26 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "97b7d8f7-f856-578c-9675-775c0bcf1b18"))
+(text "J7：1=+5V_BLADE，2=GND，3=DATA，4=ID。" (at 426 30.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "1d749a45-d4d8-583a-b216-15028b8e84f0"))
+(text "绝不把 +5V_BLADE 桥接到 +5V_SYS。" (at 426 35.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "13650df1-4f3f-5d3c-93cf-f0db22254713"))
+(text "外部电源须保护和限流，连接器额定电流待核。" (at 426 39.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "3cc78faf-02bb-5088-8406-6becbe5cf7f7"))
+(text "ID 仅允许无源电阻接地，不接带电信号。" (at 426 44.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "18aae369-9abe-59bd-aaba-3f15e0d9c661"))
+(text "单线 5V 寻址灯协议、实际负载仍待确认。" (at 426 48.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "dda88dd2-4cf4-5459-b11b-174b8c4e896f"))
+(text "" (at 426 53.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "f77cbc08-02ae-5a56-946a-c00560125ef9"))
+(text "阅读约定 / 审查边界" (at 426 57.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "768f6b7b-f5d6-58e3-b678-1dff1625d72c"))
+(text "同名全局标签在 KiCad 中表示电气连接。" (at 426 62.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "cfd84543-1fb7-5945-9b08-f5846a4ac6ce"))
+(text "符号矩形是逻辑表示，不表示器件外形。" (at 426 66.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "bdef3152-f34c-5c9c-9d89-1322888c39f2"))
+(text "接口脚序以本图标注为准；实物方向必须复核。" (at 426 71.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "bed4debe-250a-5610-8eb9-35a63204ed54"))
+(text "LCSC / Footprint 为候选，非已核验采购绑定。" (at 426 75.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "f2b8b614-93c5-5834-b6c7-2677785e260a"))
+(text "DNP = 不装：C110、C114；R39为已装68Ω背光限流。" (at 426 80.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "898260d8-96bc-5d68-8c12-137cf33febdb"))
+(text "本版仅供工程审查，不能直接投板/下单。" (at 426 84.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "94af708c-4104-5ce3-8564-17e5f0aa0d10"))
+(text "" (at 426 89.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "45a1bd2f-95aa-5952-b028-f2ae2863c8d1"))
+(text "本页连接器：脚号 = 网络名（逻辑脚序）" (at 426 93.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "0030767a-0cff-5916-ba9a-f8ef5dd27c47"))
+(text "J7: 1=+5V_BLADE; 2=GND; 3=BLADE_DATA; 4=BLADE_ID_RAW; " (at 426 98.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "68c72bff-f60e-5f6f-99e9-65480e8bdc61"))
+)

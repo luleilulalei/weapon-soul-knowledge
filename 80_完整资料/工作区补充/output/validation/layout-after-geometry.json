@@ -1,0 +1,15 @@
+{
+  "overlaps": [],
+  "close": [],
+  "outside": [
+    "J101",
+    "U1"
+  ],
+  "minimum_same_face_envelope_gap_mm": 0.3280841799999994,
+  "components": 166,
+  "testpad_overlaps": [],
+  "intentional_edge_exceptions": {
+    "U1": "Module antenna overhangs center RF notch; solder pads remain on board.",
+    "J101": "USB shell deliberately reaches board edge; connector/pad review separately required."
+  }
+}

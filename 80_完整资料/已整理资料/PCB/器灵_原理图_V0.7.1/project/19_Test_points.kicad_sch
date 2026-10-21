@@ -1,0 +1,514 @@
+(kicad_sch (version 20231120) (generator "eeschema") (uuid "4f08ba6f-a042-595f-8f42-71f235e87c66") (paper "User" 590 297)
+(title_block (title "Spirit V0.3 - Test 测试点") (date "2026-10-17") (rev "V0.3 REVIEW") (company "Qiling / Spirit") (comment 1 "NOT FOR FABRICATION. Verify interface pinouts, power limits and footprints."))
+(lib_symbols
+(symbol "Virtual:PCB Test Pad D1.5mm"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "T" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "PCB Test Pad D1.5mm" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "PCB Test Pad D1.5mm_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "PCB Test Pad D1.5mm_1_1"
+(pin passive line (at -25.4 7.62 0) (length 5.08) (name "1" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "USB_VBUS" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+)
+(text "Test 测试点" (at 15.24 17.78 0) (effects (font (face "Noto Sans CJK SC") (size 2.2 2.2)) (justify left bottom)) (uuid "b6d5329a-4dbb-57aa-98a2-944ab38b44a6"))
+(text "Global labels are electrical connections. LOGICAL/UNVERIFIED interfaces require resolution before PCB layout." (at 15.24 25.4 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) (justify left bottom)) (uuid "5ac99397-7104-5bfd-9041-285ba10de096"))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 71.12 50.8 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "36973113-3d27-5274-815b-cd407b210777")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP101" (at 71.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "USB_VBUS" (at 71.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "e9c09279-5a79-5af8-b122-d2ea9e3acbf3"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP101") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "USB_VBUS" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: USB_VBUS" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 43.18) (xy 35.56 43.18)) (stroke (width 0) (type default)) (uuid "98dc1eb6-cc3f-5dd9-a069-63c1e000e5bf"))
+(global_label "USB_VBUS" (shape bidirectional) (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "28cebe80-20ed-5f29-a16d-d2abc55eb3c2") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 198.12 50.8 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "fe785d73-91d9-5f95-ad7c-e6bb9d4de447")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP102" (at 198.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "USB_5V_FUSED" (at 198.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "c394f682-8473-5114-9076-7722f3596298"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP102") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "USB_5V_FUSED" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: USB_5V_FUSED" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 43.18) (xy 162.56 43.18)) (stroke (width 0) (type default)) (uuid "d06c0227-e02e-5943-9bf5-ef69fd558648"))
+(global_label "USB_5V_FUSED" (shape bidirectional) (at 162.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "90707190-15f9-5cef-83aa-d87d0d2196ae") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 325.12 50.8 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "e1f397e9-db34-5ce4-85d6-c19a287239e4")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP103" (at 325.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "VBAT_PROT" (at 325.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "0bce5f7e-0e06-582d-ab63-36a2e2284196"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP103") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "VBAT_PROT" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: VBAT_PROT" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 43.18) (xy 289.56 43.18)) (stroke (width 0) (type default)) (uuid "536f1251-1061-5fa4-8785-65506e425c8e"))
+(global_label "VBAT_PROT" (shape bidirectional) (at 289.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "8086b420-404d-5e7e-b005-b3fe6f84fb44") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 71.12 93.98 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "7113bd52-d003-5a02-816d-47ebe3b44521")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP104" (at 71.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "VSYS_RAW" (at 71.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "c24d0cd4-0144-510c-a1b6-4397f1d52e19"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP104") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "VSYS_RAW" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: VSYS_RAW" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 86.36) (xy 35.56 86.36)) (stroke (width 0) (type default)) (uuid "288ee194-7371-5477-9db4-b8271ff98da0"))
+(global_label "VSYS_RAW" (shape bidirectional) (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "3533f766-10eb-5d9b-a845-71124a8b52bf") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 198.12 93.98 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "47a99069-6cda-5e37-8fb6-f704975bcc6b")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP105" (at 198.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "MAIN_IN" (at 198.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "23021336-41d1-550e-bcd7-23a7e55650d2"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP105") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "MAIN_IN" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: MAIN_IN" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 86.36) (xy 162.56 86.36)) (stroke (width 0) (type default)) (uuid "e40333b3-a9c2-52e6-b6c7-4fb9c2581e41"))
+(global_label "MAIN_IN" (shape bidirectional) (at 162.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "727170aa-1cbc-5d68-8982-89e62ec9c6d6") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 325.12 93.98 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "da9d98cc-a22e-5e5f-b156-e13a4a96f2d1")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP106" (at 325.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "+3V3" (at 325.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "9fecc373-c54f-5754-aef1-a1ebeb1c3580"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP106") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "+3V3" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: +3V3" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 86.36) (xy 289.56 86.36)) (stroke (width 0) (type default)) (uuid "989f95f0-1ea8-5a2b-8695-b858ce967e2f"))
+(global_label "+3V3" (shape bidirectional) (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "2acb86c0-ce12-5e20-87cd-e789e0729dd2") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 71.12 137.16 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "50627b91-c11c-5b73-a691-2df9315c3ca3")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP107" (at 71.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "BOOST_5V" (at 71.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "1fc121f7-af88-5a77-93ae-e42bd66abdbf"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP107") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "BOOST_5V" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: BOOST_5V" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 129.54) (xy 35.56 129.54)) (stroke (width 0) (type default)) (uuid "a11eb30c-e935-5e08-8da3-8983a1050a45"))
+(global_label "BOOST_5V" (shape bidirectional) (at 35.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "f110c924-5903-5461-8543-d6a753a7f811") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 198.12 137.16 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "c1d04cae-688d-56ca-a7fc-03b6f83ae71e")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP108" (at 198.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "+5V_SYS" (at 198.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "16e5f589-4efb-56e1-8ab5-717194dc0f15"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP108") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "+5V_SYS" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: +5V_SYS" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 129.54) (xy 162.56 129.54)) (stroke (width 0) (type default)) (uuid "09fbd53f-5f9b-5096-99d4-53acc43b086a"))
+(global_label "+5V_SYS" (shape bidirectional) (at 162.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "1c043bbe-9e96-52bf-ae6a-98c795602b5c") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 325.12 137.16 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "37e0ef33-b788-57b4-a69c-dd437d949bcb")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP109" (at 325.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "CHG_N" (at 325.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 325.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 325.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "243b3a28-f71d-5b78-a5df-2754d5afcdf9"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP109") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "CHG_N" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: CHG_N" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 129.54) (xy 289.56 129.54)) (stroke (width 0) (type default)) (uuid "3def558b-7da1-5153-86e9-eb21c1e63ddc"))
+(global_label "CHG_N" (shape bidirectional) (at 289.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "1c254260-71c5-5adc-ba48-fb5b05451922") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 71.12 180.34 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "512e02a7-0669-540a-b1fe-ae0f2893c70a")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP110" (at 71.12 164.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PGOOD_N" (at 71.12 167.132 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 71.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "c5ab55a3-0b79-5335-aa7d-cc0562c93f81"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP110") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PGOOD_N" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: PGOOD_N" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 172.72) (xy 35.56 172.72)) (stroke (width 0) (type default)) (uuid "2d0da2fa-431f-5231-9691-d928ca54fb7c"))
+(global_label "PGOOD_N" (shape bidirectional) (at 35.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "f04854f2-3df2-589d-9afe-7c4414fdc3e8") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 198.12 180.34 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "37201d11-33eb-52d9-ab12-eaed44e18829")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP111" (at 198.12 164.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "CHG_SYSOFF" (at 198.12 167.132 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 198.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 198.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "8e7c145f-dbeb-5271-8ba3-0ea8e90d123f"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP111") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "CHG_SYSOFF" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: CHG_SYSOFF" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 172.72) (xy 162.56 172.72)) (stroke (width 0) (type default)) (uuid "4c47cf6c-6d81-5649-8ccb-100a4475dd58"))
+(global_label "CHG_SYSOFF" (shape bidirectional) (at 162.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "2c34710e-e32d-558b-88a6-274cc37442c5") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 325.12 180.34 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "d95c04b3-69cf-5528-8198-9ace5a71cf82")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP112" (at 325.12 164.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "BAT_ADC" (at 325.12 167.132 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 325.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 325.12 180.34 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "516268a1-e45e-58e6-8e42-541f1fb9a5c2"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP112") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "BAT_ADC" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: BAT_ADC" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 172.72) (xy 289.56 172.72)) (stroke (width 0) (type default)) (uuid "708d9a35-89b4-5772-bcab-3424abb47bfc"))
+(global_label "BAT_ADC" (shape bidirectional) (at 289.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "7c23ea9a-003b-5693-9e1f-9f412bfd4559") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 172.72 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Virtual:PCB Test Pad D1.5mm") (at 71.12 223.52 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "3e2c913d-a32e-5507-a90f-c5d14c168c3e")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "TP113" (at 71.12 207.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "GND" (at 71.12 210.312 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 71.12 223.52 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 223.52 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 223.52 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "23f8d907-1779-5140-b9f8-cc2567dd21ff"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/4f08ba6f-a042-595f-8f42-71f235e87c66" (reference "TP113") (unit 1))))
+
+(property "Name" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PCB Test Pad D1.5mm" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "GND" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "PCB_FEATURE" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Unpopulated copper test pad; not a purchased test-point terminal. Net: GND" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 215.9) (xy 35.56 215.9)) (stroke (width 0) (type default)) (uuid "0f713e63-0a1b-50ba-8e7b-1215af442bad"))
+(global_label "GND" (shape bidirectional) (at 35.56 215.9 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "fb4f4853-85b3-5119-b7f0-1359ffb6f48d") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 215.9 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+
+(text "V0.3 读图说明 | Test 测试点" (at 426 18 0) (effects (font (face "Noto Sans CJK SC") (size 2.0 2.0)) (justify left top)) (uuid "b56f7aa5-2aee-5a80-8d0e-e496045530cc"))
+(text "用途：电源与状态测试点，便于分阶段上电。" (at 426 26 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d663ce30-7177-51e1-a7a7-2e8abc3eac46"))
+(text "首次先测 GND、MAIN_IN、+3V3，再加功能负载。" (at 426 30.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "221e19e4-af8d-57ef-b7a8-682675e612cd"))
+(text "测量前确认参考地；不要短接相邻电源测试点。" (at 426 35.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "a078ea56-78e6-5a83-a3a9-a373977a392e"))
+(text "CHG_N / PGOOD_N 是低有效状态信号。" (at 426 39.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d0291fe4-c17f-59c9-8fa9-5d9fa937909f"))
+(text "BOOST_5V 与 +5V_SYS 可能因跳帽/开关而不同。" (at 426 44.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "59f7566c-3348-5cf4-9146-f7bab90917ae"))
+(text "" (at 426 48.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "31a3bdec-185d-5b52-ad63-ca9e25982fe6"))
+(text "阅读约定 / 审查边界" (at 426 53.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d19bf2d4-220b-5c50-b88a-76614e39f7d4"))
+(text "同名全局标签在 KiCad 中表示电气连接。" (at 426 57.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8977808b-8b5d-5531-81ac-73f0df8a9695"))
+(text "符号矩形是逻辑表示，不表示器件外形。" (at 426 62.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d6e34121-a70f-55e8-bdb6-ac2db8beca8c"))
+(text "接口脚序以本图标注为准；实物方向必须复核。" (at 426 66.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8c0c6cfe-3264-586e-bb15-ecccb9b86879"))
+(text "LCSC / Footprint 为候选，非已核验采购绑定。" (at 426 71.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "3b54a1d0-38d9-565e-b466-9460d93472b0"))
+(text "DNP = 不装：C110、C114；R39为已装68Ω背光限流。" (at 426 75.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "78fa2daa-77eb-551e-8b29-bb9450d6954e"))
+(text "本版仅供工程审查，不能直接投板/下单。" (at 426 80.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8436ee27-5e37-5262-b7d6-e1c69b6c4dfb"))
+)

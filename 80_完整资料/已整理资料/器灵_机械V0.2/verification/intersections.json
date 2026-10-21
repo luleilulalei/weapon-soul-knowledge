@@ -1,0 +1,131 @@
+{
+  "method": "Blender EXACT Boolean intersection on original assembled solid meshes; nonzero results are geometric overlap, not universal failure (review volumes can intentionally overlap proxies).",
+  "intersections": [
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "P01_front_sculpted_shell",
+      "intersection_mm3": 3103.557023046148
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "P02_rear_panel",
+      "intersection_mm3": 430.2846425268201
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "P03_removable_PCB_carrier",
+      "intersection_mm3": 748.7999038696289
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "DUMMY_PCB_34x105_UNROUTED",
+      "intersection_mm3": 1247.550964814896
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "DUMMY_PCB_top_allowance_NOT_placement",
+      "intersection_mm3": 2516.6029623344084
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "RF_15mm_ANTENNA_REVIEW",
+      "b": "DUMMY_PCB_bottom_allowance_NOT_placement",
+      "intersection_mm3": 1886.6479554999735
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "FPC_CHIP_REGION_NO_BEND_UNDIMENSIONED",
+      "b": "DUMMY_HOTHMI_MAX_BODY_CONSERVATIVE_2D_ENVELOPE",
+      "intersection_mm3": 2.0998071671056096
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "FPC_CHIP_REGION_NO_BEND_UNDIMENSIONED",
+      "b": "DUMMY_FPC47p5_ROUTE_ASSUMPTION_R6p7",
+      "intersection_mm3": 19.404023808959252
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "FPC_SOCKET_LAYOUT_REACH_CONSTRAINT",
+      "b": "DUMMY_FPC47p5_ROUTE_ASSUMPTION_R6p7",
+      "intersection_mm3": 8.819997446537144
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "local_header_10mm_TBD",
+      "b": "DUMMY_PCB_top_allowance_NOT_placement",
+      "intersection_mm3": 407.460002413477
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "speaker_solder_tail_UNVERIFIED",
+      "b": "DUMMY_XHXDZ_20MM_8ohm2W_MAX20p3x5p4",
+      "intersection_mm3": 23.19076037146165
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "NTC_side_allowance",
+      "b": "DUMMY_SEMITEC103AT2_MAX_4x3p7x2p4",
+      "intersection_mm3": 34.656960941593816
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "LRA_tail_UV_AND_LEAD_REVIEW",
+      "b": "DUMMY_LRA_short_FPC_solder_tail_MAX_LENGTH10p6",
+      "intersection_mm3": 0.7469691022744573
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "LRA_soldered_flexible_wire_EXIT",
+      "b": "DUMMY_LRA_short_FPC_solder_tail_MAX_LENGTH10p6",
+      "intersection_mm3": 0.028327975156566564
+    },
+    {
+      "kind": "review_vs_all",
+      "a": "FPC_ROUTED_SERVICE_RADIUS_UNVERIFIED",
+      "b": "DUMMY_FPC47p5_ROUTE_ASSUMPTION_R6p7",
+      "intersection_mm3": 93.08351931142158
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "FPC_CHIP_REGION_NO_BEND_UNDIMENSIONED",
+      "b": "FPC_ROUTED_SERVICE_RADIUS_UNVERIFIED",
+      "intersection_mm3": 178.2000274658203
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "FPC_SOCKET_LAYOUT_REACH_CONSTRAINT",
+      "b": "FPC_LATCH_TOOL_AFTER_CARRIER_REMOVAL",
+      "intersection_mm3": 233.9999442100525
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "FPC_SOCKET_LAYOUT_REACH_CONSTRAINT",
+      "b": "FPC_ROUTED_SERVICE_RADIUS_UNVERIFIED",
+      "intersection_mm3": 80.99999034404755
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "FPC_LATCH_TOOL_AFTER_CARRIER_REMOVAL",
+      "b": "FPC_ROUTED_SERVICE_RADIUS_UNVERIFIED",
+      "intersection_mm3": 43.19995880126953
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "wire_corridor",
+      "b": "USB_service_NOT_VALIDATED",
+      "intersection_mm3": 12.499999999999886
+    },
+    {
+      "kind": "review_vs_review",
+      "a": "LRA_tail_UV_AND_LEAD_REVIEW",
+      "b": "LRA_soldered_flexible_wire_EXIT",
+      "intersection_mm3": 1.012497711180913
+    }
+  ]
+}

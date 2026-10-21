@@ -1,0 +1,82 @@
+{
+  "revision": "v1.4",
+  "source": "spirit_ui_landscape/game",
+  "destination": "spirit_ui_revision_v14/game",
+  "screen_count_unchanged": 58,
+  "changed_svg_count": 44,
+  "changed_screen_ids": [
+    "G13",
+    "G17",
+    "G03",
+    "G04",
+    "G05",
+    "G06",
+    "G07",
+    "G08",
+    "G09",
+    "G10",
+    "G11",
+    "G12",
+    "G20",
+    "G14",
+    "G15",
+    "G06U",
+    "G17R",
+    "G22",
+    "G23",
+    "G02B",
+    "G03T",
+    "G03D",
+    "G04D",
+    "G05D",
+    "G06D",
+    "G06UD",
+    "G07D",
+    "G03TD",
+    "G03R",
+    "G04R",
+    "G05R",
+    "G06R",
+    "G06UR",
+    "G07R",
+    "G03TR",
+    "G15C",
+    "G15U",
+    "G24",
+    "G25",
+    "G26A",
+    "G26",
+    "G26F",
+    "G20T",
+    "G10H2"
+  ],
+  "specific_changes": {
+    "G17": "Remove memory decision/link; retain first unlock, continue, replay, rest; noninteractive safety footer",
+    "G17R": "Remove post-level memory list/link; retain owned state and next steps; safety footer",
+    "G22": "Remove post-level memory list/link; retain victory/result, choose skill and rest; safety footer",
+    "G02B": "Replace companionship CTA/copy with device-status home; retain charging block",
+    "G23": "Remove unsupported shared-memory result claim; retain skill result",
+    "HUD": "Qualify microphone status as hardware-only; no associated hotspot"
+  },
+  "removed_routes": [
+    {
+      "screen": "G17",
+      "target": "A30"
+    },
+    {
+      "screen": "G17R",
+      "target": "A19"
+    },
+    {
+      "screen": "G22",
+      "target": "A19"
+    }
+  ],
+  "gameplay_events_unchanged": true,
+  "other_hotspots_unchanged": true,
+  "context_defaults_unchanged": true,
+  "all_png_regenerated": 58,
+  "all_review_boards_regenerated": 4,
+  "source_self_contained": true,
+  "legacy_folders_modified": false
+}

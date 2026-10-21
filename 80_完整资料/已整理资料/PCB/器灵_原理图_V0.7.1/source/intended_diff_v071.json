@@ -1,0 +1,173 @@
+{
+  "revision": "V0.7.1",
+  "scope": "Only delete JP1 and merge MIC_FEED into +3V3, Q1/R11 direct feed; U9/U10 retained.",
+  "removed_components": {
+    "JP1": {
+      "ref": "JP1",
+      "value": "EVT_MIC_POWER_ISOLATION",
+      "section": "MIC",
+      "pins": {
+        "1": "+3V3",
+        "2": "MIC_FEED"
+      },
+      "pin_names": {
+        "1": "1",
+        "2": "2"
+      },
+      "pin_types": {
+        "1": "P",
+        "2": "P"
+      },
+      "footprint": "",
+      "lcsc": null,
+      "status": "test_jumper_lcsc_tbd",
+      "notes": "EVT bench isolation jumper only, not an additional product user switch. Remove for independent test power cut. Single user button firmware fault response remains to validate.",
+      "footprint_status": "pending_not_selected",
+      "dnp": false
+    }
+  },
+  "added_components": {},
+  "changed_components": {
+    "#FLG07": {
+      "before": {
+        "ref": "#FLG07",
+        "value": "PWR_FLAG",
+        "pins": {
+          "1": "MIC_3V3"
+        },
+        "pin_names": {
+          "1": "PWR_FLAG"
+        },
+        "pin_types": {
+          "1": "w"
+        },
+        "section": "ERC source assumptions",
+        "status": "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off",
+        "notes": "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off"
+      },
+      "after": {
+        "ref": "#FLG07",
+        "value": "PWR_FLAG",
+        "pins": {
+          "1": "MIC_3V3"
+        },
+        "pin_names": {
+          "1": "PWR_FLAG"
+        },
+        "pin_types": {
+          "1": "w"
+        },
+        "section": "ERC source assumptions",
+        "status": "ASSUMPTION: Q1 ON; source directly on +3V3; MIC bus isolated when off",
+        "notes": "ASSUMPTION: Q1 ON; source directly on +3V3; MIC bus isolated when off"
+      }
+    },
+    "Q1": {
+      "before": {
+        "ref": "Q1",
+        "value": "AO3401A",
+        "section": "MIC",
+        "pins": {
+          "1": "MIC_GATE_N",
+          "2": "MIC_FEED",
+          "3": "MIC_3V3"
+        },
+        "pin_names": {
+          "1": "G",
+          "2": "S",
+          "3": "D"
+        },
+        "pin_types": {
+          "1": "P",
+          "2": "P",
+          "3": "P"
+        },
+        "footprint": "Package_TO_SOT_SMD:SOT-23",
+        "lcsc": "C15127",
+        "status": "datasheet_pin_checked",
+        "notes": "",
+        "footprint_status": "candidate_unverified",
+        "dnp": false
+      },
+      "after": {
+        "ref": "Q1",
+        "value": "AO3401A",
+        "section": "MIC",
+        "pins": {
+          "1": "MIC_GATE_N",
+          "2": "+3V3",
+          "3": "MIC_3V3"
+        },
+        "pin_names": {
+          "1": "G",
+          "2": "S",
+          "3": "D"
+        },
+        "pin_types": {
+          "1": "P",
+          "2": "P",
+          "3": "P"
+        },
+        "footprint": "Package_TO_SOT_SMD:SOT-23",
+        "lcsc": "C15127",
+        "status": "datasheet_pin_checked",
+        "notes": "V0.7.1移除台架JP1，将原MIC_FEED并入+3V3：Q1源极与R11上拉直接接主逻辑电源。保留Q1开关及U9/U10时钟/数据断电隔离。关麦仍需验证实际电压、电流及信号反灌，不以删除跳线替代隐私测试。",
+        "footprint_status": "candidate_unverified",
+        "dnp": false
+      }
+    },
+    "R11": {
+      "before": {
+        "ref": "R11",
+        "value": "100k",
+        "section": "MIC",
+        "pins": {
+          "1": "MIC_FEED",
+          "2": "MIC_GATE_N"
+        },
+        "pin_names": {
+          "1": "1",
+          "2": "2"
+        },
+        "pin_types": {
+          "1": "P",
+          "2": "P"
+        },
+        "footprint": "Resistor_SMD:R_0603_1608Metric",
+        "lcsc": null,
+        "status": "value_proposed_lcsc_tbd",
+        "notes": "",
+        "footprint_status": "candidate_unverified",
+        "dnp": false
+      },
+      "after": {
+        "ref": "R11",
+        "value": "100k",
+        "section": "MIC",
+        "pins": {
+          "1": "+3V3",
+          "2": "MIC_GATE_N"
+        },
+        "pin_names": {
+          "1": "1",
+          "2": "2"
+        },
+        "pin_types": {
+          "1": "P",
+          "2": "P"
+        },
+        "footprint": "Resistor_SMD:R_0603_1608Metric",
+        "lcsc": null,
+        "status": "value_proposed_lcsc_tbd",
+        "notes": "V0.7.1移除台架JP1，将原MIC_FEED并入+3V3：Q1源极与R11上拉直接接主逻辑电源。保留Q1开关及U9/U10时钟/数据断电隔离。关麦仍需验证实际电压、电流及信号反灌，不以删除跳线替代隐私测试。",
+        "footprint_status": "candidate_unverified",
+        "dnp": false
+      }
+    }
+  },
+  "changed_sheets": [
+    "07_Microphone_Power.kicad_sch",
+    "Spirit.kicad_sch",
+    "20_ERC_Power_Assumptions.kicad_sch"
+  ]
+}

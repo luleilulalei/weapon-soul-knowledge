@@ -1,0 +1,10 @@
+mic_discharge
+Vs rail 0 3.192
+Vc ctrl 0 PULSE(3.192 0 1m 1n 1n 100m 200m)
+S1 rail mic ctrl 0 sw
+.model sw SW(Ron=.1 Roff=1e12 Vt=1.5 Vh=.05)
+R13 mic 0 10k
+Cmic mic 0 1.3u
+.options reltol=1e-6 abstol=1e-12
+.tran 10u 100m
+.end

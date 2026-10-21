@@ -1,0 +1,100 @@
+{
+  "battery": {
+    "manufacturer": "Keeppower",
+    "part_number": "1S1P18650-400T",
+    "body_max_mm": {
+      "diameter": 19.1,
+      "length": 69.2
+    },
+    "nominal_capacity_mAh": 4000,
+    "minimum_capacity_mAh": 3850,
+    "nominal_V": 3.6,
+    "continuous_discharge_A": 6,
+    "maximum_charge_A": 2,
+    "factory_wires": 2,
+    "external_ntc_provided": "not documented; photo has red/black only",
+    "procurement_status": "manufacturer-listed; retail stock and final harness not confirmed",
+    "cad_status": "selected dimensional anchor; sample fit required",
+    "engineering_installation_envelope_mm": {
+      "diameter": 22,
+      "length": 72,
+      "extra_ntc_and_wire_spaces_required": true
+    },
+    "official_url": "https://www.keeppower.com/product/protected-1s1p-li-ion-ncm18650-3-6v-3850mah-13-86wh-with-temp-protection/"
+  },
+  "motor": {
+    "manufacturer": "LEADER",
+    "part_number": "LD0832BC-0195F",
+    "lcsc": "C7472499",
+    "type": "LRA",
+    "status": "V0.7 selected candidate; actual hilt feel and assembly not validated",
+    "rated_Vrms": 1.8,
+    "operating_Vrms": [
+      0.1,
+      1.9
+    ],
+    "frequency_Hz": 235,
+    "frequency_tolerance_Hz": 10,
+    "rated_current_max_mArms": 90,
+    "resistance_ohm": 21,
+    "resistance_tolerance_ohm": 3,
+    "vibration_axis": "Z, through coin thickness",
+    "body_mm": {
+      "diameter": 8,
+      "diameter_tolerance": 0.1,
+      "thickness": 3.25,
+      "thickness_tolerance": 0.1,
+      "foam_extra": 0.3,
+      "tape_extra": 0.15
+    },
+    "termination": "short FPC two solder pads; NOT factory wires",
+    "fpc_mm": {
+      "center_to_tail": 10.4,
+      "center_to_tail_tolerance": 0.2,
+      "tail_width": 4.2
+    },
+    "engineering_pocket_mm": {
+      "diameter": 8.6,
+      "depth": 4.2,
+      "extra_tail_region": [
+        7,
+        5
+      ]
+    },
+    "official_datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20251110/65EE1B4DA9DE30A9C0CC52CD317DDB28.pdf",
+    "driver": {
+      "part_number": "DRV2605LDGSR",
+      "lcsc": "C527464",
+      "supply": "main 3.192V rail; transient validation required",
+      "I2C_address_7bit": "0x5A",
+      "official_datasheet": "https://www.ti.com/lit/ds/symlink/drv2605l.pdf"
+    }
+  },
+  "ntc": {
+    "manufacturer": "SEMITEC",
+    "part_number": "103AT-2",
+    "resistance_ohm": 10000,
+    "resistance_tolerance_percent": 1,
+    "B25_85_K": 3435,
+    "B_tolerance_percent": 1,
+    "body_max_mm": [
+      4,
+      3.7,
+      2.4
+    ],
+    "lead_diameter_mm": 0.5,
+    "lead_pitch_nominal_mm": 2.54,
+    "lead_pitch_tolerance_mm": 0.25,
+    "overall_drawing_length_mm": {
+      "nominal": 17,
+      "tolerance": 1.5
+    },
+    "engineering_side_pocket_mm": [
+      6,
+      8,
+      3.5
+    ],
+    "status": "external thermally bonded insulated assembly; attachment and thermal response require test",
+    "official_datasheet": "https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": "V1.4",
+  "screens": 71,
+  "retired": [
+    "A20B",
+    "A28",
+    "A29",
+    "A30",
+    "A31"
+  ],
+  "issues": [],
+  "checks": [
+    "no retired screen output or route",
+    "all app PNG sizes",
+    "hotspot bounds",
+    "visible edit/save affordances removed"
+  ],
+  "limitations": [
+    "static UI and offline fixtures only",
+    "no hardware, live authentication, deletion execution or IMU validation",
+    "cross-object aggregate deletion combinations are not a complete runtime data model"
+  ]
+}

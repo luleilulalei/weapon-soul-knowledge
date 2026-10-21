@@ -1,0 +1,74 @@
+[
+  {
+    "probe": "FPC_roof",
+    "xy_mm": [
+      0,
+      112
+    ],
+    "surface_z_mm": [
+      19.0,
+      18.0
+    ],
+    "first_vertical_thickness_mm": 1.0
+  },
+  {
+    "probe": "retainer_nut_roof_right",
+    "xy_mm": [
+      22.6,
+      140
+    ],
+    "surface_z_mm": [
+      19.0,
+      18.0
+    ],
+    "first_vertical_thickness_mm": 1.0
+  },
+  {
+    "probe": "retainer_nut_roof_left",
+    "xy_mm": [
+      -22.6,
+      140
+    ],
+    "surface_z_mm": [
+      19.0,
+      18.0
+    ],
+    "first_vertical_thickness_mm": 1.0
+  },
+  {
+    "probe": "grip_touch_roof",
+    "xy_mm": [
+      11,
+      91
+    ],
+    "surface_z_mm": [
+      19.0,
+      17.30000114440918
+    ],
+    "first_vertical_thickness_mm": 1.6999988555908203
+  },
+  {
+    "probe": "ordinary_skin",
+    "xy_mm": [
+      0,
+      90
+    ],
+    "surface_z_mm": [
+      19.0,
+      16.600000381469727
+    ],
+    "first_vertical_thickness_mm": 2.3999996185302734
+  },
+  {
+    "probe": "screen_front_lip",
+    "xy_mm": [
+      17.2,
+      140
+    ],
+    "surface_z_mm": [
+      19.5,
+      18.299999237060547
+    ],
+    "first_vertical_thickness_mm": 1.2000007629394531
+  }
+]

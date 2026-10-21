@@ -1,0 +1,2 @@
+const sharp=require('sharp'),fs=require('fs'),path=require('path');const root=__dirname;
+(async()=>{for(const dir of ['screens','boards']){for(const f of fs.readdirSync(path.join(root,dir)).filter(x=>x.endsWith('.svg'))){await sharp(path.join(root,dir,f),{density:144,limitInputPixels:false}).png().toFile(path.join(root,dir,f.replace('.svg','.png')));}}console.log('All screens and boards rendered by sharp at 2×.');})();

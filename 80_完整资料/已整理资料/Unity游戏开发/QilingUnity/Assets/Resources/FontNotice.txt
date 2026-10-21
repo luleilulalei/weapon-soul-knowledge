@@ -1,0 +1,4 @@
+(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+
+http://scripts.sil.org/OFL
+Source: https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400&display=swap

@@ -1,0 +1,180 @@
+﻿UI V0.2 ID,目录,状态标题,SVG相对完整包根目录,PNG相对完整包根目录,证据范围
+A01,app,器灵 · 首页,app/screens/A01.svg,app/screens/A01.png,状态资产存在；非真实实现或实测证明
+A02,app,器灵 · 成长,app/screens/A02.svg,app/screens/A02.png,状态资产存在；非真实实现或实测证明
+A03,app,收藏 · 特性库,app/screens/A03.svg,app/screens/A03.png,状态资产存在；非真实实现或实测证明
+A04,app,收藏 · 预览与启用,app/screens/A04.svg,app/screens/A04.png,状态资产存在；非真实实现或实测证明
+A05,app,我 · 设置,app/screens/A05.svg,app/screens/A05.png,状态资产存在；非真实实现或实测证明
+A06,app,我 · 记忆与隐私,app/screens/A06.svg,app/screens/A06.png,状态资产存在；非真实实现或实测证明
+A07,app,初见 · 账号准备,app/screens/A07.svg,app/screens/A07.png,状态资产存在；非真实实现或实测证明
+A08,app,初见 · 发现设备,app/screens/A08.svg,app/screens/A08.png,状态资产存在；非真实实现或实测证明
+A09,app,初见 · 确认实体,app/screens/A09.svg,app/screens/A09.png,状态资产存在；非真实实现或实测证明
+A10,app,初见 · 设备联网,app/screens/A10.svg,app/screens/A10.png,状态资产存在；非真实实现或实测证明
+A11,app,初见 · 给它名字,app/screens/A11.svg,app/screens/A11.png,状态资产存在；非真实实现或实测证明
+A12,app,初见 · 第一次问候,app/screens/A12.svg,app/screens/A12.png,状态资产存在；非真实实现或实测证明
+A13,app,卡牌 · 靠近读取,app/screens/A13.svg,app/screens/A13.png,状态资产存在；非真实实现或实测证明
+A14,app,卡牌 · 选择器灵,app/screens/A14.svg,app/screens/A14.png,状态资产存在；非真实实现或实测证明
+A15,app,卡牌 · 最终确认,app/screens/A15.svg,app/screens/A15.png,状态资产存在；非真实实现或实测证明
+A16,app,卡牌 · 结果待核对,app/screens/A16.svg,app/screens/A16.png,状态资产存在；非真实实现或实测证明
+A17,app,卡牌 · 获得成功,app/screens/A17.svg,app/screens/A17.png,状态资产存在；非真实实现或实测证明
+A18,app,卡牌 · 重复特性,app/screens/A18.svg,app/screens/A18.png,状态资产存在；非真实实现或实测证明
+A19,app,记忆 · 列表,app/screens/A19.svg,app/screens/A19.png,状态资产存在；非真实实现或实测证明
+A20,app,记忆 · 来源详情,app/screens/A20.svg,app/screens/A20.png,状态资产存在；非真实实现或实测证明
+A21,app,记忆 · 纠正,app/screens/A21.svg,app/screens/A21.png,状态资产存在；非真实实现或实测证明
+A22,app,记忆 · 删除确认,app/screens/A22.svg,app/screens/A22.png,状态资产存在；非真实实现或实测证明
+A23,app,记忆 · 等待完成,app/screens/A23.svg,app/screens/A23.png,状态资产存在；非真实实现或实测证明
+A24,app,记忆 · 删除完成,app/screens/A24.svg,app/screens/A24.png,状态资产存在；非真实实现或实测证明
+A25,app,装饰 · 当前使用,app/screens/A25.svg,app/screens/A25.png,状态资产存在；非真实实现或实测证明
+A26,app,记忆 · 删除后的列表,app/screens/A26.svg,app/screens/A26.png,状态资产存在；非真实实现或实测证明
+A27,app,记忆 · 待清理列表,app/screens/A27.svg,app/screens/A27.png,状态资产存在；非真实实现或实测证明
+A28,app,记忆 · 更正共同经历,app/screens/A28.svg,app/screens/A28.png,状态资产存在；非真实实现或实测证明
+A29,app,记忆 · 更正后的列表,app/screens/A29.svg,app/screens/A29.png,状态资产存在；非真实实现或实测证明
+A30,app,记忆 · 保存许可,app/screens/A30.svg,app/screens/A30.png,状态资产存在；非真实实现或实测证明
+A31,app,记忆 · 保存失败,app/screens/A31.svg,app/screens/A31.png,状态资产存在；非真实实现或实测证明
+A32,app,卡牌 · 同一卡已兑换,app/screens/A32.svg,app/screens/A32.png,状态资产存在；非真实实现或实测证明
+A33,app,器灵 · 切换查看对象,app/screens/A33.svg,app/screens/A33.png,状态资产存在；非真实实现或实测证明
+A34,app,器灵 · 连接状态,app/screens/A34.svg,app/screens/A34.png,状态资产存在；非真实实现或实测证明
+A35,app,初见 · 登录账号,app/screens/A35.svg,app/screens/A35.png,状态资产存在；非真实实现或实测证明
+A36,app,装饰 · 内容准备失败,app/screens/A36.svg,app/screens/A36.png,状态资产存在；非真实实现或实测证明
+A20B,app,记忆 · 共同经历已更正,app/screens/A20B.svg,app/screens/A20B.png,状态资产存在；非真实实现或实测证明
+A03B,app,收藏 · 已应用流光,app/screens/A03B.svg,app/screens/A03B.png,状态资产存在；非真实实现或实测证明
+A06B,app,隐私 · 实体已关麦,app/screens/A06B.svg,app/screens/A06B.png,状态资产存在；非真实实现或实测证明
+A34B,app,连接 · 麦克风状态未同步,app/screens/A34B.svg,app/screens/A34B.png,状态资产存在；非真实实现或实测证明
+A01N,app,器灵 · 首次首页,app/screens/A01N.svg,app/screens/A01N.png,状态资产存在；非真实实现或实测证明
+A03N,app,收藏 · 初始状态,app/screens/A03N.svg,app/screens/A03N.png,状态资产存在；非真实实现或实测证明
+A37,app,初见 · 配网表单,app/screens/A37.svg,app/screens/A37.png,状态资产存在；非真实实现或实测证明
+A38,app,初见 · 正在配网,app/screens/A38.svg,app/screens/A38.png,状态资产存在；非真实实现或实测证明
+A39,app,初见 · 配网失败,app/screens/A39.svg,app/screens/A39.png,状态资产存在；非真实实现或实测证明
+A40,app,初见 · 验证码错误,app/screens/A40.svg,app/screens/A40.png,状态资产存在；非真实实现或实测证明
+A03P,app,收藏 · 兑换待核对入口,app/screens/A03P.svg,app/screens/A03P.png,状态资产存在；非真实实现或实测证明
+A02B,app,成长 · 删除经历后,app/screens/A02B.svg,app/screens/A02B.png,状态资产存在；非真实实现或实测证明
+A02P,app,成长 · 经历待清理,app/screens/A02P.svg,app/screens/A02P.png,状态资产存在；非真实实现或实测证明
+A34C,app,连接 · 实体已确认关麦,app/screens/A34C.svg,app/screens/A34C.png,状态资产存在；非真实实现或实测证明
+A06U,app,隐私 · 采音状态未知,app/screens/A06U.svg,app/screens/A06U.png,状态资产存在；非真实实现或实测证明
+A14S,app,卡牌 · 选择拾光,app/screens/A14S.svg,app/screens/A14S.png,状态资产存在；非真实实现或实测证明
+A15S,app,卡牌 · 确认兑换给拾光,app/screens/A15S.svg,app/screens/A15S.png,状态资产存在；非真实实现或实测证明
+A16S,app,卡牌 · 拾光兑换待核对,app/screens/A16S.svg,app/screens/A16S.png,状态资产存在；非真实实现或实测证明
+A17S,app,卡牌 · 拾光获得成功,app/screens/A17S.svg,app/screens/A17S.png,状态资产存在；非真实实现或实测证明
+A04S,app,拾光 · 装饰可应用,app/screens/A04S.svg,app/screens/A04S.png,状态资产存在；非真实实现或实测证明
+A25S,app,拾光 · 装饰已应用,app/screens/A25S.svg,app/screens/A25S.png,状态资产存在；非真实实现或实测证明
+A36S,app,拾光 · 内容准备失败,app/screens/A36S.svg,app/screens/A36S.png,状态资产存在；非真实实现或实测证明
+A03S,app,收藏 · 拾光已拥有,app/screens/A03S.svg,app/screens/A03S.png,状态资产存在；非真实实现或实测证明
+A03SB,app,收藏 · 拾光当前使用,app/screens/A03SB.svg,app/screens/A03SB.png,状态资产存在；非真实实现或实测证明
+A32S,app,卡牌 · 已兑换给拾光,app/screens/A32S.svg,app/screens/A32S.png,状态资产存在；非真实实现或实测证明
+A18S,app,卡牌 · 拾光重复特性,app/screens/A18S.svg,app/screens/A18S.png,状态资产存在；非真实实现或实测证明
+A04SU,app,拾光 · 应用前连接,app/screens/A04SU.svg,app/screens/A04SU.png,状态资产存在；非真实实现或实测证明
+A03SP,app,收藏 · 拾光兑换待核对,app/screens/A03SP.svg,app/screens/A03SP.png,状态资产存在；非真实实现或实测证明
+A01S,app,器灵 · 查看拾光,app/screens/A01S.svg,app/screens/A01S.png,状态资产存在；非真实实现或实测证明
+A37K,app,初见 · 横屏键盘安全区,app/screens/A37K.svg,app/screens/A37K.png,状态资产存在；非真实实现或实测证明
+A03U,app,收藏 · 已成长但没有装饰,app/screens/A03U.svg,app/screens/A03U.png,状态资产存在；非真实实现或实测证明
+A02N,app,器灵 · 尚未保存共同经历,app/screens/A02N.svg,app/screens/A02N.png,状态资产存在；非真实实现或实测证明
+A19N,app,记忆 · 尚未保存,app/screens/A19N.svg,app/screens/A19N.png,状态资产存在；非真实实现或实测证明
+A19S,app,记忆 · 首次保存一条经历,app/screens/A19S.svg,app/screens/A19S.png,状态资产存在；非真实实现或实测证明
+A27S,app,记忆 · 唯一一条正在清理,app/screens/A27S.svg,app/screens/A27S.png,状态资产存在；非真实实现或实测证明
+G13,game,守门者_向下释放,game/screens/G13_守门者_向下释放.svg,game/screens/G13_守门者_向下释放.png,状态资产存在；非真实实现或实测证明
+G01,game,训练大厅,game/screens/G01_训练大厅.svg,game/screens/G01_训练大厅.png,状态资产存在；非真实实现或实测证明
+G02,game,安全准备,game/screens/G02_安全准备.svg,game/screens/G02_安全准备.png,状态资产存在；非真实实现或实测证明
+G16,game,普通失败,game/screens/G16_普通失败.svg,game/screens/G16_普通失败.png,状态资产存在；非真实实现或实测证明
+G17,game,首过结算与继续,game/screens/G17_首过结算与继续.svg,game/screens/G17_首过结算与继续.png,状态资产存在；非真实实现或实测证明
+G03,game,离屏倒计时,game/screens/G03_离屏倒计时.svg,game/screens/G03_离屏倒计时.png,状态资产存在；非真实实现或实测证明
+G04,game,方向教学_演示,game/screens/G04_方向教学_演示.svg,game/screens/G04_方向教学_演示.png,状态资产存在；非真实实现或实测证明
+G05,game,方向教学_尝试,game/screens/G05_方向教学_尝试.svg,game/screens/G05_方向教学_尝试.png,状态资产存在；非真实实现或实测证明
+G06,game,校准失败_方向纠正,game/screens/G06_校准失败_方向纠正.svg,game/screens/G06_校准失败_方向纠正.png,状态资产存在；非真实实现或实测证明
+G07,game,校准成功,game/screens/G07_校准成功.svg,game/screens/G07_校准成功.png,状态资产存在；非真实实现或实测证明
+G08,game,辨向_运行,game/screens/G08_辨向_运行.svg,game/screens/G08_辨向_运行.png,状态资产存在；非真实实现或实测证明
+G09,game,节拍_第二段,game/screens/G09_节拍_第二段.svg,game/screens/G09_节拍_第二段.png,状态资产存在；非真实实现或实测证明
+G10,game,守门者_防御预告,game/screens/G10_守门者_防御预告.svg,game/screens/G10_守门者_防御预告.png,状态资产存在；非真实实现或实测证明
+G11,game,守门者_格挡窗口,game/screens/G11_守门者_格挡窗口.svg,game/screens/G11_守门者_格挡窗口.png,状态资产存在；非真实实现或实测证明
+G12,game,守门者_蓄力中,game/screens/G12_守门者_蓄力中.svg,game/screens/G12_守门者_蓄力中.png,状态资产存在；非真实实现或实测证明
+G20,game,守门者_蓄力取消,game/screens/G20_守门者_蓄力取消.svg,game/screens/G20_守门者_蓄力取消.png,状态资产存在；非真实实现或实测证明
+G14,game,暂停菜单,game/screens/G14_暂停菜单.svg,game/screens/G14_暂停菜单.png,状态资产存在；非真实实现或实测证明
+G15,game,恢复准备,game/screens/G15_恢复准备.svg,game/screens/G15_恢复准备.png,状态资产存在；非真实实现或实测证明
+G18,game,断连_待核对,game/screens/G18_断连_待核对.svg,game/screens/G18_断连_待核对.png,状态资产存在；非真实实现或实测证明
+G19,game,重连后_重新开始,game/screens/G19_重连后_重新开始.svg,game/screens/G19_重连后_重新开始.png,状态资产存在；非真实实现或实测证明
+G06U,game,校准失败_输入未知,game/screens/G06U_校准失败_输入未知.svg,game/screens/G06U_校准失败_输入未知.png,状态资产存在；非真实实现或实测证明
+G17R,game,重复通关,game/screens/G17R_重复通关.svg,game/screens/G17R_重复通关.png,状态资产存在；非真实实现或实测证明
+G16G,game,守门者_普通失败,game/screens/G16G_守门者_普通失败.svg,game/screens/G16G_守门者_普通失败.png,状态资产存在；非真实实现或实测证明
+G22,game,守门者_胜利结算,game/screens/G22_守门者_胜利结算.svg,game/screens/G22_守门者_胜利结算.png,状态资产存在；非真实实现或实测证明
+G23,game,主动退出结果,game/screens/G23_主动退出结果.svg,game/screens/G23_主动退出结果.png,状态资产存在；非真实实现或实测证明
+G02B,game,准备受阻_充电,game/screens/G02B_准备受阻_充电.svg,game/screens/G02B_准备受阻_充电.png,状态资产存在；非真实实现或实测证明
+G03T,game,教学重试_回站位,game/screens/G03T_教学重试_回站位.svg,game/screens/G03T_教学重试_回站位.png,状态资产存在；非真实实现或实测证明
+G02D,game,安全准备_辨向,game/screens/G02D_安全准备_辨向.svg,game/screens/G02D_安全准备_辨向.png,状态资产存在；非真实实现或实测证明
+G03D,game,离屏倒计时_辨向,game/screens/G03D_离屏倒计时_辨向.svg,game/screens/G03D_离屏倒计时_辨向.png,状态资产存在；非真实实现或实测证明
+G04D,game,方向教学_演示_辨向,game/screens/G04D_方向教学_演示_辨向.svg,game/screens/G04D_方向教学_演示_辨向.png,状态资产存在；非真实实现或实测证明
+G05D,game,方向教学_尝试_辨向,game/screens/G05D_方向教学_尝试_辨向.svg,game/screens/G05D_方向教学_尝试_辨向.png,状态资产存在；非真实实现或实测证明
+G06D,game,校准失败_方向纠正_辨向,game/screens/G06D_校准失败_方向纠正_辨向.svg,game/screens/G06D_校准失败_方向纠正_辨向.png,状态资产存在；非真实实现或实测证明
+G06UD,game,校准失败_输入未知_辨向,game/screens/G06UD_校准失败_输入未知_辨向.svg,game/screens/G06UD_校准失败_输入未知_辨向.png,状态资产存在；非真实实现或实测证明
+G07D,game,校准成功_辨向,game/screens/G07D_校准成功_辨向.svg,game/screens/G07D_校准成功_辨向.png,状态资产存在；非真实实现或实测证明
+G03TD,game,教学重试_回站位_辨向,game/screens/G03TD_教学重试_回站位_辨向.svg,game/screens/G03TD_教学重试_回站位_辨向.png,状态资产存在；非真实实现或实测证明
+G02R,game,安全准备_节拍,game/screens/G02R_安全准备_节拍.svg,game/screens/G02R_安全准备_节拍.png,状态资产存在；非真实实现或实测证明
+G03R,game,离屏倒计时_节拍,game/screens/G03R_离屏倒计时_节拍.svg,game/screens/G03R_离屏倒计时_节拍.png,状态资产存在；非真实实现或实测证明
+G04R,game,方向教学_演示_节拍,game/screens/G04R_方向教学_演示_节拍.svg,game/screens/G04R_方向教学_演示_节拍.png,状态资产存在；非真实实现或实测证明
+G05R,game,方向教学_尝试_节拍,game/screens/G05R_方向教学_尝试_节拍.svg,game/screens/G05R_方向教学_尝试_节拍.png,状态资产存在；非真实实现或实测证明
+G06R,game,校准失败_方向纠正_节拍,game/screens/G06R_校准失败_方向纠正_节拍.svg,game/screens/G06R_校准失败_方向纠正_节拍.png,状态资产存在；非真实实现或实测证明
+G06UR,game,校准失败_输入未知_节拍,game/screens/G06UR_校准失败_输入未知_节拍.svg,game/screens/G06UR_校准失败_输入未知_节拍.png,状态资产存在；非真实实现或实测证明
+G07R,game,校准成功_节拍,game/screens/G07R_校准成功_节拍.svg,game/screens/G07R_校准成功_节拍.png,状态资产存在；非真实实现或实测证明
+G03TR,game,教学重试_回站位_节拍,game/screens/G03TR_教学重试_回站位_节拍.svg,game/screens/G03TR_教学重试_回站位_节拍.png,状态资产存在；非真实实现或实测证明
+G16D,game,辨向_普通失败,game/screens/G16D_辨向_普通失败.svg,game/screens/G16D_辨向_普通失败.png,状态资产存在；非真实实现或实测证明
+G18C,game,重连检查中,game/screens/G18C_重连检查中.svg,game/screens/G18C_重连检查中.png,状态资产存在；非真实实现或实测证明
+G15C,game,恢复_方向确认,game/screens/G15C_恢复_方向确认.svg,game/screens/G15C_恢复_方向确认.png,状态资产存在；非真实实现或实测证明
+G15U,game,恢复_输入未知,game/screens/G15U_恢复_输入未知.svg,game/screens/G15U_恢复_输入未知.png,状态资产存在；非真实实现或实测证明
+G24,game,格挡教学回看,game/screens/G24_格挡教学回看.svg,game/screens/G24_格挡教学回看.png,状态资产存在；非真实实现或实测证明
+G02S,game,安全准备_基础斩,game/screens/G02S_安全准备_基础斩.svg,game/screens/G02S_安全准备_基础斩.png,状态资产存在；非真实实现或实测证明
+G02C,game,安全准备_回锋,game/screens/G02C_安全准备_回锋.svg,game/screens/G02C_安全准备_回锋.png,状态资产存在；非真实实现或实测证明
+G25,game,守门者_基础斩反击,game/screens/G25_守门者_基础斩反击.svg,game/screens/G25_守门者_基础斩反击.png,状态资产存在；非真实实现或实测证明
+G26A,game,守门者_回锋第一段,game/screens/G26A_守门者_回锋第一段.svg,game/screens/G26A_守门者_回锋第一段.png,状态资产存在；非真实实现或实测证明
+G26,game,守门者_回锋第二段,game/screens/G26_守门者_回锋第二段.svg,game/screens/G26_守门者_回锋第二段.png,状态资产存在；非真实实现或实测证明
+G26F,game,守门者_回锋取消,game/screens/G26F_守门者_回锋取消.svg,game/screens/G26F_守门者_回锋取消.png,状态资产存在；非真实实现或实测证明
+G20T,game,守门者_释放超时,game/screens/G20T_守门者_释放超时.svg,game/screens/G20T_守门者_释放超时.png,状态资产存在；非真实实现或实测证明
+G01N,game,训练大厅_初次进入,game/screens/G01N_训练大厅_初次进入.svg,game/screens/G01N_训练大厅_初次进入.png,状态资产存在；非真实实现或实测证明
+G10H2,game,守门者_一次命中后,game/screens/G10H2_守门者_一次命中后.svg,game/screens/G10H2_守门者_一次命中后.png,状态资产存在；非真实实现或实测证明
+G01D,game,训练大厅_辨向已通过,game/screens/G01D_训练大厅_辨向已通过.svg,game/screens/G01D_训练大厅_辨向已通过.png,状态资产存在；非真实实现或实测证明
+D01,device,等你开口,device/screens/D01.svg,device/screens/D01.png,状态资产存在；非真实实现或实测证明
+D02,device,被叫到名字,device/screens/D02.svg,device/screens/D02.png,状态资产存在；非真实实现或实测证明
+D03,device,认真听你说,device/screens/D03.svg,device/screens/D03.png,状态资产存在；非真实实现或实测证明
+D04,device,想一想,device/screens/D04.svg,device/screens/D04.png,状态资产存在；非真实实现或实测证明
+D05,device,回答你,device/screens/D05.svg,device/screens/D05.png,状态资产存在；非真实实现或实测证明
+D06,device,留一点空白,device/screens/D06.svg,device/screens/D06.png,状态资产存在；非真实实现或实测证明
+D07,device,听到你打断,device/screens/D07.svg,device/screens/D07.png,状态资产存在；非真实实现或实测证明
+D08,device,没有听清,device/screens/D08.svg,device/screens/D08.png,状态资产存在；非真实实现或实测证明
+D09,device,这轮聊完了,device/screens/D09.svg,device/screens/D09.png,状态资产存在；非真实实现或实测证明
+D10,device,网络断开,device/screens/D10.svg,device/screens/D10.png,状态资产存在；非真实实现或实测证明
+D11,device,这次没答上,device/screens/D11.svg,device/screens/D11.png,状态资产存在；非真实实现或实测证明
+D12,device,网络回来了,device/screens/D12.svg,device/screens/D12.png,状态资产存在；非真实实现或实测证明
+D13,device,离线也能陪你,device/screens/D13.svg,device/screens/D13.png,状态资产存在；非真实实现或实测证明
+D14,device,先站稳，再开始,device/screens/D14.svg,device/screens/D14.png,状态资产存在；非真实实现或实测证明
+D15,device,跟随本地节拍,device/screens/D15.svg,device/screens/D15.png,状态资产存在；非真实实现或实测证明
+D16,device,动作被收到了,device/screens/D16.svg,device/screens/D16.png,状态资产存在；非真实实现或实测证明
+D17,device,本次练习结束,device/screens/D17.svg,device/screens/D17.png,状态资产存在；非真实实现或实测证明
+D18,device,麦克风关闭,device/screens/D18.svg,device/screens/D18.png,状态资产存在；非真实实现或实测证明
+D19,device,关麦，也会开心,device/screens/D19.svg,device/screens/D19.png,状态资产存在；非真实实现或实测证明
+D20,device,关麦中的战斗,device/screens/D20.svg,device/screens/D20.png,状态资产存在；非真实实现或实测证明
+D21,device,先问你是否记住,device/screens/D21.svg,device/screens/D21.png,状态资产存在；非真实实现或实测证明
+D22,device,许可后的保存,device/screens/D22.svg,device/screens/D22.png,状态资产存在；非真实实现或实测证明
+D23,device,确实保存好了,device/screens/D23.svg,device/screens/D23.png,状态资产存在；非真实实现或实测证明
+D24,device,这次没有存好,device/screens/D24.svg,device/screens/D24.png,状态资产存在；非真实实现或实测证明
+D25,device,先找到要改的内容,device/screens/D25.svg,device/screens/D25.png,状态资产存在；非真实实现或实测证明
+D26,device,忘掉哪一条,device/screens/D26.svg,device/screens/D26.png,状态资产存在；非真实实现或实测证明
+D27,device,正在处理遗忘,device/screens/D27.svg,device/screens/D27.png,状态资产存在；非真实实现或实测证明
+D28,device,遗忘结果已确认,device/screens/D28.svg,device/screens/D28.png,状态资产存在；非真实实现或实测证明
+D29,device,低电，仍可使用,device/screens/D29.svg,device/screens/D29.png,状态资产存在；非真实实现或实测证明
+D30,device,先暂停高耗电玩法,device/screens/D30.svg,device/screens/D30.png,状态资产存在；非真实实现或实测证明
+D31,device,准备安全关机,device/screens/D31.svg,device/screens/D31.png,状态资产存在；非真实实现或实测证明
+D32,device,充电时，好好聊,device/screens/D32.svg,device/screens/D32.png,状态资产存在；非真实实现或实测证明
+D33,device,充电且麦克风关闭,device/screens/D33.svg,device/screens/D33.png,状态资产存在；非真实实现或实测证明
+D34,device,放好了，但没充上,device/screens/D34.svg,device/screens/D34.png,状态资产存在；非真实实现或实测证明
+D35,device,严重异常优先,device/screens/D35.svg,device/screens/D35.png,状态资产存在；非真实实现或实测证明
+D36,device,恢复前再确认,device/screens/D36.svg,device/screens/D36.png,状态资产存在；非真实实现或实测证明
+D37,device,入座，结束这一局,device/screens/D37.svg,device/screens/D37.png,状态资产存在；非真实实现或实测证明
+D38,device,取下，重新出发,device/screens/D38.svg,device/screens/D38.png,状态资产存在；非真实实现或实测证明
+D39,device,浅眠仍可唤醒,device/screens/D39.svg,device/screens/D39.png,状态资产存在；非真实实现或实测证明
+D40,device,深眠待按键唤醒,device/screens/D40.svg,device/screens/D40.png,状态资产存在；非真实实现或实测证明
+D41,device,正在关机,device/screens/D41.svg,device/screens/D41.png,状态资产存在；非真实实现或实测证明
+D42,device,关机完成提示,device/screens/D42.svg,device/screens/D42.png,状态资产存在；非真实实现或实测证明
+D43,device,开机识别剑身,device/screens/D43.svg,device/screens/D43.png,状态资产存在；非真实实现或实测证明
+D44,device,没有认出剑身,device/screens/D44.svg,device/screens/D44.png,状态资产存在；非真实实现或实测证明
+M01,device,保存结果尚未确认,device/screens/M01.svg,device/screens/M01.png,状态资产存在；非真实实现或实测证明
+M02,device,更正确认完成,device/screens/M02.svg,device/screens/M02.png,状态资产存在；非真实实现或实测证明
+M03,device,删除尚未完成,device/screens/M03.svg,device/screens/M03.png,状态资产存在；非真实实现或实测证明
+M04,device,充电状态还不确定,device/screens/M04.svg,device/screens/M04.png,状态资产存在；非真实实现或实测证明
+M05,device,关麦结果未确认,device/screens/M05.svg,device/screens/M05.png,状态资产存在；非真实实现或实测证明
+M06,device,浅眠且麦克风关闭,device/screens/M06.svg,device/screens/M06.png,状态资产存在；非真实实现或实测证明

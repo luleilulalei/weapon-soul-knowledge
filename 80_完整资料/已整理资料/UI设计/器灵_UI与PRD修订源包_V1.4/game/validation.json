@@ -1,0 +1,37 @@
+{
+  "revision": "v1.4",
+  "date": "2026-10-18",
+  "screens": 58,
+  "logical_size": [
+    844,
+    390
+  ],
+  "boards": 4,
+  "svg_parse": "pass",
+  "hotspot_bounds": "pass",
+  "route_targets": "pass",
+  "external_targets_expected": [
+    "A01",
+    "A01N",
+    "A03",
+    "A03N",
+    "A05"
+  ],
+  "no_game_conversation_controls": "pass",
+  "no_post_level_memory_routes": "pass",
+  "no_automatic_memory_save_assumption": true,
+  "skill_unlock_and_repeat_state": "pass",
+  "manual_visual_qa": [
+    "G17",
+    "G17R",
+    "G22",
+    "G02B",
+    "G23",
+    "G13",
+    "boards/01",
+    "boards/04"
+  ],
+  "visual_findings": "Text, buttons, safety footer and hardware-only microphone status are legible and within frame. No visible memory decision, old footer link or game dialogue control.",
+  "static_checks_only": true,
+  "errors": []
+}

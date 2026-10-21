@@ -1,0 +1,17 @@
+{
+  "model/Spirit_EVT_mechanical_v02.blend": "37e8e3c1b787283c0edfe79d1d6f8defd8d839663ef41efa5af487972f6c2f91",
+  "model/project_callouts.py": "9b381715a1033a388249a042c7470c6ca6535d08c6de9e2dbe0602364d56f035",
+  "model/render_views.py": "8b544fe1fa8eb4ac6c4bc66bd008aa939cf1479e13145778b91f7477e697daae",
+  "model/annotate_views.py": "f650a6feab92dbc267d80ff4609a19c4d6adaa1e124b54962e75070bc5e25400",
+  "model/build_spirit.py": "a284b71871d35c2cb77238f24e307f6629e72cad19616b7e9575b02081271358",
+  "model/mesh_validation.json": "1f2c8b57d4c01355e89cefa11565a076211c201c6252a9b2625052d3408960c5",
+  "model/component_placements.json": "dce15efeffc59b1c370c475f4db0b3638835905c400b39b5843d1fcf2fe89a06",
+  "model/parameters.json": "31a3c3f356ba0fab6f272876e40f41ef8812c1c3b225842b4767d944f457c34b",
+  "model/selected_parts_display_speaker.json": "446721fcd5730218d4b9edfb937d5da3793da8c577ae67efbc12dfda96948a1c",
+  "model/selected_battery_motor.json": "86b307bbdbbd7aba32c7087ad450d67b6d3171df0bd144f62781557616a190d5",
+  "model/callouts.json": "b1011274587ec2fd9ddfd8be3b0714afca02738932e6fe15be4ccd388ae9dc82",
+  "model/callouts_exploded.json": "10a8b25ee3e98baada19639159856766ce79aebc8d2b59398d0b64c0917f5f99",
+  "reference_HOTHMI_V2-0.pdf": "429f54d93e4fb9190f82d8781bba2433568755a392df257fd754cc7c20c80d51",
+  "reference_LD0832BC-0195F.pdf": "7310e6912ae35a2880f62f9653e61eee505699d8f576af6d2652c58289fb8893",
+  "reference_Omron_XF2M.pdf": "8fc2124ab4ed8728d8ecd8d3e2e1590bd71d48b791c52c671991180747d5b70b"
+}

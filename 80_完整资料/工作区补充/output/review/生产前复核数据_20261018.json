@@ -1,0 +1,10 @@
+{
+  "project": "905341ae37d54834b63619f85ccdbdcc",
+  "schematicComponents": 157,
+  "pcbComponents": 157,
+  "pinDifferences": [],
+  "pcbDrcCount": 387,
+  "pcbDrcTypes": {
+    "Connection Error": 387
+  }
+}

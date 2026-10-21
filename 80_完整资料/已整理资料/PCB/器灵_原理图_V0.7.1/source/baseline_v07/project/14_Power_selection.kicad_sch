@@ -1,0 +1,300 @@
+(kicad_sch (version 20231120) (generator "eeschema") (uuid "769a382f-6a09-5fda-91fc-72229cbc4a42") (paper "User" 467 210)
+(title_block (title "Spirit V0.3 - Power 电源选择与总开关") (date "2026-10-17") (rev "V0.3 REVIEW") (company "Qiling / Spirit") (comment 1 "NOT FOR FABRICATION. Verify interface pinouts, power limits and footprints."))
+(lib_symbols
+(symbol "Generic:2-Pin Power Connector"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "J" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "2-Pin Power Connector" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "2-Pin Power Connector_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "2-Pin Power Connector_1_1"
+(pin passive line (at -25.4 7.62 0) (length 5.08) (name "1" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 25.4 7.62 180) (length 5.08) (name "2" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "EXT regulated 5V current-limited" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "Generic:PPTC Resettable Fuse 1A 6V 1812"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "F" (at 0 7.62 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "PPTC Resettable Fuse 1A 6V 1812" (at 0 5.08 0) (effects (font (size 1.0 1.0)) ))
+(symbol "PPTC Resettable Fuse 1A 6V 1812_0_1"
+(rectangle (start -5.08 2.032) (end 5.08 -2.032) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "PPTC Resettable Fuse 1A 6V 1812_1_1"
+(pin passive line (at -10.16 0.0 0) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 0.0 180) (length 5.08) (name "~" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "PPTC 1A hold / >=6V" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "Generic:Pin Header 1x03 2.54mm Vertical"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "J" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "Pin Header 1x03 2.54mm Vertical" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "Pin Header 1x03 2.54mm Vertical_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "Pin Header 1x03 2.54mm Vertical_1_1"
+(pin passive line (at -25.4 7.62 0) (length 5.08) (name "1" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at -25.4 2.54 0) (length 5.08) (name "2" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 25.4 7.62 180) (length 5.08) (name "3" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "MAIN SOURCE one shunt only" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(symbol "Generic:DPST ON-OFF Switch 3A 5VDC"  (pin_names (offset 0.8)) (in_bom yes) (on_board yes)
+(property "Reference" "S" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "DPST ON-OFF Switch 3A 5VDC" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "DPST ON-OFF Switch 3A 5VDC_0_1"
+(polyline (pts (xy -5.08 5.08) (xy -3.81 5.08)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy 3.81 5.08) (xy 5.08 5.08)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy -3.81 5.08) (xy 3.556 8.128)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy -5.08 -5.08) (xy -3.81 -5.08)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy 3.81 -5.08) (xy 5.08 -5.08)) (stroke (width 0.254) (type default)) (fill (type none)))
+(polyline (pts (xy -3.81 -5.08) (xy 3.556 -2.032)) (stroke (width 0.254) (type default)) (fill (type none)))
+)
+(symbol "DPST ON-OFF Switch 3A 5VDC_1_1"
+(pin passive line (at -10.16 5.08 0) (length 5.08) (name "A_IN" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 5.08 180) (length 5.08) (name "A_OUT" (effects (font (size 1.0 1.0)) )) (number "2" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at -10.16 -5.08 0) (length 5.08) (name "B_IN" (effects (font (size 1.0 1.0)) )) (number "3" (effects (font (size 1.0 1.0)) )))
+(pin passive line (at 10.16 -5.08 180) (length 5.08) (name "B_OUT" (effects (font (size 1.0 1.0)) )) (number "4" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "DPST MAIN HARD OFF" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+)
+(text "Power 电源选择与总开关" (at 15.24 17.78 0) (effects (font (face "Noto Sans CJK SC") (size 2.2 2.2)) (justify left bottom)) (uuid "a994e0c0-b7d0-594a-bcea-cd95c371d86e"))
+(text "Global labels are electrical connections. LOGICAL/UNVERIFIED interfaces require resolution before PCB layout." (at 15.24 25.4 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) (justify left bottom)) (uuid "5ac99397-7104-5bfd-9041-285ba10de096"))
+(symbol (lib_id "Generic:2-Pin Power Connector") (at 71.12 50.8 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "0d31984b-ea86-521f-a1a9-d325ca3b5521")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "Bench supply 5.0V; verify polarity, set current limit. No reverse-polarity protection. Final keyed connector TBD." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "J105" (at 71.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "EXT regulated 5V current-limited" (at 71.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "LOGICAL_UNVERIFIED" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "d6b59b67-30f4-5e7b-8881-99efa71b9e92"))
+(pin "2" (uuid "14955244-4e5b-5f85-8047-88cc745e3237"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42" (reference "J105") (unit 1))))
+
+(property "Name" "2-Pin Power Connector" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "2-Pin Power Connector" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "EXT regulated 5V current-limited" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: pitch, mating part, polarization/keying, mounting/orientation, contact-current rating and exact physical pin numbering. External 5V bench-supply connector/polarity/current specification required; existing header footprint is provisional." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Bench supply 5.0V; verify polarity, set current limit. No reverse-polarity protection. Final keyed connector TBD." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 43.18) (xy 35.56 43.18)) (stroke (width 0) (type default)) (uuid "a8447e0e-ef0d-5e73-9a22-617839d28cdf"))
+(global_label "EXT_5V_IN" (shape bidirectional) (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "b9c04b68-9207-5d71-a9ed-d81428108bda") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 96.52 43.18) (xy 106.68 43.18)) (stroke (width 0) (type default)) (uuid "aa0c6d12-a121-5133-ae7e-5a3d3c949c3f"))
+(global_label "GND" (shape bidirectional) (at 106.68 43.18 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "9e32fc4d-17a1-57db-b7d7-c3d0d8e0d810") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 106.68 43.18 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "LOGICAL_UNVERIFIED" (at 45.72 67.31 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "f38d0fb0-5ef6-538c-b908-de758e6f5adb"))
+(symbol (lib_id "Generic:PPTC Resettable Fuse 1A 6V 1812") (at 198.12 44.45 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "a38c95ba-55f7-5db2-86dc-5cdf99f2ea28")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "Exact manufacturer TBD; source must independently limit current. Not a precise 1A electronic limiter." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "F102" (at 198.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PPTC 1A hold / >=6V" (at 198.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Fuse:Fuse_1812_4532Metric" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "LOGICAL_UNVERIFIED" (at 198.12 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "25237601-ae3e-52fd-aeaf-8c8e9fcf00d6"))
+(pin "2" (uuid "1d0b3e90-220d-59df-b142-f7a3c79c3c2b"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42" (reference "F102") (unit 1))))
+
+(property "Name" "PPTC Resettable Fuse 1A 6V 1812" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PPTC Resettable Fuse 1A 6V 1812" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PPTC 1A hold / >=6V" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: exact MPN; hold-current derating, trip/time curve, interrupt/fault-current rating, resistance and thermal validation. Voltage requirement is >=6V; Name shows minimum specification, not a selected SKU." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Exact manufacturer TBD; source must independently limit current. Not a precise 1A electronic limiter." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 44.45) (xy 177.8 44.45)) (stroke (width 0) (type default)) (uuid "79543e80-d8f9-57e5-ba05-dad3c6673a28"))
+(global_label "EXT_5V_IN" (shape bidirectional) (at 177.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "3c9f5a94-76c7-5a60-96c0-e6e31fc4acae") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 44.45 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 44.45) (xy 218.44 44.45)) (stroke (width 0) (type default)) (uuid "af3d59bc-f68a-5b02-8e90-10374b0f7fcf"))
+(global_label "EXT_5V" (shape bidirectional) (at 218.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "b7a57a10-fa59-578d-b61f-4c6ae63b0bea") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 44.45 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Generic:Pin Header 1x03 2.54mm Vertical") (at 198.12 72.39 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "bb6ea132-ab3b-599f-8d82-77b9142fc193")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "Default 2-3 EXT; 1-2 battery/USB. Move only power OFF. Remove shunt for hard-off. Never bridge all 3 pins." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "J106" (at 198.12 56.642 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "MAIN SOURCE one shunt only" (at 198.12 59.182 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 198.12 72.39 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 72.39 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 198.12 72.39 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "acefc651-46d1-5b49-991c-ada02081bcc6"))
+(pin "2" (uuid "872408d3-ef5c-53ec-a442-cbd282480b5f"))
+(pin "3" (uuid "54ccc016-468a-5a17-b565-d1d30d2868df"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42" (reference "J106") (unit 1))))
+
+(property "Name" "Pin Header 1x03 2.54mm Vertical" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "Pin Header 1x03 2.54mm Vertical" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "MAIN SOURCE one shunt only" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: exact header/shunt MPN, matched post/contact dimensions and power-current ratings. One removable shunt per header, default pins 2-3 only; account for shunts separately." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Default 2-3 EXT; 1-2 battery/USB. Move only power OFF. Remove shunt for hard-off. Never bridge all 3 pins." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 64.77) (xy 162.56 64.77)) (stroke (width 0) (type default)) (uuid "a16d33ee-bcbd-5824-91b3-5c71f82ce72c"))
+(global_label "VSYS_RAW" (shape bidirectional) (at 162.56 64.77 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "ed2aae0e-85a3-5743-8796-59dc9d54fcf4") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 64.77 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 172.72 69.85) (xy 162.56 69.85)) (stroke (width 0) (type default)) (uuid "34043541-f8e1-509c-9870-02cf5f386e37"))
+(global_label "MAIN_SOURCE" (shape bidirectional) (at 162.56 69.85 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "db1f292b-e34b-5e37-9c53-bc5abcf57a10") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 69.85 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 223.52 64.77) (xy 233.68 64.77)) (stroke (width 0) (type default)) (uuid "ecbeb8a3-4b47-5d77-b533-6dd37c01c2aa"))
+(global_label "EXT_5V" (shape bidirectional) (at 233.68 64.77 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "ef74c643-6912-5ef6-ac77-6ec2fda9b46b") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 233.68 64.77 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Generic:Pin Header 1x03 2.54mm Vertical") (at 71.12 93.98 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "aaf433f4-24fa-5550-b7b5-e2b165cd05ac")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "Default 2-3 EXT; battery mode 1-2. Move only power OFF. No parallel regulators." (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "J107" (at 71.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "5V SOURCE one shunt only" (at 71.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "FOOTPRINT_CANDIDATE" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "b1033689-48ac-5de2-8fdd-ab87df799621"))
+(pin "2" (uuid "88b4b32d-c4b3-5840-88a5-5a942c0a69ce"))
+(pin "3" (uuid "5ee79d2b-a989-55fb-8ba6-1517d8101644"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42" (reference "J107") (unit 1))))
+
+(property "Name" "Pin Header 1x03 2.54mm Vertical" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "Pin Header 1x03 2.54mm Vertical" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "5V SOURCE one shunt only" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: exact header/shunt MPN, matched post/contact dimensions and power-current ratings. One removable shunt per header, default pins 2-3 only; account for shunts separately." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Default 2-3 EXT; battery mode 1-2. Move only power OFF. No parallel regulators." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 86.36) (xy 35.56 86.36)) (stroke (width 0) (type default)) (uuid "5bb99d61-c9bc-5c6f-b01c-9910889186b3"))
+(global_label "BOOST_5V" (shape bidirectional) (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "880bb953-7860-5ed7-8c67-d8c0e0314927") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 45.72 91.44) (xy 35.56 91.44)) (stroke (width 0) (type default)) (uuid "8bd77716-5a79-5cee-a1b1-199a221ca6b0"))
+(global_label "AUX_SOURCE" (shape bidirectional) (at 35.56 91.44 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "96742f19-335e-579a-ad7a-85599c583cdd") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 91.44 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 96.52 86.36) (xy 106.68 86.36)) (stroke (width 0) (type default)) (uuid "b8ff245d-30ba-5427-b411-4e477794ea42"))
+(global_label "EXT_5V" (shape bidirectional) (at 106.68 86.36 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "e64b83d1-de6d-586f-a449-edcfec5ffe45") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 106.68 86.36 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(symbol (lib_id "Generic:DPST ON-OFF Switch 3A 5VDC") (at 198.12 115.57 0) (unit 1) (in_bom yes) (on_board yes) (dnp no) (uuid "9003086a-01ff-5785-85d0-6f082856d8af")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "candidate_unverified" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "双刀开关：MAIN侧切断MAIN_IN及后级逻辑稳压/LRA；AUX侧切断+5V_SYS音频/背光。LRA已改同逻辑轨，不再来自旧TPS709的5V支路。开关不隔离电池、充电或剑身路径，维修须断开全部电源。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "目录信息仅用于搜索与候选核对；不是嘉立创原生绑定或采购放行。封装/引脚/额定值仍须审查。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "SW101" (at 198.12 99.822 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "DPST MAIN HARD OFF" (at 198.12 102.362 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 198.12 115.57 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 115.57 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "LOGICAL_UNVERIFIED" (at 198.12 115.57 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "a01f1786-ad62-5298-911f-5c7f3c370207"))
+(pin "2" (uuid "5b90eab4-3e8d-571d-a552-5ce31cfe2fdd"))
+(pin "3" (uuid "254a7501-be9f-5e71-ba0b-637a8fe0ef0c"))
+(pin "4" (uuid "92ba72a3-ac8e-58f9-bd78-309534081098"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/769a382f-6a09-5fda-91fc-72229cbc4a42" (reference "SW101") (unit 1))))
+
+(property "Name" "DPST ON-OFF Switch 3A 5VDC" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "DPST ON-OFF Switch 3A 5VDC" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "DPST MAIN HARD OFF" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "TBD" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "TBD: actual DC-rated switch MPN, size, actuator/mounting and physical pin mapping; require at least 3A at 5VDC." (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "双刀开关：MAIN侧切断MAIN_IN及后级逻辑稳压/LRA；AUX侧切断+5V_SYS音频/背光。LRA已改同逻辑轨，不再来自旧TPS709的5V支路。开关不隔离电池、充电或剑身路径，维修须断开全部电源。" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 187.96 110.49) (xy 177.8 110.49)) (stroke (width 0) (type default)) (uuid "f4f2d024-0441-5e17-801f-231b572538e4"))
+(global_label "MAIN_SOURCE" (shape bidirectional) (at 177.8 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "42da981f-6a82-5a4c-8ec8-8361c6adcf10") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 110.49) (xy 218.44 110.49)) (stroke (width 0) (type default)) (uuid "042c9c7a-bea4-57b3-a14c-f72e8ccb3692"))
+(global_label "MAIN_IN" (shape bidirectional) (at 218.44 110.49 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "55f0df7a-4358-5a4f-940c-3341cf49b7b2") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 110.49 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 187.96 120.65) (xy 177.8 120.65)) (stroke (width 0) (type default)) (uuid "1bdc1556-63fa-502b-a764-365d22ca4884"))
+(global_label "AUX_SOURCE" (shape bidirectional) (at 177.8 120.65 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "50cbc757-36ad-51f5-beef-72c43b33e057") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 177.8 120.65 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(wire (pts (xy 208.28 120.65) (xy 218.44 120.65)) (stroke (width 0) (type default)) (uuid "498e5353-8acf-54c3-bbe0-86c3039bca30"))
+(global_label "+5V_SYS" (shape bidirectional) (at 218.44 120.65 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left)) (uuid "c3fe11e1-6280-5f32-8607-2e551967efeb") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 218.44 120.65 180) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+
+(text "V0.3 读图说明 | Power 电源选择与总开关" (at 303 18 0) (effects (font (face "Noto Sans CJK SC") (size 2.0 2.0)) (justify left top)) (uuid "0a1954d1-0ba2-5635-98e2-2d210b34f402"))
+(text "用途：两路电源选择与机械 DPST 总开关。" (at 303 26 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "357d51fb-c13c-535e-a657-47627fe97cd9"))
+(text "初测：J106、J107 均只装一个 2–3 跳帽（EXT）。" (at 303 30.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "fbd06de6-b2bc-5fd7-9cd8-82ede83ced42"))
+(text "J105：1=受限流稳定外部 5V；2=GND。" (at 303 35.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "11838c6d-fe17-55b6-a46d-3185e1358f1d"))
+(text "断电后才切跳帽；禁止同时桥接三个引脚。" (at 303 39.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d0eccc4f-7d07-55ab-bac3-8cd8313c5fd6"))
+(text "J106 1–2 选择 VSYS；J107 1–2 选择 BOOST。" (at 303 44.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "059790cf-ef65-535a-bbfc-7b5f45afaa66"))
+(text "SW101：1→2 为 MAIN；3→4 为 AUX。" (at 303 48.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "35860955-a2cf-5579-9a79-5e187d1828f9"))
+(text "初始 SW101 断开，核极性后才闭合。" (at 303 53.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "9633e2fb-8efd-5609-8464-641b2c09bf87"))
+(text "MAIN侧切断逻辑/LRA，AUX侧切断音频/背光；电池/充电/剑身仍需断源；" (at 303 57.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "5ec1211e-a996-5ba2-83f2-7e6f7233fe0c"))
+(text "装配/改接前断开全部外部电源。" (at 303 62.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d99926d4-5181-5914-84e4-68e8152bb590"))
+(text "" (at 303 66.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "076fd3d8-9227-5014-8a19-0194f4ba2512"))
+(text "阅读约定 / 审查边界" (at 303 71.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "3fed95af-8c5d-5c4a-9359-2acec5d72f8a"))
+(text "同名全局标签在 KiCad 中表示电气连接。" (at 303 75.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "5c25d480-4894-5375-b30b-c82806fa42b9"))
+(text "符号矩形是逻辑表示，不表示器件外形。" (at 303 80.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "db94b6e2-f28b-5fc9-b62e-55d08a908aea"))
+(text "接口脚序以本图标注为准；实物方向必须复核。" (at 303 84.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "4e18e703-9e43-5ae7-8640-4515cbf26911"))
+(text "LCSC / Footprint 为候选，非已核验采购绑定。" (at 303 89.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "895301ca-00b5-5f1f-bbce-76c5cb34d6ef"))
+(text "DNP = 不装：C110、C114；R39为已装68Ω背光限流。" (at 303 93.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "9a40aa42-4ebf-5acb-99ab-a31ee0731c8a"))
+(text "本版仅供工程审查，不能直接投板/下单。" (at 303 98.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8a5e2123-07b5-5561-987e-b69cb0666dc4"))
+(text "" (at 303 102.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "cb47b08f-b153-5aca-8472-c9d4ed9c2d37"))
+(text "本页连接器：脚号 = 网络名（逻辑脚序）" (at 303 107.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "213e1cef-417a-52b5-9563-9b81ee72cf2b"))
+(text "J105: 1=EXT_5V_IN; 2=GND; " (at 303 111.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "ac9fb44b-cda4-5909-9295-3aab534d585c"))
+(text "J106: 1=VSYS_RAW; 2=MAIN_SOURCE; 3=EXT_5V; " (at 303 116.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "e1ed4dc5-3698-55e5-b173-7a3863c06d40"))
+(text "J107: 1=BOOST_5V; 2=AUX_SOURCE; 3=EXT_5V; " (at 303 120.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "169a7231-d80a-553c-b216-159e709effa0"))
+)

@@ -1,0 +1,77 @@
+{
+  "scope": "Independent Python slash-candidate replay; C# and Unity not executed; no gameplay/pose/physical accuracy assertion",
+  "rows": 3001,
+  "durationMs": 30000,
+  "events": [
+    {
+      "tMs": 3000,
+      "candidate": "LeftSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 4000,
+      "candidate": "RightSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 6400,
+      "candidate": "DownSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 9000,
+      "candidate": "LeftSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 10000,
+      "candidate": "RightSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 12400,
+      "candidate": "DownSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 15000,
+      "candidate": "LeftSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 16000,
+      "candidate": "RightSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 18400,
+      "candidate": "DownSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 21000,
+      "candidate": "LeftSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 22000,
+      "candidate": "RightSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 24400,
+      "candidate": "DownSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 27000,
+      "candidate": "LeftSlash",
+      "source": "synthetic Python replay"
+    },
+    {
+      "tMs": 28000,
+      "candidate": "RightSlash",
+      "source": "synthetic Python replay"
+    }
+  ]
+}

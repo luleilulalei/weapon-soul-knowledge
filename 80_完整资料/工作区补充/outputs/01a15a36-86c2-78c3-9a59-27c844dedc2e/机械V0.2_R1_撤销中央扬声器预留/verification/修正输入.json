@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-21",
+  "source": "用户明确撤销中央扬声器预留；同一聊天请求缩板、重新评估主控面别、补PCB螺丝孔",
+  "original_package_sha256": "6891036d212632aed4252431b5b0e85cb9d6c0b9c7821cd4ead169b9a2fe210e",
+  "withdrawn_parameters": {
+    "pcb_top_keepout_width": 26,
+    "pcb_top_keepout_length": 26,
+    "pcb_top_keepout_center_y": 80,
+    "pcb_top_keepout_max_component_height": 0.2
+  },
+  "prior_geometry_approval_applies": false,
+  "new_pcb_completed": false
+}

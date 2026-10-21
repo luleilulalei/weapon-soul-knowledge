@@ -1,0 +1,432 @@
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 1 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Features
+ Size 0.12*0.06 inch /3.2*1.6 mm
+ RoHS compliant, lead-free and halogen-free
+ Fast response to fault current
+ Low resistance
+ Low profile
+ Compatible with high temperature solders
+ Applications
+ Computer, Mobile phones, Multimedia
+ Automotive, Industrial controls, Telephony and broadband
+ Game machines, Portable electronics, Battery
+ Part Number System
+B SMD 1206 - 200 - 16V
+ Electrical Characteristics（25℃）
+Part Number Ihold Itrip Vmax Imax Pd typ Time to trip Rmin R1max
+(A) (A) (Vdc) (A) (W) (A) (Sec) (Ω) (Ω)
+BSMD1206-005-30V 0.05 0.15 30 40 0.6 0.25 1.50 3.600 50.00
+BSMD1206-005-60V 0.05 0.15 60 40 0.6 0.25 1.50 3.600 50.00
+BSMD1206-005-72V 0.05 0.15 72 40 0.6 0.25 1.50 3.600 50.00
+BSMD1206-010-30V 0.10 0.25 30 40 0.6 0.50 1.00 1.600 15.00
+BSMD1206-010-60V 0.10 0.25 60 40 0.6 0.50 1.00 1.600 15.00
+BSMD1206-010-72V 0.10 0.25 72 40 0.6 0.50 1.00 1.600 15.00
+BSMD1206-012-60V 0.12 0.29 60 40 0.6 0.50 1.00 1.600 13.00
+BSMD1206-016-33V 0.16 0.37 33 40 0.6 1.00 0.30 1.000 6.000
+Special Voltage Rating
+Holding Current Rating
+Device Dimensions：1206 inch / 3216 mm
+SMD=Surface Mounted Devices
+B=BHFUSE
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 2 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+Part Number Ihold Itrip Vmax Imax Pd typ Time to trip Rmin R1max
+(A) (A) (Vdc) (A) (W) (A) (Sec) (Ω) (Ω)
+BSMD1206-016-48V 0.16 0.37 48 40 0.6 1.00 0.30 1.000 6.000
+BSMD1206-016-60V 0.16 0.37 60 40 0.6 1.00 0.30 1.000 6.000
+BSMD1206-020-24V 0.20 0.46 24 40 0.6 8.00 0.10 0.350 2.700
+BSMD1206-020-30V 0.20 0.46 30 40 0.6 8.00 0.10 0.350 2.700
+BSMD1206-020-33V 0.20 0.46 33 40 0.6 8.00 0.10 0.350 2.700
+BSMD1206-025-16V 0.25 0.50 16 40 0.6 8.00 0.10 0.350 2.500
+BSMD1206-025-24V 0.25 0.50 24 40 0.6 8.00 0.10 0.350 2.500
+BSMD1206-025-30V 0.25 0.50 30 40 0.6 8.00 0.10 0.350 2.500
+BSMD1206-025-33V 0.25 0.50 33 40 0.6 8.00 0.10 0.350 2.500
+BSMD1206-025-48V 0.25 0.50 48 40 0.6 8.00 0.10 0.350 2.500
+BSMD1206-030-16V 0.30 0.65 16 40 0.6 8.00 0.10 0.250 1.700
+BSMD1206-030-24V 0.30 0.65 24 40 0.6 8.00 0.10 0.250 1.700
+BSMD1206-030-30V 0.30 0.65 30 40 0.6 8.00 0.10 0.250 1.700
+BSMD1206-030-33V 0.30 0.65 33 40 0.6 8.00 0.10 0.250 1.700
+BSMD1206-035-6V 0.35 0.75 6 40 0.6 8.00 0.10 0.250 1.500
+BSMD1206-035-16V 0.35 0.75 16 40 0.6 8.00 0.10 0.250 1.500
+BSMD1206-035-24V 0.35 0.75 24 40 0.6 8.00 0.10 0.250 1.500
+BSMD1206-035-30V 0.35 0.75 30 40 0.6 8.00 0.10 0.250 1.500
+BSMD1206-035-33V 0.35 0.75 33 40 0.6 8.00 0.10 0.250 1.500
+BSMD1206-050-6V 0.50 1.00 6 100 0.6 8.00 0.10 0.150 0.700
+BSMD1206-050-9V 0.50 1.00 9 100 0.6 8.00 0.10 0.150 0.700
+BSMD1206-050-13.2V 0.50 1.00 13.2 100 0.6 8.00 0.10 0.150 0.700
+BSMD1206-050-16V 0.50 1.00 16 100 0.6 8.00 0.10 0.150 0.700
+BSMD1206-050-24V 0.50 1.00 24 40 0.6 8.00 0.10 0.150 0.850
+BSMD1206-050-30V 0.50 1.00 30 40 0.8 8.00 0.10 0.150 0.850
+BSMD1206-050-33V 0.50 1.00 33 40 0.8 8.00 0.10 0.150 0.850
+BSMD1206-050-36V 0.50 1.00 36 40 0.8 8.00 0.10 0.150 0.850
+BSMD1206-075-6V 0.75 1.50 6 100 0.6 8.00 0.20 0.090 0.500
+BSMD1206-075-9V 0.75 1.50 9 100 0.6 8.00 0.20 0.090 0.500
+BSMD1206-075-13.2V 0.75 1.50 13.2 100 0.6 8.00 0.20 0.090 0.500
+BSMD1206-075-16V 0.75 1.50 16 100 0.6 8.00 0.20 0.090 0.500
+BSMD1206-075-24V 0.75 1.50 24 40 0.8 8.00 0.20 0.090 0.500
+BSMD1206-075-30V 0.75 1.50 30 40 0.8 8.00 0.20 0.090 0.500
+BSMD1206-100-6V 1.00 1.80 6 100 0.8 8.00 0.30 0.050 0.270
+BSMD1206-100-13.2V 1.00 1.80 13.2 100 0.8 8.00 0.30 0.050 0.270
+BSMD1206-100-16V 1.00 1.80 16 100 0.8 8.00 0.30 0.050 0.270
+BSMD1206-100-24V 1.00 1.80 24 40 1.0 8.00 0.30 0.050 0.300
+BSMD1206-100-30V 1.00 1.80 30 40 1.0 8.00 0.30 0.050 0.300
+BSMD1206-110-6V 1.10 2.20 6 100 0.8 8.00 0.30 0.040 0.250
+BSMD1206-110-13.2V 1.10 2.20 13.2 100 0.8 8.00 0.30 0.040 0.250
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 3 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+Part Number Ihold Itrip Vmax Imax Pd typ Time to trip Rmin R1max
+(A) (A) (Vdc) (A) (W) (A) (Sec) (Ω) (Ω)
+BSMD1206-110-16V 1.10 2.20 16 100 0.8 8.00 0.30 0.040 0.250
+BSMD1206-110-24V 1.10 2.20 24 40 1.0 8.00 0.30 0.040 0.270
+BSMD1206-110-30V 1.10 2.20 30 40 1.0 8.00 0.30 0.040 0.270
+BSMD1206-150-6V 1.50 3.00 6 100 0.8 8.00 0.30 0.025 0.130
+BSMD1206-150-9V 1.50 3.00 9 100 0.8 8.00 0.30 0.025 0.130
+BSMD1206-150-12V 1.50 3.00 12 40 0.8 8.00 0.30 0.025 0.130
+BSMD1206-150-13.2V 1.50 3.00 13.2 40 1.0 8.00 0.30 0.025 0.130
+BSMD1206-150-16V 1.50 3.00 16 40 1.0 8.00 0.30 0.025 0.130
+BSMD1206-200-6V 2.00 3.50 6 100 1.0 8.00 1.50 0.015 0.080
+BSMD1206-200-9V 2.00 3.50 9 100 1.0 8.00 1.50 0.015 0.080
+BSMD1206-200-12V 2.00 3.50 12 100 1.0 8.00 1.50 0.015 0.080
+BSMD1206-200-13.2V 2.00 3.50 13.2 100 1.0 8.00 1.50 0.015 0.080
+BSMD1206-200-16V 2.00 3.50 16 40 1.0 8.00 1.50 0.015 0.080
+BSMD1206-260-6V 2.60 5.20 6 100 1.0 8.00 2.00 0.010 0.060
+BSMD1206-260-12V 2.60 5.20 12 40 1.0 8.00 2.00 0.010 0.060
+BSMD1206-300-6V 3.00 6.00 6 100 1.0 8.00 4.00 0.010 0.050
+BSMD1206-300-8V 3.00 6.00 8 40 1.2 8.00 4.00 0.010 0.050
+ Vocabulary
+Ihold = Hold current: maximum current device will pass without tripping in 25℃ still air.
+Itrip = Trip current: minimum current at which the device will trip in 25℃ still air.
+Vmax = Maximum voltage device can withstand without damage at rated current (Imax).
+Imax = Maximum fault current device can withstand without damage at rated voltage (Vmax).
+Pd typ. = Typical power dissipated from device when in the tripped state at 25℃ still air.
+Rmin = Minimum resistance of device in initial (un-soldered) state.
+R1max = Maximum resistance of device at 25℃ measured one hour after tripping or reflow soldering
+of 260℃ for 20 sec.
+Caution：Operation beyond the specified ratings may result in damage and possible arcing
+and flame.
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 4 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Thermal Derating Curve
+Derating Curves for BSMD1206 Series
+ Average Time-Current Curve
+A=BSMD1206-005
+B=BSMD1206-010
+C=BSMD1206-012
+D=BSMD1206-016
+E=BSMD1206-020
+F=BSMD1206-025
+G=BSMD1206-035
+H=BSMD1206-050
+I=BSMD1206-075
+J=BSMD1206-100
+K=BSMD1206-110
+L=BSMD1206-150
+M=BSMD1206-200
+N=BSMD1206-260
+O=BSMD1206-300
+
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 5 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Thermal Derating Chart
+ Environmental Specifications
+Test Conditions Resistance change
+Passive aging +85°C, 1000 hours ±5% typical
+Humidity aging +85°C, 85% R.H. , 168 hours ±5% typical
+Thermal shock +85°C to -40°C, 20 times ±33% typical
+Resistance to solvent MIL-STD-202,Method 215 No change
+Vibration MIL-STD-202,Method 201 No change
+Ambient operating conditions : - 40 °C to +85 °C
+Maximum surface temperature of the device in the tripped state is 125 °C
+Part Number Ambient operating temperature hold current(Ihold)
+-40℃ -20℃ 0℃ 25℃ 40℃ 50℃ 60℃ 70℃ 85℃
+BSMD1206-005 0.074 0.066 0.056 0.050 0.042 0.037 0.035 0.030 0.027
+BSMD1206-010 0.148 0.132 0.116 0.100 0.085 0.075 0.070 0.060 0.055
+BSMD1206-012 0.18 0.16 0.14 0.12 0.10 0.09 0.08 0.07 0.06
+BSMD1206-016 0.24 0.21 0.18 0.16 0.14 0.13 0.12 0.11 0.10
+BSMD1206-020 0.30 0.26 0.23 0.20 0.17 0.15 0.14 0.12 0.11
+BSMD1206-025 0.37 0.33 0.29 0.25 0.22 0.20 0.17 0.15 0.12
+BSMD1206-035 0.50 0.45 0.40 0.35 0.30 0.27 0.24 0.21 0.15
+BSMD1206-050 0.71 0.64 0.57 0.50 0.42 0.39 0.35 0.31 0.25
+BSMD1206-075 1.14 1.01 0.88 0.75 0.65 0.59 0.54 0.49 0.41
+BSMD1206-100 1.45 1.31 1.15 1.00 0.84 0.77 0.69 0.61 0.48
+BSMD1206-110 1.60 1.45 1.30 1.10 0.95 0.80 0.72 0.66 0.55
+BSMD1206-150 2.18 1.94 1.72 1.50 1.28 1.17 1.06 0.96 0.77
+BSMD1206-200 2.88 2.63 2.34 2.00 1.74 1.58 1.42 1.17 0.93
+BSMD1206-260 3.43 3.22 2.93 2.60 2.23 2.03 1.87 1.57 1.35
+BSMD1206-300 4.05 3.66 3.36 3.00 2.50 2.28 2.00 1.62 1.38
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 6 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Soldering Parameters
+Profile Feature Pb-Free Assembly
+Average Ramp-Up Rate(Tsmax to Tp) 3℃/second max
+Preheat
+-Temperature Min(Tsmin)
+-Temperature Max(Tsmax)
+-Time(Tsmin to Tsmax)
+150℃
+200℃
+60~180 seconds
+Time maintained above:
+-Temperature(TL)
+-Time(tL)
+217℃
+60~150 seconds
+Peak Temperature(Tp) 260℃
+Ramp-Down Rate 6℃/second max
+Time 25℃ to Peak Temperature 8 minutes max
+Storage Condition 0℃~30℃,30%-60%RH
+ Recommended reflow methods: IR, vapor phase oven, hot air oven, N2 environment for
+lead-free.
+ Recommended maximum paste thickness is 0.25mm.
+ Devices can be cleaned using standard industry methods and solvents.
+Note 1: All temperature refer to topside of the package, measured on the package body surface.
+Note 2: If reflow temperatures exceed the recommended profile, devices may not meet
+the performance requirements.
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 7 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Physical Dimensions & Recommended Pad Layout (mm)
+1.80±0.1
+1.00±0.1 1.00±0.1
+1.80±0.1
+Part Number Marking Quantity A B C D E
+Min Max Min Max Min Max Min Min
+BSMD1206-005-30V
+ Z 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-005-60V
+ Z 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-005-72V
+ Z 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-010-30V
+ N 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-010-60V
+ N 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-010-72V
+ N 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-012-60V
+ N 3500 3.00 3.60 1.50 1.90 0.60 1.20 0.15 0.10
+BSMD1206-016-33V
+ T 3500 3.00 3.60 1.50 1.90 0.40 1.20 0.15 0.10
+BSMD1206-016-48V
+ T 3500 3.00 3.60 1.50 1.90 0.40 1.20 0.15 0.10
+BSMD1206-016-60V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.20 0.15 0.10
+BSMD1206-020-24V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-020-30V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-020-33V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-025-16V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-025-24V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-025-30V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-025-33V
+ A 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-025-48V
+ A 3500 3.00 3.60 1.50 1.90 0.50 1.30 0.15 0.10
+BSMD1206-030-16V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-030-24V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-030-30V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-030-33V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-035-6V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-035-16V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-035-24V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-035-30V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-035-33V
+ B 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-050-6V
+ F 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 8 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+Part Number Marking Quantity A B C D E
+Min Max Min Max Min Max Min Min
+BSMD1206-050-9V
+ F 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-050-13.2V
+ F 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-050-16V
+ F 3500 3.00 3.60 1.50 1.90 0.40 1.00 0.15 0.10
+BSMD1206-050-24V
+ F 3500 3.00 3.60 1.50 1.90 0.50 1.20 0.15 0.10
+BSMD1206-050-30V
+ F 3500 3.00 3.60 1.50 1.90 0.50 1.20 0.15 0.10
+BSMD1206-050-33V
+ Z 3500 3.00 3.60 1.50 1.90 0.50 1.20 0.15 0.10
+BSMD1206-050-36V
+ Z 3500 3.00 3.60 1.50 1.90 0.50 1.20 0.15 0.10
+BSMD1206-075-6V
+ G 3500 3.00 3.60 1.50 1.90 0.50 1.00 0.15 0.10
+BSMD1206-075-9V
+ G 3500 3.00 3.60 1.50 1.90 0.50 1.00 0.15 0.10
+BSMD1206-075-13.2V
+ G 3500 3.00 3.60 1.50 1.90 0.50 1.00 0.15 0.10
+BSMD1206-075-16V
+ G 3500 3.00 3.60 1.50 1.90 0.50 1.00 0.15 0.10
+BSMD1206-075-24V
+ G 3500 3.00 3.60 1.50 1.90 0.60 1.60 0.15 0.10
+BSMD1206-075-30V
+ G 3500 3.00 3.60 1.50 1.90 0.60 1.60 0.15 0.10
+BSMD1206-100-6V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-100-13.2V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-100-16V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-100-24V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-100-30V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-110-6V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-110-13.2V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-110-16V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-110-24V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-110-30V
+ H 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-150-6V
+ I 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-150-9V
+ I 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-150-12V
+ I 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-150-13.2V
+ I 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-150-16V
+ I 3500 3.00 3.60 1.50 1.90 0.50 1.60 0.15 0.10
+BSMD1206-200-6V
+ K 3500 3.00 3.60 1.50 1.90 0.70 1.60 0.15 0.10
+BSMD1206-200-9V
+ K 3500 3.00 3.60 1.50 1.90 0.70 1.60 0.15 0.10
+BSMD1206-200-12V
+ K 3500 3.00 3.60 1.50 1.90 0.70 1.60 0.15 0.10
+BSMD1206-200-13.2V
+ K 3500 3.00 3.60 1.50 1.90 0.70 1.60 0.15 0.10
+BSMD1206-200-16V
+ K 3500 3.00 3.60 1.50 1.90 0.70 1.60 0.15 0.10
+BSMD1206-260-6V
+ P 3500 3.00 3.60 1.50 1.90 1.00 1.60 0.15 0.10
+BSMD1206-260-12V
+ P 3500 3.00 3.60 1.50 1.90 1.00 1.60 0.15 0.10
+BSMD1206-300-6V
+ P 3500 3.00 3.60 1.50 1.90 1.00 1.60 0.15 0.10
+BSMD1206-300-8V
+ P 3500 3.00 3.60 1.50 1.90 1.00 1.60 0.15 0.10
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 9 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Tape And Reel Specifications (mm)
+Governing
+Specifications
+BSMD1206-005~
+BSMD1206-150
+BSMD1206-200~
+BSMD1206-300
+W 8.0 ± 0.3 8.0 ± 0.3
+F 3.5 ± 0.05 3.5 ± 0.05
+E1 1.75 ± 0.1 1.75 ± 0.1
+D0 1.55 ± 0.05 1.55 ± 0.05
+D1 1.0 ± 0.1 1.0 ± 0.1
+P0 4.0 ± 0.1 4.0 ± 0.1
+P1 4.0 ± 0.1 4.0 ± 0.1
+P2 2.0 ± 0.05 2.0 ± 0.05
+A0 1.95 ± 0.1 1.95 ± 0.1
+B0 3.65 ± 0.1 3.65 ± 0.1
+T 0.2 ± 0.1 0.2 ± 0.1
+K0 1.04 ± 0.1 1.35 ± 0.1
+Leadermin 390 390
+Trailermin 160 160
+Reel Dimensions
+C φ178 ± 1.0
+D φ60.2 ± 0.5
+H 11.0 ± 0.5
+W 9.0 ± 1.5
+
+BHFUSE
+佰宏保险丝 BSMD1206 Series Surface Mount PTC Device
+Specifications are subject to change without notice Polymer PTC Thermistor 10 / 10
+Revision 2025 TEL：86-755-85259917 E-mail：sales@bhfuse.com www.bhfuse.com
+ Warning
+1. PTC Device is a resettable overcurrent circuit protection device used to protect against overcurrent faults in
+electronic circuits. It cannot be used as a switch, and multiple times tripping will reduce the PTC hold current.
+PTC 器件是一种可复位的过电流保护元件，用于保护电子电路中的过流故障，不能作为开关使用，重复多次保护会降低 PTC 的维持
+电流。
+2. The PTC is a thermally sensitive device with a positive temperature coefficient which means that the resistance
+increases with increasing temperature. It is recommended to keep away from heat source devices when designing
+to minimize the influence of external heat sources. PTC 是一种具有正温度系数的热敏器件，即电阻随温度升高而增大。
+设计时建议远离热源器件，尽量减少外部热源的影响。
+3. This product should not be used in an application where the maximum voltage or maximum current can be
+exceeded in a fault condition. Operation beyond the maximum ratings or improper use may result in device
+damage and possible electrical arcing and flame. 本产品不应用于在故障条件下可能超过最大电压或最大电流的应用
+中，超出最大额定值的操作或不当使用可能会导致 PTC 损坏，出现电弧现象，甚至烧毁。
+4. Hold current at all temperature specified in the specification is the conventional performance of PTC obtained
+by one reflow soldering. It can hold 1 hour under the current conditions corresponding to different temperatures.
+This current is not the condition of long-term charging or discharging current for this type of PTC. 规格书中所
+规定的各温度下的维持电流是 PTC 通过一次回流焊接后获得的常规性能。 PTC 在不同温度对应的当前电流条件下可保持 1 小时。该
+电流并不是该型号 PTC 能够适应的长期充电或放电电流的条件。
+5. The resistance and other electrical parameters indicated in the specification are all based on the test results of
+the manufacturer's designated test board by one reflow soldering. If there is any further heat generated process
+like multiple soldering, injection molding, dispensing, the product parameters will decrease at certain degree.
+Therefore the verification test to be conducted is necessary. 规格书中的电阻等电气参数均以厂家指定测试板一次回流
+焊的测试结果为准。如果有进一步的发热过程，如多次焊接、注塑、点胶等，产品参数会有所衰减，因此需要进行验证测试其适用性。
+6. SMD PTC is designed for the SMT process which applies reflow soldering. For reflow soldering, please refer to
+the recommended curve diagram. If the recommended value is exceeded, the internal resistance of PTC may
+increase. Hand soldering is not recommended and heat gun is not allowed to use during the circuit boards rework.
+If there is soldering iron welding process, it is recommended that the welding position should be more than
+1.5mm away from PTC, the welding temperature should be lower than 350℃, and the contact time with the
+solder joint should not exceed 3 seconds. SMD PTC 是为采用回流焊接 SMT 工艺设计的。焊接工艺请参考厂家推荐的
+回流焊曲线图。如果超过推荐值，PTC 的内阻可能会增加并受到损伤。禁止使用手工焊接，禁止电路板返工时使用热风枪。如果有烙
+铁焊接工艺，建议焊接位置离 PTC 元件 1.5mm 以上，焊接温度低于 350℃，与焊点接触时间不超过 3 秒。
+7. When mounting or using PTC, all injection molding materials, curing adhesives, UV glue, silica gel and cleaning
+agents or solvents must be tested in terms of application parameters e.g. temperature, time, and etc to ensure
+the consistency between the product and the processing before use. 贴装或应用 PTC 时，所有注塑材料、固化粘
+合剂、UV 胶、硅胶和清洁剂或溶剂都必须在应用参数方面进行测试，例如温度、时间等，以保证产品及工艺的匹配性，确认不会影
+响 PTC 性能之后方可使用。
+8. When mounting or using PTC, it is not recommended to use circuit board washer water or other cleaning agent.
+If cleaning is required, it is necessary to verify the applicability of various cleaning agents, washboard water and
+solvents, and confirm that they will not affect the PTC performance. The known chemicals that impacts PTC
+include but not limited to ethers, benzene homolog, ketones, lipids and derivatives that is of strong solubleness
+and ruinous. Please place the product in open environment for at least 24 hours to volatilize solvents residuals.
+贴装或应用 PTC 时，不建议使用电路板清洗水或其他清洁剂。 如果需要清洗时，需要验证各种清洗剂、洗板水和溶剂的适用性，并
+确认它们不会影响 PTC 性能。 已知的影响 PTC 的化学药品包括但不限于醚类、苯同系物、酮类、脂类和具有强溶解性和破坏性的有
+机化合物。清洗后请将产品放置在开放环境中至少 24 小时以充分挥发溶剂残留物。
+9. When PTC is welded to the PCB in product application, if injection or gluing is needed, it should be completed
+in as short a time as possible. If the time slot between mounting and injection or gluing surpasses 1 month, please
+keep in airtight environment to avoid long air exposure. 产品应用中 PTC 焊接到 PCB 后，如需注胶或胶合，应在尽
+可能短的时间内完成。 如果贴装和注塑或涂胶之间的时间间隔超过 1 个月，请密封保存，避免 PTC 长时间暴露在空气中。
+10. In charging terminal application, PP type material is recommended to use as inner membrane and TPE and
+PVC type material is inhibited. PTC 在充电终端应用中，建议使用 PP 类材料作为内膜，禁止使用 TPE 类和 PVC 类材料。
+11. BHFUSE SMD PTC humidity sensitivity grade 2, for sealed packaging. If customers find damaged packaging
+in stock, they should isolate the product immediately. If there is any surplus material, they needs to be restored to
+the previous packaging state and do sealed storage. BHFUSE 佰宏 SMD PTC 湿敏度为 2 级且为密封包装。 如果客
+户发现库存中包装损坏，应立即将产品隔离。使用时如有余料，需恢复成之前的包装状态，并且密封保存。

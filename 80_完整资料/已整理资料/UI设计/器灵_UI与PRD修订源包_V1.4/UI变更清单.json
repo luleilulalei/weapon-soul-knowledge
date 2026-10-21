@@ -1,0 +1,47 @@
+{
+  "revision": "V1.4",
+  "date": "2026-10-18",
+  "decisions": [
+    "V14-M01",
+    "V14-M02",
+    "V14-G01",
+    "V14-C01",
+    "V14-P01"
+  ],
+  "app_changed_svg_ids": [
+    "A02",
+    "A02B",
+    "A02N",
+    "A03U",
+    "A05",
+    "A06",
+    "A06B",
+    "A06U",
+    "A12",
+    "A19",
+    "A19N",
+    "A19S",
+    "A20",
+    "A21",
+    "A22",
+    "A22P",
+    "A23P",
+    "A24P",
+    "A26",
+    "A26P",
+    "A27",
+    "A27P",
+    "A27S"
+  ],
+  "retired_app_ids": [
+    "A20B",
+    "A28",
+    "A29",
+    "A30",
+    "A31"
+  ],
+  "app_extension_audit": "14个既有App扩展样张没有编辑记忆、闯关保存或聊天入口，不改图；源包未重复收录。",
+  "game_extension_audit": "见game/qa/extension_audit.json；没有新增记忆/对话入口。",
+  "implementation_boundary": "离线图稿和原型；不是实机/后端实现。新闯关自动留存策略未批准。",
+  "historical_memory": "既有游戏来源记忆只读查看/删除样例，不推导新闯关自动留存。"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-21",
+  "status": "撤销核对通过",
+  "native_model": "Spirit_EVT_mechanical_v02_r1.blend",
+  "native_sha256": "900519444cece262f16ce1a9f13e12163ce1e8dbb1d2191c9268363cdf5855b9",
+  "withdrawn_objects_absent": true,
+  "obsolete_speaker_stl_absent": true,
+  "obsolete_keepout_parameters_absent": true,
+  "old_central_rectangle_restored_to_regular_top_budget_mm3": 2568.799887180328,
+  "expected_mm3": 2568.7999999999997,
+  "rebuilt_stl_count": 11,
+  "nonmanifold_edges": 0,
+  "pcb_source_checked": "当前 EDA 的 4 个禁铜区均位于天线区，未发现中央扬声器 REGION；中央空区源自旧布局决定与离线检查脚本",
+  "native_pcb_changed": false,
+  "assembly_fit_checked": false,
+  "new_pcb_completed": false,
+  "scope": "验证撤销对象、参数、生成网格与中央预算；不代表新 PCB、扬声器新安装或完整装配验证完成。"
+}

@@ -1,0 +1,27 @@
+{
+  "defaults": {
+    "gameMode": "guardian",
+    "skill": "charge",
+    "prepareTarget": "G02",
+    "progress": "rhythm",
+    "resumeTarget": "G10"
+  },
+  "gameMode": {
+    "discern": "辨向，固定基础斩，6次提示",
+    "rhythm": "节拍，固定回锋，4组组合",
+    "guardian": "守门者，使用准备页选择的单动作/回锋/蓄势斩"
+  },
+  "skill": {
+    "single": "基础斩",
+    "combo": "回锋",
+    "charge": "蓄势斩"
+  },
+  "resolution": "Apply setContext before navigating. contextTarget overrides target using one context key. Fallback target is for direct screen inspection only.",
+  "prepareTarget": "The most recent explicit preparation selection; preserves both mode and skill after an interrupted game.",
+  "progress": {
+    "new": "首次进入，对应G01N",
+    "direction": "辨向通过，对应G01D",
+    "rhythm": "节拍已通过，对应G01，守门者与蓄势斩已开放"
+  },
+  "resumeTarget": "Safe pause-resume snapshot: G08 / G09 / G10 / G10H2. An accepted hit remains accepted after pause."
+}

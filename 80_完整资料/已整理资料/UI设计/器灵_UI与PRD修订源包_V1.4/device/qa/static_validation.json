@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "method": "static SVG validation and Node DOM logic test; not browser or hardware QA",
+  "count": 66,
+  "checks": [
+    "IDs preserved",
+    "no screen event targets or menu focus",
+    "noninteractive display CSS",
+    "external next/previous/wrap/select controls",
+    "all SVG references present",
+    "no network or device APIs",
+    "existing memory read/delete only",
+    "D25 and M02 read-only state replacements",
+    "no game retention prompt or toggle",
+    "no inferred automatic game memory policy",
+    "dialogue endpoint hardware only",
+    "deletion confirmations and true results retained"
+  ],
+  "browser": "not run by this test; see browser_validation.json for the separate launch result",
+  "hardware": "not tested"
+}

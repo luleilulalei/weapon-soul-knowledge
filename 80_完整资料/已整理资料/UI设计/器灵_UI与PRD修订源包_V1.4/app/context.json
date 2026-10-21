@@ -1,0 +1,256 @@
+{
+  "description": "仅离线设计原型的演示上下文。进入样张索引可重置后直显指定画面；实际按钮导航先按aliases解析，避免结果回退。不是持久业务实现。",
+  "defaults": {
+    "memoryState": "saved",
+    "eventMemoryState": "original",
+    "decorationState": "owned",
+    "micState": "known",
+    "journeyState": "existing",
+    "secondDecorationState": "owned",
+    "redemptionOwner": "main",
+    "progress": "new",
+    "preferenceMemoryState": "saved"
+  },
+  "enterContext": {
+    "A24": {
+      "memoryState": "deleted",
+      "eventMemoryState": "deleted"
+    },
+    "A26": {
+      "memoryState": "deleted",
+      "eventMemoryState": "deleted"
+    },
+    "A02B": {
+      "memoryState": "deleted",
+      "eventMemoryState": "deleted"
+    },
+    "A23": {
+      "memoryState": "pending",
+      "eventMemoryState": "pending"
+    },
+    "A27": {
+      "memoryState": "pending",
+      "eventMemoryState": "pending"
+    },
+    "A02P": {
+      "memoryState": "pending",
+      "eventMemoryState": "pending"
+    },
+    "A25": {
+      "decorationState": "applied"
+    },
+    "A03B": {
+      "decorationState": "applied"
+    },
+    "A16": {
+      "decorationState": "pending"
+    },
+    "A03P": {
+      "decorationState": "pending"
+    },
+    "A17": {
+      "decorationState": "owned",
+      "redemptionOwner": "main"
+    },
+    "A06B": {
+      "micState": "closed"
+    },
+    "A34C": {
+      "micState": "closed"
+    },
+    "A34B": {
+      "micState": "unknown"
+    },
+    "A06U": {
+      "micState": "unknown"
+    },
+    "A01N": {
+      "journeyState": "firstUse"
+    },
+    "A03N": {
+      "journeyState": "firstUse"
+    },
+    "A12": {
+      "progress": "new",
+      "decorationState": "none",
+      "eventMemoryState": "none",
+      "memoryState": "none"
+    },
+    "A25S": {
+      "secondDecorationState": "applied",
+      "redemptionOwner": "second"
+    },
+    "A03SB": {
+      "secondDecorationState": "applied"
+    },
+    "A16S": {
+      "secondDecorationState": "pending"
+    },
+    "A03SP": {
+      "secondDecorationState": "pending"
+    },
+    "A17S": {
+      "secondDecorationState": "owned",
+      "redemptionOwner": "second"
+    },
+    "A03U": {
+      "decorationState": "none"
+    },
+    "A19N": {
+      "memoryState": "none"
+    },
+    "A19S": {
+      "memoryState": "singleSaved"
+    },
+    "A27S": {
+      "memoryState": "pending",
+      "eventMemoryState": "pending",
+      "memoryFixture": "single"
+    },
+    "A02N": {
+      "eventMemoryState": "none"
+    },
+    "A22P": {
+      "deleteTarget": "practicePreference"
+    },
+    "A23P": {
+      "preferenceMemoryState": "pending"
+    },
+    "A24P": {
+      "preferenceMemoryState": "deleted"
+    },
+    "A26P": {
+      "preferenceMemoryState": "deleted"
+    },
+    "A27P": {
+      "preferenceMemoryState": "pending"
+    }
+  },
+  "aliases": {
+    "A19": {
+      "key": "memoryState",
+      "targets": {
+        "deleted": "A26",
+        "pending": "A27",
+        "none": "A19N",
+        "singleSaved": "A19S"
+      }
+    },
+    "A20": {
+      "key": "eventMemoryState",
+      "targets": {
+        "deleted": "A26",
+        "pending": "A23"
+      }
+    },
+    "A02": {
+      "key": "eventMemoryState",
+      "targets": {
+        "deleted": "A02B",
+        "pending": "A02P",
+        "none": "A02N"
+      }
+    },
+    "A03": {
+      "key": "decorationState",
+      "targets": {
+        "applied": "A03B",
+        "pending": "A03P"
+      }
+    },
+    "A04": {
+      "key": "decorationState",
+      "targets": {
+        "applied": "A25",
+        "pending": "A16"
+      }
+    },
+    "A06": {
+      "key": "micState",
+      "targets": {
+        "closed": "A06B",
+        "unknown": "A06U"
+      }
+    },
+    "A34": {
+      "key": "micState",
+      "targets": {
+        "closed": "A34C",
+        "unknown": "A34B"
+      }
+    },
+    "A01": {
+      "key": "journeyState",
+      "targets": {
+        "firstUse": "A01N"
+      }
+    },
+    "A03S": {
+      "key": "secondDecorationState",
+      "targets": {
+        "applied": "A03SB",
+        "pending": "A03SP"
+      }
+    },
+    "A04S": {
+      "key": "secondDecorationState",
+      "targets": {
+        "applied": "A25S",
+        "pending": "A16S"
+      }
+    },
+    "A04SU": {
+      "key": "secondDecorationState",
+      "targets": {
+        "applied": "A25S",
+        "pending": "A16S"
+      }
+    },
+    "A32": {
+      "key": "redemptionOwner",
+      "targets": {
+        "second": "A32S"
+      }
+    },
+    "A27": {
+      "key": "memoryFixture",
+      "targets": {
+        "single": "A27S"
+      }
+    }
+  },
+  "eventContext": {
+    "A06B|模拟非语音开启并确认": {
+      "micState": "known"
+    },
+    "A34B|模拟重新连接并确认状态": {
+      "micState": "known"
+    },
+    "A06U|模拟重新连接确认开麦": {
+      "micState": "known"
+    },
+    "A06U|模拟重新连接确认关麦": {
+      "micState": "closed"
+    }
+  },
+  "order": [
+    "处理eventContext（如有）",
+    "根据当前context解析普通目标aliases，最多8次防循环",
+    "进入最终页面应用enterContext",
+    "呈现画面与热点"
+  ],
+  "indexBehavior": "全局样张索引先重置defaults，直接展示所选样张并应用enterContext，不执行aliases；页面内导航才执行aliases。必须标为独立样张。",
+  "limits": [
+    "本轮关闭了主要删除、应用、关麦与未知恢复链的可见状态回退。",
+    "多个独立故事线任意交叉组合不是完整业务状态机验收；特别是多对象资产、并发记忆改删需真实实现后测试。"
+  ],
+  "notes": [
+    "新手A01N不重置progress；只有真实首用完成页A12置new。A01N/A03N中的训练hotspot有contextTarget：progress=new→G01N、direction→G01D、rhythm→G01。",
+    "第二目标闭环A14S→A15S→A17S→A04SU→连接确认A04S→设备应用确认A25S→A03SB。读卡器灵仍雾光，整个权益与灯效目标为拾光。",
+    "V1.4：记忆仅查看删除，不修改；没有闯关记忆保留询问；游戏结果不更新长期记忆。自动留存规则未在本次决定。对话仅实体侧。"
+  ],
+  "orientation": "landscape",
+  "keyboardState": {
+    "A37K": "IME visible; form scrolled to password and submit; Back dismisses keyboard first"
+  }
+}

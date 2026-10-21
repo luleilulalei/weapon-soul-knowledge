@@ -1,0 +1,352 @@
+(kicad_sch (version 20231120) (generator "eeschema") (uuid "f291f818-13f0-5eff-a448-3a0a39a8d3ed") (paper "User" 590 297)
+(title_block (title "Spirit V0.3 - ERC 电气检查前提") (date "2026-10-17") (rev "V0.3 REVIEW") (company "Qiling / Spirit") (comment 1 "NOT FOR FABRICATION. Verify interface pinouts, power limits and footprints."))
+(lib_symbols
+(symbol "Virtual:PWR_FLAG" (power) (pin_names (offset 0.8)) (in_bom no) (on_board no)
+(property "Reference" "#" (at 0 13.97 0) (effects (font (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 0 11.43 0) (effects (font (size 1.0 1.0)) ))
+(symbol "PWR_FLAG_0_1"
+(rectangle (start -20.32 10.16) (end 20.32 -10.16)(stroke (width 0.254)(type default))(fill (type background)))
+)
+(symbol "PWR_FLAG_1_1"
+(pin power_out line (at -25.4 7.62 0) (length 5.08) (name "PWR_FLAG" (effects (font (size 1.0 1.0)) )) (number "1" (effects (font (size 1.0 1.0)) )))
+)
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+)
+(text "ERC 电气检查前提" (at 15.24 17.78 0) (effects (font (face "Noto Sans CJK SC") (size 2.2 2.2)) (justify left bottom)) (uuid "6197bec8-cfa8-5f9b-bcb6-98987e3df0f4"))
+(text "Global labels are electrical connections. LOGICAL/UNVERIFIED interfaces require resolution before PCB layout." (at 15.24 25.4 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) (justify left bottom)) (uuid "5ac99397-7104-5bfd-9041-285ba10de096"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 71.12 50.8 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "d12e88dd-4938-53e0-b312-36a0857dcc8d")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: common external return connected" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG01" (at 71.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 71.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: common external return connected" (at 71.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "170c6681-b338-5b10-affe-85520ba75f75"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG01") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 43.18) (xy 35.56 43.18)) (stroke (width 0) (type default)) (uuid "3076edb7-5a17-5b26-bbe9-dcc532cebe29"))
+(global_label "GND" (shape bidirectional) (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "2eed5626-cd33-5f9e-b442-f4025b17f754") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: common external return connected" (at 45.72 67.31 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "32b3984b-1393-57d9-b007-f2695bf55474"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 198.12 50.8 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "0edcd2e3-eac3-5c5d-89db-0a21f20500e9")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: valid USB source within declared input budget" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG02" (at 198.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 198.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: valid USB source within declared input budget" (at 198.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "b74c928d-6f61-5a14-8241-90ff992cb019"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG02") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 43.18) (xy 162.56 43.18)) (stroke (width 0) (type default)) (uuid "476d1ece-7201-55f5-b461-e88c697ca961"))
+(global_label "USB_5V_FUSED" (shape bidirectional) (at 162.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "9f7a89ac-2d7a-574f-a046-5374a7bf96db") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: valid USB source within declared input budget" (at 172.72 67.31 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "962e5c30-ba3d-5bbb-a6d2-e6ad360dc236"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 325.12 50.8 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "0b9d3fef-f159-57a4-8ec2-51228b3f671f")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: protected 1S pack connected; polarity checked" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG03" (at 325.12 35.052 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 325.12 37.592 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: protected 1S pack connected; polarity checked" (at 325.12 50.8 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "b6e2456e-c24e-5ba2-969e-f9514ade1c64"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG03") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 43.18) (xy 289.56 43.18)) (stroke (width 0) (type default)) (uuid "3691e4b1-29da-5481-af7e-31291fa04f8d"))
+(global_label "VBAT_PROT" (shape bidirectional) (at 289.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "56ac27ac-3a43-54b2-bac4-af7426ea4bfe") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 43.18 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: protected 1S pack connected; polarity checked" (at 299.72 67.31 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "d19a07c3-9358-5166-b0a9-ee1a9eec8001"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 71.12 93.98 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "c647c6a1-69cb-5c66-8374-e6b7d3be9fe9")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: J106 ONE shunt; SW101 closed; source valid" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG04" (at 71.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 71.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: J106 ONE shunt; SW101 closed; source valid" (at 71.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "1114305c-690e-5548-81e9-05476ea52265"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG04") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 86.36) (xy 35.56 86.36)) (stroke (width 0) (type default)) (uuid "e1441f86-52fb-5dc3-9c84-e257dbd97b22"))
+(global_label "MAIN_IN" (shape bidirectional) (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "bca7c7b2-1afe-55e8-9684-73699e35fa6d") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: J106 ONE shunt; SW101 closed; source valid" (at 45.72 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "132cd642-a2e8-5d58-97ed-796c98f2b512"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 198.12 93.98 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "12088e39-6c77-5b50-b099-ba7f2645aa7b")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: J107 ONE shunt; SW101 closed; source valid" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG05" (at 198.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 198.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: J107 ONE shunt; SW101 closed; source valid" (at 198.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "baba7846-c6c5-5e15-a890-2b8750db23be"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG05") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 86.36) (xy 162.56 86.36)) (stroke (width 0) (type default)) (uuid "7f1a6f43-6671-5a6f-81f0-e117b94329be"))
+(global_label "+5V_SYS" (shape bidirectional) (at 162.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "c572f655-75c1-5fd7-af60-057147181c8d") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: J107 ONE shunt; SW101 closed; source valid" (at 172.72 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "de4a9f08-bb86-57a9-8915-6a822a863cc8"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 325.12 93.98 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "cd955acf-cfc3-5a2f-bef2-d5c5bb823fa7")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: U103 + L101 buck regulates within input range" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG06" (at 325.12 78.232 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 325.12 80.772 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: U103 + L101 buck regulates within input range" (at 325.12 93.98 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "5f4a6d3d-e780-564e-af8b-9801d77e8145"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG06") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 299.72 86.36) (xy 289.56 86.36)) (stroke (width 0) (type default)) (uuid "5a132128-c8a8-57f1-ae73-e53f272e82ce"))
+(global_label "+3V3" (shape bidirectional) (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "8a1b6dc4-69aa-5f80-9ee5-be26b281c7d9") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 289.56 86.36 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: U103 + L101 buck regulates within input range" (at 299.72 110.49 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "a7f46d78-e4fb-5a6c-8931-d2a3b126afb8"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 71.12 137.16 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "f0b16693-e205-5b68-9758-94cf0f144675")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG07" (at 71.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 71.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off" (at 71.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "c352da1d-b550-58ce-ac15-bdd14e9a294f"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG07") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 45.72 129.54) (xy 35.56 129.54)) (stroke (width 0) (type default)) (uuid "9af5e0c7-711b-5225-8fce-85cf093e81c9"))
+(global_label "MIC_3V3" (shape bidirectional) (at 35.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "407f9e3b-1eb2-55ca-9e72-9408b0cb6938") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 35.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: JP1 closed AND Q1 ON; MIC bus isolated when off" (at 45.72 153.67 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "37303e06-56b3-5355-8856-39f0e4783ad7"))
+(symbol (lib_id "Virtual:PWR_FLAG") (at 198.12 137.16 0) (unit 1) (in_bom no) (on_board no) (dnp no) (uuid "53e5870d-eb29-5b21-9ab9-a19488866caf")
+(property "LCSC_Candidate_Unverified" "" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Footprint_Candidate_Status" "virtual_not_on_PCB" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Design_Notes" "ASSUMPTION: external protected current-limited blade supply" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Candidate_Disclaimer" "非独立采购物料：虚拟电源声明或PCB铜皮测试点。" (at 0 0 0) (effects (font (face "Noto Sans CJK SC") (size 1 1)) hide))
+(property "Reference" "#FLG08" (at 198.12 121.412 0) (effects (font (face "Noto Sans CJK SC") (size 1.27 1.27)) ))
+(property "Value" "PWR_FLAG" (at 198.12 123.952 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) ))
+(property "Footprint" "" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "Datasheet" "" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(property "ReviewStatus" "ASSUMPTION: external protected current-limited blade supply" (at 198.12 137.16 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide))
+(pin "1" (uuid "ee1c3b5b-048b-57db-939b-7c9400c48853"))
+(instances (project "Spirit" (path "/4f1aeb54-5e83-5547-be63-d11d3b932662/f291f818-13f0-5eff-a448-3a0a39a8d3ed" (reference "#FLG08") (unit 1))))
+
+(property "Name" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Comment" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "MPN" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Manufacturer" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Description" "PWR_FLAG" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "LCSC" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "JLCPCB Part #" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Status" "VIRTUAL" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_URL" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Selection_Blocker" "" (at 0 0 0) (effects (font (size 1 1)) hide))
+
+(property "Catalog_Notes" "Electrical-rule-check power declaration only; no physical component or procurement quantity." (at 0 0 0) (effects (font (size 1 1)) hide))
+)
+(wire (pts (xy 172.72 129.54) (xy 162.56 129.54)) (stroke (width 0) (type default)) (uuid "2ff09e60-5379-5c41-818e-0a7b69ed461e"))
+(global_label "+5V_BLADE" (shape bidirectional) (at 162.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify right)) (uuid "7ff2d91c-6302-56dc-a23b-53c3554e7a2e") (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 162.56 129.54 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) hide)))
+(text "ASSUMPTION: external protected current-limited blade supply" (at 172.72 153.67 0) (effects (font (face "Noto Sans CJK SC") (size 1.0 1.0)) (justify left bottom)) (uuid "1de73084-4fc2-547c-8b49-6b222566f914"))
+
+(text "V0.3 读图说明 | ERC 电气检查前提" (at 426 18 0) (effects (font (face "Noto Sans CJK SC") (size 2.0 2.0)) (justify left top)) (uuid "a2e7c181-2383-5fb0-aa31-d0489b45aaa9"))
+(text "电气检查前提（虚拟供电声明，非实物）" (at 426 26 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "63ffd6f9-25db-5dd0-9b07-de0861222a29"))
+(text "PWR_FLAG 是给 KiCad ERC 的 power_out 声明。" (at 426 30.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "dde8b03f-9687-5ac8-b402-36c8de970a05"))
+(text "不是电源、开关、保护器、BOM 物料或 PCB 器件。" (at 426 35.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d8a3bb0a-6407-5a12-86ee-eab11af13b84"))
+(text "8 个旗标保留以维持源设计 ERC 语义。" (at 426 39.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "37fd9d50-1f76-50a5-8a01-c3b60e58b260"))
+(text "各条件分开成立，不表示所有电源同时存在。" (at 426 44.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "02a6c728-6c57-55f9-b783-b9586777ed25"))
+(text "旗标不会验证开关位置、限流、接反或电源安全。" (at 426 48.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "0519e8ea-238a-58d6-b646-cd07a80b2167"))
+(text "零 ERC 错误不等于能上电或可生产。" (at 426 53.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "729bf486-ed8c-5fc5-a60d-91b01224d022"))
+(text "" (at 426 57.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "128f5677-ac1b-555a-a9e3-2ce8462ec520"))
+(text "#FLG01 GND：外部回路共地正确。" (at 426 62.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "4d5067c7-8909-592d-aa44-509b4c72f4ed"))
+(text "#FLG02 USB_5V_FUSED：USB 来源及预算有效。" (at 426 66.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "3fe0b883-64e6-506e-b30a-f0005a7961d6"))
+(text "#FLG03 VBAT_PROT：受保护 1S 包、极性正确。" (at 426 71.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "2d21c44e-9c49-52e8-b8b7-d33b5fb02c83"))
+(text "#FLG04 MAIN_IN：J106 单跳帽、SW101 闭合。" (at 426 75.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "d6095697-757a-5b0e-a338-10d48f5697f9"))
+(text "#FLG05 +5V_SYS：J107 单跳帽、SW101 闭合。" (at 426 80.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "01b117f8-1656-54c7-a544-59109d4d9685"))
+(text "#FLG06 +3V3：U103/L101 在输入范围内稳压。" (at 426 84.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8ae074ec-e9b8-5226-bcdd-6ddb84192462"))
+(text "#FLG07 MIC_3V3：JP1 闭合且 Q1 导通；" (at 426 89.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "44c9557b-b274-5239-b3bb-c26ded147fe9"))
+(text "#FLG08 +5V_BLADE：独立受保护限流外部电源。" (at 426 93.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "ebe7e95f-701c-5ee6-9f11-70a26b06d5f1"))
+(text "" (at 426 98.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "545df7c3-b58b-50b5-9162-81b118cc9a37"))
+(text "关麦/关机模式可使相应电源为零；旗标仍不变。" (at 426 102.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "74204c10-2182-5d95-b31e-707a115c82e9"))
+(text "评估具体模式时必须核实真实电源路径。" (at 426 107.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "8ab452a2-3d9e-5346-84e5-19413dfc345c"))
+(text "嘉立创导入曾改变旗标语义，此版只验 KiCad。" (at 426 111.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "852342e7-59d7-5364-808a-1248be2e65a8"))
+(text "" (at 426 116.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "c27d3fbb-4212-5dc5-ab6f-4321729eb3b5"))
+(text "阅读约定 / 审查边界" (at 426 120.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "a15fcabb-d712-5f0b-8ab3-a78f05148fa0"))
+(text "同名全局标签在 KiCad 中表示电气连接。" (at 426 125.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "c90f5067-a811-51b3-bbd5-78f090242a96"))
+(text "符号矩形是逻辑表示，不表示器件外形。" (at 426 129.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "30498993-af75-559d-96b0-9628d4b01fcf"))
+(text "接口脚序以本图标注为准；实物方向必须复核。" (at 426 134.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "2ae7e035-5ac8-52bf-bba9-6e5e5c4c3735"))
+(text "LCSC / Footprint 为候选，非已核验采购绑定。" (at 426 138.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "f4d3a7cc-5686-5ee1-9b4a-bfde2d9e67a2"))
+(text "DNP = 不装：C110、C114；R39为已装68Ω背光限流。" (at 426 143.0 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "9c4dc2db-99a4-58f9-82e7-a8a478a9c49f"))
+(text "本版仅供工程审查，不能直接投板/下单。" (at 426 147.5 0) (effects (font (face "Noto Sans CJK SC") (size 1.5 1.5)) (justify left top)) (uuid "dd1d6a48-881d-55c5-ba39-b0873df34b9d"))
+)

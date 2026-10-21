@@ -1,0 +1,3112 @@
+[
+  {
+    "id": "G13",
+    "title": "守门者_向下释放",
+    "file": "screens/G13_守门者_向下释放.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟当前反击有效，敌人仅减一格",
+        "target": "G10H2"
+      },
+      {
+        "label": "模拟完成余下攻防并确认胜利",
+        "target": "G22"
+      },
+      {
+        "label": "模拟释放超时",
+        "target": "G20T"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G01",
+    "title": "训练大厅",
+    "file": "screens/G01_训练大厅.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 104,
+        "y": 95,
+        "w": 360,
+        "h": 263,
+        "target": "G02",
+        "label": "进入守门者准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02",
+          "progress": "rhythm"
+        }
+      },
+      {
+        "x": 744,
+        "y": 56,
+        "w": 76,
+        "h": 35,
+        "target": "G02D",
+        "label": "重新学动作",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "rhythm"
+        }
+      },
+      {
+        "x": 484,
+        "y": 95,
+        "w": 336,
+        "h": 81,
+        "target": "G02D",
+        "label": "辨向准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "rhythm"
+        }
+      },
+      {
+        "x": 484,
+        "y": 186,
+        "w": 336,
+        "h": 81,
+        "target": "G02R",
+        "label": "节拍准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R",
+          "progress": "rhythm"
+        }
+      },
+      {
+        "x": 484,
+        "y": 277,
+        "w": 336,
+        "h": 81,
+        "target": "G02",
+        "label": "守门者准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02",
+          "progress": "rhythm"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟准备时正在充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G02",
+    "title": "安全准备",
+    "file": "screens/G02_安全准备.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "G03",
+        "label": "放稳手机后准备倒计时",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "charge",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 416,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02S",
+        "label": "选择基础斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "single",
+          "prepareTarget": "G02S"
+        }
+      },
+      {
+        "x": 554,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02C",
+        "label": "选择回锋",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "combo",
+          "prepareTarget": "G02C"
+        }
+      },
+      {
+        "x": 692,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02",
+        "label": "选择蓄势斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "charge",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟检查后开始充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G16",
+    "title": "普通失败",
+    "file": "screens/G16_普通失败.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 207,
+        "w": 428,
+        "h": 48,
+        "target": "G02R",
+        "label": "重新准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      },
+      {
+        "x": 392,
+        "y": 269,
+        "w": 428,
+        "h": 44,
+        "target": "G03TR",
+        "label": "先练动作",
+        "setContext": {
+          "gameMode": "rhythm"
+        }
+      },
+      {
+        "x": 392,
+        "y": 330,
+        "w": 428,
+        "h": 37,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G17",
+    "title": "首过结算与继续",
+    "file": "screens/G17_首过结算与继续.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 195,
+        "w": 428,
+        "h": 48,
+        "target": "G02",
+        "label": "挑战守门者",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 392,
+        "y": 254,
+        "w": 206,
+        "h": 44,
+        "target": "G02R",
+        "label": "再练节拍",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      },
+      {
+        "x": 610,
+        "y": 254,
+        "w": 210,
+        "h": 44,
+        "target": "G01",
+        "label": "回训练场休息",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G03",
+    "title": "离屏倒计时",
+    "file": "screens/G03_离屏倒计时.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束",
+        "target": "G04"
+      }
+    ]
+  },
+  {
+    "id": "G04",
+    "title": "方向教学_演示",
+    "file": "screens/G04_方向教学_演示.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟演示结束，自动提示尝试",
+        "target": "G05"
+      }
+    ]
+  },
+  {
+    "id": "G05",
+    "title": "方向教学_尝试",
+    "file": "screens/G05_方向教学_尝试.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟正确左斩",
+        "target": "G07"
+      },
+      {
+        "label": "模拟方向错误",
+        "target": "G06"
+      },
+      {
+        "label": "模拟输入不明确",
+        "target": "G06U"
+      }
+    ]
+  },
+  {
+    "id": "G06",
+    "title": "校准失败_方向纠正",
+    "file": "screens/G06_校准失败_方向纠正.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03T",
+        "label": "重看前回站位"
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03T",
+        "label": "重试前回站位"
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G07",
+    "title": "校准成功",
+    "file": "screens/G07_校准成功.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出准备",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束，进入守门者",
+        "target": "G10"
+      }
+    ]
+  },
+  {
+    "id": "G08",
+    "title": "辨向_运行",
+    "file": "screens/G08_辨向_运行.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G08"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟完成六次提示并确认通关",
+        "target": "G02R",
+        "setContext": {
+          "progress": "direction",
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      },
+      {
+        "label": "模拟本局未通过",
+        "target": "G16D"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G09",
+    "title": "节拍_第二段",
+    "file": "screens/G09_节拍_第二段.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G09"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟完成余下组合并确认首次通关",
+        "target": "G17",
+        "setContext": {
+          "progress": "rhythm"
+        }
+      },
+      {
+        "label": "模拟四组结束未通关",
+        "target": "G16"
+      },
+      {
+        "label": "模拟完成余下组合并确认重复通关",
+        "target": "G17R",
+        "setContext": {
+          "progress": "rhythm"
+        }
+      },
+      {
+        "label": "模拟断连",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G10",
+    "title": "守门者_防御预告",
+    "file": "screens/G10_守门者_防御预告.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟攻击窗口打开",
+        "target": "G11"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G11",
+    "title": "守门者_格挡窗口",
+    "file": "screens/G11_守门者_格挡窗口.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟格挡成功，进入所选剑技反击",
+        "target": "G12",
+        "contextTarget": {
+          "key": "skill",
+          "targets": {
+            "single": "G25",
+            "combo": "G26A",
+            "charge": "G12"
+          }
+        }
+      },
+      {
+        "label": "模拟余下攻防中三次防御失败",
+        "target": "G16G"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G12",
+    "title": "守门者_蓄力中",
+    "file": "screens/G12_守门者_蓄力中.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟蓄力就绪",
+        "target": "G13"
+      },
+      {
+        "label": "模拟提前释放",
+        "target": "G20"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G20",
+    "title": "守门者_蓄力取消",
+    "file": "screens/G20_守门者_蓄力取消.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回到下一轮防御",
+        "target": "G10"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G14",
+    "title": "暂停菜单",
+    "file": "screens/G14_暂停菜单.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 390,
+        "y": 146,
+        "w": 360,
+        "h": 48,
+        "target": "G15",
+        "label": "继续并重新准备"
+      },
+      {
+        "x": 390,
+        "y": 205,
+        "w": 360,
+        "h": 48,
+        "target": "G15",
+        "label": "重新确认方向"
+      },
+      {
+        "x": 390,
+        "y": 264,
+        "w": 360,
+        "h": 48,
+        "target": "G23",
+        "label": "主动退出本局"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G15",
+    "title": "恢复准备",
+    "file": "screens/G15_恢复准备.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 325,
+        "w": 200,
+        "h": 44,
+        "target": "G14",
+        "label": "取消并保持暂停"
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "保持暂停"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟恢复准备倒计时结束",
+        "target": "G15C"
+      }
+    ]
+  },
+  {
+    "id": "G18",
+    "title": "断连_待核对",
+    "file": "screens/G18_断连_待核对.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 370,
+        "y": 259,
+        "w": 197,
+        "h": 48,
+        "target": "G18C",
+        "label": "检查并重新连接"
+      },
+      {
+        "x": 579,
+        "y": 259,
+        "w": 207,
+        "h": 48,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟连接恢复且本局明确为中断",
+        "target": "G19"
+      },
+      {
+        "label": "模拟暂时仍无法确认",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G19",
+    "title": "重连后_重新开始",
+    "file": "screens/G19_重连后_重新开始.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 370,
+        "y": 259,
+        "w": 197,
+        "h": 48,
+        "target": "G02",
+        "label": "准备新一局",
+        "contextTarget": {
+          "key": "prepareTarget",
+          "targets": {
+            "G02D": "G02D",
+            "G02R": "G02R",
+            "G02": "G02",
+            "G02S": "G02S",
+            "G02C": "G02C"
+          }
+        }
+      },
+      {
+        "x": 579,
+        "y": 259,
+        "w": 207,
+        "h": 48,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G06U",
+    "title": "校准失败_输入未知",
+    "file": "screens/G06U_校准失败_输入未知.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03T",
+        "label": "重看前回站位"
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03T",
+        "label": "重试前回站位"
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G17R",
+    "title": "重复通关",
+    "file": "screens/G17R_重复通关.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 195,
+        "w": 428,
+        "h": 48,
+        "target": "G02",
+        "label": "挑战守门者",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 392,
+        "y": 254,
+        "w": 206,
+        "h": 44,
+        "target": "G02R",
+        "label": "再练节拍",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      },
+      {
+        "x": 610,
+        "y": 254,
+        "w": 210,
+        "h": 44,
+        "target": "G01",
+        "label": "回训练场休息",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G16G",
+    "title": "守门者_普通失败",
+    "file": "screens/G16G_守门者_普通失败.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 207,
+        "w": 428,
+        "h": 48,
+        "target": "G02",
+        "label": "重新准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 392,
+        "y": 269,
+        "w": 428,
+        "h": 44,
+        "target": "G24",
+        "label": "先练格挡"
+      },
+      {
+        "x": 392,
+        "y": 330,
+        "w": 428,
+        "h": 37,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G22",
+    "title": "守门者_胜利结算",
+    "file": "screens/G22_守门者_胜利结算.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 195,
+        "w": 428,
+        "h": 48,
+        "target": "G02",
+        "label": "换剑技准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 392,
+        "y": 254,
+        "w": 428,
+        "h": 44,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G23",
+    "title": "主动退出结果",
+    "file": "screens/G23_主动退出结果.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 372,
+        "y": 260,
+        "w": 197,
+        "h": 48,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 581,
+        "y": 260,
+        "w": 205,
+        "h": 48,
+        "target": "A01",
+        "label": "回到器灵"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G02B",
+    "title": "准备受阻_充电",
+    "file": "screens/G02B_准备受阻_充电.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "A01",
+        "label": "返回器灵主页"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G03T",
+    "title": "教学重试_回站位",
+    "file": "screens/G03T_教学重试_回站位.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回站位倒计时结束",
+        "target": "G04"
+      }
+    ]
+  },
+  {
+    "id": "G02D",
+    "title": "安全准备_辨向",
+    "file": "screens/G02D_安全准备_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "G03D",
+        "label": "放稳手机后准备倒计时",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟检查后开始充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G03D",
+    "title": "离屏倒计时_辨向",
+    "file": "screens/G03D_离屏倒计时_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02D",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束",
+        "target": "G04D"
+      }
+    ]
+  },
+  {
+    "id": "G04D",
+    "title": "方向教学_演示_辨向",
+    "file": "screens/G04D_方向教学_演示_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟演示结束，自动提示尝试",
+        "target": "G05D"
+      }
+    ]
+  },
+  {
+    "id": "G05D",
+    "title": "方向教学_尝试_辨向",
+    "file": "screens/G05D_方向教学_尝试_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟正确左斩",
+        "target": "G07D"
+      },
+      {
+        "label": "模拟方向错误",
+        "target": "G06D"
+      },
+      {
+        "label": "模拟输入不明确",
+        "target": "G06UD"
+      }
+    ]
+  },
+  {
+    "id": "G06D",
+    "title": "校准失败_方向纠正_辨向",
+    "file": "screens/G06D_校准失败_方向纠正_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03TD",
+        "label": "重看前回站位",
+        "setContext": {
+          "gameMode": "discern"
+        }
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03TD",
+        "label": "重试前回站位",
+        "setContext": {
+          "gameMode": "discern"
+        }
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G06UD",
+    "title": "校准失败_输入未知_辨向",
+    "file": "screens/G06UD_校准失败_输入未知_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03TD",
+        "label": "重看前回站位",
+        "setContext": {
+          "gameMode": "discern"
+        }
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03TD",
+        "label": "重试前回站位",
+        "setContext": {
+          "gameMode": "discern"
+        }
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G07D",
+    "title": "校准成功_辨向",
+    "file": "screens/G07D_校准成功_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出准备",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束，进入辨向",
+        "target": "G08"
+      }
+    ]
+  },
+  {
+    "id": "G03TD",
+    "title": "教学重试_回站位_辨向",
+    "file": "screens/G03TD_教学重试_回站位_辨向.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02D",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回站位倒计时结束",
+        "target": "G04D"
+      }
+    ]
+  },
+  {
+    "id": "G02R",
+    "title": "安全准备_节拍",
+    "file": "screens/G02R_安全准备_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "G03R",
+        "label": "放稳手机后准备倒计时",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟检查后开始充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G03R",
+    "title": "离屏倒计时_节拍",
+    "file": "screens/G03R_离屏倒计时_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02R",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束",
+        "target": "G04R"
+      }
+    ]
+  },
+  {
+    "id": "G04R",
+    "title": "方向教学_演示_节拍",
+    "file": "screens/G04R_方向教学_演示_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟演示结束，自动提示尝试",
+        "target": "G05R"
+      }
+    ]
+  },
+  {
+    "id": "G05R",
+    "title": "方向教学_尝试_节拍",
+    "file": "screens/G05R_方向教学_尝试_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟正确左斩",
+        "target": "G07R"
+      },
+      {
+        "label": "模拟方向错误",
+        "target": "G06R"
+      },
+      {
+        "label": "模拟输入不明确",
+        "target": "G06UR"
+      }
+    ]
+  },
+  {
+    "id": "G06R",
+    "title": "校准失败_方向纠正_节拍",
+    "file": "screens/G06R_校准失败_方向纠正_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03TR",
+        "label": "重看前回站位",
+        "setContext": {
+          "gameMode": "rhythm"
+        }
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03TR",
+        "label": "重试前回站位",
+        "setContext": {
+          "gameMode": "rhythm"
+        }
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G06UR",
+    "title": "校准失败_输入未知_节拍",
+    "file": "screens/G06UR_校准失败_输入未知_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G03TR",
+        "label": "重看前回站位",
+        "setContext": {
+          "gameMode": "rhythm"
+        }
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G03TR",
+        "label": "重试前回站位",
+        "setContext": {
+          "gameMode": "rhythm"
+        }
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出教学",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G07R",
+    "title": "校准成功_节拍",
+    "file": "screens/G07R_校准成功_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出准备",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟倒计时结束，进入节拍",
+        "target": "G09"
+      }
+    ]
+  },
+  {
+    "id": "G03TR",
+    "title": "教学重试_回站位_节拍",
+    "file": "screens/G03TR_教学重试_回站位_节拍.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 620,
+        "y": 320,
+        "w": 200,
+        "h": 44,
+        "target": "G02R",
+        "label": "取消准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回站位倒计时结束",
+        "target": "G04R"
+      }
+    ]
+  },
+  {
+    "id": "G16D",
+    "title": "辨向_普通失败",
+    "file": "screens/G16D_辨向_普通失败.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 392,
+        "y": 207,
+        "w": 428,
+        "h": 48,
+        "target": "G02D",
+        "label": "重新准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D"
+        }
+      },
+      {
+        "x": 392,
+        "y": 269,
+        "w": 428,
+        "h": 44,
+        "target": "G03TD",
+        "label": "先练动作",
+        "setContext": {
+          "gameMode": "discern"
+        }
+      },
+      {
+        "x": 392,
+        "y": 330,
+        "w": 428,
+        "h": 37,
+        "target": "G01",
+        "label": "回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G18C",
+    "title": "重连检查中",
+    "file": "screens/G18C_重连检查中.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 579,
+        "y": 259,
+        "w": 207,
+        "h": 48,
+        "target": "G01",
+        "label": "返回训练场",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟已连接且明确旧局中断",
+        "target": "G19"
+      },
+      {
+        "label": "模拟仍未连接",
+        "target": "G18"
+      },
+      {
+        "label": "模拟状态仍然待核对",
+        "target": "G18C"
+      }
+    ]
+  },
+  {
+    "id": "G15C",
+    "title": "恢复_方向确认",
+    "file": "screens/G15C_恢复_方向确认.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "保持暂停"
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟方向确认通过",
+        "target": "G10",
+        "contextTarget": {
+          "key": "resumeTarget",
+          "targets": {
+            "G08": "G08",
+            "G09": "G09",
+            "G10": "G10",
+            "G10H2": "G10H2"
+          }
+        }
+      },
+      {
+        "label": "模拟输入未知",
+        "target": "G15U"
+      }
+    ]
+  },
+  {
+    "id": "G15U",
+    "title": "恢复_输入未知",
+    "file": "screens/G15U_恢复_输入未知.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 530,
+        "y": 329,
+        "w": 140,
+        "h": 42,
+        "target": "G15",
+        "label": "回站位重看"
+      },
+      {
+        "x": 682,
+        "y": 329,
+        "w": 138,
+        "h": 42,
+        "target": "G15",
+        "label": "回站位重试"
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "保持暂停"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G24",
+    "title": "格挡教学回看",
+    "file": "screens/G24_格挡教学回看.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 615,
+        "y": 326,
+        "w": 205,
+        "h": 44,
+        "target": "G02",
+        "label": "回到准备",
+        "setContext": {
+          "gameMode": "guardian",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 780,
+        "y": 16,
+        "w": 44,
+        "h": 44,
+        "target": "G01",
+        "label": "退出回看",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": "G02S",
+    "title": "安全准备_基础斩",
+    "file": "screens/G02S_安全准备_基础斩.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "G03",
+        "label": "放稳手机后准备倒计时",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "single",
+          "prepareTarget": "G02S"
+        }
+      },
+      {
+        "x": 416,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02S",
+        "label": "选择基础斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "single",
+          "prepareTarget": "G02S"
+        }
+      },
+      {
+        "x": 554,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02C",
+        "label": "选择回锋",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "combo",
+          "prepareTarget": "G02C"
+        }
+      },
+      {
+        "x": 692,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02",
+        "label": "选择蓄势斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "charge",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟检查后开始充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G02C",
+    "title": "安全准备_回锋",
+    "file": "screens/G02C_安全准备_回锋.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 416,
+        "y": 274,
+        "w": 404,
+        "h": 48,
+        "target": "G03",
+        "label": "放稳手机后准备倒计时",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "combo",
+          "prepareTarget": "G02C"
+        }
+      },
+      {
+        "x": 416,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02S",
+        "label": "选择基础斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "single",
+          "prepareTarget": "G02S"
+        }
+      },
+      {
+        "x": 554,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02C",
+        "label": "选择回锋",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "combo",
+          "prepareTarget": "G02C"
+        }
+      },
+      {
+        "x": 692,
+        "y": 64,
+        "w": 128,
+        "h": 45,
+        "target": "G02",
+        "label": "选择蓄势斩",
+        "setContext": {
+          "gameMode": "guardian",
+          "skill": "charge",
+          "prepareTarget": "G02"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟检查后开始充电",
+        "target": "G02B"
+      }
+    ]
+  },
+  {
+    "id": "G25",
+    "title": "守门者_基础斩反击",
+    "file": "screens/G25_守门者_基础斩反击.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟当前反击有效，敌人仅减一格",
+        "target": "G10H2"
+      },
+      {
+        "label": "模拟完成余下攻防并确认胜利",
+        "target": "G22"
+      },
+      {
+        "label": "模拟反击超时，无玩家扣血",
+        "target": "G10"
+      }
+    ]
+  },
+  {
+    "id": "G26A",
+    "title": "守门者_回锋第一段",
+    "file": "screens/G26A_守门者_回锋第一段.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟首段左斩成功",
+        "target": "G26"
+      },
+      {
+        "label": "模拟先做右斩，组合取消",
+        "target": "G26F"
+      }
+    ]
+  },
+  {
+    "id": "G26",
+    "title": "守门者_回锋第二段",
+    "file": "screens/G26_守门者_回锋第二段.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟当前反击有效，敌人仅减一格",
+        "target": "G10H2"
+      },
+      {
+        "label": "模拟完成余下攻防并确认胜利",
+        "target": "G22"
+      },
+      {
+        "label": "模拟错序，组合取消",
+        "target": "G26F"
+      }
+    ]
+  },
+  {
+    "id": "G26F",
+    "title": "守门者_回锋取消",
+    "file": "screens/G26F_守门者_回锋取消.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回到下一轮防御",
+        "target": "G10"
+      }
+    ]
+  },
+  {
+    "id": "G20T",
+    "title": "守门者_释放超时",
+    "file": "screens/G20T_守门者_释放超时.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟回到下一轮防御",
+        "target": "G10"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G01N",
+    "title": "训练大厅_初次进入",
+    "file": "screens/G01N_训练大厅_初次进入.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 104,
+        "y": 95,
+        "w": 360,
+        "h": 263,
+        "target": "G02D",
+        "label": "开始第一次持剑",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "new"
+        }
+      },
+      {
+        "x": 744,
+        "y": 56,
+        "w": 76,
+        "h": 35,
+        "target": "G02D",
+        "label": "进入动作教学准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "new"
+        }
+      },
+      {
+        "x": 484,
+        "y": 95,
+        "w": 336,
+        "h": 81,
+        "target": "G02D",
+        "label": "辨向准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "new"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "查看已完成前置关卡的大厅样例",
+        "target": "G01"
+      }
+    ]
+  },
+  {
+    "id": "G10H2",
+    "title": "守门者_一次命中后",
+    "file": "screens/G10H2_守门者_一次命中后.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 780,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "G14",
+        "label": "触屏暂停",
+        "setContext": {
+          "resumeTarget": "G10H2"
+        }
+      }
+    ],
+    "events": [
+      {
+        "label": "模拟完成余下攻防并确认胜利",
+        "target": "G22"
+      },
+      {
+        "label": "模拟余下攻防中三次防御失败",
+        "target": "G16G"
+      },
+      {
+        "label": "模拟连接中断",
+        "target": "G18"
+      }
+    ]
+  },
+  {
+    "id": "G01D",
+    "title": "训练大厅_辨向已通过",
+    "file": "screens/G01D_训练大厅_辨向已通过.svg",
+    "width": 844,
+    "height": 390,
+    "hotspots": [
+      {
+        "x": 104,
+        "y": 95,
+        "w": 360,
+        "h": 263,
+        "target": "G02R",
+        "label": "开始节拍准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R",
+          "progress": "direction"
+        }
+      },
+      {
+        "x": 744,
+        "y": 56,
+        "w": 76,
+        "h": 35,
+        "target": "G02D",
+        "label": "进入动作教学准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "direction"
+        }
+      },
+      {
+        "x": 484,
+        "y": 95,
+        "w": 336,
+        "h": 81,
+        "target": "G02D",
+        "label": "辨向准备",
+        "setContext": {
+          "gameMode": "discern",
+          "prepareTarget": "G02D",
+          "progress": "direction"
+        }
+      },
+      {
+        "x": 484,
+        "y": 186,
+        "w": 336,
+        "h": 81,
+        "target": "G02R",
+        "label": "节拍准备",
+        "setContext": {
+          "gameMode": "rhythm",
+          "prepareTarget": "G02R",
+          "progress": "direction"
+        }
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "w": 44,
+        "h": 44,
+        "target": "A05",
+        "label": "个人主页"
+      },
+      {
+        "x": 12,
+        "y": 112,
+        "w": 56,
+        "h": 62,
+        "target": "A01",
+        "label": "器灵",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A01N",
+            "direction": "A01N",
+            "rhythm": "A01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 186,
+        "w": 56,
+        "h": 62,
+        "target": "G01",
+        "label": "训练",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "G01N",
+            "direction": "G01D",
+            "rhythm": "G01"
+          }
+        }
+      },
+      {
+        "x": 12,
+        "y": 260,
+        "w": 56,
+        "h": 62,
+        "target": "A03",
+        "label": "收藏",
+        "contextTarget": {
+          "key": "progress",
+          "targets": {
+            "new": "A03N",
+            "direction": "A03N",
+            "rhythm": "A03"
+          }
+        }
+      }
+    ],
+    "events": []
+  }
+]

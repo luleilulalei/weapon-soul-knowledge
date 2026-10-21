@@ -1,0 +1,11 @@
+{
+  "project": "Spirit_V0.7.1_JLC_Order_Working",
+  "board": "Spirit_JLC",
+  "schematic": "Spirit_Native",
+  "pages": 17,
+  "components": 157,
+  "drc": [],
+  "pinNetsUnchanged": true,
+  "pcbSourceUnchanged": true,
+  "backup": "Spirit_Schematic_Adjusted_20261018.epro2"
+}

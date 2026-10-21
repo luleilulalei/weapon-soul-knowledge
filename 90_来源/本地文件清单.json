@@ -880,5 +880,14 @@
     "bytes": 89644,
     "captured_date": "2026-10-21",
     "status": "V072工程逐件审查记录，库存和实物仍须核对"
+  },
+  {
+    "id": "S094",
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.2_R1_撤销中央扬声器预留/用户修正来源_20261021.md",
+    "snapshot": "90_来源/文档快照/S094_中央扬声器约束撤销_20261021.md",
+    "sha256": "43c8bd9262e1e5b3658316ed26ae7df15733fc40fb5fcd9d68637c37756a7b63",
+    "bytes": 1678,
+    "captured_date": "2026-10-21",
+    "status": "用户最新布局纠正；工程执行边界单独标明"
   }
 ]

@@ -1,0 +1,13 @@
+(fp_lib_table
+(lib (name "Capacitor_SMD") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Capacitor_SMD.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Connector_PinHeader_2.54mm") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Connector_PinHeader_2.54mm.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Diode_SMD") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Diode_SMD.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Fuse") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Fuse.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Package_SO") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Package_SO.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Package_TO_SOT_SMD") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Package_TO_SOT_SMD.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "RF_Module") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/RF_Module.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Resistor_SMD") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Resistor_SMD.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "TestPoint") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/TestPoint.pretty") (options "") (descr "Candidate only; physical package and pad mapping NOT certified"))
+(lib (name "Spirit_Touch") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Spirit_Touch.pretty") (options "") (descr "CAP1296 datasheet geometry candidate; assembly/stencil validation required"))
+(lib (name "Spirit_Display") (type "KiCad") (uri "${KIPRJMOD}/candidate_footprints/Spirit_Display.pretty") (options "") (descr "Official drawing geometry candidate; folded tail and sample fit unverified"))
+)
