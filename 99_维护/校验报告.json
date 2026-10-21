@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-21",
+  "scope": "Knowledge links, archived evidence hashes, optional original/delivery consistency; not product verification",
+  "status": "passed",
+  "local_source_paths": 98,
+  "unique_document_snapshots": 93,
+  "chat_snapshots": 28,
+  "visible_turns": 169,
+  "unavailable_cloud_assistant_references": 66,
+  "canonical_markdown_files": 28,
+  "internal_links_checked": 326,
+  "original_files_matching": 98,
+  "delivery_files_matching": 15,
+  "errors": [],
+  "warnings": []
+}

@@ -871,5 +871,14 @@
     "bytes": 18849,
     "captured_date": "2026-10-21",
     "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S093",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/逐元件核查.json",
+    "snapshot": "90_来源/文档快照/S093_逐元件核查.json",
+    "sha256": "e5f2ccfc3cc07b8bd9f2d7209dc4b0503af946b3b0252b39713b4a99a4af3b7d",
+    "bytes": 89644,
+    "captured_date": "2026-10-21",
+    "status": "V072工程逐件审查记录，库存和实物仍须核对"
   }
 ]
