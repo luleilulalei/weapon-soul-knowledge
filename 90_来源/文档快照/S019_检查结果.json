@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-21T04:01:02",
+  "project": "Spirit_V0.7.2_Manual_20261021",
+  "project_uuid": "e2c7376212b240cca1d4082976592cbf",
+  "pcb_uuid": "5354a7bf4c630a18",
+  "components": 137,
+  "unique_skus_including_dnp": 51,
+  "fitted_components": 136,
+  "fitted_unique_skus": 50,
+  "dnp": [
+    "C114"
+  ],
+  "pcb_native_drc": [],
+  "same_side_overlap_and_through_hole_interference": [],
+  "geometric_copper_clearance_errors": [],
+  "explicit_trace_segments": 1175,
+  "vias": 444,
+  "copper_layers": [
+    1,
+    15,
+    16,
+    2
+  ],
+  "method": "Every trace follows explicitly chosen coordinates; no autorouter or route-search algorithm used.",
+  "scope": "First routed prototype revision. Existing display pinout, NFC module availability, harnesses, thermal and signal measurements remain as documented."
+}

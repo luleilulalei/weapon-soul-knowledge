@@ -1,0 +1,13 @@
+﻿编号,打印件,数量,装配包络X_mm,装配包络Y_mm,装配包络Z_mm,用途,文件
+P01,前壳,1,60.0,203.0,19.5,结构打印件,model/stl/P01_front_sculpted_shell.stl
+P02,后盖,1,60.0,190.0,30.0,结构打印件,model/stl/P02_rear_panel.stl
+P03,可拆主板框,1,47.0,109.0,5.0,结构打印件,model/stl/P03_removable_PCB_carrier.stl
+P04,18650开放托架,1,43.0,79.0,11.95,结构打印件,model/stl/P04_18650_open_cradle.stl
+P05,FPC裸屏压框,1,52.2,39.294,2.0,结构打印件,model/stl/P05_FPC_bare_panel_retainer.stl
+P06,顶口遮护试件,1,30.0,11.5,30.0,结构打印件,model/stl/P06_crown_blank_plug.stl
+P07,20mm扬声器座,1,33.65,25.3,7.6,结构打印件,model/stl/P07_20mm_speaker_nest.stl
+P08,M2.5孔与螺母试片,1,56.0,20.0,4.0,试片,model/stl/P08_M2p5_fit_coupon.stl
+P09,PCB与滑动配合试片,1,70.0,25.0,6.0,试片,model/stl/P09_PCB_slot_sliding_fit_coupon.stl
+P10,10mm配合试榫,1,10.0,10.0,6.0,试片,model/stl/P10_10mm_sliding_test_peg.stl
+P11,LRA座与短尾支撑,1,20.4,28.5,5.5,结构打印件,model/stl/P11_LRA_rear_seat.stl
+P12,LRA可拆防脱止挡,1,9.0,28.5,1.2,结构打印件,model/stl/P12_LRA_removable_axial_stop.stl

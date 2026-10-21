@@ -1,0 +1,1 @@
+record_id,source,device_id,blade_id,hand,firmware_version,algorithm_version,parameter_version,calibration_id,axis_map,ground_truth_action,actual_event,ground_truth_start_ms,event_ms,feedback_start_ms,negative_case,dropped_samples,saturation,comfort_note,test_result

@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/交付说明.txt",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/交付说明.txt",
+    "sha256": "1455d3720036c5db1f7c825f29221215f42f716ef9c3841f020a11016b08126c",
+    "bytes": 2406
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/检查结果.json",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/检查结果.json",
+    "sha256": "792a6efa79b6e24b6ca4d2280b726d0313b449c5eb7ef8c71ec29ac1e2591ff9",
+    "bytes": 817
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/原生检查记录.json",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/原生检查记录.json",
+    "sha256": "2a6299957be5450d2fab3e03ac30fd95f92dc5dd00e4bffd5c860bc9ec3b0d8d",
+    "bytes": 247
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/逐元件核查.json",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/逐元件核查.json",
+    "sha256": "e5f2ccfc3cc07b8bd9f2d7209dc4b0503af946b3b0252b39713b4a99a4af3b7d",
+    "bytes": 89644
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_交付包.zip",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_交付包.zip",
+    "sha256": "aa592ac84ea40e762660187ed72385579479567e69f4377097edbb7a13436d98",
+    "bytes": 3634670
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_Manual_20261021.epro2",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_Manual_20261021.epro2",
+    "sha256": "67a59173180418da43a63d8fb546605f4fa7444f5df3790068f5e485780a605c",
+    "bytes": 1586218
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_Prototype_Gerber.zip",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_Prototype_Gerber.zip",
+    "sha256": "ab4b793e79176d872f9a2b88b362031300041d2fc658ba2548c27d7086eb0dc2",
+    "bytes": 415684
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_NativeBOM.csv",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_NativeBOM.csv",
+    "sha256": "a8e6a545345ba086339e6ea6ab200056a34ff25287f60d6a49b6fe45dba2fb39",
+    "bytes": 9640
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_PickAndPlace.csv",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_PickAndPlace.csv",
+    "sha256": "018096cb72fa6f676ce2335c0063eee49183ccc1a3becd8d3c51d540f3f68b8e",
+    "bytes": 56630
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_采购与逐件核查.xlsx",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_采购与逐件核查.xlsx",
+    "sha256": "d1606af05c5d171e3f05e2693a48e2c1d3e78ea0ca9e50eb7b0da560ee75edf8",
+    "bytes": 27295
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_设计检查报告.pdf",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_设计检查报告.pdf",
+    "sha256": "780c187f730cd00f4af2aafd2d1d130f5fc48400043b9d4c33e76af71aff4d62",
+    "bytes": 663130
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_布局布线.png",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_布局布线.png",
+    "sha256": "0626712d816733490d15fc5a2dc408cdec02b987b11e511d6d9d02378e004de2",
+    "bytes": 427279
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072_四层走线.png",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072_四层走线.png",
+    "sha256": "7424e0b14331eaefecfa914b60924ce041d24d8defe5d95f59b90318a86e38f2",
+    "bytes": 436623
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/Spirit_V072.pcbdoc",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/Spirit_V072.pcbdoc",
+    "sha256": "c843b1647b2b4980a06981a8c739ed5593c6216b359ef43611eb7f06e73db6c9",
+    "bytes": 1236693
+  },
+  {
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/SHA256SUMS.txt",
+    "destination": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.2_20261021/SHA256SUMS.txt",
+    "sha256": "f748f06b2832dcd64602e9cd7d0a6490259506b6d84ca6db62958338f15ac0c6",
+    "bytes": 1211
+  }
+]

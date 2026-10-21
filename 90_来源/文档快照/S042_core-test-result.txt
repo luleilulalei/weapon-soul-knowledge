@@ -1,0 +1,5 @@
+Compiler: Unity 2022.3.62f3 bundled C# compiler / Mono 6.13.0
+Production source: Assets/Scripts/Core/TrainingSession.cs
+Test source: Assets/Editor/CoreTests.cs
+Result: QILING_TESTS_PASSED=150
+This validates state-machine assertions, not Unity rendering, BLE/IMU performance, Android or physical safety.

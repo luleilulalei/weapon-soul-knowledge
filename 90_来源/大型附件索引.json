@@ -1,0 +1,82 @@
+[
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/Spirit_EVT_mechanical_v02.blend",
+    "relative_to_project": "器灵_机械V0.2/model/Spirit_EVT_mechanical_v02.blend",
+    "bytes": 3850424
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P01_front_sculpted_shell.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P01_front_sculpted_shell.stl",
+    "bytes": 583584
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P02_rear_panel.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P02_rear_panel.stl",
+    "bytes": 403984
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P03_removable_PCB_carrier.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P03_removable_PCB_carrier.stl",
+    "bytes": 89884
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P04_18650_open_cradle.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P04_18650_open_cradle.stl",
+    "bytes": 153084
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P05_FPC_bare_panel_retainer.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P05_FPC_bare_panel_retainer.stl",
+    "bytes": 74484
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P06_crown_blank_plug.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P06_crown_blank_plug.stl",
+    "bytes": 38284
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P07_20mm_speaker_nest.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P07_20mm_speaker_nest.stl",
+    "bytes": 113484
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P08_M2p5_fit_coupon.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P08_M2p5_fit_coupon.stl",
+    "bytes": 88584
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P09_PCB_slot_sliding_fit_coupon.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P09_PCB_slot_sliding_fit_coupon.stl",
+    "bytes": 12684
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P10_10mm_sliding_test_peg.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P10_10mm_sliding_test_peg.stl",
+    "bytes": 684
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P11_LRA_rear_seat.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P11_LRA_rear_seat.stl",
+    "bytes": 192784
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/model/stl/P12_LRA_removable_axial_stop.stl",
+    "relative_to_project": "器灵_机械V0.2/model/stl/P12_LRA_removable_axial_stop.stl",
+    "bytes": 58884
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/选型与当前约束/器灵外围器件选型与验证说明_V1.2_FPC与LRA.docx",
+    "relative_to_project": "器灵_机械V0.2/选型与当前约束/器灵外围器件选型与验证说明_V1.2_FPC与LRA.docx",
+    "bytes": 44479
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/Builds/Qiling-Development.apk",
+    "relative_to_project": "Unity游戏开发/QilingUnity/Builds/Qiling-Development.apk",
+    "bytes": 35713627
+  },
+  {
+    "path": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/spec/器灵_单IMU_MVP实现与验收规格.docx",
+    "relative_to_project": "器灵_单IMU首版规格与Unity源码_V0.1/spec/器灵_单IMU_MVP实现与验收规格.docx",
+    "bytes": 46720
+  }
+]

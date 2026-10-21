@@ -1,0 +1,15 @@
+# Local system and editor files
+.DS_Store
+._*
+*.swp
+*.swo
+*.tmp
+__pycache__/
+# Credentials stay outside the knowledge repository
+.env
+.env.*
+*.pem
+*.key
+# Working imports and binary artifacts stay outside the repository
+.local/
+.tmp/

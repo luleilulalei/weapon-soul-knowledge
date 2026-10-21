@@ -1,0 +1,875 @@
+[
+  {
+    "id": "S001",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/review/器灵_原理图审查.txt",
+    "snapshot": "90_来源/文档快照/S001_器灵_原理图审查.txt",
+    "sha256": "7c99d972b6ddc5d9882364b02068aecfcf2dff43a99a6b083c3ab62993b6d3fd",
+    "bytes": 2576,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S002",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/review/生产前原理图复核_20261018.txt",
+    "snapshot": "90_来源/文档快照/S002_生产前原理图复核_20261018.txt",
+    "sha256": "ccbd14fce7eca27cbdce66a3fca9f8d0417bb411c5304839ff87fe894c747843",
+    "bytes": 3771,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S003",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/review/被动器件统一记录.txt",
+    "snapshot": "90_来源/文档快照/S003_被动器件统一记录.txt",
+    "sha256": "c1b06a4603df5d1fa6a7d3178f006750a0b9dfb592eabd174474996b835cc7f4",
+    "bytes": 1200,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S004",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/review/额定电流专项审查.txt",
+    "snapshot": "90_来源/文档快照/S004_额定电流专项审查.txt",
+    "sha256": "52641a89861b674a9cfd808c5671f348366240b0754fc9f94933828ddcd60e46",
+    "bytes": 10693,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S005",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/NFC_修改与验证记录_20261019.txt",
+    "snapshot": "90_来源/文档快照/S005_NFC_修改与验证记录_20261019.txt",
+    "sha256": "c70335869f66842ea103be9589ec1f336ede476bdf6d1b68cf5fbe88c475a93c",
+    "bytes": 4781,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S006",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/NFC_模块接口_20261021.txt",
+    "snapshot": "90_来源/文档快照/S006_NFC_模块接口_20261021.txt",
+    "sha256": "f10e0a71df9b3bf338b2820df0bac6228e83a931bc77768d96bd1ba9476289bd",
+    "bytes": 1739,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S007",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/TPS63802_修改记录_20261019.txt",
+    "snapshot": "90_来源/文档快照/S007_TPS63802_修改记录_20261019.txt",
+    "sha256": "b6db284012e0f3024182acbc78603dc3c8e3f0f8e3e0355b0f0fb6eb8aac66b7",
+    "bytes": 2593,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S008",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/主电源3V3修正_20261021.txt",
+    "snapshot": "90_来源/文档快照/S008_主电源3V3修正_20261021.txt",
+    "sha256": "51de511dbbed77b7b19a202187d6fa05d8983060766a38d59bf36208d79455dd",
+    "bytes": 1317,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S009",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/屏幕12针修改记录_20261019.txt",
+    "snapshot": "90_来源/文档快照/S009_屏幕12针修改记录_20261019.txt",
+    "sha256": "f3bf1b949f5d0f42fc823f6f4ad34a0aabbd5cecad7ebe71c3096135cf7e4df9",
+    "bytes": 964,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S010",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/屏幕供电修改记录_20261020.txt",
+    "snapshot": "90_来源/文档快照/S010_屏幕供电修改记录_20261020.txt",
+    "sha256": "beadd7af5e95dac82744973980a5e0c0c18fd61be90289f9abe705a54a04e9bb",
+    "bytes": 912,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S011",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/本轮修复与验证结论_20261019.txt",
+    "snapshot": "90_来源/文档快照/S011_本轮修复与验证结论_20261019.txt",
+    "sha256": "b291bb953e6b0a515a9b57522fc61324d2748865f08e3b9fcd764eff6b4e6d4f",
+    "bytes": 4796,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S012",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/电源专项复核_20261019.txt",
+    "snapshot": "90_来源/文档快照/S012_电源专项复核_20261019.txt",
+    "sha256": "7db0daeb545ac44012fc1442e5084634dc2f28e3454ca6f778ba8617e757db0b",
+    "bytes": 5437,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S013",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/电源简化与冗余检查_20261019.txt",
+    "snapshot": "90_来源/文档快照/S013_电源简化与冗余检查_20261019.txt",
+    "sha256": "fce76c05ab602320f82a5b596e03007acb5016db49a63e121421bbb6e8fbe9fb",
+    "bytes": 2001,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S014",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/逐器件核查记录_20261019.txt",
+    "snapshot": "90_来源/文档快照/S014_逐器件核查记录_20261019.txt",
+    "sha256": "8cbaff9548ec3ed5a22a01814f583b067ef4fb44a74069a2a8ff33775d3e7a1b",
+    "bytes": 61187,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S015",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/配件接口定义_20261020.txt",
+    "snapshot": "90_来源/文档快照/S015_配件接口定义_20261020.txt",
+    "sha256": "798b17de77f517f03cfd634e5d40bee391655e182ae7bad02f39d9cb0d3a7c97",
+    "bytes": 2093,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S016",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/validation/麦克风需求变更_20261020.txt",
+    "snapshot": "90_来源/文档快照/S016_麦克风需求变更_20261020.txt",
+    "sha256": "a994e28732f8607908c8ba1f6f4ec8a34b98a526170e44834eeaa1021b93f408",
+    "bytes": 1756,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S017",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/交付说明.txt",
+    "snapshot": "90_来源/文档快照/S017_交付说明.txt",
+    "sha256": "1455d3720036c5db1f7c825f29221215f42f716ef9c3841f020a11016b08126c",
+    "bytes": 2406,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S018",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/原生检查记录.json",
+    "snapshot": "90_来源/文档快照/S018_原生检查记录.json",
+    "sha256": "2a6299957be5450d2fab3e03ac30fd95f92dc5dd00e4bffd5c860bc9ec3b0d8d",
+    "bytes": 247,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S019",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/outputs/01a15a36-86c2-78c3-9a59-27c844dedc2e/检查结果.json",
+    "snapshot": "90_来源/文档快照/S019_检查结果.json",
+    "sha256": "792a6efa79b6e24b6ca4d2280b726d0313b449c5eb7ef8c71ec29ac1e2591ff9",
+    "bytes": 817,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S020",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/review-v072-netlist.json",
+    "snapshot": "90_来源/文档快照/S020_review-v072-netlist.json",
+    "sha256": "059a57f6ddac7139d5e594ede2b7620360d650de1f91c2e627ca702dfef481b6",
+    "bytes": 378929,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S021",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.1/BOM_JLC_映射_V0.7.1.csv",
+    "snapshot": "90_来源/文档快照/S021_BOM_JLC_映射_V0.7.1.csv",
+    "sha256": "2d233656828cf35ca9915ae8f811758622d2d81d34c1a680b447b347e15706dc",
+    "bytes": 121604,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S022",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.1/CHANGELOG_V0.7.1.md",
+    "snapshot": "90_来源/文档快照/S022_CHANGELOG_V0.7.1.md",
+    "sha256": "17f8f29dbc20ea6b317a04941944f1c22f25eea66ca3899e62a70e8687b824fe",
+    "bytes": 661,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S023",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.1/README_先读.md",
+    "snapshot": "90_来源/文档快照/S023_README_先读.md",
+    "sha256": "f85242d5ec6f004ff7c26a4acbbdcaedadd634d629b60dfa458b765986ca4653",
+    "bytes": 12797,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S024",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_原理图_V0.7.1/validation/independent/独立电气复核_V0.7.1.txt",
+    "snapshot": "90_来源/文档快照/S024_独立电气复核_V0.7.1.txt",
+    "sha256": "b4b6debdd653ce09dced2e6e60e7530af40f17eb5bbd6264309a05d51490b2aa",
+    "bytes": 1846,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S025",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/app/README.md",
+    "snapshot": "90_来源/文档快照/S025_README.md",
+    "sha256": "830ab0b067da1bda8ae6c8dd3654c200e152d738c3e31629c4b2f0675cd1ba58",
+    "bytes": 475,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S026",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/app/screens.md",
+    "snapshot": "90_来源/文档快照/S026_screens.md",
+    "sha256": "8e002af4f90b12f83c8f2e65e4298ef028fcab0d9c44ad02c55a2ec9b81c443f",
+    "bytes": 1153,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S027",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/CHANGELOG.md",
+    "snapshot": "90_来源/文档快照/S027_CHANGELOG.md",
+    "sha256": "e3f06f147c7a47e06a0b4792f08e0474755194f92feacd14a60549077ae3e875",
+    "bytes": 1466,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S028",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/README.md",
+    "snapshot": "90_来源/文档快照/S028_README.md",
+    "sha256": "4d572636f0f4a44eee2e36a7325402d650c6ba116934651b1eb71a3b77b5badf",
+    "bytes": 3215,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S029",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/spec/器灵_非触摸显示屏_补充修订.md",
+    "snapshot": "90_来源/文档快照/S029_器灵_非触摸显示屏_补充修订.md",
+    "sha256": "6d67f6702229f95427d127596ffca4d1612ca3756b89d708590b37929a64e6df",
+    "bytes": 18826,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S030",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/spec/旧66状态修订映射.md",
+    "snapshot": "90_来源/文档快照/S030_旧66状态修订映射.md",
+    "sha256": "114252b69ca921530b87135d7f4c2198cf6909ce8c066ad27d61a100579d4af6",
+    "bytes": 11387,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S031",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/spec/旧条款替代清单.md",
+    "snapshot": "90_来源/文档快照/S031_旧条款替代清单.md",
+    "sha256": "86350abb398b7915de75ec09af65c9c327d8ca4ba367d6197e3c64df4d441d0a",
+    "bytes": 4982,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S030",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/device/states_mapping.md",
+    "snapshot": "90_来源/文档快照/S030_旧66状态修订映射.md",
+    "sha256": "114252b69ca921530b87135d7f4c2198cf6909ce8c066ad27d61a100579d4af6",
+    "bytes": 11387,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S032",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/game/CHANGELOG.md",
+    "snapshot": "90_来源/文档快照/S032_CHANGELOG.md",
+    "sha256": "2e5392f615f13ff65fd06e2dc740443cc12913af99cda965bb7e0f521f2dceb2",
+    "bytes": 1298,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S033",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/game/qa/visual_review.md",
+    "snapshot": "90_来源/文档快照/S033_visual_review.md",
+    "sha256": "6095cfa1b509e6fce055fc2a5589b6c2ff1f68978b8eb317aa90f7784db0d561",
+    "bytes": 1225,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S034",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/game/screens.md",
+    "snapshot": "90_来源/文档快照/S034_screens.md",
+    "sha256": "3caa666c7a1d4367348af74eb7bbee4de69a36db1da03912a8e3f14d3650dc40",
+    "bytes": 22106,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S035",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/prd/00_当前阅读入口.md",
+    "snapshot": "90_来源/文档快照/S035_00_当前阅读入口.md",
+    "sha256": "b9d48a8513c2eaa9a812ada6ea1a608b38e01d1f7f2b1e71ee56208f3e45985b",
+    "bytes": 1276,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S036",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/prd/01_记忆与对话端分工_决策补充.md",
+    "snapshot": "90_来源/文档快照/S036_01_记忆与对话端分工_决策补充.md",
+    "sha256": "e2749b495a375e0e3fcac7ae59b11e9708b88f98d1c6df371aae92421d52eed5",
+    "bytes": 8329,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S037",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/prd/02_旧条款替代矩阵.csv",
+    "snapshot": "90_来源/文档快照/S037_02_旧条款替代矩阵.csv",
+    "sha256": "f656aa4da178284271576d02a34b905d247d3c73acceb0f0a374f7eda6b861d1",
+    "bytes": 3690,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S038",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/prd/03_验收用例.md",
+    "snapshot": "90_来源/文档快照/S038_03_验收用例.md",
+    "sha256": "4431e8f9f879e2c66d743ccfb290e8491aed20a1a58b89c094816bd8965795f2",
+    "bytes": 3240,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S039",
+    "original": "/Users/qijiankang/Documents/器灵/UI设计/器灵_UI与PRD修订源包_V1.4/开始阅读.txt",
+    "snapshot": "90_来源/文档快照/S039_开始阅读.txt",
+    "sha256": "e1096dc924241cc6cc63865780ccdd493d795a7a4de1d0e3f7fb619db6ab4fd6",
+    "bytes": 1613,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S040",
+    "original": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/ProjectSettings/ProjectVersion.txt",
+    "snapshot": "90_来源/文档快照/S040_ProjectVersion.txt",
+    "sha256": "b42279cfd794d9f1825f3b7c1f318b861fa9e2e2b3c6c146737bdbd41c01b389",
+    "bytes": 89,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S041",
+    "original": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/README.md",
+    "snapshot": "90_来源/文档快照/S041_README.md",
+    "sha256": "6e42a7e7289274f0988defd3a10d66339a16dfd5650f90e22179880aa060d691",
+    "bytes": 5691,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S042",
+    "original": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/TestResults/core-test-result.txt",
+    "snapshot": "90_来源/文档快照/S042_core-test-result.txt",
+    "sha256": "82f29269b16b7137e21665fa2144948d63641483b502c53ecd53070f225feb18",
+    "bytes": 303,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S043",
+    "original": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/TestResults/验证结果.txt",
+    "snapshot": "90_来源/文档快照/S043_验证结果.txt",
+    "sha256": "3155a3cb446a764b498b7275704cfd4f233ad6ebfaa93e6e415188baa575382d",
+    "bytes": 1620,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S044",
+    "original": "/Users/qijiankang/Documents/器灵/Unity游戏开发/QilingUnity/开始体验.txt",
+    "snapshot": "90_来源/文档快照/S044_开始体验.txt",
+    "sha256": "21426a8e86d73e81041c4bf13a6ea5db5e006bb9547104d3e79e933ed80cd0ec",
+    "bytes": 1127,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S045",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/00_阅读入口与产品总纲.md",
+    "snapshot": "90_来源/文档快照/S045_00_阅读入口与产品总纲.md",
+    "sha256": "1c13346338140f28eba063fddee05c0c8deed8d6a2d5123379cf9704f4784761",
+    "bytes": 4958,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S046",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/01_世界观与首季剧情.md",
+    "snapshot": "90_来源/文档快照/S046_01_世界观与首季剧情.md",
+    "sha256": "416022e8cbe8f6ca11e1ac51cfb371c4db6458897e8e3645ccac783955cb0746",
+    "bytes": 8079,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S047",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/02_两款器灵与情感陪伴.md",
+    "snapshot": "90_来源/文档快照/S047_02_两款器灵与情感陪伴.md",
+    "sha256": "a25ec2cae039a5fb2481a08ceda49a25b34488d2fea713a3c1e5fa18d162b212",
+    "bytes": 8735,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S048",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/03_体感战斗与法棒绘符.md",
+    "snapshot": "90_来源/文档快照/S048_03_体感战斗与法棒绘符.md",
+    "sha256": "8f69ce0ed9b8fac8fd46e0ed0114ffab8eac08a1d98323ac2116c6490854af03",
+    "bytes": 11112,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S049",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/04_十二关与敌人Boss.md",
+    "snapshot": "90_来源/文档快照/S049_04_十二关与敌人Boss.md",
+    "sha256": "4fb9b2840f3fa7b64e1a1a84621612f76636526e8f5f8c67c57d2443ef7cf16b",
+    "bytes": 12784,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S050",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/05_成长战利品与记忆规则.md",
+    "snapshot": "90_来源/文档快照/S050_05_成长战利品与记忆规则.md",
+    "sha256": "6f668ba81e64753e2fda4adfaa24ec49992cab4bede8869f0391f9e056aec468",
+    "bytes": 10429,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S051",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_PRD_V1.5_世界观与双器灵首发设计/06_验收与研发范围.md",
+    "snapshot": "90_来源/文档快照/S051_06_验收与研发范围.md",
+    "sha256": "800453339737f51d3c3866ef625a0c0ecae226b338cfcdcb44095ae5ec56ae05",
+    "bytes": 11895,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S052",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/spec/共享事件协议.md",
+    "snapshot": "90_来源/文档快照/S052_共享事件协议.md",
+    "sha256": "b307569815b0ee758e1119d992be5505cf75195b23f14e38044cc5d09afe3435",
+    "bytes": 1335,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S053",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/spec/器灵_单IMU_MVP实现与验收规格.md",
+    "snapshot": "90_来源/文档快照/S053_器灵_单IMU_MVP实现与验收规格.md",
+    "sha256": "72db0a9eeaba9ebb78e90d16aeb07477cf817bb04705e01d85218e2f2eda188e",
+    "bytes": 17872,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S054",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/spec/实测记录模板.csv",
+    "snapshot": "90_来源/文档快照/S054_实测记录模板.csv",
+    "sha256": "644cf33e7938c8e102448e625bbb41e3214a88992eb0c15709be5ccd9dd6923e",
+    "bytes": 266,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S055",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/unity/Assets/SpiritIMU/Resources/sample_raw.csv",
+    "snapshot": "90_来源/文档快照/S055_sample_raw.csv",
+    "sha256": "452aca94eb9559734709d54cc6d438408138fb2ae4d4d8fa0873152a33df0e00",
+    "bytes": 196161,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S056",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/unity/README_运行与边界.md",
+    "snapshot": "90_来源/文档快照/S056_README_运行与边界.md",
+    "sha256": "fc842dafb63016e5a7e03ab21b510775b6228768264b868ff170ea938560a914",
+    "bytes": 9253,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S057",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/unity/Tests/环境验证记录.md",
+    "snapshot": "90_来源/文档快照/S057_环境验证记录.md",
+    "sha256": "207176ee85739dba69a48b07a59c12f8e39c3acedf585e6368db5d265f3e0c9d",
+    "bytes": 762,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S058",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/validation/python_reference_results.txt",
+    "snapshot": "90_来源/文档快照/S058_python_reference_results.txt",
+    "sha256": "3894e425c8443c245dbfebef85fdea24e46e92b1079681ced44d3d668c7c3e3c",
+    "bytes": 1718,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S059",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/validation/独立审查与验收边界.md",
+    "snapshot": "90_来源/文档快照/S059_独立审查与验收边界.md",
+    "sha256": "4d97eaf9088d1f3c5b3ccd72d1405f5f553d1fd75c110ba898754675e245d836",
+    "bytes": 5037,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S060",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_单IMU首版规格与Unity源码_V0.1/开始阅读.md",
+    "snapshot": "90_来源/文档快照/S060_开始阅读.md",
+    "sha256": "85c7098bc3f970039bc75166be6b98a68d7d97bda443417de10618e10e3cd12a",
+    "bytes": 1847,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S061",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/UI行为与验收补充.md",
+    "snapshot": "90_来源/文档快照/S061_UI行为与验收补充.md",
+    "sha256": "714d57b5d91c9c09ac54fe6b703aa175f68d08c871bfbb6fca96630a9ecd8265",
+    "bytes": 65454,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S008",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/主电源3V3修正_20261021.txt",
+    "snapshot": "90_来源/文档快照/S008_主电源3V3修正_20261021.txt",
+    "sha256": "51de511dbbed77b7b19a202187d6fa05d8983060766a38d59bf36208d79455dd",
+    "bytes": 1317,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S062",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/改版决策记录.md",
+    "snapshot": "90_来源/文档快照/S062_改版决策记录.md",
+    "sha256": "d366913330b7f554014bb22e5c8566077809ad7fdffad69625836455488ed5c1",
+    "bytes": 13480,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S063",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/00_产品总PRD.md",
+    "snapshot": "90_来源/文档快照/S063_00_产品总PRD.md",
+    "sha256": "d9b0741591112c6d413bb80ddffce31183d1f07a13ef48944781d37d6e74bb26",
+    "bytes": 35438,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S064",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/01_实体光剑硬件.md",
+    "snapshot": "90_来源/文档快照/S064_01_实体光剑硬件.md",
+    "sha256": "21786d4af8678e175469d7699bb780c42de2ea98c5d722c087c068b322426e41",
+    "bytes": 39166,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S065",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/02_视觉与表情.md",
+    "snapshot": "90_来源/文档快照/S065_02_视觉与表情.md",
+    "sha256": "365527e8e8999b5b3a9d7939c3f348ad305b65d826a729cb1d1680372fe221c7",
+    "bytes": 38331,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S066",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/03_AI人格与记忆.md",
+    "snapshot": "90_来源/文档快照/S066_03_AI人格与记忆.md",
+    "sha256": "2417b412b032ac64d0946f552d59979dbe90b0796aeac87367d4df8aff9f38f8",
+    "bytes": 41842,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S067",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/04_体感动作与战斗.md",
+    "snapshot": "90_来源/文档快照/S067_04_体感动作与战斗.md",
+    "sha256": "2e42385fb84b13c1a94a4d1faef7e98a88685302d20a68405346693348e4e9df",
+    "bytes": 38062,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S068",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/05_双线养成.md",
+    "snapshot": "90_来源/文档快照/S068_05_双线养成.md",
+    "sha256": "ca29b5cee0ea3ad3c9c6caa34f5f4ac0a14d652e4a3c638b5ee64da28e2dbe2d",
+    "bytes": 41825,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S069",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/06_NFC卡牌.md",
+    "snapshot": "90_来源/文档快照/S069_06_NFC卡牌.md",
+    "sha256": "ed1894d7811a16aebcac2b5e8defe154e03bbe18bacd4cb008238a5a21ae8765",
+    "bytes": 31908,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S070",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/07_Unity_App.md",
+    "snapshot": "90_来源/文档快照/S070_07_Unity_App.md",
+    "sha256": "de289ecd3db8a96a5e0505f992647fafb3d40b8ee590578d04f9c2350f0dcaea",
+    "bytes": 59174,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S071",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/08_账号与系统协作.md",
+    "snapshot": "90_来源/文档快照/S071_08_账号与系统协作.md",
+    "sha256": "b8aec0b2e674d45e8f8f807c352f934bf1bda65675c56122aecd16214ac9d208",
+    "bytes": 38994,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S072",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/09_游戏玩法与关卡.md",
+    "snapshot": "90_来源/文档快照/S072_09_游戏玩法与关卡.md",
+    "sha256": "827c61deb55875b6e12e1ed0cb6828e616d54d6b5950e79fa70c5a3f4556b27d",
+    "bytes": 44373,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S073",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/10_闭环验收与评审记录.md",
+    "snapshot": "90_来源/文档快照/S073_10_闭环验收与评审记录.md",
+    "sha256": "ea2f93aa096197db7293cf6bffdb539dba1fa6ab73aa91ea8d9cac715a46e9eb",
+    "bytes": 35020,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S074",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/11_需求决策记录.md",
+    "snapshot": "90_来源/文档快照/S074_11_需求决策记录.md",
+    "sha256": "e437f384ae04cbd3761607ffc24b5f5e0d2eebd0080f1ba4db5b1f16aa2673ef",
+    "bytes": 54512,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S075",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/模块PRD_V1.3/12_原型补充与追踪.md",
+    "snapshot": "90_来源/文档快照/S075_12_原型补充与追踪.md",
+    "sha256": "78b001a3e6de24cf13e787e8c8a0c99d5af0b47f842283ff230583364c23f3f2",
+    "bytes": 118273,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S076",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/画面索引.csv",
+    "snapshot": "90_来源/文档快照/S076_画面索引.csv",
+    "sha256": "1fa96e1900660b66346f17b0068dc42fb67ac821147588c58c0edeb171c3892d",
+    "bytes": 25653,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S077",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/覆盖矩阵.md",
+    "snapshot": "90_来源/文档快照/S077_覆盖矩阵.md",
+    "sha256": "83846893c74105b1f22fa9009d4fc2036ce23b3b8f3d9bd48caa6620063eab54",
+    "bytes": 39452,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S078",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/视觉与组件规范.md",
+    "snapshot": "90_来源/文档快照/S078_视觉与组件规范.md",
+    "sha256": "c9071c1088118300850f5787f5ef97d3ff3ef47f97c9feccaba4a050550f863e",
+    "bytes": 6412,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S015",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/配件接口定义_20261020.txt",
+    "snapshot": "90_来源/文档快照/S015_配件接口定义_20261020.txt",
+    "sha256": "798b17de77f517f03cfd634e5d40bee391655e182ae7bad02f39d9cb0d3a7c97",
+    "bytes": 2093,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S016",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/01_需求基线/麦克风需求变更_20261020.txt",
+    "snapshot": "90_来源/文档快照/S016_麦克风需求变更_20261020.txt",
+    "sha256": "a994e28732f8607908c8ba1f6f4ec8a34b98a526170e44834eeaa1021b93f408",
+    "bytes": 1756,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S079",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/03_非触屏修订/states_mapping.md",
+    "snapshot": "90_来源/文档快照/S079_states_mapping.md",
+    "sha256": "82009f7f788c0b666c324e9be842f5d97b9fe3af7bc91916459058a3e6ebc843",
+    "bytes": 11397,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S080",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/03_非触屏修订/器灵_非触摸显示屏_补充修订.md",
+    "snapshot": "90_来源/文档快照/S080_器灵_非触摸显示屏_补充修订.md",
+    "sha256": "ad4bef7b641b93c1ecd67a7be7751d938ce311d53618be01a64565d373f7da70",
+    "bytes": 17195,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S081",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/03_非触屏修订/旧条款替代清单.md",
+    "snapshot": "90_来源/文档快照/S081_旧条款替代清单.md",
+    "sha256": "83ef37334dc9327e0d7cfc641e30658cc57220f8dea45a613744dee0eaa9b675",
+    "bytes": 4365,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S082",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_当前文档阅读包_20261016/先读我.md",
+    "snapshot": "90_来源/文档快照/S082_先读我.md",
+    "sha256": "2cd1f8fd021b7ff6b41da856794833cd90cee76fcc0d25ee02b02445fe3758eb",
+    "bytes": 2936,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S083",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/00_先读_打印边界与文件入口.txt",
+    "snapshot": "90_来源/文档快照/S083_00_先读_打印边界与文件入口.txt",
+    "sha256": "c76a0d5e0fc74b7a3e3272d1977ac95c91c0467ac10dbb818b4d53dac6db169f",
+    "bytes": 1533,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S021",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/BOM_JLC_映射_V0.7.1.csv",
+    "snapshot": "90_来源/文档快照/S021_BOM_JLC_映射_V0.7.1.csv",
+    "sha256": "2d233656828cf35ca9915ae8f811758622d2d81d34c1a680b447b347e15706dc",
+    "bytes": 121604,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S084",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/V071板级尺寸预算说明.md",
+    "snapshot": "90_来源/文档快照/S084_V071板级尺寸预算说明.md",
+    "sha256": "7e80bca283e62e600797ef14bf71f020682310e63ab25452e56d1564a98c9e34",
+    "bytes": 1367,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S085",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/verification/复核状态.md",
+    "snapshot": "90_来源/文档快照/S085_复核状态.md",
+    "sha256": "da32f72e32dc28d9a33992b4a6d6ab2037c61c2bc6e3671e65528d20dbd85014",
+    "bytes": 369,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S086",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/verification/独立机械复核_最终.md",
+    "snapshot": "90_来源/文档快照/S086_独立机械复核_最终.md",
+    "sha256": "727e1067f443442cc999aa1d6a7c30a2b42804dcc9bea42ce96e128a134a8b09",
+    "bytes": 8587,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S087",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/外购机械辅料清单.csv",
+    "snapshot": "90_来源/文档快照/S087_外购机械辅料清单.csv",
+    "sha256": "cd4e7638129f80e21e33b4ca34cad8b1ff795d05e350ca29f70d55b854efa322",
+    "bytes": 782,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S088",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/打印零件清单.csv",
+    "snapshot": "90_来源/文档快照/S088_打印零件清单.csv",
+    "sha256": "df8dc236528ea3f8e3b36cc1c7be280a32395406625196c903c786f91058a6d2",
+    "bytes": 1181,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S089",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/机械装配与试打印说明.md",
+    "snapshot": "90_来源/文档快照/S089_机械装配与试打印说明.md",
+    "sha256": "1eab0336375e3e192f1c10a9eb18766437407c20074212c6d214c056d448972a",
+    "bytes": 9184,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S090",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/选型与当前约束/CURRENT_BASELINE_当前设计约束.md",
+    "snapshot": "90_来源/文档快照/S090_CURRENT_BASELINE_当前设计约束.md",
+    "sha256": "14fbb37230e3cd5797a93fbb6942a5f563ff9b0be29853611af3a174b5be6823",
+    "bytes": 8248,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S091",
+    "original": "/Users/qijiankang/Documents/器灵/器灵_机械V0.2/非屏结构装配补充说明.md",
+    "snapshot": "90_来源/文档快照/S091_非屏结构装配补充说明.md",
+    "sha256": "6743fb44b0d7fcec9182e6dbb49fcdf2ea2b262205cdc83d2a42ee29f1a813c7",
+    "bytes": 3695,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  },
+  {
+    "id": "S092",
+    "original": "/Users/qijiankang/Documents/器灵/器灵角色设定_绒芽与砺光_V1.0.md",
+    "snapshot": "90_来源/文档快照/S092_器灵角色设定_绒芽与砺光_V1.0.md",
+    "sha256": "5bd77095510d95f9ff2fb27a5921c016341c86054f3103d1cbc22187247e0c3c",
+    "bytes": 18849,
+    "captured_date": "2026-10-21",
+    "status": "原始版本证据，现行效力须查版本与决策台账"
+  }
+]

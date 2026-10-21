@@ -1,0 +1,26 @@
+Scope: independent Python rules + CSV checks only; C# compilation, Unity import/runtime and hardware NOT executed.
+test_age_boundary (__main__.Acceptance.test_age_boundary) ... ok
+test_cancellation_variants (__main__.Acceptance.test_cancellation_variants) ... ok
+test_charge_consumed_once (__main__.Acceptance.test_charge_consumed_once) ... ok
+test_charge_threshold (__main__.Acceptance.test_charge_threshold) ... ok
+test_delivered_csv (__main__.Acceptance.test_delivered_csv) ... ok
+test_device_interlocks (__main__.Acceptance.test_device_interlocks) ... ok
+test_duplicate (__main__.Acceptance.test_duplicate) ... ok
+test_future (__main__.Acceptance.test_future) ... ok
+test_half_open_window (__main__.Acceptance.test_half_open_window) ... ok
+test_missing_id (__main__.Acceptance.test_missing_id) ... ok
+test_old_session (__main__.Acceptance.test_old_session) ... ok
+test_old_window (__main__.Acceptance.test_old_window) ... ok
+test_pause_invalidates (__main__.Acceptance.test_pause_invalidates) ... ok
+test_raw_candidate_margins (__main__.Acceptance.test_raw_candidate_margins) ... ok
+test_ready_requires_start (__main__.Acceptance.test_ready_requires_start) ... ok
+test_release_before_ready (__main__.Acceptance.test_release_before_ready) ... ok
+test_release_interrupts (__main__.Acceptance.test_release_interrupts) ... ok
+test_release_pending_within_window (__main__.Acceptance.test_release_pending_within_window) ... ok
+test_release_timeout_precedes_down (__main__.Acceptance.test_release_timeout_precedes_down) ... ok
+test_restart_charge_clears_ready (__main__.Acceptance.test_restart_charge_clears_ready) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.013s
+
+OK

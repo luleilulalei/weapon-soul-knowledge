@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+# Preserve exact evidence bytes for SHA-256 verification
+90_来源/文档快照/** -text
+90_来源/聊天摘录/** -text
+**/UnityPlayer.dylib filter=lfs diff=lfs merge=lfs -text
