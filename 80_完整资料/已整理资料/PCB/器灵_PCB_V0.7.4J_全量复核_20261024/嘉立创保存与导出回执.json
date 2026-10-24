@@ -1,0 +1,13 @@
+{
+  "project": "543f0d47a82649109229ad47324438d1",
+  "pcb": "5354a7bf4c630a18",
+  "record_changes": 10,
+  "schematic_records": 9,
+  "pcb_metadata_records": 1,
+  "native_readback_verified": true,
+  "export_sha256": "b373a1e7469ee279a9fe6d000ab5677e7d83432ee40ea428a5fbca9456a26599",
+  "schematic_netlist_unchanged": true,
+  "layout_unchanged": true,
+  "routing_unchanged": true,
+  "STL_unchanged": true
+}

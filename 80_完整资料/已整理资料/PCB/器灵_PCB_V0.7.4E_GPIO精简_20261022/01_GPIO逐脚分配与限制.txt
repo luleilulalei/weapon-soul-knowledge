@@ -1,0 +1,52 @@
+ESP32-S3-WROOM-1-N16R8｜V074E GPIO分配｜2026-10-22
+
+结论：当前功能可由主控直接连接，无需U7 GPIO扩展器。
+36个引出的GPIO中：3个PSRAM保留、29个已分配（含BOOT）、3个未使用启动脚、1个未使用UART启动输出脚。
+GPIO26~34不在本模组外部引脚表，不能当作额外空闲脚使用。
+
+模组脚号  GPIO    网络 / 状态
+   4        4    PDM_DATA_L    已分配
+   5        5    PDM_CLK_MCU    已分配
+   6        6    HAPTIC_ENABLE    已分配
+   7        7    I2S_BCLK    已分配
+   8       15    I2S_LRCLK    已分配
+   9       16    I2S_DOUT    已分配
+  10       17    AMP_ENABLE    已分配
+  11       18    IMU_INT1    已分配
+  12        8    BOOST_EN    已分配
+  13       19    USB_DM    已分配
+  14       20    USB_DP    已分配
+  15        3    NC    启动配置脚，保留空脚
+  16       46    NC    启动配置脚，保留空脚
+  17        9    LCD_DC_MCU    已分配
+  18       10    LCD_CS_MCU    已分配
+  19       11    LCD_MOSI_MCU    已分配
+  20       12    LCD_SCK_MCU    已分配
+  21       13    LCD_RST_N    已分配
+  22       14    PWR_INT_N    已分配
+  23       21    ACC_SCL_MCU    已分配
+  24       47    CHG_N    已分配
+  25       48    LCD_BL_PWM    已分配
+  26       45    NC    启动配置脚，保留空脚
+  27        0    BOOT_N    已分配
+  28       35    NC    PSRAM占用，禁止外用
+  29       36    NC    PSRAM占用，禁止外用
+  30       37    NC    PSRAM占用，禁止外用
+  31       38    ACC_SDA_MCU    已分配
+  32       39    PGOOD_N    已分配
+  33       40    TOUCH_IRQ_N    已分配
+  34       41    I2C_SCL    已分配
+  35       42    I2C_SDA    已分配
+  36       44    PWR_KILL_N    已分配
+  37       43    NC    备用；UART启动输出，使用须评估上电行为
+  38        2    ACC_DET_N    已分配
+  39        1    BAT_ADC    已分配
+
+注意：模组脚号与GPIO编号不是同一回事。GPIO47/48在N16R8为3.3V逻辑，不套用N16R16V的1.8V限制。
+GPIO39/40/41/42已用于业务功能，不保留外部JTAG；USB Serial/JTAG（GPIO19/20）保留。GPIO44用于开漏KILL，禁止UART0 RX复用。
+
+本轮变化：GPIO47从扩展器中断改为CHG_N；GPIO39从独立VBUS检测改为PGOOD_N。R114/R115将BQ24075开漏输出上拉至受控3V3，供电断开时不由常供电域反灌GPIO。
+J4入座检测、J6额外按键已取消；PGOOD只代表有效USB电源，不能代表实际入座。CHG高不单独等于100%电量。
+
+依据：https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+https://www.ti.com/lit/ds/symlink/bq24075.pdf

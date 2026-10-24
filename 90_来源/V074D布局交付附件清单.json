@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_Power_Button_NOT_ROUTED_20261022.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_Power_Button_NOT_ROUTED_20261022.epro2",
+    "kind": "file",
+    "sha256": "9f2c4dddf0545a7263cc408e802a360a0db7b2a65e55d92c8964e9412ac3524b",
+    "bytes": 1383594,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+    "kind": "file",
+    "sha256": "87e305e05c0828573048ed7b60ccda478e0c2062a677da3fb3061c34c065a638",
+    "bytes": 428042,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_检查结果.json",
+    "kind": "file",
+    "sha256": "7682cd66c30badabb614d327958031abca9b19ccdaa89f3b2ec80e88eeabf0f9",
+    "bytes": 3902,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/用户确认_长按电源键_20261022.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/用户确认_长按电源键_20261022.txt",
+    "kind": "file",
+    "sha256": "43ca41b723a1df97bef1c7c1125c3bfaaaeb83ef8deb23f67bdc362ec62c08e8",
+    "bytes": 3118,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/00_长按电源键说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/00_长按电源键说明.txt",
+    "kind": "file",
+    "sha256": "e44208c6a58b9e449c2d0c9370a31fee9b84f534635e0615966ce3ea1c8768f7",
+    "bytes": 2092,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/01_电源键固件与实测接口.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/01_电源键固件与实测接口.txt",
+    "kind": "file",
+    "sha256": "fd9068861ac8f9c06e450aae03314960c48d64883465b601b696fec8800d726d",
+    "bytes": 2101,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-plan.json",
+    "kind": "file",
+    "sha256": "4bc8cdcd8cb0d7968775fb077ef42ae9c819e38ab1e234facacca89b4590f4f5",
+    "bytes": 13446,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-silk.json",
+    "kind": "file",
+    "sha256": "7d33db53af3ee215bb442f32dabb10524d74bdcb1a30eab03b2ec2ab8bd230c3",
+    "bytes": 50517,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-final-verify.json",
+    "kind": "file",
+    "sha256": "8d43d6988e97193b4dc89dd8554d75844647cf3761ccf12d13d0b156ec3b2cc3",
+    "bytes": 2246654,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/历史备份/Spirit_V074C_Before_Power_Button_20261021.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/历史备份/Spirit_V074C_Before_Power_Button_20261021.epro2",
+    "kind": "file",
+    "sha256": "40cc770bfdfe5fe0efb0c6e6f8be3bef71d6ccb7faad1b71daf3c6a2a9841141",
+    "bytes": 1367332,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

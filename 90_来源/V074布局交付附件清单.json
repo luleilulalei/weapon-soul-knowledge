@@ -1,0 +1,74 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_Layout_Review_NOT_ROUTED_20261021.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_Layout_Review_NOT_ROUTED_20261021.epro2",
+    "kind": "file",
+    "sha256": "03d112d95f4fb98053c2bbf4cb5316a0346bf2f82ac527b3ae6179162a2b387c",
+    "bytes": 1633428,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+    "kind": "file",
+    "sha256": "2aabfa405529345f6b8d801b9b0f6c7b83bff9c99e52b47171e33a34f4524289",
+    "bytes": 434422,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局检查.json",
+    "kind": "file",
+    "sha256": "a3d50212aad68dec6e58f9687955e5f1eb5ee83d6662d08851b8e4917894ab1f",
+    "bytes": 1640,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/00_布局确认说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/00_布局确认说明.txt",
+    "kind": "file",
+    "sha256": "f1e41e4413298aa2a14b195d7acad55b3092dd17975b0e58d1c922db598146f6",
+    "bytes": 2112,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/用户布局确认要求_20261021.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/用户布局确认要求_20261021.txt",
+    "kind": "file",
+    "sha256": "4f53deb454cdf3d4a0f351eb10244c2068dc0f57031c38dc6b9e7dd180d828a8",
+    "bytes": 1771,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-plan.json",
+    "kind": "file",
+    "sha256": "b4a59436f2798814f87639da3d944797d747973455e1517ecda77868f1db0e8c",
+    "bytes": 13992,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-silk.json",
+    "kind": "file",
+    "sha256": "5b61352a52d37f274b5551b0b897afbbdcd463185f564b102af5364e53c26b0d",
+    "bytes": 52318,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-verify.json",
+    "kind": "file",
+    "sha256": "cafadb3805c0a14cb38c7b5bc596d91fe34e1afb0a2548efb36cb23719c2bb3f",
+    "bytes": 1899283,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

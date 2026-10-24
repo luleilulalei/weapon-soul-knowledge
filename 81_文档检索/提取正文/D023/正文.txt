@@ -1,0 +1,110 @@
+E
+D
+C
+B
+A
+1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8
+E
+D
+C
+B
+A
+REAC/ROHSSAMZO
+REV           ECN NO         DESRIPTION         DESIGN     APPROVAL      DATE
+  A1 NEW           Replace frame 2018.06.14
+ ITEM    DESCRIPTION         MATERIAL         QTY         FINSH/COLOR
+   DESIGN        WANGGUIFA      2018.06.12
+ CHECKED       ZHENGUILAN    2018.06.12
+APPROVED      LILIANJIANG      2018.06.14
+GENERAL TOLERANCE
+≥0~2＜   ±0.15
+≥2~5＜   ±0.25
+≥0~2＜   ±0.15
+ ≥5 ±0.35
+ SCALE     1:1  UNIT     mm
+NAME：
+DC CONN
+MODEL NO：
+PART NO：
+DWG NO：
+TITLE:
+：FIRST VIEW The copyright belongs to
+samzo parts [China] Co.,
+Ltd. please use the material
+after samzo parts agree to
+authorize. The final right of
+interpretation belongs to
+samzo parts.
+     WWW.KKK-JP.COM
+   B 塑胶 LCP 1 黑色
+   A 触点 铜合金              1 镀金
+SAMZO COMPONENTS
+Electronic switch and connector manufacturer
+A.Series: 23: 2.0 - 55 series
+B.Spring contact pitch: E - 2.0mm
+C.Fixing method: 4 - Horizontal Mounting
+D.Product height: 1 - H2.6mm
+E.PIN NO: 2-2P/3-3P/5-5P/7-7P/9-9P/0-10PIN
+F:Main body material: 0 - LCP
+G:Spring contact material: 5 - COPPER ALLOY
+H:Mold code: 0 - convention
+卧贴刀片电池母座H2.6MM
+23E41-P001
+23E4155D003
+23E41-*-050
+DIM C
+1.50
+2.60
+0.70 0.70
+DIM A
+DIM B
+2.0
+4.0±0.25
+3.0
+R1.0000
+Ø0.6000
+0.700.70
+RECOMMENDED PCB LAYOUT
+TOL:(±0.05)
+DIM C
+DIM B
+2.0 1.05
+4.60
+Ø0.7000
+0.40
+1.30
+8.0012.00
+10.0014.00
+DIMA DIMB
+2.006.00
+8.00 4.00
+6.0010.00
+Be filled
+11.40
+13.40
+DIMC
+5.40
+7.40
+9.40
+12.0016.00 15.40
+14.0018.00 17.40
+16.0020.00 19.40
+18.0022.00 21.40
+Specification
+Rated Voltage(Max.):30V AC/DC
+Dielectric Strength:1KV AC For 1 Minute
+Between Adjacent Terminal,No Breakdown
+Insulation Resistance:1000 Megohms Min. 500V
+DC For 1 Minute Between Adjacent Terminal
+Operating Temperature:-20°C-80°C
+23 E 4 1 * 0 5 0
+23E41-2-050
+23E41-3-050
+23E41-4-050
+23E41-5-050
+23E41-6-050
+23E41-7-050
+23E41-8-050
+23E41-9-050
+23E41-0-050

@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_Compact_NOT_ROUTED_20261023.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_Compact_NOT_ROUTED_20261023.epro2",
+    "kind": "file",
+    "sha256": "a22938128cf6f96b9846c87c43f594d118d331f4879bd0adbeefc38d474284ef",
+    "bytes": 1297499,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+    "kind": "file",
+    "sha256": "6311b5c90a7e7d0fbde0fa16f91e9bd801d7fe6bd981b562ed060cd909bba6bb",
+    "bytes": 413337,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_检查结果.json",
+    "kind": "file",
+    "sha256": "7609524741957069b3218875438e93918f5aafb7a405a4f5bb81471f861df7ac",
+    "bytes": 2350,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/用户要求_缩板按键归面与FPC避让_20261023.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/用户要求_缩板按键归面与FPC避让_20261023.txt",
+    "kind": "file",
+    "sha256": "42ac10d25663e3035bd3d1cca29b9939404c826d236d1c4a73ec50f0cc0439b0",
+    "bytes": 2729,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/00_缩板与FPC避让说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/00_缩板与FPC避让说明.txt",
+    "kind": "file",
+    "sha256": "60d02987546756f64d8ff252171870ad3d28bf1d032bda18e734451ae98fe2e6",
+    "bytes": 1164,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/J8_FPC厂家尺寸图.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/J8_FPC厂家尺寸图.pdf",
+    "kind": "file",
+    "sha256": "f2c9577ce5dc2ec783f6c629d0f555c3d3ddb2106be2c898d9c2de11fa4d16fb",
+    "bytes": 4963055,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-plan.json",
+    "kind": "file",
+    "sha256": "7825826aad870ec958aa08d7496ea6caa5c8e1b58aba9bd2d619dcf2204a80e0",
+    "bytes": 12444,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-silk.json",
+    "kind": "file",
+    "sha256": "9d69d76afede39b3beca819a13e0ade8c3412bae60ba076716421c6a49a67910",
+    "bytes": 46798,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-final-verify.json",
+    "kind": "file",
+    "sha256": "f4eb7bd68c0fe4fc443a2202a26101b02684e92d0a57d5cdb5b37b0d52125c6f",
+    "bytes": 1947967,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/历史备份/Spirit_V074F_Before_Compact_20261023.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/历史备份/Spirit_V074F_Before_Compact_20261023.epro2",
+    "kind": "file",
+    "sha256": "b20927f83ae31c30810c30e483239b01b5920be37f3bcac8ecaa07e33c29aafe",
+    "bytes": 1423196,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

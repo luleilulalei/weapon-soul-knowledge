@@ -1,0 +1,93 @@
+[
+  {
+    "uuid": "c5439dfd4251e93d",
+    "name": "11_Charger",
+    "edits": [
+      {
+        "id": "65e38322f248f91b",
+        "type": "TEXT",
+        "old": "默认装配：J102、J103 均开路；充电关闭，USB 输入限流 100mA。",
+        "new": "当前接线：J102/J103已取消；CE经R108下拉，允许充电；EN1高、EN2低，USB500档。"
+      },
+      {
+        "id": "fbda9e02dedd8b7f",
+        "type": "TEXT",
+        "old": "J102 仅在保护电池、真实 NTC、充电电流验证后闭合；R111=3.57k，目标约 249mA。",
+        "new": "R111=1k，充电设定约890mA；实际充电受500mA总输入、系统负载和温升限制。"
+      },
+      {
+        "id": "f4114fa6d02cbf92",
+        "type": "TEXT",
+        "old": "J103 闭合启用约 418mA 输入限流；须确认电源允许至少 500mA，未实现 Type-C Rp 自动识别。",
+        "new": "R110=1.18k仅用于ILIM档；当前USB500档不由R110决定输入电流。"
+      },
+      {
+        "id": "ea72cb2909d1ffa7",
+        "type": "TEXT",
+        "old": "量产：默认允许充电，J102/J103已移除；必须装4.2V保护电池和贴附电芯的10k NTC。",
+        "new": "样机条件：使用4.2V充满的单节保护电池及贴附电芯的10k NTC；电流和温升待验证。"
+      },
+      {
+        "id": "ab86a085b6588a28",
+        "type": "TEXT",
+        "old": "Type-C识别1.5A/3A源才启用1.116～1.472A输入限流；普通USB保持100mA。充电时禁挥剑，保留AI陪伴。",
+        "new": "未实现Type-C Rp电流识别或USB枚举/挂起动态限流；固定USB500不代表自动协商。"
+      }
+    ]
+  },
+  {
+    "uuid": "90a66e75d09b5c0a",
+    "name": "12_Main_switch",
+    "edits": [
+      {
+        "id": "08c70e17bc9a7818",
+        "type": "ATTR",
+        "old": "10k pull-up KILL to switched +3V3. ESP32 GPIO44 must remain input/high-Z or open-drain released until shutdown; drive low after saving.",
+        "new": "10k pull-up KILL to switched +3V3. ESP32 GPIO6 must remain input/high-Z or open-drain released until shutdown; drive low after saving."
+      }
+    ]
+  },
+  {
+    "uuid": "a220e6f6f67182ed",
+    "name": "13_BuckBoost_3V3",
+    "edits": [
+      {
+        "id": "658d7531c307c4c8",
+        "type": "TEXT",
+        "old": "PCB is pending ECO + local relayout; preserve TPS61023 5V branch.",
+        "new": "TPS63802已同步原理图与PCB；当前V074J未布线，电源局部布局仍待本次复核整改。"
+      }
+    ]
+  },
+  {
+    "uuid": "d654cfd0b15fd79f",
+    "name": "14_Boost_5V",
+    "edits": [
+      {
+        "id": "5f3f5670139b09db",
+        "type": "TEXT",
+        "old": "BOOST_5V 标称约 4.992V，经 J107 与外部双刀开关送往 +5V_SYS。",
+        "new": "TPS61023输出直接为+5V_SYS，标称4.992V；J107和外部双刀开关已取消，由BOOST_ENABLE控制。"
+      },
+      {
+        "id": "3c6ae0c1a59e3eb9",
+        "type": "TEXT",
+        "old": "供音频与屏幕背光使用；不为 +5V_BLADE 供电。输出能力需按电池低压与热条件验证。",
+        "new": "+5V_SYS供MAX98357A和J7第1脚；屏幕逻辑与背光来自+3V3。5V总负载须按低电压与温升验证。"
+      }
+    ]
+  },
+  {
+    "uuid": "5354a7bf4c630a18",
+    "name": "PCB R141 metadata",
+    "edits": [
+      {
+        "id": "5e488ca4088662eb",
+        "type": "COMPONENT",
+        "old": "10k pull-up KILL to switched +3V3. ESP32 GPIO44 must remain input/high-Z or open-drain released until shutdown; drive low after saving.",
+        "new": "10k pull-up KILL to switched +3V3. ESP32 GPIO6 must remain input/high-Z or open-drain released until shutdown; drive low after saving.",
+        "property": "Assembly_Note"
+      }
+    ]
+  }
+]

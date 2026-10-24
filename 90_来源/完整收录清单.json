@@ -8993,6 +8993,2391 @@
       "bytes": 10130,
       "mode": 420,
       "group": "工作区设计与交付补充"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_Layout_Review_NOT_ROUTED_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_Layout_Review_NOT_ROUTED_20261021.epro2",
+      "kind": "file",
+      "sha256": "03d112d95f4fb98053c2bbf4cb5316a0346bf2f82ac527b3ae6179162a2b387c",
+      "bytes": 1633428,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+      "kind": "file",
+      "sha256": "2aabfa405529345f6b8d801b9b0f6c7b83bff9c99e52b47171e33a34f4524289",
+      "bytes": 434422,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局检查.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局检查.json",
+      "kind": "file",
+      "sha256": "a3d50212aad68dec6e58f9687955e5f1eb5ee83d6662d08851b8e4917894ab1f",
+      "bytes": 1640,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/00_布局确认说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/00_布局确认说明.txt",
+      "kind": "file",
+      "sha256": "f1e41e4413298aa2a14b195d7acad55b3092dd17975b0e58d1c922db598146f6",
+      "bytes": 2112,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/用户布局确认要求_20261021.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/用户布局确认要求_20261021.txt",
+      "kind": "file",
+      "sha256": "4f53deb454cdf3d4a0f351eb10244c2068dc0f57031c38dc6b9e7dd180d828a8",
+      "bytes": 1771,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-plan.json",
+      "kind": "file",
+      "sha256": "b4a59436f2798814f87639da3d944797d747973455e1517ecda77868f1db0e8c",
+      "bytes": 13992,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-silk.json",
+      "kind": "file",
+      "sha256": "5b61352a52d37f274b5551b0b897afbbdcd463185f564b102af5364e53c26b0d",
+      "bytes": 52318,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/layout-v074-verify.json",
+      "kind": "file",
+      "sha256": "cafadb3805c0a14cb38c7b5bc596d91fe34e1afb0a2548efb36cb23719c2bb3f",
+      "bytes": 1899283,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_Rear_NFC_No_SW3_J1_NOT_ROUTED_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_Rear_NFC_No_SW3_J1_NOT_ROUTED_20261021.epro2",
+      "kind": "file",
+      "sha256": "b2343a2a08cd323ff40012d2b1f4f64c678e2972c53826eaaf49f8979ad84bbc",
+      "bytes": 1380769,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+      "kind": "file",
+      "sha256": "3dc33b22ed6abc3f8cad6793a7cd179d9c759ea78494d76378b0ea124a9d8154",
+      "bytes": 434769,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_检查结果.json",
+      "kind": "file",
+      "sha256": "15e306cfb9fb0b47324fb746a4b4e0694a2f94e24a68bc533c6619927e7ddce2",
+      "bytes": 1483,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/00_变更说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/00_变更说明.txt",
+      "kind": "file",
+      "sha256": "f74adb2a14dfe1a8659f0d871e92ff3f6fe0f2b04cd26cda7efa97f9fd672455",
+      "bytes": 1744,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/用户确认_取消SW3_J1与背面NFC_20261021.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/用户确认_取消SW3_J1与背面NFC_20261021.txt",
+      "kind": "file",
+      "sha256": "8dafb50763840ed530982c42fdc7ddf27d53914fbc60a75e1ef9430b1d358ed4",
+      "bytes": 1737,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-plan.json",
+      "kind": "file",
+      "sha256": "ed257a9ef40dee9ed24763a0155405c7f406a7f08d751f2847f9649c72d751ba",
+      "bytes": 13630,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-silk.json",
+      "kind": "file",
+      "sha256": "2eb41a7b6264ddd850ee2ad10b95ab6f57bf4d5e53f9acb4cce4995b684ff38f",
+      "bytes": 51238,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-final-verify.json",
+      "kind": "file",
+      "sha256": "c7b5f10fe01aa9ed4975dc057c36caa49fb23a16f170ed620d87454d62e97f28",
+      "bytes": 1596177,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/历史备份/Spirit_V074_Before_SW3_J1_NFC_Change_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/历史备份/Spirit_V074_Before_SW3_J1_NFC_Change_20261021.epro2",
+      "kind": "file",
+      "sha256": "7d5aa93b993e802f9075cd6ded4f9d8073255638b8d32ff7bd771b1ebc0183a2",
+      "bytes": 1388875,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/历史备份/Spirit_V074_Before_Tree_Cleanup_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/历史备份/Spirit_V074_Before_Tree_Cleanup_20261021.epro2",
+      "kind": "file",
+      "sha256": "2e679ad18bad5b411534dfc245da781c314b35e3e510fc68e02b10768013d907",
+      "bytes": 1633423,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB_Simplified_NOT_ROUTED_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB_Simplified_NOT_ROUTED_20261021.epro2",
+      "kind": "file",
+      "sha256": "418e23623ccb597d47e372cd074f76401403a417c45fab95f28d8a3516eeff82",
+      "bytes": 1367332,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB精简布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB精简布局确认.png",
+      "kind": "file",
+      "sha256": "928005cf40653e590b9af75d9a0ca40a377b04dfdcd4e21c6516fe3bb5ad5512",
+      "bytes": 417992,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_检查结果.json",
+      "kind": "file",
+      "sha256": "fa0e3c4e800edb453121fcf86db4b0d8f807e57e4f57e23c1b0f7897c182e9e7",
+      "bytes": 1980,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/00_USB精简说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/00_USB精简说明.txt",
+      "kind": "file",
+      "sha256": "a8dfeedb5917193043f3df8d64e92b62a82d63eb2fe7d001db96472654a9c27a",
+      "bytes": 2323,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/用户确认_USB精简与非必要不添加_20261021.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/用户确认_USB精简与非必要不添加_20261021.txt",
+      "kind": "file",
+      "sha256": "73141c12512941c94719156e9417b447f8d209ba86196077a13c975a57a64ff5",
+      "bytes": 2234,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-plan.json",
+      "kind": "file",
+      "sha256": "cb7910315f0c56894c8eaf749b535a3d4fd8d49a6a531e9622f51e1257fb1a29",
+      "bytes": 12895,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-silk.json",
+      "kind": "file",
+      "sha256": "624822e96b63592a916a084c6362060709bd7fa4ba94ab692e7cbcec9fb450f0",
+      "bytes": 48580,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/layout-v074c-final-verify.json",
+      "kind": "file",
+      "sha256": "5c1922afcb7114a74b56e819193cc24e4d8f356e7f7378a4ce3906304ee7b9cf",
+      "bytes": 1547505,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Usaki_USB_BQ24075_用户参考.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Usaki_USB_BQ24075_用户参考.png",
+      "kind": "file",
+      "sha256": "3fdec8be47c7e79d66af452a9e12d22c5c0be4a9b4a77f47c01ee955da692cbf",
+      "bytes": 163516,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/历史备份/Spirit_V074B_Before_USB_Simplify_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/历史备份/Spirit_V074B_Before_USB_Simplify_20261021.epro2",
+      "kind": "file",
+      "sha256": "4bd417cbb3837d4c26fc545ca3247b0f196eaabc4e880e06547e95280ac4cc4b",
+      "bytes": 1380769,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_Power_Button_NOT_ROUTED_20261022.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_Power_Button_NOT_ROUTED_20261022.epro2",
+      "kind": "file",
+      "sha256": "9f2c4dddf0545a7263cc408e802a360a0db7b2a65e55d92c8964e9412ac3524b",
+      "bytes": 1383594,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+      "kind": "file",
+      "sha256": "87e305e05c0828573048ed7b60ccda478e0c2062a677da3fb3061c34c065a638",
+      "bytes": 428042,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_检查结果.json",
+      "kind": "file",
+      "sha256": "7682cd66c30badabb614d327958031abca9b19ccdaa89f3b2ec80e88eeabf0f9",
+      "bytes": 3902,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/用户确认_长按电源键_20261022.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/用户确认_长按电源键_20261022.txt",
+      "kind": "file",
+      "sha256": "43ca41b723a1df97bef1c7c1125c3bfaaaeb83ef8deb23f67bdc362ec62c08e8",
+      "bytes": 3118,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/00_长按电源键说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/00_长按电源键说明.txt",
+      "kind": "file",
+      "sha256": "e44208c6a58b9e449c2d0c9370a31fee9b84f534635e0615966ce3ea1c8768f7",
+      "bytes": 2092,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/01_电源键固件与实测接口.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/01_电源键固件与实测接口.txt",
+      "kind": "file",
+      "sha256": "fd9068861ac8f9c06e450aae03314960c48d64883465b601b696fec8800d726d",
+      "bytes": 2101,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-plan.json",
+      "kind": "file",
+      "sha256": "4bc8cdcd8cb0d7968775fb077ef42ae9c819e38ab1e234facacca89b4590f4f5",
+      "bytes": 13446,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-silk.json",
+      "kind": "file",
+      "sha256": "7d33db53af3ee215bb442f32dabb10524d74bdcb1a30eab03b2ec2ab8bd230c3",
+      "bytes": 50517,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/layout-v074d-final-verify.json",
+      "kind": "file",
+      "sha256": "8d43d6988e97193b4dc89dd8554d75844647cf3761ccf12d13d0b156ec3b2cc3",
+      "bytes": 2246654,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/历史备份/Spirit_V074C_Before_Power_Button_20261021.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/历史备份/Spirit_V074C_Before_Power_Button_20261021.epro2",
+      "kind": "file",
+      "sha256": "40cc770bfdfe5fe0efb0c6e6f8be3bef71d6ccb7faad1b71daf3c6a2a9841141",
+      "bytes": 1367332,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO_Direct_NOT_ROUTED_20261022.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO_Direct_NOT_ROUTED_20261022.epro2",
+      "kind": "file",
+      "sha256": "d52d2c4daf931256135d9c88674e8845026763b47e8b309c7898c353c4b5d573",
+      "bytes": 1363197,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+      "kind": "file",
+      "sha256": "c586716634f858dd82ebada2a8545297ebc895fe2e640e586da5d6e51914abea",
+      "bytes": 411523,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_检查结果.json",
+      "kind": "file",
+      "sha256": "35431982bf6296d4f4be1379374809aa196d409ac1225b9f5e166bc3e898666d",
+      "bytes": 6070,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/用户确认_取消J4J6与GPIO扩展_20261022.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/用户确认_取消J4J6与GPIO扩展_20261022.txt",
+      "kind": "file",
+      "sha256": "c7f27209ec4ca91a6bd31f5ac5c4d33bc89c2f799951f89314d450d4bfcee6c2",
+      "bytes": 3212,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/00_GPIO精简说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/00_GPIO精简说明.txt",
+      "kind": "file",
+      "sha256": "ccbc35e0c2969ffb21ef0a6c116160919fed379a1f4622583b494389a7c77fbf",
+      "bytes": 1761,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/01_GPIO逐脚分配与限制.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/01_GPIO逐脚分配与限制.txt",
+      "kind": "file",
+      "sha256": "f885eb9043df4aa4a664a02911c446438f921463bb485002f36aca22ccbbb8e3",
+      "bytes": 2667,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-plan.json",
+      "kind": "file",
+      "sha256": "95db14aba2d728397d48f9413f5132cb3d91d8fde3e418095893dda57702f8c2",
+      "bytes": 12437,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-silk.json",
+      "kind": "file",
+      "sha256": "a7ce803b582ed828a533604c9ee474b374560d6c2bb1ea96375cdd9a367c75f2",
+      "bytes": 46949,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-final-verify.json",
+      "kind": "file",
+      "sha256": "5f33d5274a908d7b0758d526492499135341e4bc53c99d82d7fe1a9305c64016",
+      "bytes": 1966826,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/历史备份/Spirit_V074D_Before_GPIO_Simplify_20261022.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/历史备份/Spirit_V074D_Before_GPIO_Simplify_20261022.epro2",
+      "kind": "file",
+      "sha256": "2e6ec8d7bdd1d00f270422ffd52c2e570518dedc04ffbc910fd7f1aed8dc581b",
+      "bytes": 1383594,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_UART_Reserved_NOT_ROUTED_20261023.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_UART_Reserved_NOT_ROUTED_20261023.epro2",
+      "kind": "file",
+      "sha256": "3bc6bc1d71edc62651bd35221ebf236b5ce1c8dbcd1ac8a8798f8874257d571b",
+      "bytes": 1423193,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+      "kind": "file",
+      "sha256": "588a8ca130d32319bb5920b491e08e0c9ef21bd358b287d93a7da7948a772409",
+      "bytes": 412767,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_检查结果.json",
+      "kind": "file",
+      "sha256": "b3069c06b1ca7e52cf5460df8728331e5ade335d49b7c5a482eb3b841f8fa2de",
+      "bytes": 2582,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/用户确认_保留RXTX与马达软件待机_20261023.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/用户确认_保留RXTX与马达软件待机_20261023.txt",
+      "kind": "file",
+      "sha256": "dabe78017700496c097bb777d2289dc88e0ec93af72d814a1fc693d7ed7141cc",
+      "bytes": 2932,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/00_串口保留说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/00_串口保留说明.txt",
+      "kind": "file",
+      "sha256": "6bd074e37be6d249b8af26e653db42d00a5a39ed56efa76bf307af804ed7d4d9",
+      "bytes": 1626,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/01_GPIO逐脚分配与限制.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/01_GPIO逐脚分配与限制.txt",
+      "kind": "file",
+      "sha256": "5097a73a324ace74be50cd1f27ad2f92dc21f6d742896fadc7c75bd761947f7b",
+      "bytes": 2697,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-plan.json",
+      "kind": "file",
+      "sha256": "7976981d850c563d8721f8df600739c8d72488ce809f53ecd9d747d2e0e68b02",
+      "bytes": 12355,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-silk.json",
+      "kind": "file",
+      "sha256": "52805c8eacee53cf788d40912310b43d8a833d79bf5ff7f8c3efa01caa45cae8",
+      "bytes": 46940,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-final-verify.json",
+      "kind": "file",
+      "sha256": "b496bd908286a5b473e59429216567bdcf4e26fd9a900cdfd0d90b35b5427619",
+      "bytes": 1946585,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/历史备份/Spirit_V074E_Before_UART_Reserve_20261023.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/历史备份/Spirit_V074E_Before_UART_Reserve_20261023.epro2",
+      "kind": "file",
+      "sha256": "2bbc317af44e99ea71f10aa80d43e0a634f50a6d3510ccd6abd88d5ff480af11",
+      "bytes": 1362162,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_Compact_NOT_ROUTED_20261023.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_Compact_NOT_ROUTED_20261023.epro2",
+      "kind": "file",
+      "sha256": "a22938128cf6f96b9846c87c43f594d118d331f4879bd0adbeefc38d474284ef",
+      "bytes": 1297499,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+      "kind": "file",
+      "sha256": "6311b5c90a7e7d0fbde0fa16f91e9bd801d7fe6bd981b562ed060cd909bba6bb",
+      "bytes": 413337,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_检查结果.json",
+      "kind": "file",
+      "sha256": "7609524741957069b3218875438e93918f5aafb7a405a4f5bb81471f861df7ac",
+      "bytes": 2350,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/用户要求_缩板按键归面与FPC避让_20261023.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/用户要求_缩板按键归面与FPC避让_20261023.txt",
+      "kind": "file",
+      "sha256": "42ac10d25663e3035bd3d1cca29b9939404c826d236d1c4a73ec50f0cc0439b0",
+      "bytes": 2729,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/00_缩板与FPC避让说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/00_缩板与FPC避让说明.txt",
+      "kind": "file",
+      "sha256": "60d02987546756f64d8ff252171870ad3d28bf1d032bda18e734451ae98fe2e6",
+      "bytes": 1164,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/J8_FPC厂家尺寸图.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/J8_FPC厂家尺寸图.pdf",
+      "kind": "file",
+      "sha256": "f2c9577ce5dc2ec783f6c629d0f555c3d3ddb2106be2c898d9c2de11fa4d16fb",
+      "bytes": 4963055,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-plan.json",
+      "kind": "file",
+      "sha256": "7825826aad870ec958aa08d7496ea6caa5c8e1b58aba9bd2d619dcf2204a80e0",
+      "bytes": 12444,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-silk.json",
+      "kind": "file",
+      "sha256": "9d69d76afede39b3beca819a13e0ade8c3412bae60ba076716421c6a49a67910",
+      "bytes": 46798,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/layout-v074g-final-verify.json",
+      "kind": "file",
+      "sha256": "f4eb7bd68c0fe4fc443a2202a26101b02684e92d0a57d5cdb5b37b0d52125c6f",
+      "bytes": 1947967,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/历史备份/Spirit_V074F_Before_Compact_20261023.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/历史备份/Spirit_V074F_Before_Compact_20261023.epro2",
+      "kind": "file",
+      "sha256": "b20927f83ae31c30810c30e483239b01b5920be37f3bcac8ecaa07e33c29aafe",
+      "bytes": 1423196,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "a37edc04ac0364888cf473c70544c99a3ce84d737de944b5216e203064afe074",
+      "bytes": 1344186,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+      "kind": "file",
+      "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+      "bytes": 44602,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+      "kind": "file",
+      "sha256": "2159349c51612929efe63b8f03cc03b9140ea99eacf7f77440a0d5cdaff50646",
+      "bytes": 63005,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+      "kind": "file",
+      "sha256": "78220886d824466d6c62e0c76d7cc4417919c470d9d00c3d73ffbff0b2be766d",
+      "bytes": 126654,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_检查结果.json",
+      "kind": "file",
+      "sha256": "6f119eb9e52acb23cc758ae0af1897fe941b31b70eb6c7f68aa871cf7eb5f6d9",
+      "bytes": 2582,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_PCB原生源文件.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_PCB原生源文件.txt",
+      "kind": "file",
+      "sha256": "30ac4a3a145763c88cd7f846ce12c8979362fa8b5c8400ad0bedc382c5964767",
+      "bytes": 464993,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/00_重叠修正说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/00_重叠修正说明.txt",
+      "kind": "file",
+      "sha256": "4d0813856354cedd20fa88132f9f9f0831360817a256591200f70851aa716d40",
+      "bytes": 1491,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-plan.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-plan.json",
+      "kind": "file",
+      "sha256": "0813cabf6e71e595dee3fa73cb046417519b9ec4081d654674f23df701f76099",
+      "bytes": 14442,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-silk.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-silk.json",
+      "kind": "file",
+      "sha256": "ba8cb56e351289349a1cc7cb40ce24f325127bdefb4476d33e87501677de5f03",
+      "bytes": 49212,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-final-verify.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-final-verify.json",
+      "kind": "file",
+      "sha256": "2d9b48fc97705c22c68bcb32358fb9bfd25d2b8add475331a81a185de01c60ec",
+      "bytes": 2395565,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-save-result.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-save-result.json",
+      "kind": "file",
+      "sha256": "e1ee0dc5130e9e8da72f1ba74c793c6b571329f6acb55fcbe4ce9863214bc9e7",
+      "bytes": 82,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/00_结构评审说明.txt",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/00_结构评审说明.txt",
+      "kind": "file",
+      "sha256": "47265cd5ef2a401dfccff3015c49abb44cca07419cfb8e6c76a9978e0ea73ce1",
+      "bytes": 6532,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/01_分件对照.txt",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/01_分件对照.txt",
+      "kind": "file",
+      "sha256": "3b2bf40b08424b13b647778db977d9b91150397bae9bb71b65e75c93be05a8c1",
+      "bytes": 1002,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/02_本版设计与验证结论.txt",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/02_本版设计与验证结论.txt",
+      "kind": "file",
+      "sha256": "0031a90cdc082f622e8bfe52576547028eabab78863c678921a8083469380470",
+      "bytes": 1693,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+      "kind": "file",
+      "sha256": "c8793e5d7759f695e0e74e496b24142e854150c618919e77acb26e5804091c41",
+      "bytes": 3078384,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P01_front_shell.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P01_front_shell.stl",
+      "kind": "file",
+      "sha256": "aa61f6e3df7d011f9d568e5906a39068b4154bb862618424d92b47c14d0c77dd",
+      "bytes": 746284,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P02_rear_shell.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P02_rear_shell.stl",
+      "kind": "file",
+      "sha256": "fd38ea8e8b202774c13e792c88fa92a1633080752cf154a1456e237da4b41014",
+      "bytes": 980484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P03_PCB_four_hole_carrier.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P03_PCB_four_hole_carrier.stl",
+      "kind": "file",
+      "sha256": "3f94658387af7f1e838060849698168eac2eaba47ca0bd6a73b75f86d4005883",
+      "bytes": 413884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P04_replaceable_screen_bezel.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P04_replaceable_screen_bezel.stl",
+      "kind": "file",
+      "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963",
+      "bytes": 118784,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P05_screen_rear_retainer.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P05_screen_rear_retainer.stl",
+      "kind": "file",
+      "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1",
+      "bytes": 76884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P06_power_plunger.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P06_power_plunger.stl",
+      "kind": "file",
+      "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413",
+      "bytes": 76684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P07_battery_cradle.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P07_battery_cradle.stl",
+      "kind": "file",
+      "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442",
+      "bytes": 115484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P08_side_speaker_chamber.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P08_side_speaker_chamber.stl",
+      "kind": "file",
+      "sha256": "90c714f448c14bfb9419a78f7c7428aa15afc6597abb2fb841bf603070599610",
+      "bytes": 190084,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P09_side_speaker_grille.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P09_side_speaker_grille.stl",
+      "kind": "file",
+      "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca",
+      "bytes": 111084,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P10_rear_NFC_holder.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P10_rear_NFC_holder.stl",
+      "kind": "file",
+      "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74",
+      "bytes": 87484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P11_keyed_top_dust_cap.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P11_keyed_top_dust_cap.stl",
+      "kind": "file",
+      "sha256": "f7f8d4a313137da8751c1610f2e028ae0429b0f00420b2958db58294e63c8c50",
+      "bytes": 20684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P12_LRA_retaining_bridge.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P12_LRA_retaining_bridge.stl",
+      "kind": "file",
+      "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7",
+      "bytes": 58884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P13_MIC_side_duct.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P13_MIC_side_duct.stl",
+      "kind": "file",
+      "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2",
+      "bytes": 82684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P14_fit_coupon.stl",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P14_fit_coupon.stl",
+      "kind": "file",
+      "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0",
+      "bytes": 81184,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+      "kind": "file",
+      "sha256": "35d923959bd51ee98c5349bfa78543d9b59b4167efd043f1811807920be6e785",
+      "bytes": 1855389,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+      "kind": "file",
+      "sha256": "a1d7b809c1ef07f0ef93a0282d9cb6dd9850062ca7173f013281f7bdd1c265b7",
+      "bytes": 1821193,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+      "kind": "file",
+      "sha256": "77c479b63ce695772f156f759ca984da36a751dee5892c2fa2716a9815e5bcec",
+      "bytes": 2763894,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+      "kind": "file",
+      "sha256": "f37f2314c0b9eb502ffd9e5f7552b98ce99c4bf277aa29b24577258855cf0f9b",
+      "bytes": 1948182,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+      "kind": "file",
+      "sha256": "064b3d17167c07151d9a07b5353fa6cc66a3bb4053ca86e4acaf5e75a7eb69cd",
+      "bytes": 1772460,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/build_v03.py",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/build_v03.py",
+      "kind": "file",
+      "sha256": "a22d1d263e89f1f529673ee2f13bd2808d54c5dc6b9a622875dda51b6823b96a",
+      "bytes": 20403,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/helpers_fragment.txt",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/helpers_fragment.txt",
+      "kind": "file",
+      "sha256": "8c990188cf19a0225b9e376bdaafda08114133ae901933185411193e8f17b0c6",
+      "bytes": 2518,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/verify_v03.py",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/verify_v03.py",
+      "kind": "file",
+      "sha256": "9e888d3820f8db26a4fe9703153417c0b5accac5fc6dc1829f5f501060f052a1",
+      "bytes": 2566,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/render_v03.py",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/render_v03.py",
+      "kind": "file",
+      "sha256": "591580c5b2da856588e98b27e3e3080aa7c1f83dcc42749558b6daa0b58cafe5",
+      "bytes": 2678,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/parameters.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/parameters.json",
+      "kind": "file",
+      "sha256": "dd55f7e180517274aacb6ed96bf09b8d7b36f86c8933a6610a567f0c263b245c",
+      "bytes": 782,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/pcb_input.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/pcb_input.json",
+      "kind": "file",
+      "sha256": "e4ac25d7a3919de729642c5750634a1da83a568eb2a6db46817cb9a658f65c64",
+      "bytes": 52855,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/component_placements.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/component_placements.json",
+      "kind": "file",
+      "sha256": "b879d75e6c1fb5278a5033d21f5932fa93a523d4178274d86ca91de9ee717c35",
+      "bytes": 38349,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/mesh_validation.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/mesh_validation.json",
+      "kind": "file",
+      "sha256": "06041490fec33514e310b9b3957e3457017c1fb600ff735c7df0ff1632f4b8c5",
+      "bytes": 3161,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/Spirit_V03_V074H_review.blend",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/Spirit_V03_V074H_review.blend",
+      "kind": "file",
+      "sha256": "666f4b4393f610b76f91d46c245f8956838f4e5a5bf592991ef8a834896215e4",
+      "bytes": 6184750,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/verification/geometry.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/verification/geometry.json",
+      "kind": "file",
+      "sha256": "e36e68a10491f07af06df53fc11e735e179d8f1e84c46e27b8c29be4cd3d5d0c",
+      "bytes": 1843,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/verification/STL_独立检查.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/verification/STL_独立检查.json",
+      "kind": "file",
+      "sha256": "8577abd0654201f432e407afa92d744e62de6427e2455ea213c4a6bf4d7f7c36",
+      "bytes": 5543,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/器灵_机械V03_STL与预览.zip",
+      "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/器灵_机械V03_STL与预览.zip",
+      "kind": "file",
+      "sha256": "aff7e43df744456670f7edd2d583498ff3d9cb370f6c090c721aeaacde927a4c",
+      "bytes": 13322665,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+      "kind": "file",
+      "sha256": "c53363ef92093e6ef52fffcf78d547ce331d9fa83d5b5b7e954c9bd268293e07",
+      "bytes": 1952055,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+      "kind": "file",
+      "sha256": "ddd2053c9af840e43a87afc1b48c0744430182e9e9b3eb698719e0f487c10555",
+      "bytes": 3699266,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+      "kind": "file",
+      "sha256": "4f4e758842ffe5ac25efe2e85380be8a04023fcd115b89fdf2e5772b69b34b39",
+      "bytes": 2766865,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/Spirit_V03_exploded_explanation.blend",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/Spirit_V03_exploded_explanation.blend",
+      "kind": "file",
+      "sha256": "cf7d54ae6bb9bf2963ae36ac8f3e60d31a8661fc4948b15db4c70f877893e376",
+      "bytes": 6185071,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/00_爆炸图阅读说明.txt",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/00_爆炸图阅读说明.txt",
+      "kind": "file",
+      "sha256": "a81d7e83bee0f11ca686f7f3e002c42f28cc90851653fa8d180f5902a786ddf7",
+      "bytes": 2096,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/render_exploded.py",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/render_exploded.py",
+      "kind": "file",
+      "sha256": "bb207d2c0eea7510f7b27364933d45a54e8fc44bc764004f342cf0f9d5111af5",
+      "bytes": 3864,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/compose_diagram.py",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/compose_diagram.py",
+      "kind": "file",
+      "sha256": "2f2e091c1953f225cbd4bd4d851df1a582255c7252ee0c0fbc6bf6a9ccd848ee",
+      "bytes": 4572,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/anchors.json",
+      "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/anchors.json",
+      "kind": "file",
+      "sha256": "a458644a6f8d2edc9789c362b004892a87186078a133832effb5dfe92327de47",
+      "bytes": 1031,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/00_接口调整与线束说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/00_接口调整与线束说明.txt",
+      "kind": "file",
+      "sha256": "5627f8646f33fde96ec4098725eb5f589077350172a9858b35980476dcee52ce",
+      "bytes": 3150,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V074I_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V074I_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "1f2a6dbad8092fc8a083e73f9f3864b41d96605a0a30a86fd544801c1e4489aa",
+      "bytes": 1351579,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+      "kind": "file",
+      "sha256": "a378e45414e3eb09a74fbd284f68118c6e1fd0f2f2fe3099857e2129f3e5db3e",
+      "bytes": 252082,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.svg",
+      "kind": "file",
+      "sha256": "5a93173cf0fca9ec7b6e208021ea883767e39d6769fdf7ea5056d8027855f880",
+      "bytes": 63509,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-1.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-1.png",
+      "kind": "file",
+      "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+      "bytes": 44602,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-2.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-2.png",
+      "kind": "file",
+      "sha256": "655b0fb9fdb0129ae7f66453e159b779394563d83c654793131ef045fef33ff7",
+      "bytes": 63042,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/检查结果.json",
+      "kind": "file",
+      "sha256": "130d5fed84a4764ecfecd88000a5a0c00907fca8da8d03a5a1328dd7fbbb7fa0",
+      "bytes": 3065,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/嘉立创保存回执.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/嘉立创保存回执.json",
+      "kind": "file",
+      "sha256": "1313f1cdee25b80d3f0cbbe05a8185026de8c303ca03826ffefba2e1cfdc5cd4",
+      "bytes": 234,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V074I_PCB原生源文件.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V074I_PCB原生源文件.txt",
+      "kind": "file",
+      "sha256": "24756ae09de55783febea55e86774962982cbab9f5c312afc7de912dcd7c3864",
+      "bytes": 466292,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生回读.json",
+      "kind": "file",
+      "sha256": "e06be8a30ad4f9eff41f124b513c8261a1583d16bf8c03b3a372d0f2cd12e728",
+      "bytes": 1958718,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/最终封装与焊盘.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/最终封装与焊盘.json",
+      "kind": "file",
+      "sha256": "75c6577da6357dfe6a2ad14eb232476f5c48ac7d88ef6ace4f312ca6058f2393",
+      "bytes": 664547,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/布局坐标.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/布局坐标.json",
+      "kind": "file",
+      "sha256": "a5c927bbeeae1b36ab2b2033cc639adf71dbf7ed667b8f6c82ae888e117ee814",
+      "bytes": 14944,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/丝印坐标.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/丝印坐标.json",
+      "kind": "file",
+      "sha256": "dcd63d525b5f37cc641ff5f538cf28e63cf2d6c1be46f05e61da2b3556c7813f",
+      "bytes": 49503,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V03_V074I_connector_review.blend",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/Spirit_V03_V074I_connector_review.blend",
+      "kind": "file",
+      "sha256": "c86a45fb3211a30d3265acc0ba309cb17f49c1e0ba28b2a7b7fb48a2ead6a1ae",
+      "bytes": 6190757,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/mechanical_check.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/mechanical_check.json",
+      "kind": "file",
+      "sha256": "609aede7b673f9f0c0bc937e753dbdabccc5b909afdb34676b50699e143e8358",
+      "bytes": 682,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/修改前_V074H.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/修改前_V074H.epro2",
+      "kind": "file",
+      "sha256": "9920094acab77e2743a7cf19fd0d704292188fbf25df7d80f6adb407ef94fa7c",
+      "bytes": 1347564,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/00_布局调整与结构配套说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/00_布局调整与结构配套说明.txt",
+      "kind": "file",
+      "sha256": "bebe4825bca0d9b8a90662c026fd4517259714f5bf279c75095cec37d7c516f2",
+      "bytes": 4088,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/Spirit_V074J_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/Spirit_V074J_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "9dda071dd4cba56299fb9f699e54e43917e49c7938f265eb7900a95704a31eaa",
+      "bytes": 1355157,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+      "kind": "file",
+      "sha256": "e910548993fa8d86294b452a6569aa1deafe95eb0781c8c95d4bf97c3d99764c",
+      "bytes": 273119,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.svg",
+      "kind": "file",
+      "sha256": "5a84fbab492d4e37796d70f6d5d4201992eea645b13389061848cc4882cba1db",
+      "bytes": 101433,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+      "kind": "file",
+      "sha256": "b54d1e5381269cfa661778e7a740844bc229993cdb85f7f602ef573fbc15cf5a",
+      "bytes": 206461,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.svg",
+      "kind": "file",
+      "sha256": "88e128ee250b9cf9ce83ecc8050fa3f1d508d5b08ed1446dc0dae9c9a6d07421",
+      "bytes": 58840,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+      "kind": "file",
+      "sha256": "dac986d5668adf4269aebf8ebc662693d04385e05d6a116ce81abc04f8dbb08b",
+      "bytes": 202744,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.svg",
+      "kind": "file",
+      "sha256": "a8f79421876ed81bd49edaf9bcb82ac15ee0f9412c049506d0f9ce2eebf563fd",
+      "bytes": 59689,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创原生工程预览.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创原生工程预览.png",
+      "kind": "file",
+      "sha256": "e5c13f8c770372b51cadaf974ed1ff7cb53200a07014b0edf284019929029f77",
+      "bytes": 963715,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/检查结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/检查结果.json",
+      "kind": "file",
+      "sha256": "8eabdc98a17021d0ae251d707c2a7e4b054430ceceda732583a7b05661007e1f",
+      "bytes": 4712,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创保存回执.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创保存回执.json",
+      "kind": "file",
+      "sha256": "21d2c7d8e7872f6510328f180144398ab7ae9899f5984e832805122c72ef4187",
+      "bytes": 294,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/Spirit_V074J_PCB原生源文件.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/Spirit_V074J_PCB原生源文件.txt",
+      "kind": "file",
+      "sha256": "00b8c9de07b5bd07cbcbb0ab4df1d63ba69797d5b1959eee5a51dad6e45503cd",
+      "bytes": 469541,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/原生回读.json",
+      "kind": "file",
+      "sha256": "47a117f7617e15427399e53add508924e5740887c7f6559e12214de0ef0efde8",
+      "bytes": 2025196,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/最终封装与焊盘.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/最终封装与焊盘.json",
+      "kind": "file",
+      "sha256": "5713b89bae682c456c7f372b110b1b6fbbae7bc1b3c0cfdc83ff94802a2123c8",
+      "bytes": 669742,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局坐标.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局坐标.json",
+      "kind": "file",
+      "sha256": "32299a300e17842f4eb83be8f030b1b71c858b666cfd295ba5626b234d4c4907",
+      "bytes": 15511,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/丝印坐标.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/丝印坐标.json",
+      "kind": "file",
+      "sha256": "4e0315abc4aa2f5fce1c228af67c724f8e2b7714e2a81ec599bbdff95c8b40d4",
+      "bytes": 49190,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/修改前_V074I.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/修改前_V074I.epro2",
+      "kind": "file",
+      "sha256": "295eb98d20d2ec91f5ca8f64e05477f4464257040edcc900086876454d56c095",
+      "bytes": 1351618,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/机械分件变更.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/机械分件变更.json",
+      "kind": "file",
+      "sha256": "849107dc0e588e793da72f17d3aeca029870f1ccdd7c4444d0002c03e8da95db",
+      "bytes": 803,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/Spirit_V03R1_V074J_review.blend",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/Spirit_V03R1_V074J_review.blend",
+      "kind": "file",
+      "sha256": "ea8b307eb9e2238abcbadd7b825aa5af7edade511fd497a6929e3ef3c1591894",
+      "bytes": 6189542,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/P02_rear_shell.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/P02_rear_shell.stl",
+      "kind": "file",
+      "sha256": "cb5340226245dd317f6a6717020623c2dec86f697cd979ada49b3f2f998cd0dd",
+      "bytes": 980384,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/P03_PCB_four_hole_carrier.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/P03_PCB_four_hole_carrier.stl",
+      "kind": "file",
+      "sha256": "b785f5ea703004110eeefb134509dc0fca64c17159a252e38d7fbd869fbfd3aa",
+      "bytes": 412384,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/几何相交检查.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/几何相交检查.json",
+      "kind": "file",
+      "sha256": "d75b4057ed8bf39fe0c5579e87d39f25b9df9d518f7ea2461ca073afd7abad1f",
+      "bytes": 1843,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/网格检查.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/网格检查.json",
+      "kind": "file",
+      "sha256": "23a9b94be1d1888179f27b2e33d8308a63cf68a75575151f00b408d7def5ac0c",
+      "bytes": 3161,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/PCB装配坐标.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/结构配套_V03R1/PCB装配坐标.json",
+      "kind": "file",
+      "sha256": "bce3c16a7aba7f1ec9eff0f6ebabce27f743dbf7c808c2c5a23d8d42fc895872",
+      "bytes": 53284,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/00_复核结论.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/00_复核结论.txt",
+      "kind": "file",
+      "sha256": "a3205c2347d5141989bf9f78904bfc94a1f2704fcdabc5d319fb97497c8e94fb",
+      "bytes": 2503,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/完整复核报告.html",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/完整复核报告.html",
+      "kind": "file",
+      "sha256": "7df295bf903e9b05e6718eb7231a494b1999f675c90b3cba9d43549a550c5930",
+      "bytes": 89774,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+      "kind": "file",
+      "sha256": "8d38282f3c182b26aed85067ee24b487a64d857cb419fd37449b116959f8cc5b",
+      "bytes": 273119,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+      "kind": "file",
+      "sha256": "31ab13ef15e0dcd09e4e6e7dad534998128a10c0acecc4f5d7c514eeca368100",
+      "bytes": 100837,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/118件逐元件复核.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/118件逐元件复核.json",
+      "kind": "file",
+      "sha256": "b5f9c1669d37fa39d904064778da1c0fbcb748c805d630b02755c8d9c0f7e9b4",
+      "bytes": 88937,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/复核数据.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/复核数据.json",
+      "kind": "file",
+      "sha256": "cb74e6f56bdc4be867772cf4ec2c70533de087df270cb6cd97867a098f306be2",
+      "bytes": 640490,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/补充机械检查.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/补充机械检查.json",
+      "kind": "file",
+      "sha256": "dca8bb0ab57d5f42148aae03702809dbea3ef7bdc320b2222718775ca4c6f774",
+      "bytes": 1611,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/说明文字更正记录.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/说明文字更正记录.json",
+      "kind": "file",
+      "sha256": "99418c1be89882c690b9d97c39f9ac211d14e1c4a862fd0c8c2a7c6ee461de8b",
+      "bytes": 3722,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/更正前后验证.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/更正前后验证.json",
+      "kind": "file",
+      "sha256": "773e4aee655c72afc83a721f33e659c2761b874a42005ddd1b116d944924d6af",
+      "bytes": 1187,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/嘉立创保存与导出回执.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/嘉立创保存与导出回执.json",
+      "kind": "file",
+      "sha256": "cc9bd3c80e692f42f5e0171eb3945f36753430fe001f626ad4fa5935d19e83bc",
+      "bytes": 404,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_AUDIT_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_AUDIT_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "b373a1e7469ee279a9fe6d000ab5677e7d83432ee40ea428a5fbca9456a26599",
+      "bytes": 1354626,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_PCB原生源文件.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_PCB原生源文件.txt",
+      "kind": "file",
+      "sha256": "047ed227a6921a4a3ac1c13e08b9d8d7867920e313b78766041516e94c3a8829",
+      "bytes": 469540,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/原生回读_更正后.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/原生回读_更正后.json",
+      "kind": "file",
+      "sha256": "2d9b2713f811da0f22c6ed5d98d498f095cff1c54d145f854e62f0e57bd56991",
+      "bytes": 4744574,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/native-before.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/native-before.epro2",
+      "kind": "file",
+      "sha256": "d76bcaf7e4094215fdf8016a5cfaeaa355c3ce62cd831d8bdc890e28dbe03884",
+      "bytes": 1355157,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bmi270.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bmi270.pdf",
+      "kind": "file",
+      "sha256": "f68ce3c74f011a80bbe4b0279c4abe9609a71a5dcda75a951381d77112e005fb",
+      "bytes": 2636042,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bq24075.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bq24075.pdf",
+      "kind": "file",
+      "sha256": "4fe4e4f9855501f83b400c6932e3098439e51c50539e40dc45b44a8d509e8db1",
+      "bytes": 3739103,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/drv2605l.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/drv2605l.pdf",
+      "kind": "file",
+      "sha256": "0597de48de2dd1d08d3d2a801ced819c1c756f152916367608b9146c927bb290",
+      "bytes": 2642481,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/esp32s3-wroom.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/esp32s3-wroom.pdf",
+      "kind": "file",
+      "sha256": "27d71971da07c280c6068d08c74720d1a25b8f20cf8494dc1765bdd28d40d435",
+      "bytes": 1280501,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/lmd3526.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/lmd3526.pdf",
+      "kind": "file",
+      "sha256": "c2bc1eef0918b6330b30e65514e2ef22b7cef8511ed7b7513ce1a63057c6cb06",
+      "bytes": 968671,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps61023.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps61023.pdf",
+      "kind": "file",
+      "sha256": "3f6657d081f5f92a542f2d1b2c9732c9d50438c9311cbea092c4d7d2863f0a00",
+      "bytes": 2392725,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps63802.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps63802.pdf",
+      "kind": "file",
+      "sha256": "be07deca1231c5493957bc64c2dc1cad5543bff330e49ae41caf3286fd80dca6",
+      "bytes": 2466159,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/sources.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/sources.json",
+      "kind": "file",
+      "sha256": "5d57e3a1408830ab83f2ab68075c4ab24c5803b0a8ee6a897821c8614c7ffd3c",
+      "bytes": 784,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/交付文件校验.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/交付文件校验.json",
+      "kind": "file",
+      "sha256": "075095a1f67d569736258291c5c5ad95255538f9bae81698a0834afd2d13f348",
+      "bytes": 3339,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/00_本轮结论.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/00_本轮结论.txt",
+      "kind": "file",
+      "sha256": "053a482e19eb876ec53821ffca9451438fc01c42d75393af802bbc3cb6f21787",
+      "bytes": 1549,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+      "kind": "file",
+      "sha256": "154445975ba4b309657cb7e03c9eb0249ea28decd84be030bda6a3861d3654d3",
+      "bytes": 3189884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/Spirit_V074K_Blade_Adapter_V01_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/Spirit_V074K_Blade_Adapter_V01_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "02e9beb6e5fddb723dd542ddbe0c602e7b7b2bef990b7e21c84fea1787a7b498",
+      "bytes": 1394329,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/Spirit_V03_V074K_review.blend",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/Spirit_V03_V074K_review.blend",
+      "kind": "file",
+      "sha256": "bf47c4e7c25ada670047f711bedca7a3ac63f2da493ac2ed9f6519278c379dbf",
+      "bytes": 6713505,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/build_v03.py",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/build_v03.py",
+      "kind": "file",
+      "sha256": "cb35d0629e1326afc5b4f796089285d754feac7ec6835b11d0918c026b4b73e5",
+      "bytes": 25553,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/component_placements.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/component_placements.json",
+      "kind": "file",
+      "sha256": "7c2067f6429dd19ae1ab9c32b2f73e3a53c6cad701740e2eab1eba65b8d75b28",
+      "bytes": 48421,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/helpers_fragment.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/helpers_fragment.txt",
+      "kind": "file",
+      "sha256": "6dcbe4824a03069ff08f4a6fb4c81f790c8501c29489f2ca11d91ad034dca1b7",
+      "bytes": 2587,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/mesh_validation.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/mesh_validation.json",
+      "kind": "file",
+      "sha256": "dbc0a024fa0d34d7aa82ff7a3a4c3ba6eeb70c24f547e42308cc3e74dacf0d3e",
+      "bytes": 3370,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/parameters.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/parameters.json",
+      "kind": "file",
+      "sha256": "874ebb8a589f2e8c2144d4b37b30aed017af6d9fd377ead26ea6d0d7ae1c1f81",
+      "bytes": 887,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/pcb_input.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/pcb_input.json",
+      "kind": "file",
+      "sha256": "d9bef29233ab7c030844d480226549ad690f96285489401655ce37ddd0a07597",
+      "bytes": 57106,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/render_review.py",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/render_review.py",
+      "kind": "file",
+      "sha256": "573e055a6054576e032fdd284d17dc8ffba995906dfc949964f5211a4d69f965",
+      "bytes": 1385,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P01_front_shell.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P01_front_shell.stl",
+      "kind": "file",
+      "sha256": "df228bb3fef22594913b86d1f28010fcf36f241bdf85492a9c76f4e325497213",
+      "bytes": 746284,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P02_rear_shell.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P02_rear_shell.stl",
+      "kind": "file",
+      "sha256": "ea97ddeedc68297a4d00c2b95b5d26b3ede301cd99e4866281239eb59c163142",
+      "bytes": 980684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P03_PCB_four_hole_carrier.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P03_PCB_four_hole_carrier.stl",
+      "kind": "file",
+      "sha256": "b785f5ea703004110eeefb134509dc0fca64c17159a252e38d7fbd869fbfd3aa",
+      "bytes": 412384,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P04_replaceable_screen_bezel.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P04_replaceable_screen_bezel.stl",
+      "kind": "file",
+      "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963",
+      "bytes": 118784,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P05_screen_rear_retainer.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P05_screen_rear_retainer.stl",
+      "kind": "file",
+      "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1",
+      "bytes": 76884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P06_power_plunger.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P06_power_plunger.stl",
+      "kind": "file",
+      "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413",
+      "bytes": 76684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P07_battery_cradle.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P07_battery_cradle.stl",
+      "kind": "file",
+      "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442",
+      "bytes": 115484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P08_side_speaker_chamber.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P08_side_speaker_chamber.stl",
+      "kind": "file",
+      "sha256": "c7c445c4ba15833943f4eca58167cf2683996a87c0656ee3df7f38aadcbd6e8c",
+      "bytes": 190084,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P09_side_speaker_grille.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P09_side_speaker_grille.stl",
+      "kind": "file",
+      "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca",
+      "bytes": 111084,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P10_rear_NFC_holder.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P10_rear_NFC_holder.stl",
+      "kind": "file",
+      "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74",
+      "bytes": 87484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P11_keyed_top_dust_cap.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P11_keyed_top_dust_cap.stl",
+      "kind": "file",
+      "sha256": "4fea5e6a3ec5f5474a26d858bc77b6d7bd3ab864ea02d988683fdc648602b248",
+      "bytes": 84,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P12_LRA_retaining_bridge.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P12_LRA_retaining_bridge.stl",
+      "kind": "file",
+      "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7",
+      "bytes": 58884,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P13_MIC_side_duct.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P13_MIC_side_duct.stl",
+      "kind": "file",
+      "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2",
+      "bytes": 82684,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P14_fit_coupon.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P14_fit_coupon.stl",
+      "kind": "file",
+      "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0",
+      "bytes": 81184,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P15_adapter_alignment_carrier.stl",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/stl/P15_adapter_alignment_carrier.stl",
+      "kind": "file",
+      "sha256": "77d023a6c5e01eef63b5982dc2e0f02dd2c33d798ef0e7355cb47fd2c57331e1",
+      "bytes": 133484,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/verify_v03.py",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/mechanical/verify_v03.py",
+      "kind": "file",
+      "sha256": "6113890cef55ae12f55051f432b0c8bbb159f8079d17cb13e3d8e2a2b51dfba6",
+      "bytes": 3193,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/对接触点与适配板.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/对接触点与适配板.png",
+      "kind": "file",
+      "sha256": "ecd20205d1e4d8324d1a79a5a0d700b30a58d16a59b4356a9b8a18eea166ce21",
+      "bytes": 1513027,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/整机与配件定位壳.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/整机与配件定位壳.png",
+      "kind": "file",
+      "sha256": "463646cf8e6987993fba489620a221c64aaad82db52d59286dda42a141536233",
+      "bytes": 1485586,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/适配板与定位壳分解.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/适配板与定位壳分解.png",
+      "kind": "file",
+      "sha256": "7c4ec1bccd4a52e351a3012c6746930dffa2522cb710f84f7a0c68db6f3ed75a",
+      "bytes": 1244899,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/verification/geometry.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/verification/geometry.json",
+      "kind": "file",
+      "sha256": "42e10d6c970295f258e92957589fca790ec6ac583d1ef225b8e5748b6889df6b",
+      "bytes": 1877,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板修正与剑身适配板报告.html",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板修正与剑身适配板报告.html",
+      "kind": "file",
+      "sha256": "fc33ec8504f2bdc5063a8639a08246693b4989ed49b1c7264dc812627efeff4b",
+      "bytes": 36667,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板原生回读.json",
+      "kind": "file",
+      "sha256": "8ca2f7c26283e434624743f808aee624b15ca82b9757ffb9a0e2c0b7082fb1cc",
+      "bytes": 5850897,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+      "kind": "file",
+      "sha256": "b4c1f78c7ff55c41f0a453d7a646f66311b2c6d2627e96021071cb90aba0b655",
+      "bytes": 202656,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.svg",
+      "kind": "file",
+      "sha256": "1dc27e1f81dc84c425f8f24d8f697427f33e20f215df21f5adc2c5bc1b383261",
+      "bytes": 58255,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+      "kind": "file",
+      "sha256": "7027cf93995dd4a4cd720edcb5bc299fa78d0ec59dc616b81ef34849c6fb3b6a",
+      "bytes": 219632,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.svg",
+      "kind": "file",
+      "sha256": "304d7c15366b8b51bdc1f105f8c77977b55c8127e31c5b6b0a3b2b08bec693ae",
+      "bytes": 70678,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/修改前_V074J原生备份.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/修改前_V074J原生备份.epro2",
+      "kind": "file",
+      "sha256": "d9264ca853eb490d1ff7d19cb60163b675252b4404fc0f7472a4ba315413b264",
+      "bytes": 1354625,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/元件与采购索引.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/元件与采购索引.json",
+      "kind": "file",
+      "sha256": "2ee88a39ef92f8c26efcaea5deff547643e8733f7df88b83fa7ee7dcd636e22b",
+      "bytes": 45988,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/原生工程导出一致性.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/原生工程导出一致性.json",
+      "kind": "file",
+      "sha256": "6491b96818dea3f3142a5db2e4d2c2736d81dc302fb761d55583a0aefe652a05",
+      "bytes": 2691,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/导出旧铺铜缓存清理记录.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/导出旧铺铜缓存清理记录.json",
+      "kind": "file",
+      "sha256": "4b44681904282bf6b478bc6bcc880629de1676741bc2059ace51b82af4834d02",
+      "bytes": 1347,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板原生回读.json",
+      "kind": "file",
+      "sha256": "015f3198743495ca2307e126bcab9887ea5ae0b49d377261b295955f925637d9",
+      "bytes": 1020676,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+      "kind": "file",
+      "sha256": "a7408754eed07dda46ae535ee6ae05ae9d89e4b48fc74b0aa72082a2cbbd0e11",
+      "bytes": 110921,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.svg",
+      "kind": "file",
+      "sha256": "00b9f2b82510fff06abca4e69208af0f02185e065147c9f1a2b544e57fd34a07",
+      "bytes": 16647,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+      "kind": "file",
+      "sha256": "a99cb48c245e51a2d54933453c8dad64c5b5fcfdac2adad7962dcf4a0b77c682",
+      "bytes": 97754,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.svg",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.svg",
+      "kind": "file",
+      "sha256": "c90f8802fc1f15f3a4b7bf79dba26957d9a9e36e676deb79de20dc0c9c9153cb",
+      "bytes": 5400,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/配件接口协议_V01.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/配件接口协议_V01.txt",
+      "kind": "file",
+      "sha256": "2c141f50db55e5016b3d1ee30dea3c49ef61f3e0b946f68c074c5080f8b14c6f",
+      "bytes": 5855,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/验证结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/验证结果.json",
+      "kind": "file",
+      "sha256": "d3eedbdd07427d3025b2fc7f111eb575e83b74773240300ec12d80922aef93c4",
+      "bytes": 4775,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/交付文件校验.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/交付文件校验.json",
+      "kind": "file",
+      "sha256": "a3432720b8e0e8dd2399042c0a7115261142aee59a13a52d87f5f622f33e96f9",
+      "bytes": 7620,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/00_采购候选与未完成项.txt",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/00_采购候选与未完成项.txt",
+      "kind": "file",
+      "sha256": "97017efdd7e8bf7b44c6f5390442d38d9428e59b08518c3ffb7f71a22871998e",
+      "bytes": 1717,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/现货价格与验证边界.json",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/现货价格与验证边界.json",
+      "kind": "file",
+      "sha256": "d6856ae149339fd261ab12ecd385112100f8eab00168269263f367d056f465b4",
+      "bytes": 1593,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/23E316050.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/23E316050.pdf",
+      "kind": "file",
+      "sha256": "204e9026df00ad7ea85e48da4eb8e0c041cb4f89ecf0e4da9a85a4889bc8b0ab",
+      "bytes": 508904,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/23E416050.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/23E416050.pdf",
+      "kind": "file",
+      "sha256": "b8021dc2b8b03882c5866cf77c946bb052591d0c8596b0300f1505643fe21929",
+      "bytes": 509796,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/00_SAMZO核实结论.txt",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/00_SAMZO核实结论.txt",
+      "kind": "file",
+      "sha256": "6cb21e6b85825e22023042724f77333cd9cb42a119ca6b42a6749c6f8273fece",
+      "bytes": 5270,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E3-TZ.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E3-TZ.pdf",
+      "kind": "file",
+      "sha256": "204e9026df00ad7ea85e48da4eb8e0c041cb4f89ecf0e4da9a85a4889bc8b0ab",
+      "bytes": 508904,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E4-TZ.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E4-TZ.pdf",
+      "kind": "file",
+      "sha256": "b8021dc2b8b03882c5866cf77c946bb052591d0c8596b0300f1505643fe21929",
+      "bytes": 509796,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E316050.STEP",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E316050.STEP",
+      "kind": "file",
+      "sha256": "ad732f231839a70ee8a8fa193c090e2729b493c5d2da49094c66edcedb6b6c00",
+      "bytes": 356156,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E416050.STEP",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E416050.STEP",
+      "kind": "file",
+      "sha256": "6a1a8fdeab4ae1af1395e6c72c9f612cb03c5a3760697ea2503d6fab2275973f",
+      "bytes": 829438,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/原生接口只读核对.json",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/原生接口只读核对.json",
+      "kind": "file",
+      "sha256": "65372b434ab217773427e21f7b715f0c6febc4e929d8a781b37f3cb8e0a4f2bb",
+      "bytes": 9339,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/商城封装只读核对.json",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/商城封装只读核对.json",
+      "kind": "file",
+      "sha256": "b8ffc7468f00046bc9ee7cb305a4b3bcc37bdd66ff9e563bc1e33787f03dd4e7",
+      "bytes": 79195,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/封装量化检查.json",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/封装量化检查.json",
+      "kind": "file",
+      "sha256": "96a46c9cdd1367eaad70fe1e518140a1003919335c415fc2288230b7edf380cc",
+      "bytes": 6292,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/00_水平六针候选核对.txt",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/00_水平六针候选核对.txt",
+      "kind": "file",
+      "sha256": "fd882ae78cb8a189348aa18b12fd8d6f4907b9ef34145aca28c1b11444c5373d",
+      "bytes": 4006,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/C32713227.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/C32713227.pdf",
+      "kind": "file",
+      "sha256": "a43f236d52253e00ae3bb7b866243f3c1faf4bad33eddef7508494707c11c836",
+      "bytes": 802323,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/C46061744.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/C46061744.pdf",
+      "kind": "file",
+      "sha256": "a1f5387cc84dcc320f011a726578ffd4848f7693e6da60cb5b6e1c9cca530be9",
+      "bytes": 258987,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/C50878455.pdf",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/C50878455.pdf",
+      "kind": "file",
+      "sha256": "fa154e213a7f95bc1b2eae982336bacc7a1d4f77bc67c143ac41957239e13742",
+      "bytes": 388509,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/library.json",
+      "archive": "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/library.json",
+      "kind": "file",
+      "sha256": "4ea33b91252c104a8f27b59437bbe25b8698a48795f61554908f9a9c96771c4b",
+      "bytes": 9045,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/00_打样接口确认说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/00_打样接口确认说明.txt",
+      "kind": "file",
+      "sha256": "6c9543e297c09f0417d5f18d2e01c9d6c200721d2e1b10678dd4cfbba86b99d5",
+      "bytes": 3761,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/布局复核.html",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/布局复核.html",
+      "kind": "file",
+      "sha256": "d5fb06574cb2c13f72821c32eacece8e51a1bd0e308634cd8338ef052b7de025",
+      "bytes": 151206,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/Spirit_V074L_Hanxia_Adapter_V02_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/Spirit_V074L_Hanxia_Adapter_V02_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "ea928d2a89d36d690d498cee7a0fbfebab6f7a2b672c6316e2a702979df40e18",
+      "bytes": 1604894,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/修改前_V074K.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/修改前_V074K.epro2",
+      "kind": "file",
+      "sha256": "ab68c4c7f9f8483bc1ac086c8d89dbe385cc6a4c81462dc3399ca7b8a9e01380",
+      "bytes": 1614837,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/原生回读.json",
+      "kind": "file",
+      "sha256": "0634d4a3b047e9c3b751a9ffba43ffba361fc848e32ee00408db862ad561c1ab",
+      "bytes": 7011658,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/验证结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/验证结果.json",
+      "kind": "file",
+      "sha256": "f8c2c45c7082c973c635bf60aee9e928b9a016c3a55a2806517e4455b8610a71",
+      "bytes": 3396,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/对插针序与用料.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/对插针序与用料.json",
+      "kind": "file",
+      "sha256": "0844701f51e0f33287dc7838afcaa7b954eb336227a15524a9e50a5c9a45323e",
+      "bytes": 1078,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/00_布局调整说明.txt",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/00_布局调整说明.txt",
+      "kind": "file",
+      "sha256": "54049d43f1559fb5fa6bd4cb509165115f20fea604a56b26b1fc1596c9e5e799",
+      "bytes": 2336,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/布局复核.html",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/布局复核.html",
+      "kind": "file",
+      "sha256": "39e2d5b962b2106befe920add12bba20183dd2b35fcee9482cc3fb671b385991",
+      "bytes": 326258,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/Spirit_V074M_U3_FRONT_NOT_ROUTED_20261024.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/Spirit_V074M_U3_FRONT_NOT_ROUTED_20261024.epro2",
+      "kind": "file",
+      "sha256": "38936d50ef6582dd215a6a52a6968431b4ec25a89b3254b2898b24b3ddcdef0e",
+      "bytes": 1604203,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/修改前_V074L.epro2",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/修改前_V074L.epro2",
+      "kind": "file",
+      "sha256": "7f76147d4bb480beaef193b8c797cf5b0baa35b626184893395bcf94fc3add8a",
+      "bytes": 1604895,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/原生回读.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/原生回读.json",
+      "kind": "file",
+      "sha256": "347be42f44819b98c4fa4df3605ecdb12177ffef43583f3a7e6ba757596128d3",
+      "bytes": 7012951,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/验证结果.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/验证结果.json",
+      "kind": "file",
+      "sha256": "c35eec7e648e5dd94de45cc9fb5003e208759a0d3d6336a0331ad3a7c97f9270",
+      "bytes": 2625,
+      "mode": 420,
+      "group": "指定目录原件"
+    },
+    {
+      "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/调整坐标与丝印.json",
+      "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/调整坐标与丝印.json",
+      "kind": "file",
+      "sha256": "3c7b9ed01ff7cc43766d335cec013e484cb4e8b64b8b557d0c4cc507d7abdd81",
+      "bytes": 6462,
+      "mode": 420,
+      "group": "指定目录原件"
     }
   ],
   "excluded": [
@@ -9088,5 +11473,6 @@
   "empty_directories": [
     "80_完整资料/已整理资料/PCB/Spirit_JLC_20261018"
   ],
-  "last_inventory_time": "2026-10-21T21:02:30+08:00"
+  "last_inventory_time": "2026-10-21T21:02:30+08:00",
+  "latest_addition": "2026-10-24 V074M U3 front placement and battery routing space"
 }

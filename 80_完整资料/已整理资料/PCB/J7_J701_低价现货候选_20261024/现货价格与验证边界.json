@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-10-24",
+  "currency": "CNY",
+  "price_basis": "1个起购，网页含税单价，不含运费，库存会变化",
+  "parts": [
+    {
+      "mpn": "23E316050",
+      "brand": "SAMZO(三佐)",
+      "lcsc": "C42402978",
+      "unit_price": 3.26,
+      "stock": 620,
+      "price_10_plus": 2.61,
+      "mount": "立贴公座",
+      "pitch_mm": 2,
+      "pins": 6,
+      "listed_current_A": 2,
+      "url": "https://item.szlcsc.com/44364841.html"
+    },
+    {
+      "mpn": "23E416050",
+      "brand": "SAMZO(三佐)",
+      "lcsc": "C42402982",
+      "unit_price": 3.52,
+      "stock": 1053,
+      "price_10_plus": 2.84,
+      "mount": "卧贴母座",
+      "pitch_mm": 2,
+      "pins": 6,
+      "listed_current_A": 2,
+      "url": "https://item.szlcsc.com/44364845.html"
+    }
+  ],
+  "pair_price": 6.78,
+  "pair_price_10_plus": 5.45,
+  "status": "低价现货候选；未冻结选型，未替换原生PCB；图纸核对不等于实物插合及可靠性验证",
+  "mechanical": "公座立贴、母座卧贴；不能沿用旧同平面接口安装。需要调整剑身适配板或接口承载结构并验证针序、插合深度、导向、限位、锁止及干涉。",
+  "rejected_mixing": "26E416020虽为卧贴，不能仅凭2mm/6P与23E416050混用；未取得指定配套关系，未采纳。",
+  "existing_design": "V074K仍为Mill-Max旧封装、未布线；用户拒绝其约100.46元/对的成本，此型号不再作为采购推荐。",
+  "power_boundary": "连接器标称2A不能提高主板5V_ACC功率能力；现行首版灯带供电预算仍为400mA。"
+}

@@ -6734,5 +6734,951 @@
     "id": "I234",
     "thumbnail_width": 240,
     "thumbnail_height": 240
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+    "sha256": "2aabfa405529345f6b8d801b9b0f6c7b83bff9c99e52b47171e33a34f4524289",
+    "title": "器灵 V074 布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+        "sha256": "2aabfa405529345f6b8d801b9b0f6c7b83bff9c99e52b47171e33a34f4524289",
+        "title": "器灵 V074 布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/Spirit_V074_布局确认.png",
+    "id": "I235",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+    "sha256": "3dc33b22ed6abc3f8cad6793a7cd179d9c759ea78494d76378b0ea124a9d8154",
+    "title": "器灵 V074B 背面NFC布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4B",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+        "sha256": "3dc33b22ed6abc3f8cad6793a7cd179d9c759ea78494d76378b0ea124a9d8154",
+        "title": "器灵 V074B 背面NFC布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4B",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+    "id": "I236",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB精简布局确认.png",
+    "sha256": "928005cf40653e590b9af75d9a0ca40a377b04dfdcd4e21c6516fe3bb5ad5512",
+    "title": "器灵V074C USB精简布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4C",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB精简布局确认.png",
+        "sha256": "928005cf40653e590b9af75d9a0ca40a377b04dfdcd4e21c6516fe3bb5ad5512",
+        "title": "器灵V074C USB精简布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4C",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Spirit_V074C_USB精简布局确认.png",
+    "id": "I237",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Usaki_USB_BQ24075_用户参考.png",
+    "sha256": "3fdec8be47c7e79d66af452a9e12d22c5c0be4a9b4a77f47c01ee955da692cbf",
+    "title": "用户提供的Usaki USB-C/BQ24075参考原图",
+    "category": "PCB与原理图",
+    "version": "用户历史参考",
+    "kind": "用户提供的电路参考",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Usaki_USB_BQ24075_用户参考.png",
+        "sha256": "3fdec8be47c7e79d66af452a9e12d22c5c0be4a9b4a77f47c01ee955da692cbf",
+        "title": "用户提供的Usaki USB-C/BQ24075参考原图",
+        "category": "PCB与原理图",
+        "version": "用户历史参考",
+        "kind": "用户提供的电路参考"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/Usaki_USB_BQ24075_用户参考.png",
+    "id": "I238",
+    "thumbnail_width": 2192,
+    "thumbnail_height": 516
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+    "sha256": "87e305e05c0828573048ed7b60ccda478e0c2062a677da3fb3061c34c065a638",
+    "title": "器灵V074D长按电源键布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4D",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+        "sha256": "87e305e05c0828573048ed7b60ccda478e0c2062a677da3fb3061c34c065a638",
+        "title": "器灵V074D长按电源键布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4D",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/Spirit_V074D_长按电源键布局确认.png",
+    "id": "I239",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+    "sha256": "c586716634f858dd82ebada2a8545297ebc895fe2e640e586da5d6e51914abea",
+    "title": "器灵V074E GPIO精简布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4E",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+        "sha256": "c586716634f858dd82ebada2a8545297ebc895fe2e640e586da5d6e51914abea",
+        "title": "器灵V074E GPIO精简布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4E",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+    "id": "I240",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+    "sha256": "588a8ca130d32319bb5920b491e08e0c9ef21bd358b287d93a7da7948a772409",
+    "title": "器灵V074F串口保留布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4F",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+        "sha256": "588a8ca130d32319bb5920b491e08e0c9ef21bd358b287d93a7da7948a772409",
+        "title": "器灵V074F串口保留布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4F",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+    "id": "I241",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+    "sha256": "6311b5c90a7e7d0fbde0fa16f91e9bd801d7fe6bd981b562ed060cd909bba6bb",
+    "title": "器灵V074G缩板与FPC避让布局确认（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4G",
+    "kind": "工程布局预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+        "sha256": "6311b5c90a7e7d0fbde0fa16f91e9bd801d7fe6bd981b562ed060cd909bba6bb",
+        "title": "器灵V074G缩板与FPC避让布局确认（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4G",
+        "kind": "工程布局预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/Spirit_V074G_缩板与FPC避让布局确认.png",
+    "id": "I242",
+    "thumbnail_width": 2200,
+    "thumbnail_height": 2760
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+    "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+    "title": "Spirit_V074H_原生装配图-1（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4H",
+    "kind": "嘉立创原生检查图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+        "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+        "title": "Spirit_V074H_原生装配图-1（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4H",
+        "kind": "嘉立创原生检查图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+    "id": "I243",
+    "thumbnail_width": 1010,
+    "thumbnail_height": 1800
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+    "sha256": "2159349c51612929efe63b8f03cc03b9140ea99eacf7f77440a0d5cdaff50646",
+    "title": "Spirit_V074H_原生装配图-2（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4H",
+    "kind": "嘉立创原生检查图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+        "sha256": "2159349c51612929efe63b8f03cc03b9140ea99eacf7f77440a0d5cdaff50646",
+        "title": "Spirit_V074H_原生装配图-2（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4H",
+        "kind": "嘉立创原生检查图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+    "id": "I244",
+    "thumbnail_width": 1010,
+    "thumbnail_height": 1800
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+    "sha256": "78220886d824466d6c62e0c76d7cc4417919c470d9d00c3d73ffbff0b2be766d",
+    "title": "Spirit_V074H_原生画布（未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4H",
+    "kind": "嘉立创原生检查图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+        "sha256": "78220886d824466d6c62e0c76d7cc4417919c470d9d00c3d73ffbff0b2be766d",
+        "title": "Spirit_V074H_原生画布（未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4H",
+        "kind": "嘉立创原生检查图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+    "id": "I245",
+    "thumbnail_width": 1920,
+    "thumbnail_height": 1360
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+    "sha256": "35d923959bd51ee98c5349bfa78543d9b59b4167efd043f1811807920be6e785",
+    "title": "01_front（机械V0.3评审，占位件未实测）",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "Blender原生几何渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+        "sha256": "35d923959bd51ee98c5349bfa78543d9b59b4167efd043f1811807920be6e785",
+        "title": "01_front（机械V0.3评审，占位件未实测）",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "Blender原生几何渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+    "id": "I246",
+    "thumbnail_width": 1200,
+    "thumbnail_height": 1600
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+    "sha256": "a1d7b809c1ef07f0ef93a0282d9cb6dd9850062ca7173f013281f7bdd1c265b7",
+    "title": "02_rear（机械V0.3评审，占位件未实测）",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "Blender原生几何渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+        "sha256": "a1d7b809c1ef07f0ef93a0282d9cb6dd9850062ca7173f013281f7bdd1c265b7",
+        "title": "02_rear（机械V0.3评审，占位件未实测）",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "Blender原生几何渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+    "id": "I247",
+    "thumbnail_width": 1200,
+    "thumbnail_height": 1600
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+    "sha256": "77c479b63ce695772f156f759ca984da36a751dee5892c2fa2716a9815e5bcec",
+    "title": "03_exploded（机械V0.3评审，占位件未实测）",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "Blender原生几何渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+        "sha256": "77c479b63ce695772f156f759ca984da36a751dee5892c2fa2716a9815e5bcec",
+        "title": "03_exploded（机械V0.3评审，占位件未实测）",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "Blender原生几何渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+    "id": "I248",
+    "thumbnail_width": 1800,
+    "thumbnail_height": 1500
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+    "sha256": "f37f2314c0b9eb502ffd9e5f7552b98ce99c4bf277aa29b24577258855cf0f9b",
+    "title": "04_internal（机械V0.3评审，占位件未实测）",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "Blender原生几何渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+        "sha256": "f37f2314c0b9eb502ffd9e5f7552b98ce99c4bf277aa29b24577258855cf0f9b",
+        "title": "04_internal（机械V0.3评审，占位件未实测）",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "Blender原生几何渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+    "id": "I249",
+    "thumbnail_width": 1200,
+    "thumbnail_height": 1600
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+    "sha256": "064b3d17167c07151d9a07b5353fa6cc66a3bb4053ca86e4acaf5e75a7eb69cd",
+    "title": "05_head_ports（机械V0.3评审，占位件未实测）",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "Blender原生几何渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+        "sha256": "064b3d17167c07151d9a07b5353fa6cc66a3bb4053ca86e4acaf5e75a7eb69cd",
+        "title": "05_head_ports（机械V0.3评审，占位件未实测）",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "Blender原生几何渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+    "id": "I250",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 1200
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+    "sha256": "c53363ef92093e6ef52fffcf78d547ce331d9fa83d5b5b7e954c9bd268293e07",
+    "title": "器灵_V03_中文爆炸图",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "原生模型爆炸图说明，未修改零件几何",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+        "sha256": "c53363ef92093e6ef52fffcf78d547ce331d9fa83d5b5b7e954c9bd268293e07",
+        "title": "器灵_V03_中文爆炸图",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "原生模型爆炸图说明，未修改零件几何"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+    "id": "I251",
+    "thumbnail_width": 3200,
+    "thumbnail_height": 2250
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+    "sha256": "ddd2053c9af840e43a87afc1b48c0744430182e9e9b3eb698719e0f487c10555",
+    "title": "器灵_V03_中文爆炸图",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "原生模型爆炸图说明，未修改零件几何",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+        "sha256": "ddd2053c9af840e43a87afc1b48c0744430182e9e9b3eb698719e0f487c10555",
+        "title": "器灵_V03_中文爆炸图",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "原生模型爆炸图说明，未修改零件几何"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+    "id": "I252",
+    "thumbnail_width": 3200,
+    "thumbnail_height": 2250
+  },
+  {
+    "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+    "sha256": "4f4e758842ffe5ac25efe2e85380be8a04023fcd115b89fdf2e5772b69b34b39",
+    "title": "exploded_native",
+    "category": "机械结构",
+    "version": "V0.3",
+    "kind": "原生模型爆炸图说明，未修改零件几何",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+        "sha256": "4f4e758842ffe5ac25efe2e85380be8a04023fcd115b89fdf2e5772b69b34b39",
+        "title": "exploded_native",
+        "category": "机械结构",
+        "version": "V0.3",
+        "kind": "原生模型爆炸图说明，未修改零件几何"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+    "id": "I253",
+    "thumbnail_width": 3000,
+    "thumbnail_height": 1600
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+    "sha256": "a378e45414e3eb09a74fbd284f68118c6e1fd0f2f2fe3099857e2129f3e5db3e",
+    "title": "连接器调整说明（V074I未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4I",
+    "kind": "原生封装坐标说明/原生装配图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+        "sha256": "a378e45414e3eb09a74fbd284f68118c6e1fd0f2f2fe3099857e2129f3e5db3e",
+        "title": "连接器调整说明（V074I未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4I",
+        "kind": "原生封装坐标说明/原生装配图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+    "id": "I254",
+    "thumbnail_width": 1800,
+    "thumbnail_height": 1410
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.svg",
+    "sha256": "5a93173cf0fca9ec7b6e208021ea883767e39d6769fdf7ea5056d8027855f880",
+    "title": "连接器调整说明（V074I未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4I",
+    "kind": "原生封装坐标说明/原生装配图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.svg",
+        "sha256": "5a93173cf0fca9ec7b6e208021ea883767e39d6769fdf7ea5056d8027855f880",
+        "title": "连接器调整说明（V074I未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4I",
+        "kind": "原生封装坐标说明/原生装配图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/连接器调整说明.png",
+    "id": "I255",
+    "thumbnail_width": 1800,
+    "thumbnail_height": 1410
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-1.png",
+    "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+    "title": "原生装配图-1（V074I未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4I",
+    "kind": "原生封装坐标说明/原生装配图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-1.png",
+        "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+        "title": "原生装配图-1（V074I未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4I",
+        "kind": "原生封装坐标说明/原生装配图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-1.png",
+    "id": "I256",
+    "thumbnail_width": 1010,
+    "thumbnail_height": 1800
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-2.png",
+    "sha256": "655b0fb9fdb0129ae7f66453e159b779394563d83c654793131ef045fef33ff7",
+    "title": "原生装配图-2（V074I未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4I",
+    "kind": "原生封装坐标说明/原生装配图",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-2.png",
+        "sha256": "655b0fb9fdb0129ae7f66453e159b779394563d83c654793131ef045fef33ff7",
+        "title": "原生装配图-2（V074I未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4I",
+        "kind": "原生封装坐标说明/原生装配图"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/原生装配图-2.png",
+    "id": "I257",
+    "thumbnail_width": 1010,
+    "thumbnail_height": 1800
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+    "sha256": "e910548993fa8d86294b452a6569aa1deafe95eb0781c8c95d4bf97c3d99764c",
+    "title": "布局调整说明（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+        "sha256": "e910548993fa8d86294b452a6569aa1deafe95eb0781c8c95d4bf97c3d99764c",
+        "title": "布局调整说明（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+    "id": "I258",
+    "thumbnail_width": 1960,
+    "thumbnail_height": 1710
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.svg",
+    "sha256": "5a84fbab492d4e37796d70f6d5d4201992eea645b13389061848cc4882cba1db",
+    "title": "布局调整说明（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.svg",
+        "sha256": "5a84fbab492d4e37796d70f6d5d4201992eea645b13389061848cc4882cba1db",
+        "title": "布局调整说明（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/布局调整说明.png",
+    "id": "I259",
+    "thumbnail_width": 1960,
+    "thumbnail_height": 1710
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+    "sha256": "b54d1e5381269cfa661778e7a740844bc229993cdb85f7f602ef573fbc15cf5a",
+    "title": "正面封装与丝印（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+        "sha256": "b54d1e5381269cfa661778e7a740844bc229993cdb85f7f602ef573fbc15cf5a",
+        "title": "正面封装与丝印（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+    "id": "I260",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.svg",
+    "sha256": "88e128ee250b9cf9ce83ecc8050fa3f1d508d5b08ed1446dc0dae9c9a6d07421",
+    "title": "正面封装与丝印（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.svg",
+        "sha256": "88e128ee250b9cf9ce83ecc8050fa3f1d508d5b08ed1446dc0dae9c9a6d07421",
+        "title": "正面封装与丝印（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/正面封装与丝印.png",
+    "id": "I261",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+    "sha256": "dac986d5668adf4269aebf8ebc662693d04385e05d6a116ce81abc04f8dbb08b",
+    "title": "背面封装与丝印（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+        "sha256": "dac986d5668adf4269aebf8ebc662693d04385e05d6a116ce81abc04f8dbb08b",
+        "title": "背面封装与丝印（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+    "id": "I262",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.svg",
+    "sha256": "a8f79421876ed81bd49edaf9bcb82ac15ee0f9412c049506d0f9ce2eebf563fd",
+    "title": "背面封装与丝印（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.svg",
+        "sha256": "a8f79421876ed81bd49edaf9bcb82ac15ee0f9412c049506d0f9ce2eebf563fd",
+        "title": "背面封装与丝印（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/背面封装与丝印.png",
+    "id": "I263",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创原生工程预览.png",
+    "sha256": "e5c13f8c770372b51cadaf974ed1ff7cb53200a07014b0edf284019929029f77",
+    "title": "嘉立创原生工程预览（V074J未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J",
+    "kind": "最终原生坐标重绘或原生工程嵌入预览",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创原生工程预览.png",
+        "sha256": "e5c13f8c770372b51cadaf974ed1ff7cb53200a07014b0edf284019929029f77",
+        "title": "嘉立创原生工程预览（V074J未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J",
+        "kind": "最终原生坐标重绘或原生工程嵌入预览"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/嘉立创原生工程预览.png",
+    "id": "I264",
+    "thumbnail_width": 1920,
+    "thumbnail_height": 1360
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+    "sha256": "8d38282f3c182b26aed85067ee24b487a64d857cb419fd37449b116959f8cc5b",
+    "title": "V074J全量复核问题定位（未整改、未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J audit",
+    "kind": "当前原生坐标重绘与问题标注",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+        "sha256": "8d38282f3c182b26aed85067ee24b487a64d857cb419fd37449b116959f8cc5b",
+        "title": "V074J全量复核问题定位（未整改、未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J audit",
+        "kind": "当前原生坐标重绘与问题标注"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+    "id": "I265",
+    "thumbnail_width": 1800,
+    "thumbnail_height": 1640
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+    "sha256": "31ab13ef15e0dcd09e4e6e7dad534998128a10c0acecc4f5d7c514eeca368100",
+    "title": "V074J全量复核问题定位（未整改、未布线）",
+    "category": "PCB与原理图",
+    "version": "V0.7.4J audit",
+    "kind": "当前原生坐标重绘与问题标注",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+        "sha256": "31ab13ef15e0dcd09e4e6e7dad534998128a10c0acecc4f5d7c514eeca368100",
+        "title": "V074J全量复核问题定位（未整改、未布线）",
+        "category": "PCB与原理图",
+        "version": "V0.7.4J audit",
+        "kind": "当前原生坐标重绘与问题标注"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+    "id": "I266",
+    "thumbnail_width": 1800,
+    "thumbnail_height": 1640
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/对接触点与适配板.png",
+    "sha256": "ecd20205d1e4d8324d1a79a5a0d700b30a58d16a59b4356a9b8a18eea166ce21",
+    "title": "V074K主板修正与剑身适配板V0.1：对接触点与适配板",
+    "category": "机械结构",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/对接触点与适配板.png",
+        "sha256": "ecd20205d1e4d8324d1a79a5a0d700b30a58d16a59b4356a9b8a18eea166ce21",
+        "title": "V074K主板修正与剑身适配板V0.1：对接触点与适配板",
+        "category": "机械结构",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/对接触点与适配板.png",
+    "id": "I267",
+    "thumbnail_width": 1300,
+    "thumbnail_height": 1200
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/整机与配件定位壳.png",
+    "sha256": "463646cf8e6987993fba489620a221c64aaad82db52d59286dda42a141536233",
+    "title": "V074K主板修正与剑身适配板V0.1：整机与配件定位壳",
+    "category": "机械结构",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/整机与配件定位壳.png",
+        "sha256": "463646cf8e6987993fba489620a221c64aaad82db52d59286dda42a141536233",
+        "title": "V074K主板修正与剑身适配板V0.1：整机与配件定位壳",
+        "category": "机械结构",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/整机与配件定位壳.png",
+    "id": "I268",
+    "thumbnail_width": 1100,
+    "thumbnail_height": 1500
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/适配板与定位壳分解.png",
+    "sha256": "7c4ec1bccd4a52e351a3012c6746930dffa2522cb710f84f7a0c68db6f3ed75a",
+    "title": "V074K主板修正与剑身适配板V0.1：适配板与定位壳分解",
+    "category": "机械结构",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/适配板与定位壳分解.png",
+        "sha256": "7c4ec1bccd4a52e351a3012c6746930dffa2522cb710f84f7a0c68db6f3ed75a",
+        "title": "V074K主板修正与剑身适配板V0.1：适配板与定位壳分解",
+        "category": "机械结构",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/renders/适配板与定位壳分解.png",
+    "id": "I269",
+    "thumbnail_width": 1300,
+    "thumbnail_height": 1000
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+    "sha256": "b4c1f78c7ff55c41f0a453d7a646f66311b2c6d2627e96021071cb90aba0b655",
+    "title": "V074K主板修正与剑身适配板V0.1：主板正面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+        "sha256": "b4c1f78c7ff55c41f0a453d7a646f66311b2c6d2627e96021071cb90aba0b655",
+        "title": "V074K主板修正与剑身适配板V0.1：主板正面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+    "id": "I270",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.svg",
+    "sha256": "1dc27e1f81dc84c425f8f24d8f697427f33e20f215df21f5adc2c5bc1b383261",
+    "title": "V074K主板修正与剑身适配板V0.1：主板正面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.svg",
+        "sha256": "1dc27e1f81dc84c425f8f24d8f697427f33e20f215df21f5adc2c5bc1b383261",
+        "title": "V074K主板修正与剑身适配板V0.1：主板正面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板正面布局.png",
+    "id": "I271",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+    "sha256": "7027cf93995dd4a4cd720edcb5bc299fa78d0ec59dc616b81ef34849c6fb3b6a",
+    "title": "V074K主板修正与剑身适配板V0.1：主板背面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+        "sha256": "7027cf93995dd4a4cd720edcb5bc299fa78d0ec59dc616b81ef34849c6fb3b6a",
+        "title": "V074K主板修正与剑身适配板V0.1：主板背面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+    "id": "I272",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.svg",
+    "sha256": "304d7c15366b8b51bdc1f105f8c77977b55c8127e31c5b6b0a3b2b08bec693ae",
+    "title": "V074K主板修正与剑身适配板V0.1：主板背面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.svg",
+        "sha256": "304d7c15366b8b51bdc1f105f8c77977b55c8127e31c5b6b0a3b2b08bec693ae",
+        "title": "V074K主板修正与剑身适配板V0.1：主板背面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/主板背面布局.png",
+    "id": "I273",
+    "thumbnail_width": 1400,
+    "thumbnail_height": 2150
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+    "sha256": "a7408754eed07dda46ae535ee6ae05ae9d89e4b48fc74b0aa72082a2cbbd0e11",
+    "title": "V074K主板修正与剑身适配板V0.1：适配板正面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+        "sha256": "a7408754eed07dda46ae535ee6ae05ae9d89e4b48fc74b0aa72082a2cbbd0e11",
+        "title": "V074K主板修正与剑身适配板V0.1：适配板正面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+    "id": "I274",
+    "thumbnail_width": 1100,
+    "thumbnail_height": 1500
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.svg",
+    "sha256": "00b9f2b82510fff06abca4e69208af0f02185e065147c9f1a2b544e57fd34a07",
+    "title": "V074K主板修正与剑身适配板V0.1：适配板正面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.svg",
+        "sha256": "00b9f2b82510fff06abca4e69208af0f02185e065147c9f1a2b544e57fd34a07",
+        "title": "V074K主板修正与剑身适配板V0.1：适配板正面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板正面布局.png",
+    "id": "I275",
+    "thumbnail_width": 1100,
+    "thumbnail_height": 1500
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+    "sha256": "a99cb48c245e51a2d54933453c8dad64c5b5fcfdac2adad7962dcf4a0b77c682",
+    "title": "V074K主板修正与剑身适配板V0.1：适配板背面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+        "sha256": "a99cb48c245e51a2d54933453c8dad64c5b5fcfdac2adad7962dcf4a0b77c682",
+        "title": "V074K主板修正与剑身适配板V0.1：适配板背面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+    "id": "I276",
+    "thumbnail_width": 1100,
+    "thumbnail_height": 1500
+  },
+  {
+    "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.svg",
+    "sha256": "c90f8802fc1f15f3a4b7bf79dba26957d9a9e36e676deb79de20dc0c9c9153cb",
+    "title": "V074K主板修正与剑身适配板V0.1：适配板背面布局",
+    "category": "PCB与原理图",
+    "version": "V074K / Adapter V01",
+    "kind": "原生坐标包络重绘或实际CAD模型渲染",
+    "aliases": [
+      {
+        "path": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.svg",
+        "sha256": "c90f8802fc1f15f3a4b7bf79dba26957d9a9e36e676deb79de20dc0c9c9153cb",
+        "title": "V074K主板修正与剑身适配板V0.1：适配板背面布局",
+        "category": "PCB与原理图",
+        "version": "V074K / Adapter V01",
+        "kind": "原生坐标包络重绘或实际CAD模型渲染"
+      }
+    ],
+    "thumbnail": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/适配板背面布局.png",
+    "id": "I277",
+    "thumbnail_width": 1100,
+    "thumbnail_height": 1500
   }
 ]

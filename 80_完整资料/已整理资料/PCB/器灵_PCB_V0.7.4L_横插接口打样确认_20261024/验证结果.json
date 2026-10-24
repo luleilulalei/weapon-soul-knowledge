@@ -1,0 +1,160 @@
+{
+  "Spirit_JLC": {
+    "components": 129,
+    "pads_checked": 457,
+    "netlist_match": true,
+    "minimum_same_side_gap_mm": [
+      0.31800291999999963,
+      "R307",
+      "J7"
+    ],
+    "cross_side_through_collisions": [],
+    "net_changes": {},
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 438
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "659f8762f24db281",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N92"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "bb22996a146d7555",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N93"
+          }
+        ]
+      }
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    }
+  },
+  "Spirit_Blade_Adapter_V01": {
+    "components": 16,
+    "pads_checked": 65,
+    "netlist_match": true,
+    "minimum_same_side_gap_mm": [
+      0.5498820599999998,
+      "C705",
+      "J702"
+    ],
+    "cross_side_through_collisions": [],
+    "net_changes": {
+      "J701": [
+        {
+          "1": "+5V_ACC",
+          "2": "+3V3",
+          "3": "GND",
+          "4": "ACC_SCL",
+          "5": "ACC_SDA",
+          "6": "GND"
+        },
+        {
+          "1": "ACC_SDA",
+          "2": "GND",
+          "3": "GND",
+          "4": "ACC_SCL",
+          "5": "+5V_ACC",
+          "6": "+3V3"
+        }
+      ]
+    },
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 58
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "33b667ce81ded764",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N14"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "fe754d3db1cff2f0",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N13"
+          }
+        ]
+      }
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    }
+  },
+  "mating": [
+    {
+      "host_pin": "1",
+      "adapter_pin": "5",
+      "host_net": "+5V_ACC",
+      "adapter_net": "+5V_ACC"
+    },
+    {
+      "host_pin": "2",
+      "adapter_pin": "6",
+      "host_net": "+3V3",
+      "adapter_net": "+3V3"
+    },
+    {
+      "host_pin": "3",
+      "adapter_pin": "3",
+      "host_net": "GND",
+      "adapter_net": "GND"
+    },
+    {
+      "host_pin": "4",
+      "adapter_pin": "4",
+      "host_net": "ACC_SCL_MCU",
+      "adapter_net": "ACC_SCL"
+    },
+    {
+      "host_pin": "5",
+      "adapter_pin": "1",
+      "host_net": "ACC_SDA_MCU",
+      "adapter_net": "ACC_SDA"
+    },
+    {
+      "host_pin": "6",
+      "adapter_pin": "2",
+      "host_net": "ACC_DET_N",
+      "adapter_net": "GND"
+    }
+  ],
+  "limits": [
+    "Unrouted: no fabrication release.",
+    "Connector chosen for prototype only; cycle life and samples not tested.",
+    "Same-side parallel mounting; shell must key, guide and retain. Old Mill-Max carrier STL is not compatible without revision.",
+    "Final insertion depth and tolerance require sample verification.",
+    "Power off before mating; 5V accessory budget remains 400mA."
+  ]
+}

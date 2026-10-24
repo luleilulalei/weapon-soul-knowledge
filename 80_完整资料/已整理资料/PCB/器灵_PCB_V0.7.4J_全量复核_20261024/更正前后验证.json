@@ -1,0 +1,52 @@
+{
+  "before_captured": "2026-10-24T04:52:21.044Z",
+  "after_captured": "2026-10-24T05:11:38.587Z",
+  "changed_records": [
+    {
+      "page": "11_Charger",
+      "id": "65e38322f248f91b"
+    },
+    {
+      "page": "11_Charger",
+      "id": "fbda9e02dedd8b7f"
+    },
+    {
+      "page": "11_Charger",
+      "id": "f4114fa6d02cbf92"
+    },
+    {
+      "page": "11_Charger",
+      "id": "ea72cb2909d1ffa7"
+    },
+    {
+      "page": "11_Charger",
+      "id": "ab86a085b6588a28"
+    },
+    {
+      "page": "12_Main_switch",
+      "id": "08c70e17bc9a7818"
+    },
+    {
+      "page": "13_BuckBoost_3V3",
+      "id": "658d7531c307c4c8"
+    },
+    {
+      "page": "14_Boost_5V",
+      "id": "5f3f5670139b09db"
+    },
+    {
+      "page": "14_Boost_5V",
+      "id": "3c6ae0c1a59e3eb9"
+    },
+    {
+      "page": "PCB",
+      "id": "5e488ca4088662eb"
+    }
+  ],
+  "same_pin_nets_before_sch_pcb_after": true,
+  "all_419_pad_coordinates_nets_unchanged": true,
+  "components_values_footprints_positions_unchanged": true,
+  "only_expected_text_and_metadata_changed": true,
+  "schematic_erc_unchanged": true,
+  "native_export_sha256": "b373a1e7469ee279a9fe6d000ab5677e7d83432ee40ea428a5fbca9456a26599"
+}

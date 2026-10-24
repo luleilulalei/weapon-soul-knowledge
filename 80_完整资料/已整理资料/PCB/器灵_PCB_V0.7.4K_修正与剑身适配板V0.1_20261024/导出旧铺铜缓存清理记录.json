@@ -1,0 +1,43 @@
+{
+  "original_native_export_sha256": "6ff3413ed39e5644e32b8b4231292455679e685269bbb7b339f24f5f6d517219",
+  "clean_export_sha256": "02e9beb6e5fddb723dd542ddbe0c602e7b7b2bef990b7e21c84fea1787a7b498",
+  "removed_only": [
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "019d79b0be38b22c"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "manual72_P15"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "manual72_P16"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "manual72_P1"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "manual72_P2"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "copper73_P15"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "copper73_P16"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "copper73_P1"
+    },
+    {
+      "document": "5354a7bf4c630a18",
+      "orphan_poured_id": "copper73_P2"
+    }
+  ],
+  "reason": "Orphan POURED cache records from older layouts: no parent POUR in export and native getAllPrimitiveId reports no active POUR/POURED. The native public deletion API reports false for these non-active caches. No current design primitive changed; export equality validated separately."
+}

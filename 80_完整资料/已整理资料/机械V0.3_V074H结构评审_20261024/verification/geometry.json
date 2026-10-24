@@ -1,0 +1,86 @@
+{
+  "mesh": [
+    {
+      "part": "P01_front_shell",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P02_rear_shell",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P03_PCB_four_hole_carrier",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P04_replaceable_screen_bezel",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P05_screen_rear_retainer",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P06_power_plunger",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P07_battery_cradle",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P08_side_speaker_chamber",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P09_side_speaker_grille",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P10_rear_NFC_holder",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P11_keyed_top_dust_cap",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P12_LRA_retaining_bridge",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P13_MIC_side_duct",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    }
+  ],
+  "collisions": [],
+  "pairs_checked": 2445,
+  "intersection_reporting_threshold_mm3": 0.02,
+  "boundary": "Proxy envelopes are conservative; cable sweep, print tolerance, real screen and acoustic/RF performance not validated."
+}

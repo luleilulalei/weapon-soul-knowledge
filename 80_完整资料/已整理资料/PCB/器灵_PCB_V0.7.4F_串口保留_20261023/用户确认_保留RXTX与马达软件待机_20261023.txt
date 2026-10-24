@@ -1,0 +1,17 @@
+V074F 保留UART0与马达软件待机｜用户确认及执行记录｜2026-10-23
+
+用户质疑GPIO44/RX为何用于PWR_KILL_N，要求提供方案。助手建议：取消DRV2605L独立GPIO使能，将其EN接受控+3V3，现有I2C负责振动启停与STANDBY；GPIO6腾给PWR_KILL_N，GPIO44/43保留UART0 RX/TX，留两个测试焊盘，不恢复J1连接器。说明取舍：失去独立GPIO硬件禁用，I2C卡死时需整机断电恢复；软件待机不等于EN拉低最低功耗。用户明确回复：“可以 按你说的来做吧”。
+
+执行范围：沿用当前立创项目Spirit_V0.7.4_Layout_Review_20261021/Spirit_JLC，保留用户重命名的P1/P2/P3页面与已有布局。
+U1模组第6脚/GPIO6：HAPTIC_ENABLE改PWR_KILL_N；第36脚/GPIO44：PWR_KILL_N改UART0_RX；第37脚/GPIO43：空脚改UART0_TX。
+U105 DRV2605L第5脚EN：HAPTIC_EN改+3V3（与其VDD同一受控电源）。删除专用R135 1k与R136 100k，不增加BOM器件。长按INT保留GPIO14，R14110k继续从受控3V3上拉KILL。GPIO6启动输入高阻，运行只采用开漏拉低/释放，配套固件仍待改。
+背面新增1mm直径裸焊盘TP114=UART0_RX、TP115=UART0_TX，丝印RX/TX，坐标(12,94)/(15,94)mm；附近主控区域、螺丝包络及正面穿孔干涉已检查。只分配网络，尚未布铜连接。3.3V串口，外接收发交叉并共地TP113；整机上电后连接调试，不引入5V串口。USB19/20、BOOT/RST保留。
+同步修复旧裸测试点：TP105旧MAIN_IN改VSYS_RAW，TP107旧BOOST_5V改+5V_SYS；这两处在此前电源合并时漏改。本次检查覆盖所有15个裸测试焊盘，网络均存在于原理图。
+07_GPIO_Assignment、MCU、电源键与马达页面注释和元件Assembly_Note均更新；17_Test_points注明UART裸焊盘用途和电源测试点修正。
+36GPIO中28个用于现有功能（含BOOT）、2个保留UART测试点、3个PSRAM占用、3个空置启动配置脚。GPIO扩展器不恢复。
+
+完成118个元件位号（C114不装）、15个裸测试焊盘、149处丝印。保留元件位置/层/旋转不变；全部SCH/PCB器件引脚一致，4处引脚网络改变与方案一致；几何重叠/焊盘/板边/螺丝头/跨面穿孔检查无问题。
+原生PCB仅405项未连接，无其他类别；原理图有原J7 ATTRMATCHCODE警告以及两项SHOWDANDLING，对应仅接MCU一根脚的UART命名网络。裸PCB测试焊盘未建BOM器件符号，已在测试页注明并独立校验网络，未隐藏或伪称零警告。
+0走线/过孔/铺铜，未自动布线，仍是布局确认稿，不可投板。主控正面底端天线向下、NFC背面、86.5mm板长/4孔不变。500mA输入/充电/热预算、长按保存和I2C待机固件、整机实测均未完成。
+
+依据：TI DRV2605L datasheet 8.4.1.3 EN / 8.4.1.4 STANDBY，9.3初始化/使用流程；EN高可通过I2C控制，STANDBY上电默认置位。https://www.ti.com/lit/ds/symlink/drv2605l.pdf

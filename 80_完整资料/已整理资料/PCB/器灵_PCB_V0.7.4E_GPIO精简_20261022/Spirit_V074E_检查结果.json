@@ -1,0 +1,292 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 120,
+  "removed": [
+    "J4",
+    "J6",
+    "U7",
+    "C23",
+    "R18",
+    "R19",
+    "R22",
+    "Q104",
+    "R105",
+    "R106",
+    "R107"
+  ],
+  "added": [],
+  "gpio_expander_required": false,
+  "gpio_allocation": [
+    {
+      "module_pin": 4,
+      "gpio": 4,
+      "net": "PDM_DATA_L",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 5,
+      "gpio": 5,
+      "net": "PDM_CLK_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 6,
+      "gpio": 6,
+      "net": "HAPTIC_ENABLE",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 7,
+      "gpio": 7,
+      "net": "I2S_BCLK",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 8,
+      "gpio": 15,
+      "net": "I2S_LRCLK",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 9,
+      "gpio": 16,
+      "net": "I2S_DOUT",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 10,
+      "gpio": 17,
+      "net": "AMP_ENABLE",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 11,
+      "gpio": 18,
+      "net": "IMU_INT1",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 12,
+      "gpio": 8,
+      "net": "BOOST_EN",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 13,
+      "gpio": 19,
+      "net": "USB_DM",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 14,
+      "gpio": 20,
+      "net": "USB_DP",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 15,
+      "gpio": 3,
+      "net": "",
+      "status": "启动配置脚，保留空脚"
+    },
+    {
+      "module_pin": 16,
+      "gpio": 46,
+      "net": "",
+      "status": "启动配置脚，保留空脚"
+    },
+    {
+      "module_pin": 17,
+      "gpio": 9,
+      "net": "LCD_DC_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 18,
+      "gpio": 10,
+      "net": "LCD_CS_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 19,
+      "gpio": 11,
+      "net": "LCD_MOSI_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 20,
+      "gpio": 12,
+      "net": "LCD_SCK_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 21,
+      "gpio": 13,
+      "net": "LCD_RST_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 22,
+      "gpio": 14,
+      "net": "PWR_INT_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 23,
+      "gpio": 21,
+      "net": "ACC_SCL_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 24,
+      "gpio": 47,
+      "net": "CHG_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 25,
+      "gpio": 48,
+      "net": "LCD_BL_PWM",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 26,
+      "gpio": 45,
+      "net": "",
+      "status": "启动配置脚，保留空脚"
+    },
+    {
+      "module_pin": 27,
+      "gpio": 0,
+      "net": "BOOT_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 28,
+      "gpio": 35,
+      "net": "",
+      "status": "PSRAM占用，禁止外用"
+    },
+    {
+      "module_pin": 29,
+      "gpio": 36,
+      "net": "",
+      "status": "PSRAM占用，禁止外用"
+    },
+    {
+      "module_pin": 30,
+      "gpio": 37,
+      "net": "",
+      "status": "PSRAM占用，禁止外用"
+    },
+    {
+      "module_pin": 31,
+      "gpio": 38,
+      "net": "ACC_SDA_MCU",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 32,
+      "gpio": 39,
+      "net": "PGOOD_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 33,
+      "gpio": 40,
+      "net": "TOUCH_IRQ_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 34,
+      "gpio": 41,
+      "net": "I2C_SCL",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 35,
+      "gpio": 42,
+      "net": "I2C_SDA",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 36,
+      "gpio": 44,
+      "net": "PWR_KILL_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 37,
+      "gpio": 43,
+      "net": "",
+      "status": "备用；UART启动输出，使用须评估上电行为"
+    },
+    {
+      "module_pin": 38,
+      "gpio": 2,
+      "net": "ACC_DET_N",
+      "status": "已分配"
+    },
+    {
+      "module_pin": 39,
+      "gpio": 1,
+      "net": "BAT_ADC",
+      "status": "已分配"
+    }
+  ],
+  "gpio_counts": {
+    "exposed": 36,
+    "psram_reserved": 3,
+    "assigned_including_boot": 29,
+    "unused_strapping": 3,
+    "unused_uart_boot_tx": 1
+  },
+  "geometry_issues": [],
+  "placement_mismatches": [],
+  "schematic_pcb_pin_maps_match": true,
+  "only_changed_existing_pin_nets": [
+    [
+      "U1",
+      "24",
+      "EXP_IRQ_N",
+      "CHG_N"
+    ],
+    [
+      "U1",
+      "32",
+      "USB_PRESENT_N",
+      "PGOOD_N"
+    ]
+  ],
+  "native_pcb_drc": {
+    "Connection Error": 404
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "silkscreen_labels": 149,
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "source_sha256": "7b62b061a43765a8593297b0e3a22c5f972f8ffb215ac2511311a7ee10c7fc98",
+  "limitations": [
+    "J4 physical dock detection and J6 auxiliary key removed per user; no independent physical seating signal remains.",
+    "PGOOD_N means valid input source, not physical docking and not any VBUS voltage/cable presence.",
+    "CHG high alone is not a guaranteed fully charged battery indication; recharge and fault states need firmware handling per datasheet.",
+    "USB500 remains unchanged; power/thermal budget still pending.",
+    "Long-press hardware retained; graceful shutdown firmware and real hardware tests pending.",
+    "No routing, no fabrication release. Existing J7 schematic ATTRMATCHCODE warning remains.",
+    "GPIO43 is unused but ROM UART boot TX must be considered; GPIO3/45/46 strapping pins not counted as unrestricted spares."
+  ],
+  "export_sha256": "d52d2c4daf931256135d9c88674e8845026763b47e8b309c7898c353c4b5d573"
+}

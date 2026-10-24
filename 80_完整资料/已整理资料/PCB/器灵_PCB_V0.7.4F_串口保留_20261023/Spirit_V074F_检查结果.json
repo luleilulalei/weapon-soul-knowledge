@@ -1,0 +1,106 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 118,
+  "removed": [
+    "R135",
+    "R136"
+  ],
+  "added_bom_components": [],
+  "added_bare_testpads": {
+    "TP114": "GPIO44 UART0_RX",
+    "TP115": "GPIO43 UART0_TX"
+  },
+  "updated_testpads": {
+    "TP105": [
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    "TP107": [
+      "BOOST_5V",
+      "+5V_SYS"
+    ]
+  },
+  "geometry_issues": [],
+  "placement_mismatches": [],
+  "existing_component_placements_preserved": true,
+  "schematic_pcb_pin_maps_match": true,
+  "testpad_nets_all_exist_in_schematic": true,
+  "only_changed_existing_pin_nets": [
+    [
+      "U1",
+      "36",
+      "PWR_KILL_N",
+      "UART0_RX"
+    ],
+    [
+      "U1",
+      "37",
+      "",
+      "UART0_TX"
+    ],
+    [
+      "U1",
+      "6",
+      "HAPTIC_ENABLE",
+      "PWR_KILL_N"
+    ],
+    [
+      "U105",
+      "5",
+      "HAPTIC_EN",
+      "+3V3"
+    ]
+  ],
+  "native_pcb_drc": {
+    "Connection Error": 405
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "silkscreen_labels": 149,
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "source_sha256": "06feaf55d66c8b2f2ca0c5ae330c525cb04fc52bec4069b435fbd07f3f97d9c2",
+  "limitations": [
+    "Not routed; bare RX/TX pads have assigned nets, copper connection remains for manual routing.",
+    "Two intentional schematic dangling warnings: UART nets each terminate at a single MCU pin; bare PCB pads are documented on 17_Test_points page and independently checked.",
+    "Existing J7 ATTRMATCHCODE warning remains.",
+    "Motor EN tied to switched3V3; no independent hardware-disable GPIO. Software STANDBY differs from EN shutdown; standby current/hung-bus behavior untested.",
+    "GPIO6 KILL must remain input/high-Z or open-drain; firmware changes and bench tests not completed.",
+    "USB500/load/thermal budget remains unresolved."
+  ],
+  "export_sha256": "3bc6bc1d71edc62651bd35221ebf236b5ce1c8dbcd1ac8a8798f8874257d571b"
+}

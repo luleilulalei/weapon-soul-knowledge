@@ -1,0 +1,317 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/00_结构评审说明.txt",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/00_结构评审说明.txt",
+    "kind": "file",
+    "sha256": "47265cd5ef2a401dfccff3015c49abb44cca07419cfb8e6c76a9978e0ea73ce1",
+    "bytes": 6532,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/01_分件对照.txt",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/01_分件对照.txt",
+    "kind": "file",
+    "sha256": "3b2bf40b08424b13b647778db977d9b91150397bae9bb71b65e75c93be05a8c1",
+    "bytes": 1002,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/02_本版设计与验证结论.txt",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/02_本版设计与验证结论.txt",
+    "kind": "file",
+    "sha256": "0031a90cdc082f622e8bfe52576547028eabab78863c678921a8083469380470",
+    "bytes": 1693,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/Spirit_V03_assembly_VIEW_ONLY.stl",
+    "kind": "file",
+    "sha256": "c8793e5d7759f695e0e74e496b24142e854150c618919e77acb26e5804091c41",
+    "bytes": 3078384,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P01_front_shell.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P01_front_shell.stl",
+    "kind": "file",
+    "sha256": "aa61f6e3df7d011f9d568e5906a39068b4154bb862618424d92b47c14d0c77dd",
+    "bytes": 746284,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P02_rear_shell.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P02_rear_shell.stl",
+    "kind": "file",
+    "sha256": "fd38ea8e8b202774c13e792c88fa92a1633080752cf154a1456e237da4b41014",
+    "bytes": 980484,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P03_PCB_four_hole_carrier.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P03_PCB_four_hole_carrier.stl",
+    "kind": "file",
+    "sha256": "3f94658387af7f1e838060849698168eac2eaba47ca0bd6a73b75f86d4005883",
+    "bytes": 413884,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P04_replaceable_screen_bezel.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P04_replaceable_screen_bezel.stl",
+    "kind": "file",
+    "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963",
+    "bytes": 118784,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P05_screen_rear_retainer.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P05_screen_rear_retainer.stl",
+    "kind": "file",
+    "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1",
+    "bytes": 76884,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P06_power_plunger.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P06_power_plunger.stl",
+    "kind": "file",
+    "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413",
+    "bytes": 76684,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P07_battery_cradle.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P07_battery_cradle.stl",
+    "kind": "file",
+    "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442",
+    "bytes": 115484,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P08_side_speaker_chamber.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P08_side_speaker_chamber.stl",
+    "kind": "file",
+    "sha256": "90c714f448c14bfb9419a78f7c7428aa15afc6597abb2fb841bf603070599610",
+    "bytes": 190084,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P09_side_speaker_grille.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P09_side_speaker_grille.stl",
+    "kind": "file",
+    "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca",
+    "bytes": 111084,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P10_rear_NFC_holder.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P10_rear_NFC_holder.stl",
+    "kind": "file",
+    "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74",
+    "bytes": 87484,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P11_keyed_top_dust_cap.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P11_keyed_top_dust_cap.stl",
+    "kind": "file",
+    "sha256": "f7f8d4a313137da8751c1610f2e028ae0429b0f00420b2958db58294e63c8c50",
+    "bytes": 20684,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P12_LRA_retaining_bridge.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P12_LRA_retaining_bridge.stl",
+    "kind": "file",
+    "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7",
+    "bytes": 58884,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P13_MIC_side_duct.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P13_MIC_side_duct.stl",
+    "kind": "file",
+    "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2",
+    "bytes": 82684,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/stl/P14_fit_coupon.stl",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/stl/P14_fit_coupon.stl",
+    "kind": "file",
+    "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0",
+    "bytes": 81184,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/01_front.png",
+    "kind": "file",
+    "sha256": "35d923959bd51ee98c5349bfa78543d9b59b4167efd043f1811807920be6e785",
+    "bytes": 1855389,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/02_rear.png",
+    "kind": "file",
+    "sha256": "a1d7b809c1ef07f0ef93a0282d9cb6dd9850062ca7173f013281f7bdd1c265b7",
+    "bytes": 1821193,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/03_exploded.png",
+    "kind": "file",
+    "sha256": "77c479b63ce695772f156f759ca984da36a751dee5892c2fa2716a9815e5bcec",
+    "bytes": 2763894,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/04_internal.png",
+    "kind": "file",
+    "sha256": "f37f2314c0b9eb502ffd9e5f7552b98ce99c4bf277aa29b24577258855cf0f9b",
+    "bytes": 1948182,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/renders/05_head_ports.png",
+    "kind": "file",
+    "sha256": "064b3d17167c07151d9a07b5353fa6cc66a3bb4053ca86e4acaf5e75a7eb69cd",
+    "bytes": 1772460,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/build_v03.py",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/build_v03.py",
+    "kind": "file",
+    "sha256": "a22d1d263e89f1f529673ee2f13bd2808d54c5dc6b9a622875dda51b6823b96a",
+    "bytes": 20403,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/helpers_fragment.txt",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/helpers_fragment.txt",
+    "kind": "file",
+    "sha256": "8c990188cf19a0225b9e376bdaafda08114133ae901933185411193e8f17b0c6",
+    "bytes": 2518,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/verify_v03.py",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/verify_v03.py",
+    "kind": "file",
+    "sha256": "9e888d3820f8db26a4fe9703153417c0b5accac5fc6dc1829f5f501060f052a1",
+    "bytes": 2566,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/render_v03.py",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/render_v03.py",
+    "kind": "file",
+    "sha256": "591580c5b2da856588e98b27e3e3080aa7c1f83dcc42749558b6daa0b58cafe5",
+    "bytes": 2678,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/parameters.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/parameters.json",
+    "kind": "file",
+    "sha256": "dd55f7e180517274aacb6ed96bf09b8d7b36f86c8933a6610a567f0c263b245c",
+    "bytes": 782,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/pcb_input.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/pcb_input.json",
+    "kind": "file",
+    "sha256": "e4ac25d7a3919de729642c5750634a1da83a568eb2a6db46817cb9a658f65c64",
+    "bytes": 52855,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/component_placements.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/component_placements.json",
+    "kind": "file",
+    "sha256": "b879d75e6c1fb5278a5033d21f5932fa93a523d4178274d86ca91de9ee717c35",
+    "bytes": 38349,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/mesh_validation.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/mesh_validation.json",
+    "kind": "file",
+    "sha256": "06041490fec33514e310b9b3957e3457017c1fb600ff735c7df0ff1632f4b8c5",
+    "bytes": 3161,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/model/Spirit_V03_V074H_review.blend",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/model/Spirit_V03_V074H_review.blend",
+    "kind": "file",
+    "sha256": "666f4b4393f610b76f91d46c245f8956838f4e5a5bf592991ef8a834896215e4",
+    "bytes": 6184750,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/verification/geometry.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/verification/geometry.json",
+    "kind": "file",
+    "sha256": "e36e68a10491f07af06df53fc11e735e179d8f1e84c46e27b8c29be4cd3d5d0c",
+    "bytes": 1843,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/verification/STL_独立检查.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/verification/STL_独立检查.json",
+    "kind": "file",
+    "sha256": "8577abd0654201f432e407afa92d744e62de6427e2455ea213c4a6bf4d7f7c36",
+    "bytes": 5543,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/器灵_机械V03_STL与预览.zip",
+    "archive": "80_完整资料/已整理资料/机械V0.3_V074H结构评审_20261024/器灵_机械V03_STL与预览.zip",
+    "kind": "file",
+    "sha256": "aff7e43df744456670f7edd2d583498ff3d9cb370f6c090c721aeaacde927a4c",
+    "bytes": 13322665,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

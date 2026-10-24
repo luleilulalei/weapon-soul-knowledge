@@ -1,0 +1,282 @@
+[
+  {
+    "file": "P01_front_shell.stl",
+    "triangles": 14924,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -31.0,
+        -95.0,
+        0.0
+      ],
+      [
+        31.0,
+        95.0,
+        17.100006103515625
+      ]
+    ],
+    "volume_mm3": 34930.19970051358
+  },
+  {
+    "file": "P02_rear_shell.stl",
+    "triangles": 19608,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -31.0,
+        -95.0,
+        0.0
+      ],
+      [
+        31.0,
+        95.0,
+        24.5
+      ]
+    ],
+    "volume_mm3": 50830.69921829866
+  },
+  {
+    "file": "P03_PCB_four_hole_carrier.stl",
+    "triangles": 8276,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -23.100000381469727,
+        -30.600000381469727,
+        -4.76837158203125e-07
+      ],
+      [
+        23.100000381469727,
+        30.600000381469727,
+        8.399999618530273
+      ]
+    ],
+    "volume_mm3": 1747.9466553520251
+  },
+  {
+    "file": "P04_replaceable_screen_bezel.stl",
+    "triangles": 2374,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -27.799999237060547,
+        -22.17499351501465,
+        0.0
+      ],
+      [
+        27.799999237060547,
+        22.175006866455078,
+        4.699999809265137
+      ]
+    ],
+    "volume_mm3": 1568.1433371252956
+  },
+  {
+    "file": "P05_screen_rear_retainer.stl",
+    "triangles": 1536,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -28.049999237060547,
+        -18.688453674316406,
+        3.5762786865234375e-07
+      ],
+      [
+        28.049999237060547,
+        18.68844223022461,
+        1.2000004053115845
+      ]
+    ],
+    "volume_mm3": 404.8980178082392
+  },
+  {
+    "file": "P06_power_plunger.stl",
+    "triangles": 1532,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -3.5,
+        -3.5,
+        0.0
+      ],
+      [
+        3.5,
+        3.5,
+        13.350000381469727
+      ]
+    ],
+    "volume_mm3": 227.21047942448334
+  },
+  {
+    "file": "P07_battery_cradle.stl",
+    "triangles": 2308,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -18.5,
+        -37.29999923706055,
+        0.0
+      ],
+      [
+        18.5,
+        37.29999923706055,
+        11.500001907348633
+      ]
+    ],
+    "volume_mm3": 6956.186558138094
+  },
+  {
+    "file": "P08_side_speaker_chamber.stl",
+    "triangles": 3800,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -11.399999618530273,
+        -17.5,
+        0.0
+      ],
+      [
+        11.399999618530273,
+        17.5,
+        9.400001525878906
+      ]
+    ],
+    "volume_mm3": 1972.4093192148239
+  },
+  {
+    "file": "P09_side_speaker_grille.stl",
+    "triangles": 2220,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -11.449999809265137,
+        -17.5,
+        0.0
+      ],
+      [
+        11.449999809265137,
+        17.5,
+        1.2000019550323486
+      ]
+    ],
+    "volume_mm3": 490.28942277522003
+  },
+  {
+    "file": "P10_rear_NFC_holder.stl",
+    "triangles": 1748,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -16.0,
+        -36.900001525878906,
+        3.5762786865234375e-07
+      ],
+      [
+        16.0,
+        36.900001525878906,
+        4.199999809265137
+      ]
+    ],
+    "volume_mm3": 2008.43892487524
+  },
+  {
+    "file": "P11_keyed_top_dust_cap.stl",
+    "triangles": 412,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -12.899999618530273,
+        -3.4999938011169434,
+        0.0
+      ],
+      [
+        12.899999618530273,
+        3.5000061988830566,
+        13.0
+      ]
+    ],
+    "volume_mm3": 1605.4551383580147
+  },
+  {
+    "file": "P12_LRA_retaining_bridge.stl",
+    "triangles": 1176,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -8.0,
+        -3.0,
+        -1.1920928955078125e-07
+      ],
+      [
+        8.0,
+        3.0,
+        1.1999999284744263
+      ]
+    ],
+    "volume_mm3": 77.41478282144656
+  },
+  {
+    "file": "P13_MIC_side_duct.stl",
+    "triangles": 1652,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -8.947500228881836,
+        -7.5999908447265625,
+        0.0
+      ],
+      [
+        8.947498321533203,
+        7.600006103515625,
+        3.799999713897705
+      ]
+    ],
+    "volume_mm3": 228.84245376075447
+  },
+  {
+    "file": "P14_fit_coupon.stl",
+    "triangles": 1622,
+    "vertex_rounding_mm": 1e-05,
+    "unpaired_or_nonmanifold_edges": 0,
+    "orientation_errors": 0,
+    "bounds_mm": [
+      [
+        -24.0,
+        -12.0,
+        0.0
+      ],
+      [
+        24.0,
+        12.0,
+        4.0
+      ]
+    ],
+    "volume_mm3": 4317.3814874571735
+  }
+]

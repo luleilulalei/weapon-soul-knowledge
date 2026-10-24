@@ -1,0 +1,242 @@
+[
+  {
+    "path": "00_本轮结论.txt",
+    "sha256": "053a482e19eb876ec53821ffca9451438fc01c42d75393af802bbc3cb6f21787",
+    "bytes": 1549
+  },
+  {
+    "path": "Spirit_V03_assembly_VIEW_ONLY.stl",
+    "sha256": "154445975ba4b309657cb7e03c9eb0249ea28decd84be030bda6a3861d3654d3",
+    "bytes": 3189884
+  },
+  {
+    "path": "Spirit_V074K_Blade_Adapter_V01_NOT_ROUTED_20261024.epro2",
+    "sha256": "02e9beb6e5fddb723dd542ddbe0c602e7b7b2bef990b7e21c84fea1787a7b498",
+    "bytes": 1394329
+  },
+  {
+    "path": "mechanical/Spirit_V03_V074K_review.blend",
+    "sha256": "bf47c4e7c25ada670047f711bedca7a3ac63f2da493ac2ed9f6519278c379dbf",
+    "bytes": 6713505
+  },
+  {
+    "path": "mechanical/build_v03.py",
+    "sha256": "cb35d0629e1326afc5b4f796089285d754feac7ec6835b11d0918c026b4b73e5",
+    "bytes": 25553
+  },
+  {
+    "path": "mechanical/component_placements.json",
+    "sha256": "7c2067f6429dd19ae1ab9c32b2f73e3a53c6cad701740e2eab1eba65b8d75b28",
+    "bytes": 48421
+  },
+  {
+    "path": "mechanical/helpers_fragment.txt",
+    "sha256": "6dcbe4824a03069ff08f4a6fb4c81f790c8501c29489f2ca11d91ad034dca1b7",
+    "bytes": 2587
+  },
+  {
+    "path": "mechanical/mesh_validation.json",
+    "sha256": "dbc0a024fa0d34d7aa82ff7a3a4c3ba6eeb70c24f547e42308cc3e74dacf0d3e",
+    "bytes": 3370
+  },
+  {
+    "path": "mechanical/parameters.json",
+    "sha256": "874ebb8a589f2e8c2144d4b37b30aed017af6d9fd377ead26ea6d0d7ae1c1f81",
+    "bytes": 887
+  },
+  {
+    "path": "mechanical/pcb_input.json",
+    "sha256": "d9bef29233ab7c030844d480226549ad690f96285489401655ce37ddd0a07597",
+    "bytes": 57106
+  },
+  {
+    "path": "mechanical/render_review.py",
+    "sha256": "573e055a6054576e032fdd284d17dc8ffba995906dfc949964f5211a4d69f965",
+    "bytes": 1385
+  },
+  {
+    "path": "mechanical/stl/P01_front_shell.stl",
+    "sha256": "df228bb3fef22594913b86d1f28010fcf36f241bdf85492a9c76f4e325497213",
+    "bytes": 746284
+  },
+  {
+    "path": "mechanical/stl/P02_rear_shell.stl",
+    "sha256": "ea97ddeedc68297a4d00c2b95b5d26b3ede301cd99e4866281239eb59c163142",
+    "bytes": 980684
+  },
+  {
+    "path": "mechanical/stl/P03_PCB_four_hole_carrier.stl",
+    "sha256": "b785f5ea703004110eeefb134509dc0fca64c17159a252e38d7fbd869fbfd3aa",
+    "bytes": 412384
+  },
+  {
+    "path": "mechanical/stl/P04_replaceable_screen_bezel.stl",
+    "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963",
+    "bytes": 118784
+  },
+  {
+    "path": "mechanical/stl/P05_screen_rear_retainer.stl",
+    "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1",
+    "bytes": 76884
+  },
+  {
+    "path": "mechanical/stl/P06_power_plunger.stl",
+    "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413",
+    "bytes": 76684
+  },
+  {
+    "path": "mechanical/stl/P07_battery_cradle.stl",
+    "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442",
+    "bytes": 115484
+  },
+  {
+    "path": "mechanical/stl/P08_side_speaker_chamber.stl",
+    "sha256": "c7c445c4ba15833943f4eca58167cf2683996a87c0656ee3df7f38aadcbd6e8c",
+    "bytes": 190084
+  },
+  {
+    "path": "mechanical/stl/P09_side_speaker_grille.stl",
+    "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca",
+    "bytes": 111084
+  },
+  {
+    "path": "mechanical/stl/P10_rear_NFC_holder.stl",
+    "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74",
+    "bytes": 87484
+  },
+  {
+    "path": "mechanical/stl/P11_keyed_top_dust_cap.stl",
+    "sha256": "4fea5e6a3ec5f5474a26d858bc77b6d7bd3ab864ea02d988683fdc648602b248",
+    "bytes": 84
+  },
+  {
+    "path": "mechanical/stl/P12_LRA_retaining_bridge.stl",
+    "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7",
+    "bytes": 58884
+  },
+  {
+    "path": "mechanical/stl/P13_MIC_side_duct.stl",
+    "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2",
+    "bytes": 82684
+  },
+  {
+    "path": "mechanical/stl/P14_fit_coupon.stl",
+    "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0",
+    "bytes": 81184
+  },
+  {
+    "path": "mechanical/stl/P15_adapter_alignment_carrier.stl",
+    "sha256": "77d023a6c5e01eef63b5982dc2e0f02dd2c33d798ef0e7355cb47fd2c57331e1",
+    "bytes": 133484
+  },
+  {
+    "path": "mechanical/verify_v03.py",
+    "sha256": "6113890cef55ae12f55051f432b0c8bbb159f8079d17cb13e3d8e2a2b51dfba6",
+    "bytes": 3193
+  },
+  {
+    "path": "renders/对接触点与适配板.png",
+    "sha256": "ecd20205d1e4d8324d1a79a5a0d700b30a58d16a59b4356a9b8a18eea166ce21",
+    "bytes": 1513027
+  },
+  {
+    "path": "renders/整机与配件定位壳.png",
+    "sha256": "463646cf8e6987993fba489620a221c64aaad82db52d59286dda42a141536233",
+    "bytes": 1485586
+  },
+  {
+    "path": "renders/适配板与定位壳分解.png",
+    "sha256": "7c4ec1bccd4a52e351a3012c6746930dffa2522cb710f84f7a0c68db6f3ed75a",
+    "bytes": 1244899
+  },
+  {
+    "path": "verification/geometry.json",
+    "sha256": "42e10d6c970295f258e92957589fca790ec6ac583d1ef225b8e5748b6889df6b",
+    "bytes": 1877
+  },
+  {
+    "path": "主板修正与剑身适配板报告.html",
+    "sha256": "fc33ec8504f2bdc5063a8639a08246693b4989ed49b1c7264dc812627efeff4b",
+    "bytes": 36667
+  },
+  {
+    "path": "主板原生回读.json",
+    "sha256": "8ca2f7c26283e434624743f808aee624b15ca82b9757ffb9a0e2c0b7082fb1cc",
+    "bytes": 5850897
+  },
+  {
+    "path": "主板正面布局.png",
+    "sha256": "b4c1f78c7ff55c41f0a453d7a646f66311b2c6d2627e96021071cb90aba0b655",
+    "bytes": 202656
+  },
+  {
+    "path": "主板正面布局.svg",
+    "sha256": "1dc27e1f81dc84c425f8f24d8f697427f33e20f215df21f5adc2c5bc1b383261",
+    "bytes": 58255
+  },
+  {
+    "path": "主板背面布局.png",
+    "sha256": "7027cf93995dd4a4cd720edcb5bc299fa78d0ec59dc616b81ef34849c6fb3b6a",
+    "bytes": 219632
+  },
+  {
+    "path": "主板背面布局.svg",
+    "sha256": "304d7c15366b8b51bdc1f105f8c77977b55c8127e31c5b6b0a3b2b08bec693ae",
+    "bytes": 70678
+  },
+  {
+    "path": "修改前_V074J原生备份.epro2",
+    "sha256": "d9264ca853eb490d1ff7d19cb60163b675252b4404fc0f7472a4ba315413b264",
+    "bytes": 1354625
+  },
+  {
+    "path": "元件与采购索引.json",
+    "sha256": "2ee88a39ef92f8c26efcaea5deff547643e8733f7df88b83fa7ee7dcd636e22b",
+    "bytes": 45988
+  },
+  {
+    "path": "原生工程导出一致性.json",
+    "sha256": "6491b96818dea3f3142a5db2e4d2c2736d81dc302fb761d55583a0aefe652a05",
+    "bytes": 2691
+  },
+  {
+    "path": "导出旧铺铜缓存清理记录.json",
+    "sha256": "4b44681904282bf6b478bc6bcc880629de1676741bc2059ace51b82af4834d02",
+    "bytes": 1347
+  },
+  {
+    "path": "适配板原生回读.json",
+    "sha256": "015f3198743495ca2307e126bcab9887ea5ae0b49d377261b295955f925637d9",
+    "bytes": 1020676
+  },
+  {
+    "path": "适配板正面布局.png",
+    "sha256": "a7408754eed07dda46ae535ee6ae05ae9d89e4b48fc74b0aa72082a2cbbd0e11",
+    "bytes": 110921
+  },
+  {
+    "path": "适配板正面布局.svg",
+    "sha256": "00b9f2b82510fff06abca4e69208af0f02185e065147c9f1a2b544e57fd34a07",
+    "bytes": 16647
+  },
+  {
+    "path": "适配板背面布局.png",
+    "sha256": "a99cb48c245e51a2d54933453c8dad64c5b5fcfdac2adad7962dcf4a0b77c682",
+    "bytes": 97754
+  },
+  {
+    "path": "适配板背面布局.svg",
+    "sha256": "c90f8802fc1f15f3a4b7bf79dba26957d9a9e36e676deb79de20dc0c9c9153cb",
+    "bytes": 5400
+  },
+  {
+    "path": "配件接口协议_V01.txt",
+    "sha256": "2c141f50db55e5016b3d1ee30dea3c49ef61f3e0b946f68c074c5080f8b14c6f",
+    "bytes": 5855
+  },
+  {
+    "path": "验证结果.json",
+    "sha256": "d3eedbdd07427d3025b2fc7f111eb575e83b74773240300ec12d80922aef93c4",
+    "bytes": 4775
+  }
+]

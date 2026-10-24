@@ -1,0 +1,65 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/00_打样接口确认说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/00_打样接口确认说明.txt",
+    "kind": "file",
+    "sha256": "6c9543e297c09f0417d5f18d2e01c9d6c200721d2e1b10678dd4cfbba86b99d5",
+    "bytes": 3761,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/布局复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/布局复核.html",
+    "kind": "file",
+    "sha256": "d5fb06574cb2c13f72821c32eacece8e51a1bd0e308634cd8338ef052b7de025",
+    "bytes": 151206,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/Spirit_V074L_Hanxia_Adapter_V02_NOT_ROUTED_20261024.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/Spirit_V074L_Hanxia_Adapter_V02_NOT_ROUTED_20261024.epro2",
+    "kind": "file",
+    "sha256": "ea928d2a89d36d690d498cee7a0fbfebab6f7a2b672c6316e2a702979df40e18",
+    "bytes": 1604894,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/修改前_V074K.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/修改前_V074K.epro2",
+    "kind": "file",
+    "sha256": "ab68c4c7f9f8483bc1ac086c8d89dbe385cc6a4c81462dc3399ca7b8a9e01380",
+    "bytes": 1614837,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/原生回读.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/原生回读.json",
+    "kind": "file",
+    "sha256": "0634d4a3b047e9c3b751a9ffba43ffba361fc848e32ee00408db862ad561c1ab",
+    "bytes": 7011658,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/验证结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/验证结果.json",
+    "kind": "file",
+    "sha256": "f8c2c45c7082c973c635bf60aee9e928b9a016c3a55a2806517e4455b8610a71",
+    "bytes": 3396,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/对插针序与用料.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/对插针序与用料.json",
+    "kind": "file",
+    "sha256": "0844701f51e0f33287dc7838afcaa7b954eb336227a15524a9e50a5c9a45323e",
+    "bytes": 1078,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

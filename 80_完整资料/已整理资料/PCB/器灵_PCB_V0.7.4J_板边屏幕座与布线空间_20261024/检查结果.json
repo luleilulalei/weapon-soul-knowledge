@@ -1,0 +1,224 @@
+{
+  "version": "V074J",
+  "status": "LAYOUT_ONLY_NOT_ROUTED",
+  "components": 118,
+  "testpads": 15,
+  "same_pin_nets_sch_pcb_before_after": true,
+  "moved_components": [
+    "C29",
+    "C30",
+    "C111",
+    "C113",
+    "C114",
+    "J110",
+    "Q2",
+    "R36",
+    "R37",
+    "R38",
+    "R39",
+    "R121",
+    "R122",
+    "U104",
+    "C112",
+    "L102",
+    "J8",
+    "FB202",
+    "U110",
+    "C130",
+    "C132",
+    "R140",
+    "R141",
+    "C131"
+  ],
+  "geometry_issues": [],
+  "actual_footprints_checked": 29,
+  "PCB_DRC": {
+    "unconnected": 405,
+    "other": 0
+  },
+  "schematic_warnings": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "routing": {
+    "tracks": 0,
+    "vias": 0,
+    "pours": 0
+  },
+  "board_mm": {
+    "main_width": 34,
+    "length": 71.5,
+    "ears_width": 44.4,
+    "overall_width": 49.8
+  },
+  "bottom_fastener_to_MCU_pad_mm": 6.7499555,
+  "fpc_clearance_mm": [
+    -23.5,
+    118.2,
+    -16.9,
+    126.6
+  ],
+  "route_corridors_mm": {
+    "front_center": [
+      1,
+      [
+        -1.8,
+        104,
+        4.5,
+        121
+      ]
+    ],
+    "mcu_left_flank": [
+      1,
+      [
+        -16,
+        86.8,
+        -9.8,
+        93.2
+      ]
+    ],
+    "mcu_right_flank": [
+      1,
+      [
+        9.8,
+        86.8,
+        16,
+        93.2
+      ]
+    ],
+    "back_upper_power": [
+      2,
+      [
+        4.8,
+        135,
+        9.5,
+        148
+      ]
+    ]
+  },
+  "mechanical_review": {
+    "mesh": [
+      {
+        "part": "P01_front_shell",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P02_rear_shell",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P03_PCB_four_hole_carrier",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P04_replaceable_screen_bezel",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P05_screen_rear_retainer",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P06_power_plunger",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P07_battery_cradle",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P08_side_speaker_chamber",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P09_side_speaker_grille",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P10_rear_NFC_holder",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P11_keyed_top_dust_cap",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P12_LRA_retaining_bridge",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      },
+      {
+        "part": "P13_MIC_side_duct",
+        "components": 1,
+        "bad_edges": 0,
+        "bad_locations": []
+      }
+    ],
+    "collisions": [],
+    "pairs_checked": 2840,
+    "intersection_reporting_threshold_mm3": 0.02,
+    "boundary": "Proxy envelopes are conservative; cable sweep, print tolerance, real screen and acoustic/RF performance not validated."
+  },
+  "pcb_source_sha256": "00b8c9de07b5bd07cbcbb0ab4df1d63ba69797d5b1959eee5a51dad6e45503cd",
+  "limitations": [
+    "Routing corridors are geometric capacity reservations, not completed electrical routing or EMI verification.",
+    "FPC length, contact direction, folding and latch access must match the user actual screen.",
+    "Mechanical body heights and plug clearances are review envelopes, not verified physical samples.",
+    "Local mounting ears increase overall PCB width from 44.6 to 49.8mm; existing 62mm housing exterior retained with revised carrier/rear pedestals.",
+    "No autorouter or copper routing used."
+  ]
+}

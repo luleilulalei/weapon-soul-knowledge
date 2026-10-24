@@ -1,0 +1,100 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 118,
+  "silkscreen_labels": 148,
+  "board_length_mm": 71.5,
+  "previous_length_mm": 86.5,
+  "shortened_mm": 15,
+  "main_width_mm": 34,
+  "usb_tongue_total_width_mm": 44.6,
+  "holes": [
+    [
+      -13.5,
+      90
+    ],
+    [
+      13.5,
+      90
+    ],
+    [
+      -13.5,
+      145
+    ],
+    [
+      13.5,
+      145
+    ]
+  ],
+  "hole_diameter_mm": 2.2,
+  "fpc_top_component_keepout_mm": [
+    -7.00000124,
+    123.10000018,
+    7.00000124,
+    133.1000005
+  ],
+  "all_buttons_front_upper": true,
+  "geometry_issues": [],
+  "placement_mismatches": [],
+  "schematic_pcb_pin_maps_match": true,
+  "all_component_pin_nets_unchanged": true,
+  "testpad_nets_all_exist_in_schematic": true,
+  "native_pcb_drc": {
+    "Connection Error": 405
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "source_sha256": "30ac4a3a145763c88cd7f846ce12c8979362fa8b5c8400ad0bedc382c5964767",
+  "limitations": [
+    "Still not routed; 405 connection errors expected. No autorouter used.",
+    "FPC 14x10mm top-side insertion/service keepout is engineering allowance, not a manufacturer-specified minimum; actual screen FPC length/bend and housing remain unverified.",
+    "POWER/BOOT/RESET all front upper; housing should expose only POWER. Anti-accidental-press housing not implemented.",
+    "Two intentional UART single-end schematic warnings and previous J7 property warning retained.",
+    "Board support, screen mount, antenna and NFC RF, power budget, firmware and bench validation remain pending."
+  ],
+  "save_receipt": {
+    "saveReturned": true,
+    "value": true
+  },
+  "changed_components": 20,
+  "moved_testpads": [
+    "TP103",
+    "TP111"
+  ],
+  "overlap_method": "Complete native footprint body/silkscreen/pad axis-aligned bounding envelopes; same side, through-hole cross-side, fastener and FPC keepout checks"
+}

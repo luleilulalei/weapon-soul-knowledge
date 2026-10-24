@@ -1,0 +1,29 @@
+器灵 V0.7.4D｜长按电源键布局确认稿
+
+已同步当前立创项目：Spirit_V0.7.4_Layout_Review_20261021 / Spirit_JLC。
+原生工程：Spirit_V074D_Power_Button_NOT_ROUTED_20261022.epro2。
+布局图：Spirit_V074D_长按电源键布局确认.png（左正面，右背面）。
+
+改动：
+- 删除J111机械开关接口；SW4为唯一日常电源键，BOOT/RST留板调试。
+- U110选用LTC2950-1长按控制器，复用TPS63802、TPS61023的关断功能，BQ24075继续独立充电。
+- 标称长按约2.2秒开机；约3.2秒产生关机请求，随后保存并关电。保存软件尚需接入；即使固件失去响应，控制器仍会在请求后约0.8~1.3秒关闭3V3使能。
+- 131元件、160丝印；主控底端天线向下/NFC背面/4孔不变。无重叠，SCH/PCB引脚一致；PCB仅437未连接，J7既有原理图属性警告仍待核。
+- 仍未布线，未使用自动布线。此文件供布局确认，不可直接投板。
+
+必要新增物料：
+U110 LTC2950CTS8-1#TRMPBF，C114188；SW4 TS-1088R-02026，C455280；
+C130 100nF C14663；C131 330nF C1615；C132 470nF C1623；R140/R141 10kΩ C25804。
+订货编号已核对，现货量及单价需下单前复核；本轮未采购。
+
+关机后仍有充电与按键检测电流，不能把控制器自身6µA典型值说成整机待机电流。USB500配置未改，整机功耗/充电和温升预算仍待核定。
+固件接入及实物检查见01_电源键固件与实测接口.txt。SW4帽/壳/屏配合待机械核对。工程内缩略图可能为旧缓存，实际源文件、引脚网表和本次布局图为检查依据。
+
+技术依据：
+https://www.analog.com/media/en/technical-documentation/data-sheets/295012fd.pdf
+https://www.ti.com/lit/ds/symlink/tps63802.pdf
+https://www.ti.com/lit/ds/symlink/tps61023.pdf
+https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.html
+商城： https://item.szlcsc.com/115428.html （U110）
+https://item.szlcsc.com/1967.html （C131）；https://www.lcsc.com/product-detail/C1623.html （C132）
+https://item.szlcsc.com/457635.html （SW4）

@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "PCB_V074H_ACTUAL_OUTLINE",
+    "center": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox": [
+      44.599998474121094,
+      71.5,
+      1.600000023841858
+    ],
+    "status": "native outline/holes; thickness review assumption 1.6"
+  },
+  {
+    "name": "PCB_C1",
+    "center": [
+      11.199962615966797,
+      109.800048828125,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C2",
+    "center": [
+      13.199960708618164,
+      109.800048828125,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C3",
+    "center": [
+      11.500038146972656,
+      109.800048828125,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C4",
+    "center": [
+      15.19996166229248,
+      109.800048828125,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C5",
+    "center": [
+      14.600050926208496,
+      113.50003814697266,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C7",
+    "center": [
+      -2.9999608993530273,
+      125.00005340576172,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C8",
+    "center": [
+      3.00003719329834,
+      125.00005340576172,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C9",
+    "center": [
+      5.080000119050965e-05,
+      128.99996948242188,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C11",
+    "center": [
+      -2.499962091445923,
+      142.0000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C12",
+    "center": [
+      -0.29996129870414734,
+      142.0000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C13",
+    "center": [
+      -5.699960708618164,
+      130.0000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C14",
+    "center": [
+      -5.699960708618164,
+      126.50005340576172,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C15",
+    "center": [
+      12.000049591064453,
+      134.50003051757812,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C16",
+    "center": [
+      12.00005054473877,
+      141.50003051757812,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C29",
+    "center": [
+      -2.999948263168335,
+      142.5000457763672,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C30",
+    "center": [
+      5.080000119050965e-05,
+      142.5000457763672,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C103",
+    "center": [
+      -3.5000007152557373,
+      156.3000030517578,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C105",
+    "center": [
+      3.5000007152557373,
+      157.0,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C107",
+    "center": [
+      -10.499999046325684,
+      166.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C109",
+    "center": [
+      -5.499999046325684,
+      172.1999969482422,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      3.9271955490112305,
+      1.8072099685668945,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C111",
+    "center": [
+      3.5000007152557373,
+      170.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C113",
+    "center": [
+      11.999999046325684,
+      167.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      3.9271955490112305,
+      1.8072099685668945,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C114",
+    "center": [
+      8.500039100646973,
+      164.5000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C119",
+    "center": [
+      12.5,
+      133.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J2",
+    "center": [
+      -12.862496376037598,
+      138.50001525878906,
+      3.049999952316284
+    ],
+    "bbox": [
+      5.850000858306885,
+      9.799955368041992,
+      2.9000000953674316
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J3",
+    "center": [
+      -13.862497329711914,
+      123.69999694824219,
+      3.049999952316284
+    ],
+    "bbox": [
+      5.550026893615723,
+      4.7999396324157715,
+      2.9000000953674316
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J101",
+    "center": [
+      23.984960556030273,
+      146.5,
+      3.299999952316284
+    ],
+    "bbox": [
+      8.218271255493164,
+      9.850221633911133,
+      3.4000000953674316
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J104",
+    "center": [
+      -2.9999990463256836,
+      149.715576171875,
+      -1.0
+    ],
+    "bbox": [
+      9.460052490234375,
+      6.621144771575928,
+      2.0
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J110",
+    "center": [
+      11.862496376037598,
+      157.5,
+      3.049999952316284
+    ],
+    "bbox": [
+      5.550026893615723,
+      4.7999396324157715,
+      2.9000000953674316
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_Q2",
+    "center": [
+      -9.0,
+      146.5,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.9999940395355225,
+      3.052419662475586,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_Q102",
+    "center": [
+      -11.000000953674316,
+      153.5000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      3.2999680042266846,
+      2.9999940395355225,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_Q103",
+    "center": [
+      -11.000000953674316,
+      157.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      2.9999940395355225,
+      3.052419662475586,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R1",
+    "center": [
+      11.199999809265137,
+      113.5,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R2",
+    "center": [
+      -11.399999618530273,
+      127.0999984741211,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R4",
+    "center": [
+      -11.699999809265137,
+      109.5999984741211,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R5",
+    "center": [
+      -14.199999809265137,
+      109.5999984741211,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R6",
+    "center": [
+      -2.5,
+      145.10000610351562,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R9",
+    "center": [
+      -12.999999046325684,
+      133.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R10",
+    "center": [
+      -15.300000190734863,
+      130.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R15",
+    "center": [
+      9.0,
+      133.5,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R26",
+    "center": [
+      6.499999523162842,
+      133.5,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R32",
+    "center": [
+      4.800000190734863,
+      128.8000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R33",
+    "center": [
+      3.200000047683716,
+      128.8000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R34",
+    "center": [
+      1.600000023841858,
+      128.8000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R35",
+    "center": [
+      0.0,
+      128.8000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R36",
+    "center": [
+      -7.500000476837158,
+      141.5,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R37",
+    "center": [
+      -10.499999046325684,
+      149.5,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R38",
+    "center": [
+      -4.1999993324279785,
+      139.5,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R39",
+    "center": [
+      8.500000953674316,
+      143.0,
+      2.0
+    ],
+    "bbox": [
+      2.1581871509552,
+      4.622241020202637,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R103",
+    "center": [
+      16.600000381469727,
+      150.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R104",
+    "center": [
+      16.600000381469727,
+      148.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R108",
+    "center": [
+      -3.5,
+      160.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R113",
+    "center": [
+      5.499999046325684,
+      154.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R114",
+    "center": [
+      -3.5,
+      162.89999389648438,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R115",
+    "center": [
+      -3.5,
+      164.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R116",
+    "center": [
+      -8.75,
+      163.8000030517578,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R118",
+    "center": [
+      -10.300000190734863,
+      176.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R119",
+    "center": [
+      -0.4999989867210388,
+      163.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R120",
+    "center": [
+      0.0,
+      161.1999969482422,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R121",
+    "center": [
+      6.000000476837158,
+      164.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R122",
+    "center": [
+      3.999999523162842,
+      164.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R123",
+    "center": [
+      -14.0,
+      153.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R124",
+    "center": [
+      -14.0,
+      157.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R125",
+    "center": [
+      -14.0,
+      160.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R126",
+    "center": [
+      -7.999999046325684,
+      156.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R129",
+    "center": [
+      -10.499999046325684,
+      149.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R130",
+    "center": [
+      -13.500000953674316,
+      148.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R131",
+    "center": [
+      -10.499999046325684,
+      147.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R132",
+    "center": [
+      -13.500000953674316,
+      146.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R133",
+    "center": [
+      -10.499999046325684,
+      145.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R134",
+    "center": [
+      -13.500000953674316,
+      144.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_SW1",
+    "center": [
+      0.0,
+      164.5,
+      2.5999999046325684
+    ],
+    "bbox": [
+      5.59981107711792,
+      3.0823915004730225,
+      2.0
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_SW2",
+    "center": [
+      10.0,
+      164.5,
+      2.5999999046325684
+    ],
+    "bbox": [
+      5.59981107711792,
+      3.0823915004730225,
+      2.0
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U1",
+    "center": [
+      0.0,
+      113.92499542236328,
+      3.25
+    ],
+    "bbox": [
+      19.000089645385742,
+      26.039915084838867,
+      3.299999952316284
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U2",
+    "center": [
+      0.1143508031964302,
+      125.9999008178711,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      3.381197214126587,
+      2.652369499206543,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U3",
+    "center": [
+      -5.9760613441467285,
+      142.86741638183594,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      3.200273036956787,
+      3.7449886798858643,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U4",
+    "center": [
+      -9.499999046325684,
+      130.0495147705078,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      3.5999927520751953,
+      3.6990272998809814,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U5",
+    "center": [
+      12.050100326538086,
+      137.8499755859375,
+      2.125
+    ],
+    "bbox": [
+      3.1001970767974854,
+      4.499940395355225,
+      1.0499999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U101",
+    "center": [
+      16.600000381469727,
+      145.8603973388672,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      3.370198965072632,
+      3.3575751781463623,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U102",
+    "center": [
+      -0.07506334781646729,
+      157.5,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      4.000131607055664,
+      3.8500049114227295,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U104",
+    "center": [
+      7.500000476837158,
+      168.4049835205078,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      2.0999703407287598,
+      1.7898871898651123,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U105",
+    "center": [
+      7.999999046325684,
+      133.94882202148438,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      6.00001335144043,
+      3.145535945892334,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C101",
+    "center": [
+      8.999961853027344,
+      150.300048828125,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C102",
+    "center": [
+      8.999961853027344,
+      153.5000457763672,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C104",
+    "center": [
+      -5.50003719329834,
+      156.29994201660156,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C106",
+    "center": [
+      5.50003719329834,
+      157.0000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C108",
+    "center": [
+      -6.499948978424072,
+      164.59996032714844,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C112",
+    "center": [
+      3.9000508785247803,
+      167.49996948242188,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C115",
+    "center": [
+      -10.999950408935547,
+      161.49996948242188,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C120",
+    "center": [
+      5.000038146972656,
+      130.70005798339844,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C121",
+    "center": [
+      14.80003833770752,
+      137.0000457763672,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_F101",
+    "center": [
+      12.999999046325684,
+      152.0,
+      3.0
+    ],
+    "bbox": [
+      5.5879998207092285,
+      4.064000129699707,
+      2.799999952316284
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_L102",
+    "center": [
+      7.500000476837158,
+      173.0,
+      -1.100000023841858
+    ],
+    "bbox": [
+      5.455869197845459,
+      4.352391719818115,
+      2.200000047683716
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R8",
+    "center": [
+      -12.999999046325684,
+      130.0,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R110",
+    "center": [
+      2.9999990463256836,
+      160.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R111",
+    "center": [
+      -7.5,
+      159.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R112",
+    "center": [
+      7.500000476837158,
+      153.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R307",
+    "center": [
+      -3.999999523162842,
+      170.3000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R308",
+    "center": [
+      -1.0000005960464478,
+      170.3000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R312",
+    "center": [
+      2.0000011920928955,
+      170.3000030517578,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U103",
+    "center": [
+      -6.073603630065918,
+      168.44996643066406,
+      -0.6499999761581421
+    ],
+    "bbox": [
+      2.6972386837005615,
+      3.148076057434082,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_L101",
+    "center": [
+      -0.4999989867210388,
+      168.5,
+      -1.5499999523162842
+    ],
+    "bbox": [
+      5.352389812469482,
+      6.000064373016357,
+      3.0999999046325684
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R117",
+    "center": [
+      -8.800000190734863,
+      172.5,
+      -0.4000000059604645
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C128",
+    "center": [
+      -5.499999046325684,
+      174.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      3.9271955490112305,
+      1.8072099685668945,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C129",
+    "center": [
+      -13.19999885559082,
+      166.5,
+      -0.6000000238418579
+    ],
+    "bbox": [
+      1.8072099685668945,
+      3.9271955490112305,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J201",
+    "center": [
+      7.927001953125,
+      144.39999389648438,
+      -2.5999999046325684
+    ],
+    "bbox": [
+      11.446002006530762,
+      12.033961296081543,
+      5.199999809265137
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J8",
+    "center": [
+      0.0,
+      147.4620361328125,
+      2.5999999046325684
+    ],
+    "bbox": [
+      11.90002727508545,
+      5.624245643615723,
+      2.0
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_FB202",
+    "center": [
+      3.500025987625122,
+      142.4993133544922,
+      2.0
+    ],
+    "bbox": [
+      2.848254442214966,
+      1.301343560218811,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_J7",
+    "center": [
+      -0.5900000929832458,
+      178.83700561523438,
+      4.849999904632568
+    ],
+    "bbox": [
+      16.420000076293945,
+      7.874000072479248,
+      6.5
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R137",
+    "center": [
+      12.5,
+      149.0,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R138",
+    "center": [
+      12.5,
+      146.0,
+      2.0
+    ],
+    "bbox": [
+      2.770174741744995,
+      1.3212064504623413,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_U110",
+    "center": [
+      -10.086918830871582,
+      157.5,
+      2.25
+    ],
+    "bbox": [
+      3.0740604400634766,
+      3.4199321269989014,
+      1.2999999523162842
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_SW4",
+    "center": [
+      -10.0,
+      164.5,
+      2.5999999046325684
+    ],
+    "bbox": [
+      5.59981107711792,
+      3.0823915004730225,
+      2.0
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C130",
+    "center": [
+      -14.000038146972656,
+      157.5000457763672,
+      2.200000047683716
+    ],
+    "bbox": [
+      1.4201394319534302,
+      2.77992844581604,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C132",
+    "center": [
+      -9.99994945526123,
+      160.70004272460938,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R140",
+    "center": [
+      -14.0,
+      154.0,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_R141",
+    "center": [
+      -14.0,
+      160.6999969482422,
+      2.0
+    ],
+    "bbox": [
+      1.3212064504623413,
+      2.770174741744995,
+      0.800000011920929
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "PCB_C131",
+    "center": [
+      -9.99994945526123,
+      154.30003356933594,
+      2.200000047683716
+    ],
+    "bbox": [
+      2.77992844581604,
+      1.4201394319534302,
+      1.2000000476837158
+    ],
+    "status": "catalog/model nominal or conservative review allowance; verify actual sample"
+  },
+  {
+    "name": "UNCONFIRMED_USER_GC9A01_SCREEN",
+    "center": [
+      0.0,
+      138.5,
+      12.649999618530273
+    ],
+    "bbox": [
+      35.79999923706055,
+      37.05000305175781,
+      1.7999999523162842
+    ],
+    "status": "35.8 mm proxy from old screen, NOT user screen dimensions"
+  },
+  {
+    "name": "BATTERY_MAX_19p1x69p2",
+    "center": [
+      0.0,
+      48.0,
+      -8.5
+    ],
+    "bbox": [
+      19.100000381469727,
+      69.19999694824219,
+      19.100004196166992
+    ],
+    "status": "prior selected protected pack max; actual pack/lead verification pending"
+  },
+  {
+    "name": "SPEAKER_20mm_PROXY",
+    "center": [
+      -18.600000381469727,
+      48.0,
+      1.0
+    ],
+    "bbox": [
+      4.000000953674316,
+      20.0,
+      20.0
+    ],
+    "status": "20mm diameter x4mm assumed envelope, sample pending"
+  },
+  {
+    "name": "NFC_ANTENNA_28x35_PROXY",
+    "center": [
+      0.0,
+      138.5,
+      -19.299999237060547
+    ],
+    "bbox": [
+      28.0,
+      35.0,
+      1.0
+    ],
+    "status": "antenna dimensions provisional; rear-facing scan zone"
+  },
+  {
+    "name": "NFC_CONTROL_25p43x20p35_PROXY",
+    "center": [
+      0.0,
+      168.0,
+      -15.0
+    ],
+    "bbox": [
+      25.43000030517578,
+      20.350000381469727,
+      3.5999999046325684
+    ],
+    "status": "Seeed control board XY nominal; height allowance 3.6"
+  },
+  {
+    "name": "LRA_LD0825_BODY_PROXY",
+    "center": [
+      12.5,
+      76.0,
+      8.199999809265137
+    ],
+    "bbox": [
+      8.199999809265137,
+      8.199999809265137,
+      2.700000047683716
+    ],
+    "status": "current part proxy, fit and adhesive stack unconfirmed"
+  }
+]

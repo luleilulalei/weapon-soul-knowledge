@@ -1,0 +1,303 @@
+DRAWN:黄彬张伟罗小春2022/04/24
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司
+HX PZ2.0-2x3P WZ 
+2022/04/24
+
+承 认 书
+SPECIFICATIONFOR APPROVAL
+客 户 Customer：
+产品名称 Project：
+贵公司承认印 Approal slgnatures
+料 号/Part No. 签 章/Signatures
+日期 Date :
+拟制/Drawn
+审核/Check
+批准/Approved
+深圳市韩下电子有限公司
+Shenzhen Hanxia Electronic Co., L td
+Tel: 0755-33819206 Fax: 0755-27597491
+黄彬
+张伟
+罗 小春
+  
+排 针
+规格型号 Part No：
+深圳市韩下电子有限公司 HX PZ2.0-2x3P WZ  
+
+: (适用范围)
+This specification covers production and inspection of Connector.
+本规范内容适用于本公司普通系列型条形连接器（针座）产品的生产与检验.
+2
+ USE CONDITION: (使用条件)
+2.1 Ambient temperature Range:-40
+ +
+ 5
+环境温度：-40 ℃ ~+105 ℃
+2.2
+2.
+Applicable Wire Sizes:    /
+3
+ ~1.
+ mm
+适用线规： /
+Applicable PC board thickness:
+适用 PC 板厚度： 1.2~1.6 mm
+3
+ Appearance and Dimension: （ 外 观 及 尺 寸 ）
+3.1 Appearance:Product surface without defect
+ dirt
+ crack
+ and mechanical damang,
+Contact without rust,plating not oxided and not peeled.
+产品表面不应有对制品有害的缺陷、污垢、裂痕及机械损伤；接触件无锈蚀、镀层
+氧化、脱落等现象.
+3.2 Dimension:According to drawings
+外形尺寸：依照附图
+3.3 Exchangable:Exchangable with same specification products.
+互换性：相同规格应能互换
+Material:
+材 料
+P/N
+零件名称
+Type
+类 型
+Material
+材 料
+Finish
+表面处理
+Expiain
+说 明
+Terminal
+端子
+Contact
+插 簧
+Phosphor bronze
+锡青磷铜 厚 0.15mm
+Tin Plating:3~4 μm
+镀锡： 3~4μm
+RoHS
+Comp liant
+Housing
+孔 座
+Plastic
+塑 壳 Nylon66 UL94V-0 Color:White
+颜色：白色
+OpeningWafer
+开口针座
+Contact
+插 针
+Phosphor bronze
+锡青磷铜 厚 0.30mm
+Tin Plating:3~4 μm
+镀锡： 3~4μm
+Plastic
+塑 壳 Nylon46 UL94V-0 Color: Beige
+颜色：米色
+Lips Wafer
+闭口针座
+Contact
+插 针
+Phosphor bronze
+锡青磷铜 厚 0.30mm
+Gold Plating:3~4 μ〃 m
+镀金： 3~4μ〃 m
+Plastic
+塑 壳 PBT UL94V-0 Color: White
+颜色：白色
+Tiepian Wafer
+卧贴针座
+立贴针座
+Contact
+插 针
+Phosphor bronze
+锡青磷铜 厚 0.30mm
+Tin Plating:3~4 μm
+镀锡： 3~4μm
+Solder tabs
+焊护耳
+Phosphor bronze
+锡青磷铜 厚 0.25 mm
+Tin Plating:3~4 μm
+镀锡： 3~4μm
+Plastic
+塑 壳 Nylon46 UL94V-0 Color: Beige
+颜色：米色
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司
+
+5
+ Electriacl Performance:
+电 气 性 能
+N0.
+序号
+Ltem
+项 目
+Requirement
+技术要求
+5.1 Voltage Rated
+额定电压
+5.
+250V AC DC
+2 Current Rated
+额定电流 AC D1.5A C
+5.3 Contact Resistance
+接触电阻 ≤0.02Ω
+5.4 Insulation Resistance
+绝缘电阻 ≥1000 MΩ
+5.5 Dielectric Strength
+耐 压 ≥500 V AC/minute
+6
+ Mechanical Performance:
+机 械 性 能
+N0.
+序号
+Ltem
+项 目
+Requirement
+技术要求
+6.1 Male contact Retention force
+PIN 针固定力
+6.
+≥10N per pin
+2 Female contactRetention force
+端子固定力
+6.
+≥10N per pin
+3
+Plug-in force
+插入力
+≤3N per pin
+6.4
+Plug-out force
+拔出力
+≥0.5N per pin
+Endurance Characteristics:
+环 境 性 能
+N0.
+序号
+Ltem
+项 目
+Requirement
+技术要求
+7.1 Soldering rest
+可焊性
+Time:2.5±0.5S
+时间：2.5±0.5S
+Temperature:2 6 0 ± 5 ℃
+温度：260±5℃
+Area of Soldering: ≥ 9 5 %
+焊锡面积： ≥95%
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司
+
+7.2
+Resistance to soldering Heat
+耐焊接热
+Time:5 ±1S
+时间:5±1S
+Temperature: 2 6 0 ± 5 ℃
+温度：260±5℃
+Appearance:N0 Damage
+外观：无损坏
+7.3 Heat test
+耐热性
+Time:96h
+时间：96 小时
+Temperature: + 8 5 ± 3 ℃
+温度：+85±3℃
+Appearance:N0 Damage
+外观：无损坏
+Contact resistance: ≤ 2 0 m Ω
+接触电阻： ≤20 mΩ
+7.4 Cold test
+耐冷性
+Time:48h
+时间：48 小时
+Temperature: - 2 5 ± 3 ℃
+温度： -25±3℃
+Appearance:N0 Damage
+外观：无损坏
+Contact resistance: ≤ 2 0 m Ω
+接触电阻： ≤20 mΩ
+7.5 Temperature Cycling
+温度循环
+Low temperature: - 2 5 ± 3 ℃
+低温： -25±3℃
+High temperature: 8 5 ± 3 ℃
+高温：85±3℃
+For 5 cycles.test after keeping in Normal
+Condition for 30 min.
+5 次循环后， 放置在正常环境中 30 分钟， 在进
+行测试
+Appearance: N0 Damage
+外观：无损坏
+Contact resistance: ≤ 2 0 m Ω
+接触电阻： ≤20 mΩ
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司
+
+7.6
+lnvariablenes humidity
+恒定湿热
+Temperature: 6 0 ± 2 ℃
+温度：60±2℃
+Relative humidity:9 0 % - 9 6 % RH
+相对湿度：90%-96% RH
+Tim:96h
+时间：96 小时
+Appearance:N0 Damage
+外观：无损坏
+Contact resistance: ≤ 2 0 m Ω
+接触电阻： ≤20 mΩ
+lnsulation Resistance: ≥ 1 0 0 M Ω
+绝缘电阻： ≥100 MΩ
+7.7 Salt Spray
+盐雾试验
+Salt concentration: 5 ± 1 %
+浓度：5±1%
+Temperature: 3 5 ± 2 ℃
+温度：35±2℃
+Tim:16±2h
+时间：16±2 小时
+After salt is removed by running wafer and
+A drop is removed ,it is measured.
+把试验样品从试验箱顶悬挂下来， 采用浓度(
+5±1） %的氯化钠溶液， 连续雾化 16 小时， 试
+验后用流动的蒸馏水轻轻洗去表面沉积物， 在
+常温常驻湿条件下恢复 1-2 小时， 外观无损伤
+Appearance:N0 Damage
+外观：无损坏
+Contact resistance: ≤ 2 0 m Ω
+接触电阻： ≤20 mΩ
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司
+
+Packaging Transportation Storage
+包装、运输、贮存
+8.1 Packaging
+包装
+（1） The packing of plastic inner is the plastic bag,the packing of inner terminal is panel
+mounting attach material packing, marked with product name, specification model,
+quantity, date in produced.
+塑件内包装为塑料袋， 端子内包装为盘装带料包装， 装（贴） 入合格证， 注明产品名称、
+规格型号、数量生产日期
+（2） Exterior package is carton, facing the packing list, the packing list marked with product
+name, specificcation model, quantity, date of dispatch.
+外包装为纸箱，贴装箱单、装箱单上注明产品名称、规格型号、数量、出货日期
+（3） The product in the box must not rock.
+产品在箱内不晃动
+8.2 Transportation
+运输
+Allow for any way transportation, can’t get wet and mechanical in jury.
+允许用任何方式运输，勿淋湿及机械性损伤
+8.3 Storage
+贮存
+The connector of packing finished should be in the ambient temperature between-10℃
+to+40℃, Relative humidity
+ 80%. To store in storehouse does not have acidic, alkaline air
+and other corrosive gas in the ambient air.
+包装完毕的连接器应在环境温度为-10 ℃~+40 ℃,相对湿度≤80 %，周围空气中没有酸性，
+碱性及其它腐蚀性气体的库房中贮存
+深圳市韩下电子有限公司
+深圳市韩下电子有限公司

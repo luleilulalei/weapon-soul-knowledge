@@ -1,0 +1,134 @@
+{
+  "Spirit_JLC": {
+    "components": 129,
+    "pads_checked": 457,
+    "changed_components": [
+      "C11",
+      "C12",
+      "R6",
+      "R129",
+      "R130",
+      "R131",
+      "R132",
+      "R133",
+      "R134",
+      "U3"
+    ],
+    "netlist_match": true,
+    "nets_unchanged": true,
+    "minimum_same_side_gap_mm": [
+      0.29997908000001416,
+      "C11",
+      "U3"
+    ],
+    "cross_side_through_collisions": [],
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 438
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "659f8762f24db281",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N92"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "bb22996a146d7555",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N93"
+          }
+        ]
+      }
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    }
+  },
+  "Spirit_Blade_Adapter_V01": {
+    "components": 16,
+    "pads_checked": 65,
+    "changed_components": [],
+    "netlist_match": true,
+    "nets_unchanged": true,
+    "minimum_same_side_gap_mm": [
+      0.5498820599999998,
+      "C705",
+      "J702"
+    ],
+    "cross_side_through_collisions": [],
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 58
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "33b667ce81ded764",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N14"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "fe754d3db1cff2f0",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N13"
+          }
+        ]
+      }
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    }
+  },
+  "battery_corridors_mm": {
+    "battery_escape": [
+      2,
+      [
+        -9.9,
+        109.4,
+        -3.1,
+        115.7
+      ]
+    ],
+    "battery_approach": [
+      2,
+      [
+        -6.3,
+        115.7,
+        -3.1,
+        119.6
+      ]
+    ]
+  },
+  "notes": [
+    "Courtyards are conservative body/pad envelopes; 3D enclosure clearance not revalidated.",
+    "Corridors reserve component-free routing area, not a completed copper route or current-rating claim.",
+    "No autorouting. Both PCBs remain unrouted."
+  ]
+}

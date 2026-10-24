@@ -1,0 +1,8 @@
+{
+  "operation": "native schematic import + PCB save",
+  "ok": true,
+  "placementPreserved": true,
+  "saved": true,
+  "schematicSaved": true,
+  "pcb_source_sha256": "24756ae09de55783febea55e86774962982cbab9f5c312afc7de912dcd7c3864"
+}

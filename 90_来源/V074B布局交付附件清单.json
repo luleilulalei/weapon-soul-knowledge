@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_Rear_NFC_No_SW3_J1_NOT_ROUTED_20261021.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_Rear_NFC_No_SW3_J1_NOT_ROUTED_20261021.epro2",
+    "kind": "file",
+    "sha256": "b2343a2a08cd323ff40012d2b1f4f64c678e2972c53826eaaf49f8979ad84bbc",
+    "bytes": 1380769,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_背面NFC布局确认.png",
+    "kind": "file",
+    "sha256": "3dc33b22ed6abc3f8cad6793a7cd179d9c759ea78494d76378b0ea124a9d8154",
+    "bytes": 434769,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/Spirit_V074B_检查结果.json",
+    "kind": "file",
+    "sha256": "15e306cfb9fb0b47324fb746a4b4e0694a2f94e24a68bc533c6619927e7ddce2",
+    "bytes": 1483,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/00_变更说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/00_变更说明.txt",
+    "kind": "file",
+    "sha256": "f74adb2a14dfe1a8659f0d871e92ff3f6fe0f2b04cd26cda7efa97f9fd672455",
+    "bytes": 1744,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/用户确认_取消SW3_J1与背面NFC_20261021.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/用户确认_取消SW3_J1与背面NFC_20261021.txt",
+    "kind": "file",
+    "sha256": "8dafb50763840ed530982c42fdc7ddf27d53914fbc60a75e1ef9430b1d358ed4",
+    "bytes": 1737,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-plan.json",
+    "kind": "file",
+    "sha256": "ed257a9ef40dee9ed24763a0155405c7f406a7f08d751f2847f9649c72d751ba",
+    "bytes": 13630,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-silk.json",
+    "kind": "file",
+    "sha256": "2eb41a7b6264ddd850ee2ad10b95ab6f57bf4d5e53f9acb4cce4995b684ff38f",
+    "bytes": 51238,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/layout-v074b-final-verify.json",
+    "kind": "file",
+    "sha256": "c7b5f10fe01aa9ed4975dc057c36caa49fb23a16f170ed620d87454d62e97f28",
+    "bytes": 1596177,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/历史备份/Spirit_V074_Before_SW3_J1_NFC_Change_20261021.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/历史备份/Spirit_V074_Before_SW3_J1_NFC_Change_20261021.epro2",
+    "kind": "file",
+    "sha256": "7d5aa93b993e802f9075cd6ded4f9d8073255638b8d32ff7bd771b1ebc0183a2",
+    "bytes": 1388875,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/历史备份/Spirit_V074_Before_Tree_Cleanup_20261021.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4_布局确认_20261021/历史备份/Spirit_V074_Before_Tree_Cleanup_20261021.epro2",
+    "kind": "file",
+    "sha256": "2e679ad18bad5b411534dfc245da781c314b35e3e510fc68e02b10768013d907",
+    "bytes": 1633423,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

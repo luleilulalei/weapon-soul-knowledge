@@ -1,0 +1,65 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/00_布局调整说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/00_布局调整说明.txt",
+    "kind": "file",
+    "sha256": "54049d43f1559fb5fa6bd4cb509165115f20fea604a56b26b1fc1596c9e5e799",
+    "bytes": 2336,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/布局复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/布局复核.html",
+    "kind": "file",
+    "sha256": "39e2d5b962b2106befe920add12bba20183dd2b35fcee9482cc3fb671b385991",
+    "bytes": 326258,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/Spirit_V074M_U3_FRONT_NOT_ROUTED_20261024.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/Spirit_V074M_U3_FRONT_NOT_ROUTED_20261024.epro2",
+    "kind": "file",
+    "sha256": "38936d50ef6582dd215a6a52a6968431b4ec25a89b3254b2898b24b3ddcdef0e",
+    "bytes": 1604203,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/修改前_V074L.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/修改前_V074L.epro2",
+    "kind": "file",
+    "sha256": "7f76147d4bb480beaef193b8c797cf5b0baa35b626184893395bcf94fc3add8a",
+    "bytes": 1604895,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/原生回读.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/原生回读.json",
+    "kind": "file",
+    "sha256": "347be42f44819b98c4fa4df3605ecdb12177ffef43583f3a7e6ba757596128d3",
+    "bytes": 7012951,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/验证结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/验证结果.json",
+    "kind": "file",
+    "sha256": "c35eec7e648e5dd94de45cc9fb5003e208759a0d3d6336a0331ad3a7c97f9270",
+    "bytes": 2625,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/调整坐标与丝印.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/调整坐标与丝印.json",
+    "kind": "file",
+    "sha256": "3c7b9ed01ff7cc43766d335cec013e484cb4e8b64b8b557d0c4cc507d7abdd81",
+    "bytes": 6462,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

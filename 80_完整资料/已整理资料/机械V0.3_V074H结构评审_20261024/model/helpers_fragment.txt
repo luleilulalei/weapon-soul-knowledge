@@ -1,0 +1,31 @@
+def coll(name):
+ c=bpy.data.collections.new(name); scene.collection.children.link(c); return c
+prod=coll('01_PRINTED_PARTS_mm'); dum=coll('02_UNPRINTED_DUMMY_COMPONENTS'); reviews=coll('03_REVIEW_VOLUMES_NOT_FIT_APPROVAL'); viz=coll('04_RENDER_ONLY')
+def move(o,c):
+ for cc in list(o.users_collection): cc.objects.unlink(o)
+ c.objects.link(o)
+def mat(n,c,metal=0):
+ m=bpy.data.materials.new(n); m.diffuse_color=(*c,1); m.use_nodes=True; bs=m.node_tree.nodes.get('Principled BSDF'); bs.inputs['Base Color'].default_value=(*c,1); bs.inputs['Metallic'].default_value=metal; bs.inputs['Roughness'].default_value=.3; return m
+ivory=mat('Warm ceramic | printed polymer',(0.65,.64,.57)); dark=mat('Graphite polymer',(.055,.07,.08)); copper=mat('Ochre polymer, NOT metal',(.36,.23,.095)); blue=mat('Dummy PCB',(.02,.18,.20)); batteryMat=mat('Battery dummy',(.22,.27,.31)); glass=mat('Display black',(.005,.015,.025)); cyan=mat('Expression cyan',(.02,.6,.85));
+cyan.node_tree.nodes.get('Principled BSDF').inputs['Emission Color'].default_value=(.01,.5,1,1); cyan.node_tree.nodes.get('Principled BSDF').inputs['Emission Strength'].default_value=2
+
+def finish(o,n,m=None,c=prod):
+ o.name=n; move(o,c)
+ if m: o.data.materials.clear(); o.data.materials.append(m)
+ return o
+
+def cube(n,dim,pos,m=None,c=prod,bev=0):
+ bpy.ops.mesh.primitive_cube_add(size=1,location=pos); o=bpy.context.object; o.dimensions=dim; bpy.ops.object.transform_apply(location=False,rotation=False,scale=True)
+ if bev:
+  mod=o.modifiers.new('Rounded edges','BEVEL'); mod.width=bev; mod.segments=3; bpy.context.view_layer.objects.active=o; bpy.ops.object.modifier_apply(modifier=mod.name)
+ return finish(o,n,m,c)
+def cyl(n,r,depth,pos,m=None,c=prod,axis='Z',verts=96):
+ bpy.ops.mesh.primitive_cylinder_add(vertices=verts,radius=r,depth=depth,location=pos); o=bpy.context.object
+ if axis=='Y': o.rotation_euler.x=math.pi/2
+ if axis=='X': o.rotation_euler.y=math.pi/2
+ bpy.ops.object.transform_apply(location=False,rotation=True,scale=True); return finish(o,n,m,c)
+def boolean(a,b,op='DIFFERENCE'):
+ bpy.context.view_layer.objects.active=a; mod=a.modifiers.new(op,'BOOLEAN'); mod.operation=op; mod.solver='EXACT'; mod.object=b; bpy.ops.object.modifier_apply(modifier=mod.name); bpy.data.objects.remove(b,do_unlink=True)
+def union(a,b): boolean(a,b,'UNION')
+def bevel(o,w=.55):
+ bpy.context.view_layer.objects.active=o; mod=o.modifiers.new('Edge relief','BEVEL'); mod.width=w; mod.segments=3; mod.affect='EDGES'; bpy.ops.object.modifier_apply(modifier=mod.name)

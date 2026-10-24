@@ -1,0 +1,60 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 137,
+  "placement_mismatches": [],
+  "component_geometry_issues": [],
+  "mounting_holes_mm": [
+    {
+      "x": -13.5,
+      "y": 90.0,
+      "diameter": 2.2,
+      "plated": false,
+      "screw_head_clearance_diameter": 5.5
+    },
+    {
+      "x": 13.5,
+      "y": 90.0,
+      "diameter": 2.2,
+      "plated": false,
+      "screw_head_clearance_diameter": 5.5
+    },
+    {
+      "x": -13.5,
+      "y": 160.0,
+      "diameter": 2.2,
+      "plated": false,
+      "screw_head_clearance_diameter": 5.5
+    },
+    {
+      "x": 13.5,
+      "y": 160.0,
+      "diameter": 2.2,
+      "plated": false,
+      "screw_head_clearance_diameter": 5.5
+    }
+  ],
+  "silkscreen_labels": 166,
+  "net_pin_mapping_preserved": true,
+  "native_drc": {
+    "Connection Error": 462
+  },
+  "unrouted_connection_errors_expected": 462,
+  "pcb_length_mm": 86.5,
+  "pcb_body_width_mm": 34,
+  "pcb_total_width_at_usb_mm": 44.6,
+  "mcu_antenna_points": "negative Y / bottom edge",
+  "mcu_top_side": true,
+  "routes": 0,
+  "vias": 0,
+  "pours": 0,
+  "limitations": [
+    "Screen actual FPC pinout and dimensions unverified.",
+    "No whole-product mechanical fit or RF validation.",
+    "Axial contact candidate is not yet a confirmed LCSC purchase item."
+  ],
+  "mcu_antenna_overhang_mm": 6.595,
+  "rotation_comparison": "modulo 360 degrees",
+  "native_source_sha256": "30bb240a403a093255ccaf2e2c67fc35ed87facb5b47b17a744d2635834ae5ac",
+  "export_sha256": "03d112d95f4fb98053c2bbf4cb5316a0346bf2f82ac527b3ae6179162a2b387c",
+  "silkscreen_spacing": "166 labels; enlarged text envelopes checked; unplaced=0"
+}

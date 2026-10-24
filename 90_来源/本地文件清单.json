@@ -889,5 +889,186 @@
     "bytes": 1678,
     "captured_date": "2026-10-21",
     "status": "用户最新布局纠正；工程执行边界单独标明"
+  },
+  {
+    "id": "S095",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4_布局确认_20261021/用户布局确认要求_20261021.txt",
+    "snapshot": "90_来源/文档快照/S095_主控最下端与布局确认要求_20261021.txt",
+    "sha256": "4f53deb454cdf3d4a0f351eb10244c2068dc0f57031c38dc6b9e7dd180d828a8",
+    "bytes": 1771,
+    "captured_date": "2026-10-21",
+    "status": "用户最新明确位置/朝向与仅布局要求；工程状态和验证边界另列"
+  },
+  {
+    "id": "S096",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4B_背面NFC_20261021/用户确认_取消SW3_J1与背面NFC_20261021.txt",
+    "snapshot": "90_来源/文档快照/S096_取消SW3_J1与背面NFC_20261021.txt",
+    "sha256": "8dafb50763840ed530982c42fdc7ddf27d53914fbc60a75e1ef9430b1d358ed4",
+    "bytes": 1737,
+    "captured_date": "2026-10-21",
+    "status": "用户明确取消SW3/J1、NFC背面扫描；执行记录及未验证边界另列"
+  },
+  {
+    "id": "S097",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4C_USB精简_20261021/用户确认_USB精简与非必要不添加_20261021.txt",
+    "snapshot": "90_来源/文档快照/S097_USB精简与非必要不添加_20261021.txt",
+    "sha256": "73141c12512941c94719156e9417b447f8d209ba86196077a13c975a57a64ff5",
+    "bytes": 2234,
+    "captured_date": "2026-10-21",
+    "status": "用户明确删除U106/U107/U108并要求非必要不添加；500mA为助手工程选择，未冒充用户指定"
+  },
+  {
+    "id": "S098",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4D_长按电源键_20261022/用户确认_长按电源键_20261022.txt",
+    "snapshot": "90_来源/文档快照/S098_长按电源键_20261022.txt",
+    "sha256": "43ca41b723a1df97bef1c7c1125c3bfaaaeb83ef8deb23f67bdc362ec62c08e8",
+    "bytes": 3118,
+    "captured_date": "2026-10-22",
+    "status": "用户确认长按电源键取代J111机械开关；保留板上BOOT/RST。硬件已同步，固件与实测待接入"
+  },
+  {
+    "id": "S099",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/用户确认_取消J4J6与GPIO扩展_20261022.txt",
+    "snapshot": "90_来源/文档快照/S099_取消J4J6与GPIO扩展_20261022.txt",
+    "sha256": "c7f27209ec4ca91a6bd31f5ac5c4d33bc89c2f799951f89314d450d4bfcee6c2",
+    "bytes": 3212,
+    "captured_date": "2026-10-22",
+    "status": "用户取消J4/J6，GPIO足够时不要扩展；V074E取消U7并直连充电状态，物理入座检测不再提供"
+  },
+  {
+    "id": "S100",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/用户确认_保留RXTX与马达软件待机_20261023.txt",
+    "snapshot": "90_来源/文档快照/S100_保留RXTX与马达软件待机_20261023.txt",
+    "sha256": "dabe78017700496c097bb777d2289dc88e0ec93af72d814a1fc693d7ed7141cc",
+    "bytes": 2932,
+    "captured_date": "2026-10-23",
+    "status": "用户同意GPIO6改KILL，RX/TX留裸测试焊盘，DRV2605L改I2C启停待机；V074F已同步，固件实测待办"
+  },
+  {
+    "id": "S101",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4G_缩板与FPC避让_20261023/用户要求_缩板按键归面与FPC避让_20261023.txt",
+    "snapshot": "90_来源/文档快照/S101_缩板按键归面与FPC避让_20261023.txt",
+    "sha256": "42ac10d25663e3035bd3d1cca29b9939404c826d236d1c4a73ec50f0cc0439b0",
+    "bytes": 2729,
+    "captured_date": "2026-10-23",
+    "status": "用户要求缩板、按键同面与FPC插拔区留空；V074G 71.5mm、三键正面上端、14x10禁放区，未布线"
+  },
+  {
+    "id": "S102",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/00_重叠修正说明.txt",
+    "snapshot": "90_来源/文档快照/S102_重叠修正与检查边界_20261024.txt",
+    "sha256": "4d0813856354cedd20fa88132f9f9f0831360817a256591200f70851aa716d40",
+    "bytes": 1491,
+    "captured_date": "2026-10-24",
+    "status": "V074H修正20元件与2测试点；完整包络复核，未布线；撤回G版过宽无重叠结论"
+  },
+  {
+    "id": "S103",
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_V074H结构评审_20261024/02_本版设计与验证结论.txt",
+    "snapshot": "90_来源/文档快照/S103_机械V03结构评审与验证边界_20261024.txt",
+    "sha256": "0031a90cdc082f622e8bfe52576547028eabab78863c678921a8083469380470",
+    "bytes": 1693,
+    "captured_date": "2026-10-24",
+    "status": "用户要求STL查看；V03为待审结构提案，屏幕/FPC/NFC及实物未验收"
+  },
+  {
+    "id": "S104",
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/00_爆炸图阅读说明.txt",
+    "snapshot": "90_来源/文档快照/S104_机械V03爆炸图阅读说明_20261024.txt",
+    "sha256": "a81d7e83bee0f11ca686f7f3e002c42f28cc90851653fa8d180f5902a786ddf7",
+    "bytes": 2096,
+    "captured_date": "2026-10-24",
+    "status": "用户要求爆炸图说明；新增中文装配图，不改变PCB或STL，非实物配合确认"
+  },
+  {
+    "id": "S105",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4I_小型NFC与板边接口_20261024/00_接口调整与线束说明.txt",
+    "snapshot": "90_来源/文档快照/S105_小型NFC与板边接口_20261024.txt",
+    "sha256": "5627f8646f33fde96ec4098725eb5f589077350172a9858b35980476dcee52ce",
+    "bytes": 3150,
+    "captured_date": "2026-10-24",
+    "status": "J201改SH1mm小座，J104/J201移背面板边朝外；原生保存检查完成，未布线，样件待验证"
+  },
+  {
+    "id": "S106",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_板边屏幕座与布线空间_20261024/00_布局调整与结构配套说明.txt",
+    "snapshot": "90_来源/文档快照/S106_板边屏幕座与布线空间_20261024.txt",
+    "sha256": "bebe4825bca0d9b8a90662c026fd4517259714f5bf279c75095cec37d7c516f2",
+    "bytes": 4088,
+    "captured_date": "2026-10-24",
+    "status": "J8移侧边，重分配正背面，底孔移耳部，配套后壳托架；原生保存，未布线"
+  },
+  {
+    "id": "S107",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/00_复核结论.txt",
+    "snapshot": "90_来源/文档快照/S107_PCB全量复核与未闭合问题_20261024.txt",
+    "sha256": "a3205c2347d5141989bf9f78904bfc94a1f2704fcdabc5d319fb97497c8e94fb",
+    "bytes": 2503,
+    "captured_date": "2026-10-24",
+    "status": "118件全量复核，10条说明/属性更正；USB/电源布局及机械发现待整改，未布线"
+  },
+  {
+    "id": "S108",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4K_修正与剑身适配板V0.1_20261024/00_本轮结论.txt",
+    "snapshot": "90_来源/文档快照/S108_PCB修正与可识别剑身适配板_20261024.txt",
+    "sha256": "053a482e19eb876ec53821ffca9451438fc01c42d75393af802bbc3cb6f21787",
+    "bytes": 1549,
+    "captured_date": "2026-10-24",
+    "status": "用户确认5V可寻址RGB方向；主板与适配板已原生同步、未布线；机械评审通过，实物/固件待验证"
+  },
+  {
+    "id": "S109",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/00_采购候选与未完成项.txt",
+    "snapshot": "90_来源/文档快照/S109_J7J701低价现货候选与结构边界_20261024.txt",
+    "sha256": "97017efdd7e8bf7b44c6f5390442d38d9428e59b08518c3ffb7f71a22871998e",
+    "bytes": 1717,
+    "captured_date": "2026-10-24",
+    "status": "用户要求低价现货；已核实候选价格库存，未冻结配套、未改板"
+  },
+  {
+    "id": "S110",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/00_SAMZO核实结论.txt",
+    "snapshot": "90_来源/文档快照/S110_SAMZO接口配套与封装核实_20261024.txt",
+    "sha256": "6cb21e6b85825e22023042724f77333cd9cb42a119ca6b42a6749c6f8273fece",
+    "bytes": 5270,
+    "captured_date": "2026-10-24",
+    "status": "用户要求核实成品公母座；电气和安装形式已查，配套/插深/寿命缺项，未改板"
+  },
+  {
+    "id": "S111",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_水平六针候选_20261024/00_水平六针候选核对.txt",
+    "snapshot": "90_来源/文档快照/S111_非垂直六针连接器候选_20261024.txt",
+    "sha256": "fd882ae78cb8a189348aa18b12fd8d6f4907b9ef34145aca28c1b11444c5373d",
+    "bytes": 4006,
+    "captured_date": "2026-10-24",
+    "status": "用户要求非垂直六针；韩下双弯插为候选，价格/图纸已查，寿命/装配待验，未改板"
+  },
+  {
+    "id": "S112",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4L_横插接口打样确认_20261024/00_打样接口确认说明.txt",
+    "snapshot": "90_来源/文档快照/S112_V074L横插六针打样确认与同步_20261024.txt",
+    "sha256": "6c9543e297c09f0417d5f18d2e01c9d6c200721d2e1b10678dd4cfbba86b99d5",
+    "bytes": 3761,
+    "captured_date": "2026-10-24",
+    "status": "用户批准首版韩下双弯插打样；原生J7/J701已同步，未布线，未下单，旧接口机械待改"
+  },
+  {
+    "id": "S113",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4M_U3正面与电池布线净空_20261024/00_布局调整说明.txt",
+    "snapshot": "90_来源/文档快照/S113_U3正面与电池布线净空_20261024.txt",
+    "sha256": "54049d43f1559fb5fa6bd4cb509165115f20fea604a56b26b1fc1596c9e5e799",
+    "bytes": 2336,
+    "captured_date": "2026-10-24",
+    "status": "用户要求释放电池布线空间；U3及9个外围已移正面，原生保存并复核，仍未布线"
+  },
+  {
+    "id": "S114",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S114_器灵内核与J7模块化形态_20261024.txt",
+    "snapshot": "90_来源/文档快照/S114_器灵内核与J7模块化形态_20261024.txt",
+    "sha256": "d67dc1cb54b55462d5e3942e88f64e207d993e91ab218471474616d6a1864c67",
+    "bytes": 2042,
+    "captured_date": "2026-10-24",
+    "source_kind": "current_conversation_user",
+    "status": "用户确认器灵内核与J7模块化形态方向并要求入库；原话首次转录于本快照，非工程实现或成本验证"
   }
 ]

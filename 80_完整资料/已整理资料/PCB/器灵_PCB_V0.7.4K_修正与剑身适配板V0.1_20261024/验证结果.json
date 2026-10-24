@@ -1,0 +1,212 @@
+{
+  "main": {
+    "components": 129,
+    "pads_checked": 457,
+    "testpads": 15,
+    "netlist_match": true,
+    "positions_match_native_footprints": true,
+    "geometry_issues": [],
+    "minimum_same_side_gap_mm": [
+      0.20937220000000423,
+      "J104",
+      "R133"
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    },
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 438
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "659f8762f24db281",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N92"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "bb22996a146d7555",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N93"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "ATTRMATCHCODE",
+        "primitives": [
+          {
+            "primitiveId": "363b559b89bbbe61",
+            "sheet": "621eadf28cee8217",
+            "name": "J7($8I40)"
+          }
+        ]
+      }
+    ],
+    "changes_to_existing_pin_nets": [
+      [
+        "J7",
+        "1",
+        "+5V_SYS",
+        "+5V_ACC"
+      ],
+      [
+        "U102",
+        "6",
+        "USB_5V_FUSED",
+        "CHG_EN1"
+      ],
+      [
+        "U102",
+        "5",
+        "GND",
+        "USB_HIGH_CURRENT_OK"
+      ]
+    ],
+    "critical_distances": [
+      {
+        "from": "U1.14",
+        "to": "R103.2",
+        "distance_mm": 2.314,
+        "same_side": true
+      },
+      {
+        "from": "U1.13",
+        "to": "R104.2",
+        "distance_mm": 2.322,
+        "same_side": true
+      },
+      {
+        "from": "U102.13",
+        "to": "C101.1",
+        "distance_mm": 1.6,
+        "same_side": true
+      },
+      {
+        "from": "U102.13",
+        "to": "C102.1",
+        "distance_mm": 2.445,
+        "same_side": true
+      },
+      {
+        "from": "U103.4",
+        "to": "R117.2",
+        "distance_mm": 2.113,
+        "same_side": true
+      },
+      {
+        "from": "U103.4",
+        "to": "R118.1",
+        "distance_mm": 2.337,
+        "same_side": true
+      },
+      {
+        "from": "U104.5",
+        "to": "L102.2",
+        "distance_mm": 1.768,
+        "same_side": true
+      },
+      {
+        "from": "U3.5",
+        "to": "C11.1",
+        "distance_mm": 1.957,
+        "same_side": true
+      },
+      {
+        "from": "U5.1",
+        "to": "C15.1",
+        "distance_mm": 2.419,
+        "same_side": true
+      },
+      {
+        "from": "U105.1",
+        "to": "C120.1",
+        "distance_mm": 3.249,
+        "same_side": true
+      }
+    ]
+  },
+  "adapter": {
+    "components": 16,
+    "pads_checked": 65,
+    "testpads": 5,
+    "netlist_match": true,
+    "positions_match_native_footprints": true,
+    "geometry_issues": [],
+    "minimum_same_side_gap_mm": [
+      0.25988949999999983,
+      "J702",
+      "C705"
+    ],
+    "routing": {
+      "tracks": 0,
+      "vias": 0,
+      "pours": 0
+    },
+    "drc": [
+      {
+        "name": "Connection Error",
+        "count": 58
+      }
+    ],
+    "erc": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "33b667ce81ded764",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N14"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "fe754d3db1cff2f0",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N13"
+          }
+        ]
+      }
+    ],
+    "changes_to_existing_pin_nets": [],
+    "critical_distances": []
+  },
+  "mechanical": {
+    "pairs_checked": 6913,
+    "collisions": [],
+    "mesh_parts_checked": 13,
+    "boundary": "Proxy envelopes are conservative; cable sweep, print tolerance, real screen and acoustic/RF performance not validated.",
+    "speaker_thickness_mm": 5.1,
+    "pcb_fasteners": "M2 nylon, especially the bottom pair; no RF certification",
+    "mating_compression_mm": 1.14,
+    "carrier": "alignment/fit prototype, blade structural retention not qualified"
+  },
+  "limits": [
+    "Not routed; no fabrication release.",
+    "No firmware implemented/flashed in this task.",
+    "User GC9A01 panel pinout/FPC/backlight still unconfirmed.",
+    "LED model/count/power profile unselected; default UNCONFIGURED/off.",
+    "USB default-Rp 500mA retained; no enumeration/suspend 100mA switching.",
+    "Connector mating/carrier are dimensioned designs, not physical test results.",
+    "No arbitrary hot-plug or reversed/external-power compatibility claim."
+  ]
+}

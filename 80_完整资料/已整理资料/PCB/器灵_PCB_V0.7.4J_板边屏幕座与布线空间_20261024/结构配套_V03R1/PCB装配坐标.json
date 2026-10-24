@@ -1,0 +1,2253 @@
+{
+  "source": "V074J manual placement plan; final native readback checked separately",
+  "pcb_shift_y_mm": 27.5,
+  "pcb_thickness_mm": 1.6,
+  "outline": [
+    [
+      -15,
+      80
+    ],
+    [
+      15,
+      80
+    ],
+    [
+      17,
+      82
+    ],
+    [
+      17,
+      85
+    ],
+    [
+      20.7,
+      85
+    ],
+    [
+      22.2,
+      86.5
+    ],
+    [
+      22.2,
+      93.5
+    ],
+    [
+      20.7,
+      95
+    ],
+    [
+      17,
+      95
+    ],
+    [
+      17,
+      113
+    ],
+    [
+      27.6,
+      113
+    ],
+    [
+      27.6,
+      125
+    ],
+    [
+      17,
+      125
+    ],
+    [
+      17,
+      149.5
+    ],
+    [
+      15,
+      151.5
+    ],
+    [
+      -15,
+      151.5
+    ],
+    [
+      -17,
+      149.5
+    ],
+    [
+      -17,
+      95
+    ],
+    [
+      -20.7,
+      95
+    ],
+    [
+      -22.2,
+      93.5
+    ],
+    [
+      -22.2,
+      86.5
+    ],
+    [
+      -20.7,
+      85
+    ],
+    [
+      -17,
+      85
+    ],
+    [
+      -17,
+      82
+    ]
+  ],
+  "holes": [
+    [
+      -19,
+      90
+    ],
+    [
+      19,
+      90
+    ],
+    [
+      -13.5,
+      145
+    ],
+    [
+      13.5,
+      145
+    ]
+  ],
+  "fpc_clearance": [
+    -23.5,
+    118.2,
+    -16.9,
+    126.6
+  ],
+  "components": [
+    {
+      "ref": "C1",
+      "bbox_xy": [
+        10.48989266,
+        80.9100871,
+        11.91003206,
+        83.6900155
+      ],
+      "placement": {
+        "x": 11.20000046,
+        "y": 82.3000005,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C2",
+      "bbox_xy": [
+        12.489891199999999,
+        80.9100871,
+        13.910030599999999,
+        83.6900155
+      ],
+      "placement": {
+        "x": 13.199998999999998,
+        "y": 82.3000005,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C3",
+      "bbox_xy": [
+        10.789968259999998,
+        80.9100871,
+        12.210107659999998,
+        83.6900155
+      ],
+      "placement": {
+        "x": 11.499999859999999,
+        "y": 82.3000005,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C4",
+      "bbox_xy": [
+        14.489892280000001,
+        80.9100871,
+        15.910031680000001,
+        83.6900155
+      ],
+      "placement": {
+        "x": 15.20000008,
+        "y": 82.3000005,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A106KP8NNNC"
+    },
+    {
+      "ref": "C5",
+      "bbox_xy": [
+        13.21008534,
+        85.28996912,
+        15.990013739999998,
+        86.71010851999999
+      ],
+      "placement": {
+        "x": 14.599998739999998,
+        "y": 86.00000071999999,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C7",
+      "bbox_xy": [
+        -3.71003068,
+        96.11008718,
+        -2.28989128,
+        98.89001558
+      ],
+      "placement": {
+        "x": -2.99999908,
+        "y": 97.50000057999999,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C8",
+      "bbox_xy": [
+        2.2899674799999996,
+        96.11008718,
+        3.7101068799999997,
+        98.89001558
+      ],
+      "placement": {
+        "x": 2.99999908,
+        "y": 97.50000057999999,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C9",
+      "bbox_xy": [
+        -1.3899134,
+        100.7898924,
+        1.390015,
+        102.2100318
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 101.5000002,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C11",
+      "bbox_xy": [
+        -3.21003168,
+        113.1100862,
+        -1.7898922800000001,
+        115.8900146
+      ],
+      "placement": {
+        "x": -2.50000008,
+        "y": 114.4999996,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C12",
+      "bbox_xy": [
+        -1.010031,
+        113.1100862,
+        0.4101084,
+        115.8900146
+      ],
+      "placement": {
+        "x": -0.29999939999999997,
+        "y": 114.4999996,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C13",
+      "bbox_xy": [
+        -6.4100303599999995,
+        101.11008734,
+        -4.989890959999999,
+        103.89001574000001
+      ],
+      "placement": {
+        "x": -5.69999876,
+        "y": 102.50000074,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C14",
+      "bbox_xy": [
+        -6.4100303599999995,
+        97.61008672,
+        -4.989890959999999,
+        100.39001512
+      ],
+      "placement": {
+        "x": -5.69999876,
+        "y": 99.00000012,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A106KP8NNNC"
+    },
+    {
+      "ref": "C15",
+      "bbox_xy": [
+        10.61008546,
+        106.28996776,
+        13.39001386,
+        107.71010715999999
+      ],
+      "placement": {
+        "x": 11.99999886,
+        "y": 106.99999935999999,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C16",
+      "bbox_xy": [
+        10.61008546,
+        113.28996900000001,
+        13.39001386,
+        114.71010840000001
+      ],
+      "placement": {
+        "x": 11.99999886,
+        "y": 114.0000006,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C29",
+      "bbox_xy": [
+        -5.3899134,
+        117.2899684,
+        -2.609985,
+        118.7101078
+      ],
+      "placement": {
+        "x": -4,
+        "y": 118,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C30",
+      "bbox_xy": [
+        -5.3899134,
+        119.48996840000001,
+        -2.609985,
+        120.9101078
+      ],
+      "placement": {
+        "x": -4,
+        "y": 120.2,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A106KP8NNNC"
+    },
+    {
+      "ref": "C103",
+      "bbox_xy": [
+        -4.4036056199999996,
+        126.83640113999999,
+        -2.59639562,
+        130.76359674
+      ],
+      "placement": {
+        "x": -3.50000062,
+        "y": 128.79999894,
+        "rotation": 270,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0805MKX5R6BB226"
+    },
+    {
+      "ref": "C105",
+      "bbox_xy": [
+        2.59639562,
+        127.53640227999998,
+        4.4036056199999996,
+        131.46359787999998
+      ],
+      "placement": {
+        "x": 3.50000062,
+        "y": 129.50000007999998,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0805MKX5R6BB226"
+    },
+    {
+      "ref": "C107",
+      "bbox_xy": [
+        -11.403604320000001,
+        137.03640105999997,
+        -9.59639432,
+        140.96359665999998
+      ],
+      "placement": {
+        "x": -10.49999932,
+        "y": 138.99999885999998,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TCC0805X7R106K100FT"
+    },
+    {
+      "ref": "C109",
+      "bbox_xy": [
+        -7.4635969599999985,
+        143.79639516000003,
+        -3.536401359999999,
+        145.60360516000003
+      ],
+      "placement": {
+        "x": -5.499999159999999,
+        "y": 144.70000016000003,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0805MKX5R6BB226"
+    },
+    {
+      "ref": "C111",
+      "bbox_xy": [
+        -0.603605,
+        121.0364022,
+        1.203605,
+        124.9635978
+      ],
+      "placement": {
+        "x": 0.3,
+        "y": 123,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TCC0805X7R106K100FT"
+    },
+    {
+      "ref": "C113",
+      "bbox_xy": [
+        5.346395,
+        127.13640219999999,
+        7.153605,
+        131.0635978
+      ],
+      "placement": {
+        "x": 6.25,
+        "y": 129.1,
+        "rotation": 270,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0805MKX5R6BB226"
+    },
+    {
+      "ref": "C114",
+      "bbox_xy": [
+        3.4899684000000004,
+        130.609985,
+        4.9101078000000005,
+        133.3899134
+      ],
+      "placement": {
+        "x": 4.2,
+        "y": 132,
+        "rotation": 270,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603JRNPO9BN221"
+    },
+    {
+      "ref": "C119",
+      "bbox_xy": [
+        11.596395399999999,
+        104.03640101999999,
+        13.4036054,
+        107.96359661999999
+      ],
+      "placement": {
+        "x": 12.5000004,
+        "y": 105.99999881999999,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TCC0805X7R106K100FT"
+    },
+    {
+      "ref": "J2",
+      "bbox_xy": [
+        -15.787497,
+        106.10003418,
+        -9.937496,
+        115.89998918
+      ],
+      "placement": {
+        "x": -12.7999998,
+        "y": 110.99999898,
+        "rotation": -90,
+        "layer": 1
+      },
+      "height_mm": 2.9,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "SM07B-SRSS-TB(LF)(SN)"
+    },
+    {
+      "ref": "J3",
+      "bbox_xy": [
+        -16.637510539999997,
+        93.80003084,
+        -11.08748354,
+        98.59997043999999
+      ],
+      "placement": {
+        "x": -13.800000339999999,
+        "y": 96.20000064,
+        "rotation": -90,
+        "layer": 1
+      },
+      "height_mm": 2.9,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "SM02B-SRSS-TB(LF)(SN)"
+    },
+    {
+      "ref": "J101",
+      "bbox_xy": [
+        19.87582512,
+        114.07488996,
+        28.094096719999996,
+        123.92511155999999
+      ],
+      "placement": {
+        "x": 22.999999719999998,
+        "y": 119.00000075999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 3.4,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TYPE-C-31-M-12"
+    },
+    {
+      "ref": "J104",
+      "bbox_xy": [
+        -16.626154200000002,
+        107.16997362,
+        -10.0050092,
+        116.63002582
+      ],
+      "placement": {
+        "x": -13.099999200000001,
+        "y": 111.89999972,
+        "rotation": 270,
+        "layer": 2
+      },
+      "height_mm": 2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "5040500391"
+    },
+    {
+      "ref": "J110",
+      "bbox_xy": [
+        11.087483200000001,
+        129.6000302,
+        16.6375102,
+        134.3999698
+      ],
+      "placement": {
+        "x": 13.8,
+        "y": 132,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 2.9,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "SM02B-SRSS-TB(LF)(SN)"
+    },
+    {
+      "ref": "Q2",
+      "bbox_xy": [
+        -9.499997,
+        119.4737902,
+        -6.500003,
+        122.5262098
+      ],
+      "placement": {
+        "x": -8,
+        "y": 121,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "AO3400A"
+    },
+    {
+      "ref": "Q102",
+      "bbox_xy": [
+        -12.64998486,
+        124.50005326,
+        -9.35001686,
+        127.50004726
+      ],
+      "placement": {
+        "x": -11.00000086,
+        "y": 125.99999946,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "AO3401A"
+    },
+    {
+      "ref": "Q103",
+      "bbox_xy": [
+        -12.49999786,
+        128.47378928,
+        -9.50000386,
+        131.52620888
+      ],
+      "placement": {
+        "x": -11.00000086,
+        "y": 129.99999908,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "AO3400A"
+    },
+    {
+      "ref": "R1",
+      "bbox_xy": [
+        9.81491306,
+        85.33939751999999,
+        12.58508786,
+        86.66060391999999
+      ],
+      "placement": {
+        "x": 11.20000046,
+        "y": 86.00000071999999,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R2",
+      "bbox_xy": [
+        -12.78508746,
+        98.93939572,
+        -10.01491266,
+        100.26060211999999
+      ],
+      "placement": {
+        "x": -11.40000006,
+        "y": 99.59999891999999,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R4",
+      "bbox_xy": [
+        -12.360602660000001,
+        80.71491349999998,
+        -11.03939626,
+        83.48508829999999
+      ],
+      "placement": {
+        "x": -11.69999946,
+        "y": 82.10000089999998,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF4701T5E"
+    },
+    {
+      "ref": "R5",
+      "bbox_xy": [
+        -14.860602740000001,
+        80.71491349999998,
+        -13.53939634,
+        83.48508829999999
+      ],
+      "placement": {
+        "x": -14.19999954,
+        "y": 82.10000089999998,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF4701T5E"
+    },
+    {
+      "ref": "R6",
+      "bbox_xy": [
+        -3.88508748,
+        116.93939782,
+        -1.11491268,
+        118.26060421999999
+      ],
+      "placement": {
+        "x": -2.50000008,
+        "y": 117.60000102,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R9",
+      "bbox_xy": [
+        -13.6606026,
+        104.11491242,
+        -12.3393962,
+        106.88508722
+      ],
+      "placement": {
+        "x": -12.9999994,
+        "y": 105.49999982,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R10",
+      "bbox_xy": [
+        -15.96060308,
+        101.11491334,
+        -14.639396679999999,
+        103.88508814000001
+      ],
+      "placement": {
+        "x": -15.29999988,
+        "y": 102.50000074,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R15",
+      "bbox_xy": [
+        8.339396579999999,
+        104.61491141999998,
+        9.66060298,
+        107.38508621999999
+      ],
+      "placement": {
+        "x": 8.99999978,
+        "y": 105.99999881999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R26",
+      "bbox_xy": [
+        5.8393965,
+        104.61491141999998,
+        7.1606029,
+        107.38508621999999
+      ],
+      "placement": {
+        "x": 6.4999997,
+        "y": 105.99999881999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R32",
+      "bbox_xy": [
+        4.13939736,
+        99.91491319999999,
+        5.46060376,
+        102.685088
+      ],
+      "placement": {
+        "x": 4.80000056,
+        "y": 101.30000059999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF330JT5E"
+    },
+    {
+      "ref": "R33",
+      "bbox_xy": [
+        2.53939802,
+        99.91491319999999,
+        3.8606044199999996,
+        102.685088
+      ],
+      "placement": {
+        "x": 3.20000122,
+        "y": 101.30000059999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF330JT5E"
+    },
+    {
+      "ref": "R34",
+      "bbox_xy": [
+        0.9393961400000002,
+        99.91491319999999,
+        2.26060254,
+        102.685088
+      ],
+      "placement": {
+        "x": 1.59999934,
+        "y": 101.30000059999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF330JT5E"
+    },
+    {
+      "ref": "R35",
+      "bbox_xy": [
+        -0.6606032,
+        99.91491319999999,
+        0.6606032,
+        102.685088
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 101.30000059999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF330JT5E"
+    },
+    {
+      "ref": "R36",
+      "bbox_xy": [
+        -9.3850874,
+        117.3393968,
+        -6.6149126,
+        118.6606032
+      ],
+      "placement": {
+        "x": -8,
+        "y": 118,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R37",
+      "bbox_xy": [
+        -9.3850874,
+        123.3393968,
+        -6.6149126,
+        124.6606032
+      ],
+      "placement": {
+        "x": -8,
+        "y": 124,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1000T5E"
+    },
+    {
+      "ref": "R38",
+      "bbox_xy": [
+        -8.8850874,
+        114.1393968,
+        -6.1149126,
+        115.4606032
+      ],
+      "placement": {
+        "x": -7.5,
+        "y": 114.8,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R39",
+      "bbox_xy": [
+        -5.0790936,
+        121.6888794,
+        -2.9209064,
+        126.3111206
+      ],
+      "placement": {
+        "x": -4,
+        "y": 124,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "1206W4F100JT5E"
+    },
+    {
+      "ref": "R103",
+      "bbox_xy": [
+        15.214912420000001,
+        122.33939717999999,
+        17.98508722,
+        123.66060357999999
+      ],
+      "placement": {
+        "x": 16.59999982,
+        "y": 123.00000037999999,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF220JT5E"
+    },
+    {
+      "ref": "R104",
+      "bbox_xy": [
+        15.214912420000001,
+        120.33939609999999,
+        17.98508722,
+        121.66060249999998
+      ],
+      "placement": {
+        "x": 16.59999982,
+        "y": 120.99999929999998,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF220JT5E"
+    },
+    {
+      "ref": "R108",
+      "bbox_xy": [
+        -4.8850880199999995,
+        132.33939750000002,
+        -2.11491322,
+        133.6606039
+      ],
+      "placement": {
+        "x": -3.50000062,
+        "y": 133.00000070000002,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R113",
+      "bbox_xy": [
+        4.839395959999999,
+        125.11491359999998,
+        6.160602359999999,
+        127.88508839999999
+      ],
+      "placement": {
+        "x": 5.499999159999999,
+        "y": 126.50000099999998,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R114",
+      "bbox_xy": [
+        -4.8850880199999995,
+        134.73939778,
+        -2.11491322,
+        136.06060417999998
+      ],
+      "placement": {
+        "x": -3.50000062,
+        "y": 135.40000098,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R115",
+      "bbox_xy": [
+        -4.8850880199999995,
+        136.33939711999997,
+        -2.11491322,
+        137.66060351999997
+      ],
+      "placement": {
+        "x": -3.50000062,
+        "y": 137.00000031999997,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R116",
+      "bbox_xy": [
+        -9.41060348,
+        134.91491177999998,
+        -8.08939708,
+        137.68508658
+      ],
+      "placement": {
+        "x": -8.75000028,
+        "y": 136.29999918,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R118",
+      "bbox_xy": [
+        -10.96060292,
+        147.11491278,
+        -9.639396519999998,
+        149.88508758
+      ],
+      "placement": {
+        "x": -10.299999719999999,
+        "y": 148.50000018,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "RT0603BRD07100KL"
+    },
+    {
+      "ref": "R119",
+      "bbox_xy": [
+        -1.8850864,
+        134.83939758,
+        0.8850884,
+        136.16060398
+      ],
+      "placement": {
+        "x": -0.49999899999999997,
+        "y": 135.50000078,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R120",
+      "bbox_xy": [
+        -1.3850874,
+        133.03939609999998,
+        1.3850874,
+        134.36060249999997
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 133.69999929999997,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R121",
+      "bbox_xy": [
+        1.3393974999999994,
+        130.61491228000003,
+        2.660603899999999,
+        133.38508708000003
+      ],
+      "placement": {
+        "x": 2.0000006999999993,
+        "y": 131.99999968000003,
+        "rotation": -90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF7323T5E"
+    },
+    {
+      "ref": "R122",
+      "bbox_xy": [
+        -0.6606032,
+        130.6149126,
+        0.6606032,
+        133.3850874
+      ],
+      "placement": {
+        "x": 0,
+        "y": 132,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R123",
+      "bbox_xy": [
+        -14.660603140000001,
+        124.61491206,
+        -13.33939674,
+        127.38508686
+      ],
+      "placement": {
+        "x": -13.99999994,
+        "y": 125.99999946,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R124",
+      "bbox_xy": [
+        -14.660603140000001,
+        128.61491168,
+        -13.33939674,
+        131.38508648
+      ],
+      "placement": {
+        "x": -13.99999994,
+        "y": 129.99999908,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R125",
+      "bbox_xy": [
+        -14.660603140000001,
+        131.6149133,
+        -13.33939674,
+        134.38508810000002
+      ],
+      "placement": {
+        "x": -13.99999994,
+        "y": 133.00000070000002,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R126",
+      "bbox_xy": [
+        -8.66060244,
+        127.61491368,
+        -7.33939604,
+        130.38508848
+      ],
+      "placement": {
+        "x": -7.999999239999999,
+        "y": 129.00000108,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1003T5E"
+    },
+    {
+      "ref": "R129",
+      "bbox_xy": [
+        -11.88508672,
+        120.83939764,
+        -9.11491192,
+        122.16060404
+      ],
+      "placement": {
+        "x": -10.49999932,
+        "y": 121.50000084,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R130",
+      "bbox_xy": [
+        -14.885088339999998,
+        119.8393971,
+        -12.114913539999998,
+        121.1606035
+      ],
+      "placement": {
+        "x": -13.500000939999998,
+        "y": 120.5000003,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R131",
+      "bbox_xy": [
+        -11.88508672,
+        118.83939656,
+        -9.11491192,
+        120.16060295999999
+      ],
+      "placement": {
+        "x": -10.49999932,
+        "y": 119.49999976,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R132",
+      "bbox_xy": [
+        -14.885088339999998,
+        117.83939602,
+        -12.114913539999998,
+        119.16060241999999
+      ],
+      "placement": {
+        "x": -13.500000939999998,
+        "y": 118.49999921999999,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R133",
+      "bbox_xy": [
+        -11.88508672,
+        116.83939802,
+        -9.11491192,
+        118.16060442
+      ],
+      "placement": {
+        "x": -10.49999932,
+        "y": 117.50000122,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R134",
+      "bbox_xy": [
+        -8.88508764,
+        117.43939682000001,
+        -6.11491284,
+        118.76060322000001
+      ],
+      "placement": {
+        "x": -7.500000239999999,
+        "y": 118.10000002000001,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "SW1",
+      "bbox_xy": [
+        -2.7999054999999995,
+        135.45880451999997,
+        2.7999054999999995,
+        138.54119611999997
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 137.00000031999997,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TS-1088R-02026"
+    },
+    {
+      "ref": "SW2",
+      "bbox_xy": [
+        7.20009482,
+        135.45880451999997,
+        12.79990582,
+        138.54119611999997
+      ],
+      "placement": {
+        "x": 10.00000032,
+        "y": 137.00000031999997,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TS-1088R-02026"
+    },
+    {
+      "ref": "U1",
+      "bbox_xy": [
+        -9.5000445,
+        73.40503734,
+        9.5000445,
+        99.44495224
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 89.80000074,
+        "rotation": 180,
+        "layer": 1
+      },
+      "height_mm": 3.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "ESP32-S3-WROOM-1-N16R8"
+    },
+    {
+      "ref": "U2",
+      "bbox_xy": [
+        -1.5762478,
+        97.17371471999999,
+        1.8049494000000001,
+        99.82608431999999
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 98.50000112,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "BMI270"
+    },
+    {
+      "ref": "U3",
+      "bbox_xy": [
+        -7.576197699999999,
+        113.49492414,
+        -4.3759247,
+        117.23991284
+      ],
+      "placement": {
+        "x": -6.000000699999999,
+        "y": 115.50000014,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CAP1296-1-AIA-TR"
+    },
+    {
+      "ref": "U4",
+      "bbox_xy": [
+        -11.299995179999998,
+        100.70000434,
+        -7.700002379999999,
+        104.39903174
+      ],
+      "placement": {
+        "x": -9.499998779999999,
+        "y": 102.50000074,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "MAX98357AETE+T"
+    },
+    {
+      "ref": "U5",
+      "bbox_xy": [
+        10.50000186,
+        108.10000477999999,
+        13.600198859999999,
+        112.59994497999999
+      ],
+      "placement": {
+        "x": 11.99999886,
+        "y": 110.00000098,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.05,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "LMD3526T261-OA5"
+    },
+    {
+      "ref": "U101",
+      "bbox_xy": [
+        14.914900320000001,
+        116.68161321999999,
+        18.28509932,
+        120.03918841999999
+      ],
+      "placement": {
+        "x": 16.59999982,
+        "y": 118.49999921999999,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "USBLC6-2SC6"
+    },
+    {
+      "ref": "U102",
+      "bbox_xy": [
+        -2.0751291999999997,
+        128.07499658,
+        1.9250024999999997,
+        131.92500158
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 129.99999908,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "BQ24075RGTR"
+    },
+    {
+      "ref": "U104",
+      "bbox_xy": [
+        2.4500150399999994,
+        127.20007786000002,
+        4.5499854399999995,
+        128.98996506000003
+      ],
+      "placement": {
+        "x": 3.5000002399999994,
+        "y": 128.00000006000002,
+        "rotation": -180,
+        "layer": 1
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TPS61023DRLR"
+    },
+    {
+      "ref": "U105",
+      "bbox_xy": [
+        4.999992539999999,
+        104.87605136,
+        11.00000594,
+        108.02158736
+      ],
+      "placement": {
+        "x": 7.999999239999999,
+        "y": 106.50000036,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "DRV2605LDGSR"
+    },
+    {
+      "ref": "C101",
+      "bbox_xy": [
+        8.28989198,
+        121.41008738,
+        9.71003138,
+        124.19001578
+      ],
+      "placement": {
+        "x": 8.99999978,
+        "y": 122.80000077999999,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C102",
+      "bbox_xy": [
+        8.28989198,
+        124.61008606,
+        9.71003138,
+        127.39001446
+      ],
+      "placement": {
+        "x": 8.99999978,
+        "y": 125.99999946,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C104",
+      "bbox_xy": [
+        -6.210106959999999,
+        127.40998393999999,
+        -4.789967559999999,
+        130.18991234
+      ],
+      "placement": {
+        "x": -5.499999159999999,
+        "y": 128.79999894,
+        "rotation": 270,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C106",
+      "bbox_xy": [
+        4.789967559999999,
+        128.11008667999997,
+        6.210106959999999,
+        130.89001507999998
+      ],
+      "placement": {
+        "x": 5.499999159999999,
+        "y": 129.50000007999998,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C108",
+      "bbox_xy": [
+        -7.8899131,
+        136.38989232,
+        -5.1099847,
+        137.81003172
+      ],
+      "placement": {
+        "x": -6.4999997,
+        "y": 137.10000012,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C112",
+      "bbox_xy": [
+        -1.090015,
+        126.6898922,
+        1.6899134,
+        128.1100316
+      ],
+      "placement": {
+        "x": 0.3,
+        "y": 127.4,
+        "rotation": 180,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C115",
+      "bbox_xy": [
+        -12.38991426,
+        133.28989344000001,
+        -9.60998586,
+        134.71003284000003
+      ],
+      "placement": {
+        "x": -11.00000086,
+        "y": 134.00000124000002,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C120",
+      "bbox_xy": [
+        4.28996856,
+        101.81008594000001,
+        5.71010796,
+        104.59001434000001
+      ],
+      "placement": {
+        "x": 5.00000016,
+        "y": 103.19999934,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "C121",
+      "bbox_xy": [
+        14.089969279999998,
+        108.11008604000001,
+        15.510108679999998,
+        110.89001444000002
+      ],
+      "placement": {
+        "x": 14.800000879999999,
+        "y": 109.49999944000001,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10A105KB8NNNC"
+    },
+    {
+      "ref": "F101",
+      "bbox_xy": [
+        10.2059994,
+        122.46799992000001,
+        15.7939994,
+        126.53199992
+      ],
+      "placement": {
+        "x": 12.9999994,
+        "y": 124.49999992000001,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 2.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "BSMD1812-260-16V"
+    },
+    {
+      "ref": "L102",
+      "bbox_xy": [
+        2.0738042,
+        121.17206540000001,
+        6.4261958,
+        126.6279346
+      ],
+      "placement": {
+        "x": 4.25,
+        "y": 123.9,
+        "rotation": 270,
+        "layer": 1
+      },
+      "height_mm": 2.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "MWSA0402S-1R0MT"
+    },
+    {
+      "ref": "R8",
+      "bbox_xy": [
+        -13.6606026,
+        101.11491334,
+        -12.3393962,
+        103.88508814000001
+      ],
+      "placement": {
+        "x": -12.9999994,
+        "y": 102.50000074,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF2201T5E"
+    },
+    {
+      "ref": "R110",
+      "bbox_xy": [
+        2.3393958799999997,
+        131.6149133,
+        3.66060228,
+        134.38508810000002
+      ],
+      "placement": {
+        "x": 2.99999908,
+        "y": 133.00000070000002,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1181T5E"
+    },
+    {
+      "ref": "R111",
+      "bbox_xy": [
+        -8.88508764,
+        131.33939696000002,
+        -6.11491284,
+        132.66060336
+      ],
+      "placement": {
+        "x": -7.500000239999999,
+        "y": 132.00000016,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1001T5E"
+    },
+    {
+      "ref": "R112",
+      "bbox_xy": [
+        6.83939704,
+        124.61491206,
+        8.16060344,
+        127.38508686
+      ],
+      "placement": {
+        "x": 7.500000239999999,
+        "y": 125.99999946,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF6982T5E"
+    },
+    {
+      "ref": "R307",
+      "bbox_xy": [
+        -4.660602819999999,
+        141.41491147999997,
+        -3.33939642,
+        144.18508627999998
+      ],
+      "placement": {
+        "x": -3.9999996199999996,
+        "y": 142.79999887999998,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF4701T5E"
+    },
+    {
+      "ref": "R308",
+      "bbox_xy": [
+        -1.66060374,
+        141.41491147999997,
+        -0.3393973400000001,
+        144.18508627999998
+      ],
+      "placement": {
+        "x": -1.00000054,
+        "y": 142.79999887999998,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF4701T5E"
+    },
+    {
+      "ref": "R312",
+      "bbox_xy": [
+        1.3393978800000002,
+        141.41491147999997,
+        2.6606042800000003,
+        144.18508627999998
+      ],
+      "placement": {
+        "x": 2.00000108,
+        "y": 142.79999887999998,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "U103",
+      "bbox_xy": [
+        -7.4222228999999995,
+        139.37592393999998,
+        -4.7249842,
+        142.52399993999998
+      ],
+      "placement": {
+        "x": -6.000000699999999,
+        "y": 140.99999993999998,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TPS63802DLAR"
+    },
+    {
+      "ref": "L101",
+      "bbox_xy": [
+        -3.1761937999999996,
+        137.99996783999998,
+        2.1761958,
+        144.00003203999998
+      ],
+      "placement": {
+        "x": -0.49999899999999997,
+        "y": 140.99999993999998,
+        "rotation": 270,
+        "layer": 2
+      },
+      "height_mm": 3.1,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "MWSA0503S-R47MT"
+    },
+    {
+      "ref": "R117",
+      "bbox_xy": [
+        -9.46060338,
+        143.61491216,
+        -8.139396979999999,
+        146.38508696
+      ],
+      "placement": {
+        "x": -8.80000018,
+        "y": 144.99999956,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "RT0603BRD07560KL"
+    },
+    {
+      "ref": "C128",
+      "bbox_xy": [
+        -7.4635969599999985,
+        146.09639564000003,
+        -3.536401359999999,
+        147.90360564000002
+      ],
+      "placement": {
+        "x": -5.499999159999999,
+        "y": 147.00000064000002,
+        "rotation": 0,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0805MKX5R6BB226"
+    },
+    {
+      "ref": "C129",
+      "bbox_xy": [
+        -14.103603999999999,
+        137.03640105999997,
+        -12.296393999999998,
+        140.96359665999998
+      ],
+      "placement": {
+        "x": -13.199998999999998,
+        "y": 138.99999885999998,
+        "rotation": 90,
+        "layer": 2
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TCC0805X7R106K100FT"
+    },
+    {
+      "ref": "J201",
+      "bbox_xy": [
+        11.08697554,
+        125.59990628,
+        16.638018539999997,
+        132.40009588
+      ],
+      "placement": {
+        "x": 13.800000339999999,
+        "y": 129.00000108,
+        "rotation": 270,
+        "layer": 2
+      },
+      "height_mm": 2.9,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "SM04B-SRSS-TB(LF)(SN)"
+    },
+    {
+      "ref": "J8",
+      "bbox_xy": [
+        -16.8741606,
+        116.44998650000001,
+        -11.249914799999999,
+        128.35001350000002
+      ],
+      "placement": {
+        "x": -13.1,
+        "y": 122.4,
+        "rotation": 270,
+        "layer": 1
+      },
+      "height_mm": 2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "ZX-0.5FPC-2H-CTXX12P"
+    },
+    {
+      "ref": "FB202",
+      "bbox_xy": [
+        -5.4241018,
+        115.1486424,
+        -2.5758474,
+        116.449986
+      ],
+      "placement": {
+        "x": -4,
+        "y": 115.8,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "BLM18AG601SN1D"
+    },
+    {
+      "ref": "J7",
+      "bbox_xy": [
+        -8.80000018,
+        147.39999984,
+        7.62,
+        155.27399984000002
+      ],
+      "placement": {
+        "x": 0.0,
+        "y": 148.99999918,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 6.5,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "810-22-006-40-001101"
+    },
+    {
+      "ref": "R137",
+      "bbox_xy": [
+        11.114913,
+        120.83939764,
+        13.885087799999999,
+        122.16060404
+      ],
+      "placement": {
+        "x": 12.5000004,
+        "y": 121.50000084,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF5101T5E"
+    },
+    {
+      "ref": "R138",
+      "bbox_xy": [
+        11.114913,
+        117.83939602,
+        13.885087799999999,
+        119.16060241999999
+      ],
+      "placement": {
+        "x": 12.5000004,
+        "y": 118.49999921999999,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF5101T5E"
+    },
+    {
+      "ref": "U110",
+      "bbox_xy": [
+        -8.62394932,
+        128.29003298,
+        -5.54988892,
+        131.70996518
+      ],
+      "placement": {
+        "x": -7.00000032,
+        "y": 129.99999908,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.3,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "LTC2950CTS8-1#TRMPBF"
+    },
+    {
+      "ref": "SW4",
+      "bbox_xy": [
+        -12.79990582,
+        135.45880451999997,
+        -7.20009482,
+        138.54119611999997
+      ],
+      "placement": {
+        "x": -10.00000032,
+        "y": 137.00000031999997,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "TS-1088R-02026"
+    },
+    {
+      "ref": "C130",
+      "bbox_xy": [
+        -11.71010774,
+        128.61008568,
+        -10.28996834,
+        131.39001408000001
+      ],
+      "placement": {
+        "x": -10.99999994,
+        "y": 129.99999908,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CC0603KRX7R9BB104"
+    },
+    {
+      "ref": "C132",
+      "bbox_xy": [
+        -8.38991372,
+        132.4899687,
+        -5.60998532,
+        133.9101081
+      ],
+      "placement": {
+        "x": -7.00000032,
+        "y": 133.2000003,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "CL10B474KA8NNNC"
+    },
+    {
+      "ref": "R140",
+      "bbox_xy": [
+        -10.1606032,
+        125.6149126,
+        -8.8393968,
+        128.3850874
+      ],
+      "placement": {
+        "x": -9.5,
+        "y": 127,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "R141",
+      "bbox_xy": [
+        -11.660603140000001,
+        131.8149129,
+        -10.33939674,
+        134.5850877
+      ],
+      "placement": {
+        "x": -10.99999994,
+        "y": 133.2000003,
+        "rotation": 90,
+        "layer": 1
+      },
+      "height_mm": 0.8,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603WAF1002T5E"
+    },
+    {
+      "ref": "C131",
+      "bbox_xy": [
+        -8.38991372,
+        126.08996880000001,
+        -5.60998532,
+        127.5101082
+      ],
+      "placement": {
+        "x": -7.00000032,
+        "y": 126.8000004,
+        "rotation": 0,
+        "layer": 1
+      },
+      "height_mm": 1.2,
+      "height_status": "catalog/model nominal or conservative review allowance; verify actual sample",
+      "part": "0603B334K250NT"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+                                                                                              版次(Ed')             变更摘要(Change The Content)           日期(Date)    序号
+                                                                                                                                                                             品名Name            材质Material
+                                                                                                 1      增加料号说明(Add Material Number Description)      2015/1/28    No.
+                                                                                                                                                                        0.5拉拔3代胶芯(H2.0)
+                                                                                                                                                                  1     0.5 Pitch ZIF Type 3
+                                                                                                                                                                        Housing (H=2.0)
+                                                                                                                                                                                               LCP UL94V-0 本色
+                                                                                                                                                                                                    Natural
+                                                                                                                                                                        0.5拉拔下接端子(H2.0)        铜合金/表面镀锡
+                                                                                                                                                                  2 0.5 Pitch H2.0 ZIF R/A Copper Alloy/
+                                                                                                                                                                    Type Under terminal     Tin Plating
+                                                                                                                                                                        0.5拉拔3代后盖(H2.0)
+                                                                                                                                                                  3 0.5 Pitch ZIF Type 3
+                                                                                                                                                                    Actuator (H=2.0)
+                                                                                                                                                                                         LCP UL94V-0 黑色
+                                                                                                                                                                                                Black
+
+                                                                                                                                                                        0.5拉拔3代焊片(H2.0)        铜合金/表面镀锡
+
+                                                               4
+                                                                                                                                                                  4 0.5 Pitch ZIF Type 3
+                                                                                                                                                                    Fitting Nail (H=2.0)
+                                                                                                                                                                                               Copper Alloy/
+                                                                                                                                                                                                Tin Plating
+
+
+
+                                                    3
+
+                                            A
+
+
+
+                                            A
+
+
+
+
+                           1
+
+
+
+
+            2
+
+
+技术指标(Technical Index):
+  1.塑件表面应光洁、无毛边、无明显收缩、 缺陷、裂纹等现象.
+  (The surface of the plastic parts should be smooth,no rough
+  edges,no obvious shrinkage,defects,cracks and other phenomena.)                    适用线路板(PCB LAYOUT)
+  2.温度范围(Temperature range)：-25°C～+85°C.
+  3.额定电压(Rated voltage)：50V，AC/DC(=等效).
+  4.接触电阻(Contact resistance)：≤0.03 Ω.
+  5.绝缘电阻(Insulation resistance):≥500M Ω.
+
+
+
+
+                                                                                                                                             品名                                          制图
+
+                                                                                                                                              0.5    2.0
+                                                                                                                                             料号
+                                                                                                                                                                                         审核
+                                                                                                                       一般公差(TOLERANCE)            ZX-0.5FPC-2H-CTXX12P
+                                                               适用扁平线(Applicable Flat Cable）                                                  比例                  单位                      张数
+

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1500" viewBox="0 0 1100 1500"><rect width="1100" height="1500" fill="#f4f7f5"/>
+<text x="55" y="65" fill="#23404a" text-anchor="start" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="40" transform="rotate(0 55 65)">V0.1 · 适配板背面</text>
+<text x="55" y="116" fill="#23404a" text-anchor="start" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="23" transform="rotate(0 55 116)">按嘉立创保存后的坐标重绘封装包络；未布线。</text>
+<polygon points="865.00,1330.00 235.00,1330.00 200.00,1295.00 200.00,245.00 235.00,210.00 865.00,210.00 900.00,245.00 900.00,1295.00 865.00,1330.00" fill="#183e3c" stroke="#183e3c" stroke-width="3"/>
+<polygon points="749.50,1153.25 749.50,1107.75 795.00,1107.75 795.00,1153.25 749.50,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<polygon points="660.60,1153.25 660.60,1107.75 706.10,1107.75 706.10,1153.25 660.60,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<polygon points="571.70,1153.25 571.70,1107.75 617.20,1107.75 617.20,1153.25 571.70,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<polygon points="482.80,1153.25 482.80,1107.75 528.30,1107.75 528.30,1153.25 482.80,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<polygon points="393.90,1153.25 393.90,1107.75 439.40,1107.75 439.40,1153.25 393.90,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<polygon points="305.00,1153.25 305.00,1107.75 350.50,1107.75 350.50,1153.25 305.00,1153.25" fill="#efd08b" stroke="#efd08b" stroke-width="0.6"/>
+<circle cx="812.5" cy="700" r="73.5" fill="none" stroke="#eadbbb" stroke-width="2"/><circle cx="812.5" cy="700" r="38.5" fill="#f4f7f5"/>
+<circle cx="287.5" cy="700" r="73.5" fill="none" stroke="#eadbbb" stroke-width="2"/><circle cx="287.5" cy="700" r="38.5" fill="#f4f7f5"/>
+<circle cx="655.0" cy="1015" r="17.5" fill="#efd08b"/>
+<circle cx="602.5" cy="1015" r="17.5" fill="#efd08b"/>
+<circle cx="550.0" cy="1015" r="17.5" fill="#efd08b"/>
+<circle cx="497.5" cy="1015" r="17.5" fill="#efd08b"/>
+<circle cx="445.0" cy="1015" r="17.5" fill="#efd08b"/>
+<text x="550.0" y="489.99999090000017" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="29.750029399999995" transform="rotate(0 550.0 489.99999090000017)">BLADE ADAPTER V01</text>
+<text x="550.0" y="567.0000147000001" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="29.750029399999995" transform="rotate(0 550.0 567.0000147000001)">5V / 400mA MAX</text>
+<text x="550.0" y="875.0000210000001" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="28.000032899999997" transform="rotate(0 550.0 875.0000210000001)">NO ROUTING</text>
+<text x="772.25" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 772.25 1203.9999853)">5V</text>
+<text x="683.35" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 683.35 1203.9999853)">3V3</text>
+<text x="594.45" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 594.45 1203.9999853)">GND</text>
+<text x="505.55" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 505.55 1203.9999853)">SCL</text>
+<text x="416.65" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 416.65 1203.9999853)">SDA</text>
+<text x="327.75" y="1203.9999853" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="20.999958" transform="rotate(0 327.75 1203.9999853)">DET</text>
+<text x="654.9999678" y="973.0000028" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="17.499965" transform="rotate(0 654.9999678 973.0000028)">IO</text>
+<text x="602.4999839" y="973.0000028" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="17.499965" transform="rotate(0 602.4999839 973.0000028)">CK</text>
+<text x="550.0" y="973.0000028" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="17.499965" transform="rotate(0 550.0 973.0000028)">RST</text>
+<text x="445.0000322" y="973.0000028" fill="#fff7db" text-anchor="middle" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="17.499965" transform="rotate(0 445.0000322 973.0000028)">GND</text>
+<text x="55" y="1435" fill="#23404a" text-anchor="start" dominant-baseline="central" font-family="Arial,PingFang SC,sans-serif" font-size="21" transform="rotate(0 55 1435)">背面图已按翻板视角显示。黄色为焊盘包络；完整外形请看原生工程。</text>
+</svg>

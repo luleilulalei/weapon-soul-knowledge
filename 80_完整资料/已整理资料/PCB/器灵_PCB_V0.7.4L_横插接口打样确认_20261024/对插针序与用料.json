@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-24",
+  "status": "用户确认首版打样用料；未下单",
+  "J7": {
+    "mpn": "HX PM2.0-2x3P WC H6.35",
+    "lcsc": "C46061744",
+    "url": "https://item.szlcsc.com/48170604.html"
+  },
+  "J701": {
+    "mpn": "HX PZ2.0-2x3P WZ",
+    "lcsc": "C32713227",
+    "url": "https://item.szlcsc.com/34444507.html"
+  },
+  "mating": [
+    {
+      "host_pin": "1",
+      "adapter_pin": "5",
+      "host_net": "+5V_ACC",
+      "adapter_net": "+5V_ACC"
+    },
+    {
+      "host_pin": "2",
+      "adapter_pin": "6",
+      "host_net": "+3V3",
+      "adapter_net": "+3V3"
+    },
+    {
+      "host_pin": "3",
+      "adapter_pin": "3",
+      "host_net": "GND",
+      "adapter_net": "GND"
+    },
+    {
+      "host_pin": "4",
+      "adapter_pin": "4",
+      "host_net": "ACC_SCL_MCU",
+      "adapter_net": "ACC_SCL"
+    },
+    {
+      "host_pin": "5",
+      "adapter_pin": "1",
+      "host_net": "ACC_SDA_MCU",
+      "adapter_net": "ACC_SDA"
+    },
+    {
+      "host_pin": "6",
+      "adapter_pin": "2",
+      "host_net": "ACC_DET_N",
+      "adapter_net": "GND"
+    }
+  ]
+}

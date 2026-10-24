@@ -1,0 +1,49 @@
+{
+  "same_as_mechanical_v03": [
+    "P10_rear_NFC_holder.stl",
+    "P01_front_shell.stl",
+    "P05_screen_rear_retainer.stl",
+    "P12_LRA_retaining_bridge.stl",
+    "P13_MIC_side_duct.stl",
+    "P06_power_plunger.stl",
+    "P09_side_speaker_grille.stl",
+    "P07_battery_cradle.stl",
+    "P04_replaceable_screen_bezel.stl",
+    "P11_keyed_top_dust_cap.stl",
+    "P14_fit_coupon.stl",
+    "P08_side_speaker_chamber.stl"
+  ],
+  "changed": [
+    "P03_PCB_four_hole_carrier.stl",
+    "P02_rear_shell.stl"
+  ],
+  "pcb_holes_mm": [
+    [
+      -19,
+      90
+    ],
+    [
+      19,
+      90
+    ],
+    [
+      -13.5,
+      145
+    ],
+    [
+      13.5,
+      145
+    ]
+  ],
+  "carrier_lower_shell_mounts_mm": [
+    [
+      -20,
+      129
+    ],
+    [
+      20,
+      129
+    ]
+  ],
+  "pcb_y_to_shell_y": 27.5
+}

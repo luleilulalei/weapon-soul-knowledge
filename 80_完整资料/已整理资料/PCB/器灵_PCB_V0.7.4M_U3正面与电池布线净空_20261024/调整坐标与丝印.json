@@ -1,0 +1,349 @@
+{
+  "changes": {
+    "U3": {
+      "x": -4.2,
+      "y": 109.4,
+      "rotation": 180,
+      "layer": 1
+    },
+    "C11": {
+      "x": -2.7,
+      "y": 112.3,
+      "rotation": 90,
+      "layer": 1
+    },
+    "C12": {
+      "x": -5.4,
+      "y": 112.7,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R6": {
+      "x": -2.7,
+      "y": 106.3,
+      "rotation": 270,
+      "layer": 1
+    },
+    "R129": {
+      "x": -8.4,
+      "y": 113.1,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R130": {
+      "x": -8.4,
+      "y": 111.0,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R131": {
+      "x": -8.4,
+      "y": 108.89999999999999,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R132": {
+      "x": -8.4,
+      "y": 106.8,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R133": {
+      "x": -8.4,
+      "y": 104.69999999999999,
+      "rotation": 180,
+      "layer": 1
+    },
+    "R134": {
+      "x": -8.4,
+      "y": 102.6,
+      "rotation": 180,
+      "layer": 1
+    }
+  },
+  "before": {
+    "U3": {
+      "x": -6.000000699999999,
+      "y": 115.50000014,
+      "rotation": 90,
+      "layer": 2
+    },
+    "C11": {
+      "x": -6.7999991,
+      "y": 112.19999911999999,
+      "rotation": 0,
+      "layer": 2
+    },
+    "C12": {
+      "x": -3.60000042,
+      "y": 110.79999938,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R6": {
+      "x": -2.40000028,
+      "y": 114.0000006,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R129": {
+      "x": -10.49999932,
+      "y": 121.50000084,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R130": {
+      "x": -13.500000939999998,
+      "y": 120.5000003,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R131": {
+      "x": -10.49999932,
+      "y": 119.49999976,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R132": {
+      "x": -13.500000939999998,
+      "y": 118.49999921999999,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R133": {
+      "x": -10.49999932,
+      "y": 117.50000122,
+      "rotation": 0,
+      "layer": 2
+    },
+    "R134": {
+      "x": -7.500000239999999,
+      "y": 118.39999942,
+      "rotation": 0,
+      "layer": 2
+    }
+  },
+  "corridors": {
+    "battery_escape": [
+      2,
+      [
+        -9.9,
+        109.4,
+        -3.1,
+        115.7
+      ]
+    ],
+    "battery_approach": [
+      2,
+      [
+        -6.3,
+        115.7,
+        -3.1,
+        119.6
+      ]
+    ]
+  },
+  "issues": [],
+  "updates": {
+    "Spirit_JLC": {
+      "C11": {
+        "x": -2.7,
+        "y": 112.3,
+        "rotation": 90,
+        "layer": 1
+      },
+      "C12": {
+        "x": -5.4,
+        "y": 112.7,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R6": {
+        "x": -2.7,
+        "y": 106.3,
+        "rotation": 270,
+        "layer": 1
+      },
+      "R129": {
+        "x": -8.4,
+        "y": 113.1,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R130": {
+        "x": -8.4,
+        "y": 111.0,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R131": {
+        "x": -8.4,
+        "y": 108.89999999999999,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R132": {
+        "x": -8.4,
+        "y": 106.8,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R133": {
+        "x": -8.4,
+        "y": 104.69999999999999,
+        "rotation": 180,
+        "layer": 1
+      },
+      "R134": {
+        "x": -8.4,
+        "y": 102.6,
+        "rotation": 180,
+        "layer": 1
+      },
+      "U3": {
+        "x": -4.2,
+        "y": 109.4,
+        "rotation": 180,
+        "layer": 1
+      }
+    }
+  },
+  "labels": {
+    "Spirit_JLC": {
+      "remove": [
+        "layout74k_S0",
+        "layout74k_S1",
+        "layout74k_S12",
+        "layout74k_S24",
+        "layout74k_S70",
+        "layout74k_S76",
+        "layout74k_S108",
+        "layout74k_S118",
+        "layout74k_S119",
+        "layout74k_S120",
+        "layout74k_S121",
+        "layout74k_S153",
+        "layout74k_S154"
+      ],
+      "add": [
+        {
+          "text": "J2 TOUCH",
+          "x": -13.1,
+          "y": 105.4,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "SPIRIT V074M",
+          "x": 1.2,
+          "y": 112,
+          "height": 0.85,
+          "angle": 90,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "U3",
+          "x": -4.8,
+          "y": 106.4,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "C12",
+          "x": -5.4,
+          "y": 111.55,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R129",
+          "x": -8.4,
+          "y": 112.05,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R130",
+          "x": -8.4,
+          "y": 109.95,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R131",
+          "x": -8.4,
+          "y": 107.85,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R132",
+          "x": -8.4,
+          "y": 105.75,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R133",
+          "x": -8.4,
+          "y": 103.64999999999999,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R134",
+          "x": -8.4,
+          "y": 101.55,
+          "height": 0.75,
+          "angle": 0,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "U1 ESP32-S3",
+          "x": -10.4000445,
+          "y": 89.80000074,
+          "height": 0.75,
+          "angle": 90,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "C11",
+          "x": -1.3500009000000004,
+          "y": 112.3,
+          "height": 0.75,
+          "angle": 90,
+          "layer": 3,
+          "mirror": false
+        },
+        {
+          "text": "R6",
+          "x": -1.3679968000000002,
+          "y": 106.3,
+          "height": 0.75,
+          "angle": 90,
+          "layer": 3,
+          "mirror": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "based_on": "Mechanical V0.3 V074H; printed meshes unchanged",
+  "status": "PASS",
+  "checked_pairs": 683,
+  "collisions": [],
+  "changed_envelopes": [
+    "J104",
+    "J201",
+    "R134"
+  ],
+  "plug_volumes_mm": {
+    "J104_PLUG_SERVICE_ALLOWANCE": [
+      -26.0,
+      133.89999389648438,
+      -4.0,
+      -16.626155853271484,
+      144.89999389648438,
+      0.0
+    ],
+    "J201_PLUG_SERVICE_ALLOWANCE": [
+      16.270000457763672,
+      152.3000030517578,
+      -4.0,
+      25.0,
+      160.6999969482422,
+      0.0
+    ]
+  },
+  "boundary": "Engineering plug/lead volumes only; physical cable bending, lock actuation, actual samples unverified. Plug before closing shell."
+}

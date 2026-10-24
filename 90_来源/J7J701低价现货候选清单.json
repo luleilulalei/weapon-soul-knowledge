@@ -1,0 +1,38 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/00_采购候选与未完成项.txt",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/00_采购候选与未完成项.txt",
+    "kind": "file",
+    "sha256": "97017efdd7e8bf7b44c6f5390442d38d9428e59b08518c3ffb7f71a22871998e",
+    "bytes": 1717,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/现货价格与验证边界.json",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/现货价格与验证边界.json",
+    "kind": "file",
+    "sha256": "d6856ae149339fd261ab12ecd385112100f8eab00168269263f367d056f465b4",
+    "bytes": 1593,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/23E316050.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/23E316050.pdf",
+    "kind": "file",
+    "sha256": "204e9026df00ad7ea85e48da4eb8e0c041cb4f89ecf0e4da9a85a4889bc8b0ab",
+    "bytes": 508904,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_低价现货候选_20261024/23E416050.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_低价现货候选_20261024/23E416050.pdf",
+    "kind": "file",
+    "sha256": "b8021dc2b8b03882c5866cf77c946bb052591d0c8596b0300f1505643fe21929",
+    "bytes": 509796,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

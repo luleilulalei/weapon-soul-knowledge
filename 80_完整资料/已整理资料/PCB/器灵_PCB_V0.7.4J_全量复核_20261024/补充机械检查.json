@@ -1,0 +1,80 @@
+{
+  "model": "V03R1_V074J",
+  "source_model_changed": false,
+  "speaker_old_dimensions_xyz": [
+    4.000000953674316,
+    20.0,
+    20.0
+  ],
+  "speaker_old_bounds": [
+    -20.600000381469727,
+    38.0,
+    -9.0,
+    -16.600000381469727,
+    58.0,
+    11.0
+  ],
+  "speaker_audit_dimensions_xyz": [
+    5.099999904632568,
+    20.0,
+    20.0
+  ],
+  "speaker_audit_bounds": [
+    -21.149999618530273,
+    38.0,
+    -9.0,
+    -16.05000114440918,
+    58.0,
+    11.0
+  ],
+  "pairs_checked": 545,
+  "new_services": [
+    {
+      "ref": "J110",
+      "bounds_xyz": [
+        16.270000457763672,
+        157.3000030517578,
+        1.5999999046325684,
+        25.0,
+        161.6999969482422,
+        5.599999904632568
+      ]
+    },
+    {
+      "ref": "J3",
+      "bounds_xyz": [
+        -25.0,
+        121.5,
+        1.5999999046325684,
+        -16.270000457763672,
+        125.89999389648438,
+        5.599999904632568
+      ]
+    },
+    {
+      "ref": "J2",
+      "bounds_xyz": [
+        -25.0,
+        133.8000030517578,
+        1.5999999046325684,
+        -16.270000457763672,
+        143.1999969482422,
+        5.599999904632568
+      ]
+    }
+  ],
+  "intersections": [
+    {
+      "a": "AUDIT_J3_PLUG",
+      "b": "P01_front_shell",
+      "volume_mm3": 0.373847310167994
+    },
+    {
+      "a": "SPEAKER_20mm_PROXY",
+      "b": "P08_side_speaker_chamber",
+      "volume_mm3": 13.886889663736726
+    }
+  ],
+  "threshold_mm3": 0.02,
+  "limits": "Service envelopes are engineering assumptions; physical connector latches, cable sweep and actual speaker tolerances require verification. No STL or native PCB edited."
+}

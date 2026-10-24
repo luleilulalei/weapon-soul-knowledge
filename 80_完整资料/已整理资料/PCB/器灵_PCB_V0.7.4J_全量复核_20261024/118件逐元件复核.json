@@ -1,0 +1,3884 @@
+[
+  {
+    "reference": "C1",
+    "page": "P1",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 11.2,
+    "y_mm": 82.3,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控3.3V去耦/储能，电压额定值高于3.3V；布线时贴近供电脚并短接地。"
+  },
+  {
+    "reference": "C2",
+    "page": "P1",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 13.2,
+    "y_mm": 82.3,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控3.3V去耦/储能，电压额定值高于3.3V；布线时贴近供电脚并短接地。"
+  },
+  {
+    "reference": "C3",
+    "page": "P1",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 11.5,
+    "y_mm": 82.3,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控3.3V去耦/储能，电压额定值高于3.3V；布线时贴近供电脚并短接地。"
+  },
+  {
+    "reference": "C4",
+    "page": "P1",
+    "manufacturer_part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C19702",
+    "value": "10uF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 15.2,
+    "y_mm": 82.3,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控3.3V去耦/储能，电压额定值高于3.3V；布线时贴近供电脚并短接地。"
+  },
+  {
+    "reference": "C5",
+    "page": "P1",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 14.6,
+    "y_mm": 86.0,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "MCU_EN"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控EN上拉及上电延时：10kΩ×1µF≈10ms；RESET短接EN到地。"
+  },
+  {
+    "reference": "C7",
+    "page": "P3",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -3.0,
+    "y_mm": 97.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "BMI270的VDD/VDDIO去耦；均接3.3V与GND。"
+  },
+  {
+    "reference": "C8",
+    "page": "P3",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 3.0,
+    "y_mm": 97.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "BMI270的VDD/VDDIO去耦；均接3.3V与GND。"
+  },
+  {
+    "reference": "C9",
+    "page": "P3",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 0.0,
+    "y_mm": 101.5,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "BMI270的VDD/VDDIO去耦；均接3.3V与GND。"
+  },
+  {
+    "reference": "C11",
+    "page": "04_TOUCH",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -2.5,
+    "y_mm": 114.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "CAP1296去耦100nF，距VDD焊盘中心4.51mm，应贴近芯片。"
+  },
+  {
+    "reference": "C12",
+    "page": "04_TOUCH",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -0.3,
+    "y_mm": 114.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "CAP1296 1µF电源储能；与C11构成本地去耦。"
+  },
+  {
+    "reference": "C13",
+    "page": "05_AUDIO",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -5.7,
+    "y_mm": 102.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "功放5V去耦100nF+10µF，额定电压满足5V；必须控制高频电流回路。"
+  },
+  {
+    "reference": "C14",
+    "page": "05_AUDIO",
+    "manufacturer_part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C19702",
+    "value": "10uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -5.7,
+    "y_mm": 99.0,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "功放5V去耦100nF+10µF，额定电压满足5V；必须控制高频电流回路。"
+  },
+  {
+    "reference": "C15",
+    "page": "06_MIC",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 12.0,
+    "y_mm": 107.0,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "麦克风3.3V去耦100nF+1µF；到VDD约4.40/3.30mm，建议靠近，短地回流。"
+  },
+  {
+    "reference": "C16",
+    "page": "06_MIC",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 12.0,
+    "y_mm": 114.0,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "麦克风3.3V去耦100nF+1µF；到VDD约4.40/3.30mm，建议靠近，短地回流。"
+  },
+  {
+    "reference": "C29",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": -4.0,
+    "y_mm": 118.0,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_VCC"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "LCD逻辑供电由3.3V经磁珠，屏侧100nF+10µF去耦；实际屏供电范围/启动电流尚未确认。"
+  },
+  {
+    "reference": "C30",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C19702",
+    "value": "10uF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": -4.0,
+    "y_mm": 120.2,
+    "rotation": 0,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_VCC"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "LCD逻辑供电由3.3V经磁珠，屏侧100nF+10µF去耦；实际屏供电范围/启动电流尚未确认。"
+  },
+  {
+    "reference": "C101",
+    "page": "10_USB",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 9.0,
+    "y_mm": 122.8,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_5V_FUSED"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待整改",
+    "review": "BQ24075输入1µF+100nF，到IN脚10.44/8.85mm且跨面；应移到充电芯片同面近端，缩小回路。"
+  },
+  {
+    "reference": "C102",
+    "page": "10_USB",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 9.0,
+    "y_mm": 126.0,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_5V_FUSED"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待整改",
+    "review": "BQ24075输入1µF+100nF，到IN脚10.44/8.85mm且跨面；应移到充电芯片同面近端，缩小回路。"
+  },
+  {
+    "reference": "C103",
+    "page": "11_Charger",
+    "manufacturer_part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplier_code": "C109314",
+    "value": "22uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": -3.5,
+    "y_mm": 128.8,
+    "rotation": 270,
+    "voltage_rating": "10V（厂商确认）",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VBAT_PROT"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "保护电池端22µF+100nF去耦；22µF型号实为10V，未发现耐压不足。"
+  },
+  {
+    "reference": "C104",
+    "page": "11_Charger",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -5.5,
+    "y_mm": 128.8,
+    "rotation": 270,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VBAT_PROT"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "保护电池端22µF+100nF去耦；22µF型号实为10V，未发现耐压不足。"
+  },
+  {
+    "reference": "C105",
+    "page": "11_Charger",
+    "manufacturer_part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplier_code": "C109314",
+    "value": "22uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": 3.5,
+    "y_mm": 129.5,
+    "rotation": 90,
+    "voltage_rating": "10V（厂商确认）",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "VSYS_RAW 22µF储能；与R110包络间隙0.151mm，无交叠但装配/维修余量小。"
+  },
+  {
+    "reference": "C106",
+    "page": "11_Charger",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 5.5,
+    "y_mm": 129.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "VSYS_RAW高频100nF去耦；与C105配合。"
+  },
+  {
+    "reference": "C107",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplier_code": "C380346",
+    "value": "10uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": -10.5,
+    "y_mm": 139.0,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "TPS63802输入两颗10µF+100nF；须就近VIN/GND，考虑直流偏压后的有效容值。"
+  },
+  {
+    "reference": "C108",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -6.5,
+    "y_mm": 137.1,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "TPS63802输入两颗10µF+100nF；须就近VIN/GND，考虑直流偏压后的有效容值。"
+  },
+  {
+    "reference": "C109",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplier_code": "C109314",
+    "value": "22uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": -5.5,
+    "y_mm": 144.7,
+    "rotation": 0,
+    "voltage_rating": "10V（厂商确认）",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "TPS63802输出两颗22µF/10V并联；标称44µF，需确认偏压/温度后有效容值与负载瞬态。"
+  },
+  {
+    "reference": "C111",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplier_code": "C380346",
+    "value": "10uF",
+    "footprint": "C0805",
+    "side": "正面",
+    "x_mm": 0.3,
+    "y_mm": 123.0,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "TPS61023输入10µF+100nF；C111到VIN约6.02mm，布线前应继续收紧输入高频回路。"
+  },
+  {
+    "reference": "C112",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 0.3,
+    "y_mm": 127.4,
+    "rotation": 180,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "TPS61023输入10µF+100nF；C111到VIN约6.02mm，布线前应继续收紧输入高频回路。"
+  },
+  {
+    "reference": "C113",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplier_code": "C109314",
+    "value": "22uF",
+    "footprint": "C0805",
+    "side": "正面",
+    "x_mm": 6.25,
+    "y_mm": 129.1,
+    "rotation": -90,
+    "voltage_rating": "10V（厂商确认）",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "5V输出22µF/10V；需在输出/地脚附近形成小回路并校验有效容值和纹波。"
+  },
+  {
+    "reference": "C114",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "CC0603JRNPO9BN221",
+    "supplier": "LCSC",
+    "supplier_code": "C106210",
+    "value": "220pF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": 4.2,
+    "y_mm": 132.0,
+    "rotation": -90,
+    "voltage_rating": "50V",
+    "DNP": true,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "BOOST_FB"
+      }
+    },
+    "status": "DNP不装",
+    "review": "220pF前馈电容保留封装但DNP不装；当前不可作为117件装配BOM的一部分。不要因留有焊盘就默认装上。"
+  },
+  {
+    "reference": "C115",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": -11.0,
+    "y_mm": 134.0,
+    "rotation": 0,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BAT_ADC"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "100kΩ/100kΩ分压，4.2V电池→2.1V ADC；100nF与等效50kΩ形成约5ms时间常数，建议稳定至少25ms再校准采样。"
+  },
+  {
+    "reference": "C119",
+    "page": "16_Motor",
+    "manufacturer_part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplier_code": "C380346",
+    "value": "10uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": 12.5,
+    "y_mm": 106.0,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "DRV2605L的3.3V电源储能/去耦；接受控3.3V。"
+  },
+  {
+    "reference": "C120",
+    "page": "16_Motor",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 5.0,
+    "y_mm": 103.2,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "HAPTIC_REG"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "DRV2605L REG专用1µF到地，不是外部供电输出；距REG约3.07mm，建议更靠近。"
+  },
+  {
+    "reference": "C121",
+    "page": "16_Motor",
+    "manufacturer_part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C15849",
+    "value": "1uF",
+    "footprint": "C0603",
+    "side": "背面",
+    "x_mm": 14.8,
+    "y_mm": 109.5,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "DRV2605L的3.3V电源储能/去耦；接受控3.3V。"
+  },
+  {
+    "reference": "C128",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplier_code": "C109314",
+    "value": "22uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": -5.5,
+    "y_mm": 147.0,
+    "rotation": 0,
+    "voltage_rating": "10V（厂商确认）",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "TPS63802输出两颗22µF/10V并联；标称44µF，需确认偏压/温度后有效容值与负载瞬态。"
+  },
+  {
+    "reference": "C129",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplier_code": "C380346",
+    "value": "10uF",
+    "footprint": "C0805",
+    "side": "背面",
+    "x_mm": -13.2,
+    "y_mm": 139.0,
+    "rotation": 90,
+    "voltage_rating": "10V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "TPS63802输入两颗10µF+100nF；须就近VIN/GND，考虑直流偏压后的有效容值。"
+  },
+  {
+    "reference": "C130",
+    "page": "12_Main_switch",
+    "manufacturer_part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplier_code": "C14663",
+    "value": "100nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": -11.0,
+    "y_mm": 130.0,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "常供电LTC2950的100nF去耦，接VSYS_RAW。"
+  },
+  {
+    "reference": "C131",
+    "page": "12_Main_switch",
+    "manufacturer_part": "0603B334K250NT",
+    "supplier": "LCSC",
+    "supplier_code": "C1615",
+    "value": "330nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": -7.0,
+    "y_mm": 126.8,
+    "rotation": 0,
+    "voltage_rating": "25V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "PWR_ONT"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "330nF长按开机计时，典型约2.244s；容差与实际触发时间需实测。"
+  },
+  {
+    "reference": "C132",
+    "page": "12_Main_switch",
+    "manufacturer_part": "CL10B474KA8NNNC",
+    "supplier": "LCSC",
+    "supplier_code": "C1623",
+    "value": "470nF",
+    "footprint": "C0603",
+    "side": "正面",
+    "x_mm": -7.0,
+    "y_mm": 133.2,
+    "rotation": 0,
+    "voltage_rating": "25V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "PWR_OFFT"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "470nF长按关机请求计时，典型约3.182s；之后仍有芯片强制关机超时。"
+  },
+  {
+    "reference": "F101",
+    "page": "10_USB",
+    "manufacturer_part": "BSMD1812-260-16V",
+    "supplier": "LCSC",
+    "supplier_code": "C883160",
+    "value": "BSMD1812-260-16V",
+    "footprint": "F1812",
+    "side": "正面",
+    "x_mm": 13.0,
+    "y_mm": 124.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_VBUS"
+      },
+      "2": {
+        "name": "2",
+        "net": "USB_5V_FUSED"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "2.6A保持电流/16V自恢复保险丝，为异常过流后备；并非USB的500mA限流器，须与线束/电池故障路径配合。"
+  },
+  {
+    "reference": "FB202",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "BLM18AG601SN1D",
+    "supplier": "LCSC",
+    "supplier_code": "C19330",
+    "value": "BLM18AG601SN1D",
+    "footprint": "L0603",
+    "side": "正面",
+    "x_mm": -4.0,
+    "y_mm": 115.8,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_VCC"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "LCD逻辑供电由3.3V经磁珠，屏侧100nF+10µF去耦；实际屏供电范围/启动电流尚未确认。"
+  },
+  {
+    "reference": "J2",
+    "page": "04_TOUCH",
+    "manufacturer_part": "SM07B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplier_code": "C160406",
+    "value": "SM07B-SRSS-TB(LF)(SN)",
+    "footprint": "CONN-SMD_SM07B-SRSS-TB",
+    "side": "正面",
+    "x_mm": -12.8,
+    "y_mm": 111.0,
+    "rotation": -90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "0": {
+        "name": "0",
+        "net": "NC"
+      },
+      "1": {
+        "name": "1",
+        "net": "ELE0"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE1"
+      },
+      "3": {
+        "name": "3",
+        "net": "ELE2"
+      },
+      "4": {
+        "name": "4",
+        "net": "ELE3"
+      },
+      "5": {
+        "name": "5",
+        "net": "ELE4"
+      },
+      "6": {
+        "name": "6",
+        "net": "ELE5"
+      },
+      "7": {
+        "name": "7",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "七针触摸线束：六电极+GND；固定焊脚0无电气网络。PCB插接预留无相交；线束公差和弯折仍待验证。"
+  },
+  {
+    "reference": "J3",
+    "page": "05_AUDIO",
+    "manufacturer_part": "SM02B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplier_code": "C160402",
+    "value": "SM02B-SRSS-TB(LF)(SN)",
+    "footprint": "CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN",
+    "side": "正面",
+    "x_mm": -13.8,
+    "y_mm": 96.2,
+    "rotation": -90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "SPK_P"
+      },
+      "2": {
+        "name": "2",
+        "net": "SPK_N"
+      },
+      "3": {
+        "name": "3",
+        "net": "NC"
+      },
+      "4": {
+        "name": "4",
+        "net": "NC"
+      }
+    },
+    "status": "机械待整改",
+    "review": "扬声器BTL两线SPK+/SPK−，任一线都不得接地。补充插头预留与前壳相交0.374mm³，尚未修壳。"
+  },
+  {
+    "reference": "J7",
+    "page": "08_BLADE",
+    "manufacturer_part": "810-22-006-40-001101",
+    "supplier": "DigiKey",
+    "supplier_code": "ED90478-ND",
+    "value": "810-22-006-40-001101",
+    "footprint": "Spirit_MillMax_810_6P_Axial_P2.54_V073",
+    "side": "正面",
+    "x_mm": 0.0,
+    "y_mm": 149.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "+3V3"
+      },
+      "3": {
+        "name": "3",
+        "net": "GND"
+      },
+      "4": {
+        "name": "4",
+        "net": "ACC_SCL_MCU"
+      },
+      "5": {
+        "name": "5",
+        "net": "ACC_SDA_MCU"
+      },
+      "6": {
+        "name": "6",
+        "net": "ACC_DET_N"
+      }
+    },
+    "status": "接口待确认",
+    "review": "六针轴向触点候选：5V/3.3V/GND/SCL/SDA/DET。自定义封装及匹配提示待按实物核准；当前供应商为DigiKey，不是立创商城料号。共用GND触点电流、触点压缩量/锁止需冻结。"
+  },
+  {
+    "reference": "J8",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "ZX-0.5FPC-2H-CTXX12P",
+    "supplier": "LCSC",
+    "supplier_code": "C19191175",
+    "value": "ZX-0.5FPC-2H-CTXX12P",
+    "footprint": "FPC-SMD_12P-P0.50_ZX-0.5FPC-2H-CTXX12P",
+    "side": "正面",
+    "x_mm": -13.1,
+    "y_mm": 122.4,
+    "rotation": -90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "GND"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_LEDK"
+      },
+      "3": {
+        "name": "3",
+        "net": "LCD_LEDA"
+      },
+      "4": {
+        "name": "4",
+        "net": "LCD_VCC"
+      },
+      "5": {
+        "name": "5",
+        "net": "GND"
+      },
+      "6": {
+        "name": "6",
+        "net": "GND"
+      },
+      "7": {
+        "name": "7",
+        "net": "LCD_DC"
+      },
+      "8": {
+        "name": "8",
+        "net": "LCD_CS"
+      },
+      "9": {
+        "name": "9",
+        "net": "LCD_SCK"
+      },
+      "10": {
+        "name": "10",
+        "net": "LCD_MOSI"
+      },
+      "11": {
+        "name": "11",
+        "net": "LCD_RST_N"
+      },
+      "12": {
+        "name": "12",
+        "net": "GND"
+      },
+      "13": {
+        "name": "13",
+        "net": "GND"
+      },
+      "14": {
+        "name": "14",
+        "net": "GND"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "12针0.5mm下接FPC座，0.3mm排线，固定焊盘13/14接地；GC9A01只是控制器型号，不能据此确认用户屏针序/接触面。"
+  },
+  {
+    "reference": "J101",
+    "page": "10_USB",
+    "manufacturer_part": "TYPE-C-31-M-12",
+    "supplier": "LCSC",
+    "supplier_code": "C165948",
+    "value": "TYPE-C-31-M-12",
+    "footprint": "USB-C_SMD-TYPE-C-31-M-12_1",
+    "side": "正面",
+    "x_mm": 23.0,
+    "y_mm": 119.0,
+    "rotation": 90,
+    "voltage_rating": "20V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "EH",
+        "net": "GND"
+      },
+      "2": {
+        "name": "EH",
+        "net": "GND"
+      },
+      "3": {
+        "name": "EH",
+        "net": "GND"
+      },
+      "4": {
+        "name": "EH",
+        "net": "GND"
+      },
+      "A1B12": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "A4B9": {
+        "name": "VBUS",
+        "net": "USB_VBUS"
+      },
+      "B8": {
+        "name": "SBU2",
+        "net": "NC"
+      },
+      "A5": {
+        "name": "CC1",
+        "net": "USB_CC1"
+      },
+      "B7": {
+        "name": "DN2",
+        "net": "USB_DM_CONN"
+      },
+      "A6": {
+        "name": "DP1",
+        "net": "USB_DP_CONN"
+      },
+      "A7": {
+        "name": "DN1",
+        "net": "USB_DM_CONN"
+      },
+      "B6": {
+        "name": "DP2",
+        "net": "USB_DP_CONN"
+      },
+      "A8": {
+        "name": "SBU1",
+        "net": "NC"
+      },
+      "B5": {
+        "name": "CC2",
+        "net": "USB_CC2"
+      },
+      "B4A9": {
+        "name": "VBUS",
+        "net": "USB_VBUS"
+      },
+      "B1A12": {
+        "name": "GND",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "USB-C：双侧D+/D−已各自并联；两个CC独立下拉，SBU悬空；屏蔽脚接地。连接器额定值不等于整机允许取电电流。"
+  },
+  {
+    "reference": "J104",
+    "page": "11_Charger",
+    "manufacturer_part": "5040500391",
+    "supplier": "LCSC",
+    "supplier_code": "C17265920",
+    "value": "1S PROTECTED PACK + NTC",
+    "footprint": "CONN-SMD_3P-P1.50_5040500391",
+    "side": "背面",
+    "x_mm": -13.1,
+    "y_mm": 111.9,
+    "rotation": 270,
+    "voltage_rating": "150V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VBAT_PROT"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      },
+      "3": {
+        "name": "3",
+        "net": "BAT_NTC"
+      },
+      "4": {
+        "name": "4",
+        "net": "NC"
+      },
+      "5": {
+        "name": "5",
+        "net": "NC"
+      }
+    },
+    "status": "电池实物待确认",
+    "review": "三针电池接口1=保护电池正、2=地、3=贴电芯10kΩ NTC；固定脚4/5无网。需1S/4.2V保护电池，不能以固定电阻代温度传感。"
+  },
+  {
+    "reference": "J110",
+    "page": "16_Motor",
+    "manufacturer_part": "SM02B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplier_code": "C160402",
+    "value": "LRA_DIFFERENTIAL_HARNESS_2PIN",
+    "footprint": "CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN",
+    "side": "正面",
+    "x_mm": 13.8,
+    "y_mm": 132.0,
+    "rotation": 90,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "HAPTIC_OUT_P"
+      },
+      "2": {
+        "name": "2",
+        "net": "HAPTIC_OUT_N"
+      },
+      "3": {
+        "name": "3",
+        "net": "NC"
+      },
+      "4": {
+        "name": "4",
+        "net": "NC"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "LRA两线差分输出，1=OUT+、2=OUT−；3/4固定焊脚无网。接线不得把任何端接地，插接包络通过本次几何检查。"
+  },
+  {
+    "reference": "J201",
+    "page": "18_NFC_MODULE",
+    "manufacturer_part": "SM04B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplier_code": "C160404",
+    "value": "SM04B-SRSS-TB(LF)(SN)",
+    "footprint": "CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN",
+    "side": "背面",
+    "x_mm": 13.8,
+    "y_mm": 129.0,
+    "rotation": 270,
+    "voltage_rating": "50V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "I2C_SCL"
+      },
+      "2": {
+        "name": "2",
+        "net": "I2C_SDA"
+      },
+      "3": {
+        "name": "3",
+        "net": "+3V3"
+      },
+      "4": {
+        "name": "4",
+        "net": "GND"
+      },
+      "5": {
+        "name": "5",
+        "net": "NC"
+      },
+      "6": {
+        "name": "6",
+        "net": "NC"
+      }
+    },
+    "status": "接口待确认",
+    "review": "背面SH1.0四针，1=SCL/2=SDA/3=3V3/4=GND，非Qwiic针序。NFC成品模块及线端接法待实物冻结。"
+  },
+  {
+    "reference": "L101",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "MWSA0503S-R47MT",
+    "supplier": "LCSC",
+    "supplier_code": "C408353",
+    "value": "470nH",
+    "footprint": "IND-SMD_L5.4-W5.2",
+    "side": "背面",
+    "x_mm": -0.5,
+    "y_mm": 141.0,
+    "rotation": 270,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BB_SW1"
+      },
+      "2": {
+        "name": "2",
+        "net": "BB_SW2"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "0.47µH功率电感，跨TPS63802两开关节点；电感/饱和电流规格方向合理，最坏低电压负载与温升未实测。"
+  },
+  {
+    "reference": "L102",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "MWSA0402S-1R0MT",
+    "supplier": "LCSC",
+    "supplier_code": "C408332",
+    "value": "1uH",
+    "footprint": "IND-SMD_L4.4-W4.2",
+    "side": "正面",
+    "x_mm": 4.25,
+    "y_mm": 123.9,
+    "rotation": -90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "BOOST_SW"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "1µH功率电感用于TPS61023；需按低电池电压时峰值电流和热条件确认，不把开关电流额定当作5V输出电流。"
+  },
+  {
+    "reference": "Q2",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "AO3400A",
+    "supplier": "LCSC",
+    "supplier_code": "C20917",
+    "value": "AO3400A",
+    "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+    "side": "正面",
+    "x_mm": -8.0,
+    "y_mm": 121.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "G",
+        "net": "LCD_BL_GATE"
+      },
+      "2": {
+        "name": "S",
+        "net": "GND"
+      },
+      "3": {
+        "name": "D",
+        "net": "LCD_LEDK"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "背光低侧PWM：AO3400A的G/S/D连接正确，100Ω栅极串阻与100kΩ下拉；最终电流受实屏约束。"
+  },
+  {
+    "reference": "Q102",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "AO3401A",
+    "supplier": "LCSC",
+    "supplier_code": "C15127",
+    "value": "AO3401A",
+    "footprint": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+    "side": "背面",
+    "x_mm": -11.0,
+    "y_mm": 126.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "G",
+        "net": "BAT_SENSE_GATE"
+      },
+      "2": {
+        "name": "S",
+        "net": "VBAT_PROT"
+      },
+      "3": {
+        "name": "D",
+        "net": "VBAT_SENSE_ON"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "电池采样门控：AO3401A源极接电池，AO3400A由3.3V驱动；开机后打开分压、关机隔离，G/S/D已比对。"
+  },
+  {
+    "reference": "Q103",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "AO3400A",
+    "supplier": "LCSC",
+    "supplier_code": "C20917",
+    "value": "AO3400A",
+    "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+    "side": "背面",
+    "x_mm": -11.0,
+    "y_mm": 130.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "G",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "S",
+        "net": "GND"
+      },
+      "3": {
+        "name": "D",
+        "net": "BAT_SENSE_GATE"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "电池采样门控：AO3401A源极接电池，AO3400A由3.3V驱动；开机后打开分压、关机隔离，G/S/D已比对。"
+  },
+  {
+    "reference": "R1",
+    "page": "P1",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 11.2,
+    "y_mm": 86.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "MCU_EN"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控EN上拉及上电延时：10kΩ×1µF≈10ms；RESET短接EN到地。"
+  },
+  {
+    "reference": "R2",
+    "page": "P1",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -11.4,
+    "y_mm": 99.6,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "BOOT_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "GPIO0的BOOT上拉/按键，保留串口与USB下载恢复入口，不能代替电源键。"
+  },
+  {
+    "reference": "R4",
+    "page": "P2",
+    "manufacturer_part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23162",
+    "value": "4.7kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -11.7,
+    "y_mm": 82.1,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "I2C_SDA"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "板内I²C 4.7kΩ上拉到3.3V；建议先用100kHz，400kHz须按总线电容与实测上升时间确认。"
+  },
+  {
+    "reference": "R5",
+    "page": "P2",
+    "manufacturer_part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23162",
+    "value": "4.7kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -14.2,
+    "y_mm": 82.1,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "I2C_SCL"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "板内I²C 4.7kΩ上拉到3.3V；建议先用100kHz，400kHz须按总线电容与实测上升时间确认。"
+  },
+  {
+    "reference": "R6",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -2.5,
+    "y_mm": 117.6,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "TOUCH_IRQ_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "CAP1296低有效中断10kΩ上拉，连GPIO40。"
+  },
+  {
+    "reference": "R8",
+    "page": "05_AUDIO",
+    "manufacturer_part": "0603WAF2201T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C4190",
+    "value": "2.2kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -13.0,
+    "y_mm": 102.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "AMP_ENABLE"
+      },
+      "2": {
+        "name": "2",
+        "net": "AMP_SD_MODE"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "功放使能/默认关闭：2.2kΩ串联、10kΩ下拉及GPIO端100kΩ下拉；计入内部100kΩ，SD_MODE约2.66V，选左声道。"
+  },
+  {
+    "reference": "R9",
+    "page": "05_AUDIO",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -13.0,
+    "y_mm": 105.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "AMP_SD_MODE"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "功放使能/默认关闭：2.2kΩ串联、10kΩ下拉及GPIO端100kΩ下拉；计入内部100kΩ，SD_MODE约2.66V，选左声道。"
+  },
+  {
+    "reference": "R10",
+    "page": "05_AUDIO",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -15.3,
+    "y_mm": 102.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "AMP_ENABLE"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "功放使能/默认关闭：2.2kΩ串联、10kΩ下拉及GPIO端100kΩ下拉；计入内部100kΩ，SD_MODE约2.66V，选左声道。"
+  },
+  {
+    "reference": "R15",
+    "page": "06_MIC",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 9.0,
+    "y_mm": 106.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "PDM_DATA_L"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "PDM数据/时钟100kΩ下拉，掉电或时钟停用时维持已知状态。"
+  },
+  {
+    "reference": "R26",
+    "page": "06_MIC",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 6.5,
+    "y_mm": 106.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "PDM_CLK_MCU"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "PDM数据/时钟100kΩ下拉，掉电或时钟停用时维持已知状态。"
+  },
+  {
+    "reference": "R32",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23140",
+    "value": "33Ω",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 4.8,
+    "y_mm": 101.3,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_DC_MCU"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_DC"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "LCD DC/CS/MOSI/SCK 33Ω串联阻尼，MCU侧与屏侧网络正确；手工布线按边沿和反射确认放置。"
+  },
+  {
+    "reference": "R33",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23140",
+    "value": "33Ω",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 3.2,
+    "y_mm": 101.3,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_CS_MCU"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_CS"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "LCD DC/CS/MOSI/SCK 33Ω串联阻尼，MCU侧与屏侧网络正确；手工布线按边沿和反射确认放置。"
+  },
+  {
+    "reference": "R34",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23140",
+    "value": "33Ω",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 1.6,
+    "y_mm": 101.3,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_MOSI_MCU"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_MOSI"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "LCD DC/CS/MOSI/SCK 33Ω串联阻尼，MCU侧与屏侧网络正确；手工布线按边沿和反射确认放置。"
+  },
+  {
+    "reference": "R35",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23140",
+    "value": "33Ω",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 0.0,
+    "y_mm": 101.3,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_SCK_MCU"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_SCK"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "LCD DC/CS/MOSI/SCK 33Ω串联阻尼，MCU侧与屏侧网络正确；手工布线按边沿和反射确认放置。"
+  },
+  {
+    "reference": "R36",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -8.0,
+    "y_mm": 118.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_RST_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "屏幕复位10kΩ上拉到3.3V。"
+  },
+  {
+    "reference": "R37",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF1000T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C22775",
+    "value": "100Ω",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -8.0,
+    "y_mm": 124.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_BL_PWM"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_BL_GATE"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "背光低侧PWM：AO3400A的G/S/D连接正确，100Ω栅极串阻与100kΩ下拉；最终电流受实屏约束。"
+  },
+  {
+    "reference": "R38",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -7.5,
+    "y_mm": 114.8,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "LCD_BL_GATE"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "背光低侧PWM：AO3400A的G/S/D连接正确，100Ω栅极串阻与100kΩ下拉；最终电流受实屏约束。"
+  },
+  {
+    "reference": "R39",
+    "page": "09_DISPLAY",
+    "manufacturer_part": "1206W4F100JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C17903",
+    "value": "10Ω",
+    "footprint": "R1206",
+    "side": "正面",
+    "x_mm": -4.0,
+    "y_mm": 124.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "LCD_LEDA"
+      }
+    },
+    "status": "屏幕待确认",
+    "review": "背光串联10Ω/0.25W仅为待定值：I=(3.3−Vf)/10，功耗I²R。未取得用户屏的背光电压/电流，不能认定此值适用。"
+  },
+  {
+    "reference": "R103",
+    "page": "10_USB",
+    "manufacturer_part": "0603WAF220JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23345",
+    "value": "22Ω",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 16.6,
+    "y_mm": 123.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_DP_CONN"
+      },
+      "2": {
+        "name": "2",
+        "net": "USB_DP"
+      }
+    },
+    "status": "布局待整改",
+    "review": "USB D+/D−各22Ω，距MCU对应焊盘26.99/26.30mm且跨面；应移到主控端，不能把它们留在接口端当作已优化。"
+  },
+  {
+    "reference": "R104",
+    "page": "10_USB",
+    "manufacturer_part": "0603WAF220JT5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23345",
+    "value": "22Ω",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 16.6,
+    "y_mm": 121.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_DM_CONN"
+      },
+      "2": {
+        "name": "2",
+        "net": "USB_DM"
+      }
+    },
+    "status": "布局待整改",
+    "review": "USB D+/D−各22Ω，距MCU对应焊盘26.99/26.30mm且跨面；应移到主控端，不能把它们留在接口端当作已优化。"
+  },
+  {
+    "reference": "R108",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -3.5,
+    "y_mm": 133.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "GND"
+      },
+      "2": {
+        "name": "2",
+        "net": "CHG_CE_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "CE低有效，10kΩ下拉默认允许充电，旧“默认关闭”说明已修正。"
+  },
+  {
+    "reference": "R110",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1181T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C22763",
+    "value": "1.18kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 3.0,
+    "y_mm": 133.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "CHG_ILIM"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "1.18kΩ的ILIM设置电阻；当前EN1高/EN2低为USB500档，此电阻不决定该档输入上限。与C105完整包络仅0.151mm。"
+  },
+  {
+    "reference": "R111",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -7.5,
+    "y_mm": 132.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "CHG_ISET"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "电流预算待验证",
+    "review": "充电设定1kΩ，对应典型890mA目标；500mA总输入及系统负载会使实际充电电流降低。"
+  },
+  {
+    "reference": "R112",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF6982T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23098",
+    "value": "69.8kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 7.5,
+    "y_mm": 126.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "CHG_TMR"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "69.8kΩ充电安全计时，典型约9.31h；NTC/计时/热调节仍需台架验证。"
+  },
+  {
+    "reference": "R113",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 5.5,
+    "y_mm": 126.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "CHG_SYSOFF"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "SYSOFF 10kΩ下拉，使BQ电池到系统路径保持允许；整机开关由LTC2950+稳压使能完成。"
+  },
+  {
+    "reference": "R114",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -3.5,
+    "y_mm": 135.4,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "CHG_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "CHG_N/PGOOD_N 10kΩ上拉到3.3V，分别接GPIO47/39；PGOOD只表示输入有效，不代表入座。"
+  },
+  {
+    "reference": "R115",
+    "page": "11_Charger",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -3.5,
+    "y_mm": 137.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "PGOOD_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "CHG_N/PGOOD_N 10kΩ上拉到3.3V，分别接GPIO47/39；PGOOD只表示输入有效，不代表入座。"
+  },
+  {
+    "reference": "R116",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -8.75,
+    "y_mm": 136.3,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "2",
+        "net": "BUCK_EN"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "100kΩ将BUCK_EN上拉到VSYS_RAW；LTC关机拉低时有约33～42µA电阻电流，不能把整机关机功耗写成芯片6µA。"
+  },
+  {
+    "reference": "R117",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "RT0603BRD07560KL",
+    "supplier": "LCSC",
+    "supplier_code": "C719312",
+    "value": "560kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -8.8,
+    "y_mm": 145.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "BUCK_FB"
+      }
+    },
+    "status": "布局待整改",
+    "review": "3.3V反馈560kΩ/100kΩ、0.1%，0.5×(1+5.6)=3.3V；离FB约4.69/7.15mm，应收紧并远离SW。"
+  },
+  {
+    "reference": "R118",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "RT0603BRD07100KL",
+    "supplier": "LCSC",
+    "supplier_code": "C122538",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -10.3,
+    "y_mm": 148.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BUCK_FB"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "布局待整改",
+    "review": "3.3V反馈560kΩ/100kΩ、0.1%，0.5×(1+5.6)=3.3V；离FB约4.69/7.15mm，应收紧并远离SW。"
+  },
+  {
+    "reference": "R119",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -0.5,
+    "y_mm": 135.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BOOST_EN"
+      },
+      "2": {
+        "name": "2",
+        "net": "BOOST_ENABLE"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "5V升压使能1kΩ串联+100kΩ下拉；MCU上电初期默认关闭。"
+  },
+  {
+    "reference": "R120",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": 0.0,
+    "y_mm": 133.7,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BOOST_ENABLE"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "5V升压使能1kΩ串联+100kΩ下拉；MCU上电初期默认关闭。"
+  },
+  {
+    "reference": "R121",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "0603WAF7323T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23239",
+    "value": "732kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 2.0,
+    "y_mm": 132.0,
+    "rotation": -90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+5V_SYS"
+      },
+      "2": {
+        "name": "2",
+        "net": "BOOST_FB"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "5V反馈732kΩ/100kΩ，0.6×(1+7.32)=4.992V；保持安静取样，避开电感/SW。"
+  },
+  {
+    "reference": "R122",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 0.0,
+    "y_mm": 132.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BOOST_FB"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "5V反馈732kΩ/100kΩ，0.6×(1+7.32)=4.992V；保持安静取样，避开电感/SW。"
+  },
+  {
+    "reference": "R123",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -14.0,
+    "y_mm": 126.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VBAT_PROT"
+      },
+      "2": {
+        "name": "2",
+        "net": "BAT_SENSE_GATE"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "电池采样门控：AO3401A源极接电池，AO3400A由3.3V驱动；开机后打开分压、关机隔离，G/S/D已比对。"
+  },
+  {
+    "reference": "R124",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -14.0,
+    "y_mm": 130.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "VBAT_SENSE_ON"
+      },
+      "2": {
+        "name": "2",
+        "net": "BAT_ADC"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "100kΩ/100kΩ分压，4.2V电池→2.1V ADC；100nF与等效50kΩ形成约5ms时间常数，建议稳定至少25ms再校准采样。"
+  },
+  {
+    "reference": "R125",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -14.0,
+    "y_mm": 133.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BAT_ADC"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "100kΩ/100kΩ分压，4.2V电池→2.1V ADC；100nF与等效50kΩ形成约5ms时间常数，建议稳定至少25ms再校准采样。"
+  },
+  {
+    "reference": "R126",
+    "page": "15_Battery_measurement",
+    "manufacturer_part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25803",
+    "value": "100kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -8.0,
+    "y_mm": 129.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "3.3V的100kΩ泄放，工作时约33µA，辅助掉电释放；不是电池分压下臂。"
+  },
+  {
+    "reference": "R129",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -10.5,
+    "y_mm": 121.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS1"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE0"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R130",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -13.5,
+    "y_mm": 120.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS2"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE1"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R131",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -10.5,
+    "y_mm": 119.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS3"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE2"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R132",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -13.5,
+    "y_mm": 118.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS4"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE3"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R133",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -10.5,
+    "y_mm": 117.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS5"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE4"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R134",
+    "page": "04_TOUCH",
+    "manufacturer_part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C21190",
+    "value": "1kΩ",
+    "footprint": "R0603",
+    "side": "背面",
+    "x_mm": -7.5,
+    "y_mm": 118.1,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "TOUCH_CS6"
+      },
+      "2": {
+        "name": "2",
+        "net": "ELE5"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "六路触摸电极1kΩ串联电阻；CS1～CS6与ELE0～ELE5顺序一致，阈值/线长需实物调参。"
+  },
+  {
+    "reference": "R137",
+    "page": "10_USB",
+    "manufacturer_part": "0603WAF5101T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23186",
+    "value": "5.1kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 12.5,
+    "y_mm": 121.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_CC1"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "USB-C受电端CC1/CC2各5.1kΩ到地；没有Rp电流识别电路。"
+  },
+  {
+    "reference": "R138",
+    "page": "10_USB",
+    "manufacturer_part": "0603WAF5101T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23186",
+    "value": "5.1kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 12.5,
+    "y_mm": 118.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_CC2"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "USB-C受电端CC1/CC2各5.1kΩ到地；没有Rp电流识别电路。"
+  },
+  {
+    "reference": "R140",
+    "page": "12_Main_switch",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -9.5,
+    "y_mm": 127.0,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "PWR_INT_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "电源关机中断10kΩ上拉到受控3.3V，接GPIO14。"
+  },
+  {
+    "reference": "R141",
+    "page": "12_Main_switch",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -11.0,
+    "y_mm": 133.2,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "PWR_KILL_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "KILL 10kΩ上拉到受控3.3V；实际GPIO6，原理图和PCB旧GPIO44备注已更正。"
+  },
+  {
+    "reference": "R307",
+    "page": "08_BLADE",
+    "manufacturer_part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23162",
+    "value": "4.7kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -4.0,
+    "y_mm": 142.8,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "ACC_SCL_MCU"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "剑身独立I²C 4.7kΩ上拉到3.3V，与板内I²C分开；外接模块的重复上拉需核算。"
+  },
+  {
+    "reference": "R308",
+    "page": "08_BLADE",
+    "manufacturer_part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C23162",
+    "value": "4.7kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": -1.0,
+    "y_mm": 142.8,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "ACC_SDA_MCU"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "剑身独立I²C 4.7kΩ上拉到3.3V，与板内I²C分开；外接模块的重复上拉需核算。"
+  },
+  {
+    "reference": "R312",
+    "page": "08_BLADE",
+    "manufacturer_part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplier_code": "C25804",
+    "value": "10kΩ",
+    "footprint": "R0603",
+    "side": "正面",
+    "x_mm": 2.0,
+    "y_mm": 142.8,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "2",
+        "net": "ACC_DET_N"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "剑身DET 10kΩ上拉，配件应以无源接地方式表示插入；不等于充电座检测。"
+  },
+  {
+    "reference": "SW1",
+    "page": "P1",
+    "manufacturer_part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplier_code": "C455280",
+    "value": "TS-1088R-02026",
+    "footprint": "SW-SMD_L3.9-W3.0-P4.45",
+    "side": "正面",
+    "x_mm": 0.0,
+    "y_mm": 137.0,
+    "rotation": 0,
+    "voltage_rating": "12V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "MCU_EN"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "主控复位键，动作拉低EN；保留板内调试。"
+  },
+  {
+    "reference": "SW2",
+    "page": "P1",
+    "manufacturer_part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplier_code": "C455280",
+    "value": "TS-1088R-02026",
+    "footprint": "SW-SMD_L3.9-W3.0-P4.45",
+    "side": "正面",
+    "x_mm": 10.0,
+    "y_mm": 137.0,
+    "rotation": 0,
+    "voltage_rating": "12V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "BOOT_N"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "GPIO0的BOOT上拉/按键，保留串口与USB下载恢复入口，不能代替电源键。"
+  },
+  {
+    "reference": "SW4",
+    "page": "12_Main_switch",
+    "manufacturer_part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplier_code": "C455280",
+    "value": "TS-1088R-02026",
+    "footprint": "SW-SMD_L3.9-W3.0-P4.45",
+    "side": "正面",
+    "x_mm": -10.0,
+    "y_mm": 137.0,
+    "rotation": 0,
+    "voltage_rating": "12V",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "PWR_BUTTON_N"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "唯一对外POWER按钮接PB到地；与RESET/BOOT同在正面上部。"
+  },
+  {
+    "reference": "U1",
+    "page": "P1",
+    "manufacturer_part": "ESP32-S3-WROOM-1-N16R8",
+    "supplier": "LCSC",
+    "supplier_code": "C2913202",
+    "value": "2.4GHz",
+    "footprint": "WIRELM-SMD_ESP32-S3-WROOM-1",
+    "side": "正面",
+    "x_mm": 0.0,
+    "y_mm": 89.8,
+    "rotation": 180,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "2": {
+        "name": "3V3",
+        "net": "+3V3"
+      },
+      "3": {
+        "name": "EN",
+        "net": "MCU_EN"
+      },
+      "4": {
+        "name": "IO4",
+        "net": "PDM_DATA_L"
+      },
+      "5": {
+        "name": "IO5",
+        "net": "PDM_CLK_MCU"
+      },
+      "6": {
+        "name": "IO6",
+        "net": "PWR_KILL_N"
+      },
+      "7": {
+        "name": "IO7",
+        "net": "I2S_BCLK"
+      },
+      "8": {
+        "name": "IO15",
+        "net": "I2S_LRCLK"
+      },
+      "9": {
+        "name": "IO16",
+        "net": "I2S_DOUT"
+      },
+      "10": {
+        "name": "IO17",
+        "net": "AMP_ENABLE"
+      },
+      "11": {
+        "name": "IO18",
+        "net": "IMU_INT1"
+      },
+      "12": {
+        "name": "IO8",
+        "net": "BOOST_EN"
+      },
+      "13": {
+        "name": "IO19",
+        "net": "USB_DM"
+      },
+      "14": {
+        "name": "IO20",
+        "net": "USB_DP"
+      },
+      "15": {
+        "name": "IO3",
+        "net": "NC"
+      },
+      "16": {
+        "name": "IO46",
+        "net": "NC"
+      },
+      "17": {
+        "name": "IO9",
+        "net": "LCD_DC_MCU"
+      },
+      "18": {
+        "name": "IO10",
+        "net": "LCD_CS_MCU"
+      },
+      "19": {
+        "name": "IO11",
+        "net": "LCD_MOSI_MCU"
+      },
+      "20": {
+        "name": "IO12",
+        "net": "LCD_SCK_MCU"
+      },
+      "21": {
+        "name": "IO13",
+        "net": "LCD_RST_N"
+      },
+      "22": {
+        "name": "IO14",
+        "net": "PWR_INT_N"
+      },
+      "23": {
+        "name": "IO21",
+        "net": "ACC_SCL_MCU"
+      },
+      "24": {
+        "name": "IO47",
+        "net": "CHG_N"
+      },
+      "25": {
+        "name": "IO48",
+        "net": "LCD_BL_PWM"
+      },
+      "26": {
+        "name": "IO45",
+        "net": "NC"
+      },
+      "27": {
+        "name": "IO0",
+        "net": "BOOT_N"
+      },
+      "28": {
+        "name": "IO35",
+        "net": "NC"
+      },
+      "29": {
+        "name": "IO36",
+        "net": "NC"
+      },
+      "30": {
+        "name": "IO37",
+        "net": "NC"
+      },
+      "31": {
+        "name": "IO38",
+        "net": "ACC_SDA_MCU"
+      },
+      "32": {
+        "name": "IO39",
+        "net": "PGOOD_N"
+      },
+      "33": {
+        "name": "IO40",
+        "net": "TOUCH_IRQ_N"
+      },
+      "34": {
+        "name": "IO41",
+        "net": "I2C_SCL"
+      },
+      "35": {
+        "name": "IO42",
+        "net": "I2C_SDA"
+      },
+      "36": {
+        "name": "RXD0",
+        "net": "UART0_RX"
+      },
+      "37": {
+        "name": "TXD0",
+        "net": "UART0_TX"
+      },
+      "38": {
+        "name": "IO2",
+        "net": "ACC_DET_N"
+      },
+      "39": {
+        "name": "IO1",
+        "net": "BAT_ADC"
+      },
+      "40": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "41": {
+        "name": "GND",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "N16R8的GPIO35/36/37留给PSRAM，未外用；GPIO6为KILL、44/43为串口。GPIO47/48在此型号可用；不能套用R16V的1.8V限制。正面最下端，天线朝下伸出板边。"
+  },
+  {
+    "reference": "U2",
+    "page": "P3",
+    "manufacturer_part": "BMI270",
+    "supplier": "LCSC",
+    "supplier_code": "C2836813",
+    "value": "BMI270",
+    "footprint": "LGA-14_L3.0-W2.5-P0.50-BR",
+    "side": "背面",
+    "x_mm": 0.0,
+    "y_mm": 98.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "SDO",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "ASDX",
+        "net": "NC"
+      },
+      "3": {
+        "name": "ASCX",
+        "net": "NC"
+      },
+      "4": {
+        "name": "INT1",
+        "net": "IMU_INT1"
+      },
+      "5": {
+        "name": "VDDIO",
+        "net": "+3V3"
+      },
+      "6": {
+        "name": "GNDIO",
+        "net": "GND"
+      },
+      "7": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "8": {
+        "name": "VDD",
+        "net": "+3V3"
+      },
+      "9": {
+        "name": "INT2",
+        "net": "NC"
+      },
+      "10": {
+        "name": "OCSB",
+        "net": "NC"
+      },
+      "11": {
+        "name": "OSDO",
+        "net": "NC"
+      },
+      "12": {
+        "name": "CSB",
+        "net": "+3V3"
+      },
+      "13": {
+        "name": "SCX",
+        "net": "I2C_SCL"
+      },
+      "14": {
+        "name": "SDX",
+        "net": "I2C_SDA"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "3.3V供电，CS/SDO拉高选择I²C地址0x69，辅助接口未使用；INT1接GPIO18。实际动作量程与冲击饱和需验证。"
+  },
+  {
+    "reference": "U3",
+    "page": "04_TOUCH",
+    "manufacturer_part": "CAP1296-1-AIA-TR",
+    "supplier": "LCSC",
+    "supplier_code": "C2652051",
+    "value": "CAP1296-1-AIA-TR",
+    "footprint": "DFN-10_L3.0-W3.0-P0.50-TL-EP2.4",
+    "side": "背面",
+    "x_mm": -6.0,
+    "y_mm": 115.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "CS1",
+        "net": "TOUCH_CS1"
+      },
+      "2": {
+        "name": "ALERT#",
+        "net": "TOUCH_IRQ_N"
+      },
+      "3": {
+        "name": "SMDATA",
+        "net": "I2C_SDA"
+      },
+      "4": {
+        "name": "SMCLK",
+        "net": "I2C_SCL"
+      },
+      "5": {
+        "name": "VDD",
+        "net": "+3V3"
+      },
+      "6": {
+        "name": "CS6",
+        "net": "TOUCH_CS6"
+      },
+      "7": {
+        "name": "CS5",
+        "net": "TOUCH_CS5"
+      },
+      "8": {
+        "name": "CS4",
+        "net": "TOUCH_CS4"
+      },
+      "9": {
+        "name": "CS3/SG",
+        "net": "TOUCH_CS3"
+      },
+      "10": {
+        "name": "CS2",
+        "net": "TOUCH_CS2"
+      },
+      "11": {
+        "name": "GND",
+        "net": "GND"
+      }
+    },
+    "status": "布局待改善",
+    "review": "六路触摸、I²C地址0x28，EP接地；与BMI270/DRV2605L以及PN532候选地址不冲突。去耦位置应收紧。"
+  },
+  {
+    "reference": "U4",
+    "page": "05_AUDIO",
+    "manufacturer_part": "MAX98357AETE+T",
+    "supplier": "LCSC",
+    "supplier_code": "C910544",
+    "value": "MAX98357AETE+T",
+    "footprint": "TQFN-16_L3.0-W3.0-P0.50-BL-EP1.5",
+    "side": "背面",
+    "x_mm": -9.5,
+    "y_mm": 102.5,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "DIN",
+        "net": "I2S_DOUT"
+      },
+      "2": {
+        "name": "GAIN_SLOT",
+        "net": "NC"
+      },
+      "3": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "4": {
+        "name": "SD_MODE#",
+        "net": "AMP_SD_MODE"
+      },
+      "5": {
+        "name": "N.C.",
+        "net": "NC"
+      },
+      "6": {
+        "name": "N.C.",
+        "net": "NC"
+      },
+      "7": {
+        "name": "VDD",
+        "net": "+5V_SYS"
+      },
+      "8": {
+        "name": "VDD",
+        "net": "+5V_SYS"
+      },
+      "9": {
+        "name": "OUTP",
+        "net": "SPK_P"
+      },
+      "10": {
+        "name": "OUTN",
+        "net": "SPK_N"
+      },
+      "11": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "12": {
+        "name": "N.C.",
+        "net": "NC"
+      },
+      "13": {
+        "name": "N.C.",
+        "net": "NC"
+      },
+      "14": {
+        "name": "LRCLK",
+        "net": "I2S_LRCLK"
+      },
+      "15": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "16": {
+        "name": "BCLK",
+        "net": "I2S_BCLK"
+      },
+      "17": {
+        "name": "EP",
+        "net": "GND"
+      }
+    },
+    "status": "负载与启停待验证",
+    "review": "5V供电、BTL差分输出，GAIN悬空设9dB；SD_MODE网络选择左声道。5V关闭前先静音，避免时钟/信号反灌与启停爆音。8Ω2W是扬声器承受能力，不保证输出2W。"
+  },
+  {
+    "reference": "U5",
+    "page": "06_MIC",
+    "manufacturer_part": "LMD3526T261-OA5",
+    "supplier": "LCSC",
+    "supplier_code": "C49230436",
+    "value": "LMD3526T261-OA5",
+    "footprint": "MIC-SMD_6P-L3.5-W2.7-P0.884-TR",
+    "side": "正面",
+    "x_mm": 12.0,
+    "y_mm": 110.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "VDD",
+        "net": "+3V3"
+      },
+      "2": {
+        "name": "CLK",
+        "net": "PDM_CLK_MCU"
+      },
+      "3": {
+        "name": "DATA",
+        "net": "PDM_DATA_L"
+      },
+      "4": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "5": {
+        "name": "L/R",
+        "net": "GND"
+      },
+      "6": {
+        "name": "GND",
+        "net": "GND"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "PDM单麦，3.3V、L/R接地。制造商尺寸图确认顶部声孔；无需在麦克风正下方增加PCB声孔。当前顶部声孔与模型导声口中心约差0.03mm。"
+  },
+  {
+    "reference": "U101",
+    "page": "10_USB",
+    "manufacturer_part": "USBLC6-2SC6",
+    "supplier": "LCSC",
+    "supplier_code": "C7519",
+    "value": "USBLC6-2SC6",
+    "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+    "side": "背面",
+    "x_mm": 16.6,
+    "y_mm": 118.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "1",
+        "net": "USB_DP_CONN"
+      },
+      "2": {
+        "name": "2",
+        "net": "GND"
+      },
+      "3": {
+        "name": "3",
+        "net": "USB_DM_CONN"
+      },
+      "4": {
+        "name": "4",
+        "net": "USB_DM_CONN"
+      },
+      "5": {
+        "name": "5",
+        "net": "USB_VBUS"
+      },
+      "6": {
+        "name": "6",
+        "net": "USB_DP_CONN"
+      }
+    },
+    "status": "连接检查通过",
+    "review": "1/6对应D+、3/4对应D−、2接地、5接VBUS，管脚方向正确；ESD器件须贴近接口并以短地回流。"
+  },
+  {
+    "reference": "U102",
+    "page": "11_Charger",
+    "manufacturer_part": "BQ24075RGTR",
+    "supplier": "LCSC",
+    "supplier_code": "C15464",
+    "value": "BQ24075RGTR",
+    "footprint": "QFN-16_L3.0-W3.0-P0.50-TL-EP1.7",
+    "side": "背面",
+    "x_mm": 0.0,
+    "y_mm": 130.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "TS",
+        "net": "BAT_NTC"
+      },
+      "2": {
+        "name": "BAT",
+        "net": "VBAT_PROT"
+      },
+      "3": {
+        "name": "BAT",
+        "net": "VBAT_PROT"
+      },
+      "4": {
+        "name": "#CE",
+        "net": "CHG_CE_N"
+      },
+      "5": {
+        "name": "EN2",
+        "net": "GND"
+      },
+      "6": {
+        "name": "EN1",
+        "net": "USB_5V_FUSED"
+      },
+      "7": {
+        "name": "#PGOOD",
+        "net": "PGOOD_N"
+      },
+      "8": {
+        "name": "VSS",
+        "net": "GND"
+      },
+      "9": {
+        "name": "#CHG",
+        "net": "CHG_N"
+      },
+      "10": {
+        "name": "OUT",
+        "net": "VSYS_RAW"
+      },
+      "11": {
+        "name": "OUT",
+        "net": "VSYS_RAW"
+      },
+      "12": {
+        "name": "ILIM",
+        "net": "CHG_ILIM"
+      },
+      "13": {
+        "name": "IN",
+        "net": "USB_5V_FUSED"
+      },
+      "14": {
+        "name": "TMR",
+        "net": "CHG_TMR"
+      },
+      "15": {
+        "name": "SYSOFF",
+        "net": "CHG_SYSOFF"
+      },
+      "16": {
+        "name": "ISET",
+        "net": "CHG_ISET"
+      },
+      "17": {
+        "name": "EP",
+        "net": "GND"
+      }
+    },
+    "status": "布局与预算待整改",
+    "review": "本身具备USB/电池电源路径，不需要恢复U107。当前固定USB500，典型约475mA、档位范围450～500mA总输入；实际充电/系统能力需负载核算。输入电容跨面且过远，需整改。"
+  },
+  {
+    "reference": "U103",
+    "page": "13_BuckBoost_3V3",
+    "manufacturer_part": "TPS63802DLAR",
+    "supplier": "LCSC",
+    "supplier_code": "C2845237",
+    "value": "TPS63802DLAR",
+    "footprint": "VSON-10_L3.0-W2.0-P0.50-TL",
+    "side": "背面",
+    "x_mm": -6.0,
+    "y_mm": 141.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "EN",
+        "net": "BUCK_EN"
+      },
+      "2": {
+        "name": "MODE",
+        "net": "GND"
+      },
+      "3": {
+        "name": "AGND",
+        "net": "GND"
+      },
+      "4": {
+        "name": "FB",
+        "net": "BUCK_FB"
+      },
+      "5": {
+        "name": "PG",
+        "net": "NC"
+      },
+      "6": {
+        "name": "VOUT",
+        "net": "+3V3"
+      },
+      "7": {
+        "name": "L2",
+        "net": "BB_SW2"
+      },
+      "8": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "9": {
+        "name": "L1",
+        "net": "BB_SW1"
+      },
+      "10": {
+        "name": "VIN",
+        "net": "VSYS_RAW"
+      }
+    },
+    "status": "布局待整改",
+    "review": "真升降压3.3V，MODE接地、未用PG悬空合理；0.47µH电感、双输入/双输出电容与反馈比例正确。FB/输入回路仍需局部重排。"
+  },
+  {
+    "reference": "U104",
+    "page": "14_Boost_5V",
+    "manufacturer_part": "TPS61023DRLR",
+    "supplier": "LCSC",
+    "supplier_code": "C919459",
+    "value": "TPS61023DRLR",
+    "footprint": "SOT-563_L1.6-W1.2-P0.50-LS1.6-BR",
+    "side": "正面",
+    "x_mm": 3.5,
+    "y_mm": 128.0,
+    "rotation": 180,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "FB",
+        "net": "BOOST_FB"
+      },
+      "2": {
+        "name": "EN",
+        "net": "BOOST_ENABLE"
+      },
+      "3": {
+        "name": "VIN",
+        "net": "VSYS_RAW"
+      },
+      "4": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "5": {
+        "name": "SW",
+        "net": "BOOST_SW"
+      },
+      "6": {
+        "name": "VOUT",
+        "net": "+5V_SYS"
+      }
+    },
+    "status": "负载与布局待验证",
+    "review": "输出4.992V，GPIO8使能；输出送功放与J7，而非屏幕背光。3.7A为开关谷值电流限制，不能解释为5V可输出3.7A。"
+  },
+  {
+    "reference": "U105",
+    "page": "16_Motor",
+    "manufacturer_part": "DRV2605LDGSR",
+    "supplier": "LCSC",
+    "supplier_code": "C527464",
+    "value": "DRV2605LDGSR",
+    "footprint": "VSSOP-10_L3.0-W3.0-P0.50-LS4.9-BL",
+    "side": "背面",
+    "x_mm": 8.0,
+    "y_mm": 106.5,
+    "rotation": 90,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "REG",
+        "net": "HAPTIC_REG"
+      },
+      "2": {
+        "name": "SCL",
+        "net": "I2C_SCL"
+      },
+      "3": {
+        "name": "SDA",
+        "net": "I2C_SDA"
+      },
+      "4": {
+        "name": "IN/TRIG",
+        "net": "GND"
+      },
+      "5": {
+        "name": "EN",
+        "net": "+3V3"
+      },
+      "6": {
+        "name": "VDD/NC",
+        "net": "+3V3"
+      },
+      "7": {
+        "name": "OUT+",
+        "net": "HAPTIC_OUT_P"
+      },
+      "8": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "9": {
+        "name": "OUT-",
+        "net": "HAPTIC_OUT_N"
+      },
+      "10": {
+        "name": "VDD",
+        "net": "+3V3"
+      }
+    },
+    "status": "固件与马达待验证",
+    "review": "VSSOP10封装针序正确；6脚VDD/NC可接3.3V，7/9为差分输出，1脚REG需1µF。EN直接受控3.3V，I²C地址0x5A；固件必须选LRA模式并校准。"
+  },
+  {
+    "reference": "U110",
+    "page": "12_Main_switch",
+    "manufacturer_part": "LTC2950CTS8-1#TRMPBF",
+    "supplier": "LCSC",
+    "supplier_code": "C114188",
+    "value": "LTC2950CTS8-1#TRMPBF",
+    "footprint": "TSOT-23-8_L2.9-W1.6-P0.65-LS2.8-BL",
+    "side": "正面",
+    "x_mm": -7.0,
+    "y_mm": 130.0,
+    "rotation": 0,
+    "voltage_rating": "",
+    "DNP": false,
+    "pins": {
+      "1": {
+        "name": "VIN",
+        "net": "VSYS_RAW"
+      },
+      "2": {
+        "name": "PB#",
+        "net": "PWR_BUTTON_N"
+      },
+      "3": {
+        "name": "ONT",
+        "net": "PWR_ONT"
+      },
+      "4": {
+        "name": "GND",
+        "net": "GND"
+      },
+      "5": {
+        "name": "INT#",
+        "net": "PWR_INT_N"
+      },
+      "6": {
+        "name": "EN/EN#",
+        "net": "BUCK_EN"
+      },
+      "7": {
+        "name": "OFFT",
+        "net": "PWR_OFFT"
+      },
+      "8": {
+        "name": "KILL#",
+        "net": "PWR_KILL_N"
+      }
+    },
+    "status": "固件与时序待验证",
+    "review": "长按键硬件接法正确；约2.24s开机、3.18s发关机中断。中断后约0.8～1.3s可强制切断，保存流程应留余量；GPIO6应高阻/开漏，不能随意推挽高。"
+  }
+]

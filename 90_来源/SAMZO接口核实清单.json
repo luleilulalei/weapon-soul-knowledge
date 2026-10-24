@@ -1,0 +1,74 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/00_SAMZO核实结论.txt",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/00_SAMZO核实结论.txt",
+    "kind": "file",
+    "sha256": "6cb21e6b85825e22023042724f77333cd9cb42a119ca6b42a6749c6f8273fece",
+    "bytes": 5270,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E3-TZ.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E3-TZ.pdf",
+    "kind": "file",
+    "sha256": "204e9026df00ad7ea85e48da4eb8e0c041cb4f89ecf0e4da9a85a4889bc8b0ab",
+    "bytes": 508904,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E4-TZ.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E4-TZ.pdf",
+    "kind": "file",
+    "sha256": "b8021dc2b8b03882c5866cf77c946bb052591d0c8596b0300f1505643fe21929",
+    "bytes": 509796,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E316050.STEP",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E316050.STEP",
+    "kind": "file",
+    "sha256": "ad732f231839a70ee8a8fa193c090e2729b493c5d2da49094c66edcedb6b6c00",
+    "bytes": 356156,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/23E416050.STEP",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/23E416050.STEP",
+    "kind": "file",
+    "sha256": "6a1a8fdeab4ae1af1395e6c72c9f612cb03c5a3760697ea2503d6fab2275973f",
+    "bytes": 829438,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/原生接口只读核对.json",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/原生接口只读核对.json",
+    "kind": "file",
+    "sha256": "65372b434ab217773427e21f7b715f0c6febc4e929d8a781b37f3cb8e0a4f2bb",
+    "bytes": 9339,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/商城封装只读核对.json",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/商城封装只读核对.json",
+    "kind": "file",
+    "sha256": "b8ffc7468f00046bc9ee7cb305a4b3bcc37bdd66ff9e563bc1e33787f03dd4e7",
+    "bytes": 79195,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_SAMZO核实_20261024/封装量化检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/J7_J701_SAMZO核实_20261024/封装量化检查.json",
+    "kind": "file",
+    "sha256": "96a46c9cdd1367eaad70fe1e518140a1003919335c415fc2288230b7edf380cc",
+    "bytes": 6292,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

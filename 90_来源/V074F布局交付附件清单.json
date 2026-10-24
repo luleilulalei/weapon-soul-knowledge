@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_UART_Reserved_NOT_ROUTED_20261023.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_UART_Reserved_NOT_ROUTED_20261023.epro2",
+    "kind": "file",
+    "sha256": "3bc6bc1d71edc62651bd35221ebf236b5ce1c8dbcd1ac8a8798f8874257d571b",
+    "bytes": 1423193,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_串口保留布局确认.png",
+    "kind": "file",
+    "sha256": "588a8ca130d32319bb5920b491e08e0c9ef21bd358b287d93a7da7948a772409",
+    "bytes": 412767,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/Spirit_V074F_检查结果.json",
+    "kind": "file",
+    "sha256": "b3069c06b1ca7e52cf5460df8728331e5ade335d49b7c5a482eb3b841f8fa2de",
+    "bytes": 2582,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/用户确认_保留RXTX与马达软件待机_20261023.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/用户确认_保留RXTX与马达软件待机_20261023.txt",
+    "kind": "file",
+    "sha256": "dabe78017700496c097bb777d2289dc88e0ec93af72d814a1fc693d7ed7141cc",
+    "bytes": 2932,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/00_串口保留说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/00_串口保留说明.txt",
+    "kind": "file",
+    "sha256": "6bd074e37be6d249b8af26e653db42d00a5a39ed56efa76bf307af804ed7d4d9",
+    "bytes": 1626,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/01_GPIO逐脚分配与限制.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/01_GPIO逐脚分配与限制.txt",
+    "kind": "file",
+    "sha256": "5097a73a324ace74be50cd1f27ad2f92dc21f6d742896fadc7c75bd761947f7b",
+    "bytes": 2697,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-plan.json",
+    "kind": "file",
+    "sha256": "7976981d850c563d8721f8df600739c8d72488ce809f53ecd9d747d2e0e68b02",
+    "bytes": 12355,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-silk.json",
+    "kind": "file",
+    "sha256": "52805c8eacee53cf788d40912310b43d8a833d79bf5ff7f8c3efa01caa45cae8",
+    "bytes": 46940,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/layout-v074f-final-verify.json",
+    "kind": "file",
+    "sha256": "b496bd908286a5b473e59429216567bdcf4e26fd9a900cdfd0d90b35b5427619",
+    "bytes": 1946585,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/历史备份/Spirit_V074E_Before_UART_Reserve_20261023.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4F_串口保留_20261023/历史备份/Spirit_V074E_Before_UART_Reserve_20261023.epro2",
+    "kind": "file",
+    "sha256": "2bbc317af44e99ea71f10aa80d43e0a634f50a6d3510ccd6abd88d5ff480af11",
+    "bytes": 1362162,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

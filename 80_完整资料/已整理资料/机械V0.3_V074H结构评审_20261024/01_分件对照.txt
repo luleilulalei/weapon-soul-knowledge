@@ -1,0 +1,17 @@
+STL 分件对照（毫米）
+P01_front_shell：前壳，屏幕/POWER/顶部对接/麦克风侧孔。
+P02_rear_shell：后壳，主板、电池和 NFC 托架安装柱。
+P03_PCB_four_hole_carrier：匹配 V074H 四孔的可拆主板支架。
+P04_replaceable_screen_bezel：可更换屏幕外压框。
+P05_screen_rear_retainer：屏幕后压环，需软垫配合。
+P06_power_plunger：长按电源键的机械推杆；开关逻辑由电路实现。
+P07_battery_cradle：下方电池托架，绑带另备。
+P08_side_speaker_chamber：侧向扬声器声腔。
+P09_side_speaker_grille：扬声器外格栅。
+P10_rear_NFC_holder：后侧 NFC 天线/控制板托架。
+P11_keyed_top_dust_cap：顶部接口防尘盖，不是剑身承力接头。
+P12_LRA_retaining_bridge：LRA 马达压条。
+P13_MIC_side_duct：麦克风侧向导音件，需密封垫。
+P14_fit_coupon：孔径与槽宽试片，不装入产品。
+
+打印时使用 model/stl 中的独立分件；总装 STL 只用于查看装配位置。

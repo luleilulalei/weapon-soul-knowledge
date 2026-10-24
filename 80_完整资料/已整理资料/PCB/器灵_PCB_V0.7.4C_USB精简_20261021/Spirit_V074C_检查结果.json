@@ -1,0 +1,90 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 125,
+  "removed": [
+    "U106",
+    "U107",
+    "U108",
+    "C122",
+    "C123",
+    "C124",
+    "C127",
+    "R109"
+  ],
+  "replaced": {
+    "R137": "5.1k CC1 to GND C23186",
+    "R138": "5.1k CC2 to GND C23186"
+  },
+  "usb_input_limit_mA": 500,
+  "charger_mode": "EN1=USB_5V_FUSED; EN2=GND; USB500",
+  "geometry_issues": [],
+  "placement_mismatches": [],
+  "schematic_pcb_pin_maps_match": true,
+  "only_changed_pin_nets": [
+    [
+      "R137",
+      "1",
+      "USB_5V_FUSED",
+      "USB_CC1"
+    ],
+    [
+      "R137",
+      "2",
+      "USB_CC_VBUS_DET",
+      "GND"
+    ],
+    [
+      "R138",
+      "1",
+      "USB_CC_3V3",
+      "USB_CC2"
+    ],
+    [
+      "R138",
+      "2",
+      "USB_HIGH_CURRENT_N",
+      "GND"
+    ],
+    [
+      "U102",
+      "5",
+      "CHG_EN2",
+      "GND"
+    ],
+    [
+      "U102",
+      "6",
+      "GND",
+      "USB_5V_FUSED"
+    ]
+  ],
+  "native_pcb_drc": {
+    "Connection Error": 421
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "silkscreen_labels": 154,
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "source_sha256": "420cc060549c0b241a2bae27092f0c7a36f1f7e8db3a894e79eb676f64360e5c",
+  "limitations": [
+    "500mA is maximum total USB input, shared by system and battery charging.",
+    "Use a known 5V source supporting at least 500mA. USB host pre-enumeration and suspend current compliance is not implemented by fixed USB500.",
+    "NFC is a rear cable connector; complete module mechanical and RF verification pending.",
+    "J7 schematic ATTRMATCHCODE warning remains; candidate connector qualification pending.",
+    "Not routed; not a fabrication release."
+  ],
+  "export_sha256": "418e23623ccb597d47e372cd074f76401403a417c45fab95f28d8a3516eeff82"
+}

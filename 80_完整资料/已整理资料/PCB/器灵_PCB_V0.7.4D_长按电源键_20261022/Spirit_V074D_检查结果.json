@@ -1,0 +1,193 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 131,
+  "removed": [
+    "J111"
+  ],
+  "added": [
+    "C130",
+    "C131",
+    "C132",
+    "R140",
+    "R141",
+    "SW4",
+    "U110"
+  ],
+  "power_button": "SW4",
+  "controller": "LTC2950CTS8-1#TRMPBF / C114188",
+  "on_nominal_seconds": 2.244,
+  "off_interrupt_nominal_seconds": 3.182,
+  "forced_shutdown_after_interrupt_seconds": [
+    0.8,
+    1.3
+  ],
+  "firmware_shutdown_budget_ms": 700,
+  "mcu_pins": {
+    "GPIO14_module22": "PWR_INT_N input active low",
+    "GPIO44_module36": "PWR_KILL_N open drain or high impedance only; no UART0 RX"
+  },
+  "geometry_issues": [],
+  "placement_mismatches": [],
+  "schematic_pcb_pin_maps_match": true,
+  "only_changed_existing_pin_nets": [
+    [
+      "C107",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "C108",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "C111",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "C112",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "C113",
+      "1",
+      "BOOST_5V",
+      "+5V_SYS"
+    ],
+    [
+      "C114",
+      "1",
+      "BOOST_5V",
+      "+5V_SYS"
+    ],
+    [
+      "C129",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "L102",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "R116",
+      "1",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "R121",
+      "1",
+      "BOOST_5V",
+      "+5V_SYS"
+    ],
+    [
+      "U1",
+      "22",
+      "",
+      "PWR_INT_N"
+    ],
+    [
+      "U1",
+      "36",
+      "",
+      "PWR_KILL_N"
+    ],
+    [
+      "U103",
+      "10",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "U104",
+      "3",
+      "MAIN_IN",
+      "VSYS_RAW"
+    ],
+    [
+      "U104",
+      "6",
+      "BOOST_5V",
+      "+5V_SYS"
+    ]
+  ],
+  "new_pin_nets": {
+    "U110": {
+      "1": "VSYS_RAW",
+      "2": "PWR_BUTTON_N",
+      "3": "PWR_ONT",
+      "4": "GND",
+      "5": "PWR_INT_N",
+      "6": "BUCK_EN",
+      "7": "PWR_OFFT",
+      "8": "PWR_KILL_N"
+    },
+    "SW4": {
+      "1": "PWR_BUTTON_N",
+      "2": "GND"
+    },
+    "C130": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "C131": {
+      "1": "PWR_ONT",
+      "2": "GND"
+    },
+    "C132": {
+      "1": "PWR_OFFT",
+      "2": "GND"
+    },
+    "R140": {
+      "1": "+3V3",
+      "2": "PWR_INT_N"
+    },
+    "R141": {
+      "1": "+3V3",
+      "2": "PWR_KILL_N"
+    }
+  },
+  "native_pcb_drc": {
+    "Connection Error": 437
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "silkscreen_labels": 160,
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "source_sha256": "95037a859431dcbb4c0cc409dfae3d0ca382744b04ad3da26fdc9d0e9e1ab977",
+  "limitations": [
+    "No routing; not fabrication ready.",
+    "Firmware graceful save/shutdown integration not implemented or tested on hardware. Controller can shut down after deadline without firmware.",
+    "GPIO44 is repurposed from previously unused UART0 RX, do not enable UART0 RX function.",
+    "Power-off preserves charger and low-power always-on controller. Whole-board standby current not measured; controller 6uA typical is not board total.",
+    "5V boost shuts down after 3V3 decays and R120 pulls BOOST_ENABLE low; verify residual-voltage/USB/backfeed cases on hardware.",
+    "Button cap/screen/enclosure fit pending; no claim of complete mechanical validation.",
+    "Existing J7 ATTRMATCHCODE warning remains.",
+    "Fixed USB500 current setting is unchanged, pending system-load/current-source review.",
+    "Component identifiers verified; live purchasable quantity and pricing not confirmed."
+  ],
+  "export_sha256": "9f2c4dddf0545a7263cc408e802a360a0db7b2a65e55d92c8964e9412ac3524b"
+}

@@ -1,0 +1,2545 @@
+[
+  {
+    "board": "main",
+    "ref": "C1",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 11.2,
+    "y_mm": 82.3,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C2",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 13.2,
+    "y_mm": 82.3,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C3",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 11.5,
+    "y_mm": 82.3,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C4",
+    "part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C19702",
+    "value": "10uF",
+    "side": 1,
+    "x_mm": 15.2,
+    "y_mm": 82.3,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C5",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 1,
+    "x_mm": 14.6,
+    "y_mm": 86.0,
+    "pins": {
+      "1": "MCU_EN",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C7",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -3.0,
+    "y_mm": 97.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C8",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": 3.0,
+    "y_mm": 97.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C9",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 0.0,
+    "y_mm": 101.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C11",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -6.8,
+    "y_mm": 112.2,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C12",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": -3.6,
+    "y_mm": 110.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C13",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -5.7,
+    "y_mm": 102.5,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C14",
+    "part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C19702",
+    "value": "10uF",
+    "side": 2,
+    "x_mm": -5.7,
+    "y_mm": 99.0,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C15",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 15.2,
+    "y_mm": 111.1,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C16",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 1,
+    "x_mm": 15.2,
+    "y_mm": 107.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C29",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": -4.0,
+    "y_mm": 118.0,
+    "pins": {
+      "1": "LCD_VCC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C30",
+    "part": "CL10A106KP8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C19702",
+    "value": "10uF",
+    "side": 1,
+    "x_mm": -4.0,
+    "y_mm": 120.2,
+    "pins": {
+      "1": "LCD_VCC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C103",
+    "part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplierId": "C109314",
+    "value": "22uF",
+    "side": 2,
+    "x_mm": -1.8,
+    "y_mm": 121.2,
+    "pins": {
+      "1": "VBAT_PROT",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C105",
+    "part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplierId": "C109314",
+    "value": "22uF",
+    "side": 2,
+    "x_mm": 5.5,
+    "y_mm": 122.0,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C107",
+    "part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplierId": "C380346",
+    "value": "10uF",
+    "side": 2,
+    "x_mm": -6.2,
+    "y_mm": 136.9,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C109",
+    "part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplierId": "C109314",
+    "value": "22uF",
+    "side": 2,
+    "x_mm": -5.5,
+    "y_mm": 144.7,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C111",
+    "part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplierId": "C380346",
+    "value": "10uF",
+    "side": 1,
+    "x_mm": 3.2,
+    "y_mm": 122.6,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C113",
+    "part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplierId": "C109314",
+    "value": "22uF",
+    "side": 1,
+    "x_mm": 3.8,
+    "y_mm": 132.4,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C114",
+    "part": "CC0603JRNPO9BN221",
+    "supplier": "LCSC",
+    "supplierId": "C106210",
+    "value": "220pF",
+    "side": 1,
+    "x_mm": -0.2,
+    "y_mm": 127.6,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "BOOST_FB"
+    },
+    "DNP": "YES"
+  },
+  {
+    "board": "main",
+    "ref": "C119",
+    "part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplierId": "C380346",
+    "value": "10uF",
+    "side": 2,
+    "x_mm": 12.5,
+    "y_mm": 106.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J2",
+    "part": "SM07B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplierId": "C160406",
+    "value": "SM07B-SRSS-TB(LF)(SN)",
+    "side": 1,
+    "x_mm": -12.8,
+    "y_mm": 111.0,
+    "pins": {
+      "0": "",
+      "1": "ELE0",
+      "2": "ELE1",
+      "3": "ELE2",
+      "4": "ELE3",
+      "5": "ELE4",
+      "6": "ELE5",
+      "7": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J3",
+    "part": "SM02B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplierId": "C160402",
+    "value": "",
+    "side": 1,
+    "x_mm": -13.3,
+    "y_mm": 96.2,
+    "pins": {
+      "1": "SPK_P",
+      "2": "SPK_N",
+      "3": "",
+      "4": ""
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J101",
+    "part": "TYPE-C-31-M-12",
+    "supplier": "LCSC",
+    "supplierId": "C165948",
+    "value": "",
+    "side": 1,
+    "x_mm": 23.0,
+    "y_mm": 119.0,
+    "pins": {
+      "1": "GND",
+      "2": "GND",
+      "3": "GND",
+      "4": "GND",
+      "A1B12": "GND",
+      "A4B9": "USB_VBUS",
+      "B8": "",
+      "A5": "USB_CC1",
+      "B7": "USB_DM_CONN",
+      "A6": "USB_DP_CONN",
+      "A7": "USB_DM_CONN",
+      "B6": "USB_DP_CONN",
+      "A8": "",
+      "B5": "USB_CC2",
+      "B4A9": "USB_VBUS",
+      "B1A12": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J104",
+    "part": "5040500391",
+    "supplier": "LCSC",
+    "supplierId": "C17265920",
+    "value": "1S PROTECTED PACK + NTC",
+    "side": 2,
+    "x_mm": -13.1,
+    "y_mm": 111.9,
+    "pins": {
+      "1": "VBAT_PROT",
+      "2": "GND",
+      "3": "BAT_NTC",
+      "4": "",
+      "5": ""
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J110",
+    "part": "SM02B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplierId": "C160402",
+    "value": "LRA_DIFFERENTIAL_HARNESS_2PIN",
+    "side": 1,
+    "x_mm": 13.8,
+    "y_mm": 132.0,
+    "pins": {
+      "1": "HAPTIC_OUT_P",
+      "2": "HAPTIC_OUT_N",
+      "3": "",
+      "4": ""
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "Q2",
+    "part": "AO3400A",
+    "supplier": "LCSC",
+    "supplierId": "C20917",
+    "value": "",
+    "side": 1,
+    "x_mm": -8.0,
+    "y_mm": 121.0,
+    "pins": {
+      "1": "LCD_BL_GATE",
+      "2": "GND",
+      "3": "LCD_LEDK"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "Q102",
+    "part": "AO3401A",
+    "supplier": "LCSC",
+    "supplierId": "C15127",
+    "value": "",
+    "side": 2,
+    "x_mm": -11.0,
+    "y_mm": 126.0,
+    "pins": {
+      "1": "BAT_SENSE_GATE",
+      "2": "VBAT_PROT",
+      "3": "VBAT_SENSE_ON"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "Q103",
+    "part": "AO3400A",
+    "supplier": "LCSC",
+    "supplierId": "C20917",
+    "value": "",
+    "side": 2,
+    "x_mm": -11.0,
+    "y_mm": 130.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND",
+      "3": "BAT_SENSE_GATE"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R1",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": 11.2,
+    "y_mm": 86.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "MCU_EN"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R2",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": -11.4,
+    "y_mm": 99.6,
+    "pins": {
+      "1": "+3V3",
+      "2": "BOOT_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R4",
+    "part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23162",
+    "value": "4.7kΩ",
+    "side": 1,
+    "x_mm": -11.7,
+    "y_mm": 82.1,
+    "pins": {
+      "1": "+3V3",
+      "2": "I2C_SDA"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R5",
+    "part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23162",
+    "value": "4.7kΩ",
+    "side": 1,
+    "x_mm": -14.2,
+    "y_mm": 82.1,
+    "pins": {
+      "1": "+3V3",
+      "2": "I2C_SCL"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R6",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": -2.4,
+    "y_mm": 114.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "TOUCH_IRQ_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R9",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": -13.0,
+    "y_mm": 105.5,
+    "pins": {
+      "1": "AMP_SD_MODE",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R10",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -15.3,
+    "y_mm": 102.5,
+    "pins": {
+      "1": "AMP_ENABLE",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R15",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": 9.0,
+    "y_mm": 106.0,
+    "pins": {
+      "1": "PDM_DATA_L",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R26",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": 6.5,
+    "y_mm": 106.0,
+    "pins": {
+      "1": "PDM_CLK_MCU",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R32",
+    "part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23140",
+    "value": "33Ω",
+    "side": 1,
+    "x_mm": 4.8,
+    "y_mm": 101.3,
+    "pins": {
+      "1": "LCD_DC_MCU",
+      "2": "LCD_DC"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R33",
+    "part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23140",
+    "value": "33Ω",
+    "side": 1,
+    "x_mm": 3.2,
+    "y_mm": 101.3,
+    "pins": {
+      "1": "LCD_CS_MCU",
+      "2": "LCD_CS"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R34",
+    "part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23140",
+    "value": "33Ω",
+    "side": 1,
+    "x_mm": 1.6,
+    "y_mm": 101.3,
+    "pins": {
+      "1": "LCD_MOSI_MCU",
+      "2": "LCD_MOSI"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R35",
+    "part": "0603WAF330JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23140",
+    "value": "33Ω",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 101.3,
+    "pins": {
+      "1": "LCD_SCK_MCU",
+      "2": "LCD_SCK"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R36",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": -8.0,
+    "y_mm": 118.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "LCD_RST_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R37",
+    "part": "0603WAF1000T5E",
+    "supplier": "LCSC",
+    "supplierId": "C22775",
+    "value": "100Ω",
+    "side": 1,
+    "x_mm": -8.0,
+    "y_mm": 124.0,
+    "pins": {
+      "1": "LCD_BL_PWM",
+      "2": "LCD_BL_GATE"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R38",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": -7.5,
+    "y_mm": 114.8,
+    "pins": {
+      "1": "LCD_BL_GATE",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R39",
+    "part": "1206W4F100JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C17903",
+    "value": "10Ω",
+    "side": 1,
+    "x_mm": -4.0,
+    "y_mm": 124.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "LCD_LEDA"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R103",
+    "part": "0603WAF220JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23345",
+    "value": "22Ω",
+    "side": 1,
+    "x_mm": 11.8,
+    "y_mm": 97.7,
+    "pins": {
+      "1": "USB_DP_CONN",
+      "2": "USB_DP"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R104",
+    "part": "0603WAF220JT5E",
+    "supplier": "LCSC",
+    "supplierId": "C23345",
+    "value": "22Ω",
+    "side": 1,
+    "x_mm": 11.8,
+    "y_mm": 95.8,
+    "pins": {
+      "1": "USB_DM_CONN",
+      "2": "USB_DM"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R108",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": -1.8,
+    "y_mm": 124.8,
+    "pins": {
+      "1": "GND",
+      "2": "CHG_CE_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R113",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 2.75,
+    "y_mm": 113.7,
+    "pins": {
+      "1": "CHG_SYSOFF",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R114",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 5.5,
+    "y_mm": 125.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "CHG_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R115",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 2.0,
+    "y_mm": 125.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "PGOOD_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R116",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -8.8,
+    "y_mm": 136.4,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "BUCK_EN"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R118",
+    "part": "RT0603BRD07100KL",
+    "supplier": "LCSC",
+    "supplierId": "C122538",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -8.8,
+    "y_mm": 139.5,
+    "pins": {
+      "1": "BUCK_FB",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R119",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 1,
+    "x_mm": -0.2,
+    "y_mm": 125.7,
+    "pins": {
+      "1": "BOOST_EN",
+      "2": "BOOST_ENABLE"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R120",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": -3.0,
+    "y_mm": 129.3,
+    "pins": {
+      "1": "BOOST_ENABLE",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R121",
+    "part": "0603WAF7323T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23239",
+    "value": "732kΩ",
+    "side": 1,
+    "x_mm": -0.2,
+    "y_mm": 129.5,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "BOOST_FB"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R122",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": -0.2,
+    "y_mm": 131.4,
+    "pins": {
+      "1": "BOOST_FB",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R123",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -14.0,
+    "y_mm": 126.0,
+    "pins": {
+      "1": "VBAT_PROT",
+      "2": "BAT_SENSE_GATE"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R124",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -14.0,
+    "y_mm": 130.0,
+    "pins": {
+      "1": "VBAT_SENSE_ON",
+      "2": "BAT_ADC"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R125",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -14.0,
+    "y_mm": 133.0,
+    "pins": {
+      "1": "BAT_ADC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R126",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": -8.0,
+    "y_mm": 129.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R129",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -10.5,
+    "y_mm": 121.5,
+    "pins": {
+      "1": "TOUCH_CS1",
+      "2": "ELE0"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R130",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -13.5,
+    "y_mm": 120.5,
+    "pins": {
+      "1": "TOUCH_CS2",
+      "2": "ELE1"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R131",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -10.5,
+    "y_mm": 119.5,
+    "pins": {
+      "1": "TOUCH_CS3",
+      "2": "ELE2"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R132",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -13.5,
+    "y_mm": 118.5,
+    "pins": {
+      "1": "TOUCH_CS4",
+      "2": "ELE3"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R133",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -10.5,
+    "y_mm": 117.5,
+    "pins": {
+      "1": "TOUCH_CS5",
+      "2": "ELE4"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R134",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": -7.5,
+    "y_mm": 118.4,
+    "pins": {
+      "1": "TOUCH_CS6",
+      "2": "ELE5"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "SW1",
+    "part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplierId": "C455280",
+    "value": "",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 137.0,
+    "pins": {
+      "1": "MCU_EN",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "SW2",
+    "part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplierId": "C455280",
+    "value": "",
+    "side": 1,
+    "x_mm": 10.0,
+    "y_mm": 137.0,
+    "pins": {
+      "1": "BOOT_N",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U1",
+    "part": "ESP32-S3-WROOM-1-N16R8",
+    "supplier": "LCSC",
+    "supplierId": "C2913202",
+    "value": "2.4GHz",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 89.8,
+    "pins": {
+      "1": "GND",
+      "2": "+3V3",
+      "3": "MCU_EN",
+      "4": "PDM_DATA_L",
+      "5": "PDM_CLK_MCU",
+      "6": "PWR_KILL_N",
+      "7": "I2S_BCLK",
+      "8": "I2S_LRCLK",
+      "9": "I2S_DOUT",
+      "10": "AMP_ENABLE",
+      "11": "IMU_INT1",
+      "12": "BOOST_EN",
+      "13": "USB_DM",
+      "14": "USB_DP",
+      "15": "",
+      "16": "",
+      "17": "LCD_DC_MCU",
+      "18": "LCD_CS_MCU",
+      "19": "LCD_MOSI_MCU",
+      "20": "LCD_SCK_MCU",
+      "21": "LCD_RST_N",
+      "22": "PWR_INT_N",
+      "23": "ACC_SCL_MCU",
+      "24": "CHG_N",
+      "25": "LCD_BL_PWM",
+      "26": "",
+      "27": "BOOT_N",
+      "28": "",
+      "29": "",
+      "30": "",
+      "31": "ACC_SDA_MCU",
+      "32": "PGOOD_N",
+      "33": "TOUCH_IRQ_N",
+      "34": "I2C_SCL",
+      "35": "I2C_SDA",
+      "36": "UART0_RX",
+      "37": "UART0_TX",
+      "38": "ACC_DET_N",
+      "39": "BAT_ADC",
+      "40": "GND",
+      "41": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U2",
+    "part": "BMI270",
+    "supplier": "LCSC",
+    "supplierId": "C2836813",
+    "value": "",
+    "side": 2,
+    "x_mm": 0.0,
+    "y_mm": 98.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "",
+      "3": "",
+      "4": "IMU_INT1",
+      "5": "+3V3",
+      "6": "GND",
+      "7": "GND",
+      "8": "+3V3",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "+3V3",
+      "13": "I2C_SCL",
+      "14": "I2C_SDA"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U3",
+    "part": "CAP1296-1-AIA-TR",
+    "supplier": "LCSC",
+    "supplierId": "C2652051",
+    "value": "CAP1296-1-AIA-TR",
+    "side": 2,
+    "x_mm": -6.0,
+    "y_mm": 115.5,
+    "pins": {
+      "1": "TOUCH_CS1",
+      "2": "TOUCH_IRQ_N",
+      "3": "I2C_SDA",
+      "4": "I2C_SCL",
+      "5": "+3V3",
+      "6": "TOUCH_CS6",
+      "7": "TOUCH_CS5",
+      "8": "TOUCH_CS4",
+      "9": "TOUCH_CS3",
+      "10": "TOUCH_CS2",
+      "11": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U4",
+    "part": "MAX98357AETE+T",
+    "supplier": "LCSC",
+    "supplierId": "C910544",
+    "value": "",
+    "side": 2,
+    "x_mm": -9.5,
+    "y_mm": 102.5,
+    "pins": {
+      "1": "I2S_DOUT",
+      "2": "",
+      "3": "GND",
+      "4": "AMP_SD_MODE",
+      "5": "",
+      "6": "",
+      "7": "+5V_SYS",
+      "8": "+5V_SYS",
+      "9": "SPK_P",
+      "10": "SPK_N",
+      "11": "GND",
+      "12": "",
+      "13": "",
+      "14": "I2S_LRCLK",
+      "15": "GND",
+      "16": "I2S_BCLK",
+      "17": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U5",
+    "part": "LMD3526T261-OA5",
+    "supplier": "LCSC",
+    "supplierId": "C49230436",
+    "value": "",
+    "side": 1,
+    "x_mm": 12.0,
+    "y_mm": 110.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "PDM_CLK_MCU",
+      "3": "PDM_DATA_L",
+      "4": "GND",
+      "5": "GND",
+      "6": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U101",
+    "part": "USBLC6-2SC6",
+    "supplier": "LCSC",
+    "supplierId": "C7519",
+    "value": "",
+    "side": 2,
+    "x_mm": 16.6,
+    "y_mm": 118.5,
+    "pins": {
+      "1": "USB_DP_CONN",
+      "2": "GND",
+      "3": "USB_DM_CONN",
+      "4": "USB_DM_CONN",
+      "5": "USB_VBUS",
+      "6": "USB_DP_CONN"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U102",
+    "part": "BQ24075RGTR",
+    "supplier": "LCSC",
+    "supplierId": "C15464",
+    "value": "BQ24075RGTR",
+    "side": 2,
+    "x_mm": 2.0,
+    "y_mm": 121.0,
+    "pins": {
+      "1": "BAT_NTC",
+      "2": "VBAT_PROT",
+      "3": "VBAT_PROT",
+      "4": "CHG_CE_N",
+      "5": "USB_HIGH_CURRENT_OK",
+      "6": "CHG_EN1",
+      "7": "PGOOD_N",
+      "8": "GND",
+      "9": "CHG_N",
+      "10": "VSYS_RAW",
+      "11": "VSYS_RAW",
+      "12": "CHG_ILIM",
+      "13": "USB_5V_FUSED",
+      "14": "CHG_TMR",
+      "15": "CHG_SYSOFF",
+      "16": "CHG_ISET",
+      "17": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U104",
+    "part": "TPS61023DRLR",
+    "supplier": "LCSC",
+    "supplierId": "C919459",
+    "value": "TPS61023DRLR",
+    "side": 1,
+    "x_mm": 3.5,
+    "y_mm": 128.0,
+    "pins": {
+      "1": "BOOST_FB",
+      "2": "BOOST_ENABLE",
+      "3": "VSYS_RAW",
+      "4": "GND",
+      "5": "BOOST_SW",
+      "6": "+5V_SYS"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U105",
+    "part": "DRV2605LDGSR",
+    "supplier": "LCSC",
+    "supplierId": "C527464",
+    "value": "DRV2605LDGSR",
+    "side": 2,
+    "x_mm": 8.0,
+    "y_mm": 106.5,
+    "pins": {
+      "1": "HAPTIC_REG",
+      "2": "I2C_SCL",
+      "3": "I2C_SDA",
+      "4": "GND",
+      "5": "+3V3",
+      "6": "+3V3",
+      "7": "HAPTIC_OUT_P",
+      "8": "GND",
+      "9": "HAPTIC_OUT_N",
+      "10": "+3V3"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C101",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 2.75,
+    "y_mm": 117.2,
+    "pins": {
+      "1": "USB_5V_FUSED",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C102",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": 4.6,
+    "y_mm": 117.2,
+    "pins": {
+      "1": "USB_5V_FUSED",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C104",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -4.0,
+    "y_mm": 121.2,
+    "pins": {
+      "1": "VBAT_PROT",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C106",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": 7.6,
+    "y_mm": 122.0,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C108",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -3.5,
+    "y_mm": 138.0,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C112",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 3.2,
+    "y_mm": 125.8,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C115",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -11.0,
+    "y_mm": 134.0,
+    "pins": {
+      "1": "BAT_ADC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C120",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 3.1,
+    "y_mm": 105.5,
+    "pins": {
+      "1": "HAPTIC_REG",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C121",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 14.8,
+    "y_mm": 109.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "F101",
+    "part": "BSMD1812-260-16V",
+    "supplier": "LCSC",
+    "supplierId": "C883160",
+    "value": "",
+    "side": 2,
+    "x_mm": 11.9,
+    "y_mm": 122.0,
+    "pins": {
+      "1": "USB_VBUS",
+      "2": "USB_5V_FUSED"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "L102",
+    "part": "MWSA0402S-1R0MT",
+    "supplier": "LCSC",
+    "supplierId": "C408332",
+    "value": "1uH",
+    "side": 1,
+    "x_mm": 8.0,
+    "y_mm": 127.6,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "BOOST_SW"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R8",
+    "part": "0603WAF2201T5E",
+    "supplier": "LCSC",
+    "supplierId": "C4190",
+    "value": "2.2kΩ",
+    "side": 2,
+    "x_mm": -13.0,
+    "y_mm": 102.5,
+    "pins": {
+      "1": "AMP_ENABLE",
+      "2": "AMP_SD_MODE"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R110",
+    "part": "0603WAF1181T5E",
+    "supplier": "LCSC",
+    "supplierId": "C22763",
+    "value": "1.18kΩ",
+    "side": 2,
+    "x_mm": 7.6,
+    "y_mm": 118.8,
+    "pins": {
+      "1": "CHG_ILIM",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R111",
+    "part": "0603WAF1001T5E",
+    "supplier": "LCSC",
+    "supplierId": "C21190",
+    "value": "1kΩ",
+    "side": 2,
+    "x_mm": 0.0,
+    "y_mm": 117.1,
+    "pins": {
+      "1": "CHG_ISET",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R112",
+    "part": "0603WAF6982T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23098",
+    "value": "69.8kΩ",
+    "side": 2,
+    "x_mm": -2.1,
+    "y_mm": 117.3,
+    "pins": {
+      "1": "CHG_TMR",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R307",
+    "part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23162",
+    "value": "4.7kΩ",
+    "side": 1,
+    "x_mm": -4.0,
+    "y_mm": 142.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "ACC_SCL_MCU"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R308",
+    "part": "0603WAF4701T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23162",
+    "value": "4.7kΩ",
+    "side": 1,
+    "x_mm": -1.0,
+    "y_mm": 142.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "ACC_SDA_MCU"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R312",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": 2.0,
+    "y_mm": 142.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "ACC_DET_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U103",
+    "part": "TPS63802DLAR",
+    "supplier": "LCSC",
+    "supplierId": "C2845237",
+    "value": "TPS63802DLAR",
+    "side": 2,
+    "x_mm": -6.0,
+    "y_mm": 141.0,
+    "pins": {
+      "1": "BUCK_EN",
+      "2": "GND",
+      "3": "GND",
+      "4": "BUCK_FB",
+      "5": "",
+      "6": "+3V3",
+      "7": "BB_SW2",
+      "8": "GND",
+      "9": "BB_SW1",
+      "10": "VSYS_RAW"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "L101",
+    "part": "MWSA0503S-R47MT",
+    "supplier": "LCSC",
+    "supplierId": "C408353",
+    "value": "470nH",
+    "side": 2,
+    "x_mm": 0.4,
+    "y_mm": 141.5,
+    "pins": {
+      "1": "BB_SW1",
+      "2": "BB_SW2"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R117",
+    "part": "RT0603BRD07560KL",
+    "supplier": "LCSC",
+    "supplierId": "C719312",
+    "value": "560kΩ",
+    "side": 2,
+    "x_mm": -8.8,
+    "y_mm": 143.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "BUCK_FB"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C128",
+    "part": "CC0805MKX5R6BB226",
+    "supplier": "LCSC",
+    "supplierId": "C109314",
+    "value": "22uF",
+    "side": 2,
+    "x_mm": -5.5,
+    "y_mm": 147.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C129",
+    "part": "TCC0805X7R106K100FT",
+    "supplier": "LCSC",
+    "supplierId": "C380346",
+    "value": "10uF",
+    "side": 2,
+    "x_mm": -12.1,
+    "y_mm": 136.7,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J8",
+    "part": "ZX-0.5FPC-2H-CTXX12P",
+    "supplier": "LCSC",
+    "supplierId": "C19191175",
+    "value": "",
+    "side": 1,
+    "x_mm": -13.1,
+    "y_mm": 122.4,
+    "pins": {
+      "1": "GND",
+      "2": "LCD_LEDK",
+      "3": "LCD_LEDA",
+      "4": "LCD_VCC",
+      "5": "GND",
+      "6": "GND",
+      "7": "LCD_DC",
+      "8": "LCD_CS",
+      "9": "LCD_SCK",
+      "10": "LCD_MOSI",
+      "11": "LCD_RST_N",
+      "12": "GND",
+      "13": "GND",
+      "14": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "FB202",
+    "part": "BLM18AG601SN1D",
+    "supplier": "LCSC",
+    "supplierId": "C19330",
+    "value": "",
+    "side": 1,
+    "x_mm": -4.0,
+    "y_mm": 115.8,
+    "pins": {
+      "1": "+3V3",
+      "2": "LCD_VCC"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J7",
+    "part": "810-22-006-40-001101",
+    "supplier": "DigiKey",
+    "supplierId": "ED90478-ND",
+    "value": "",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 149.0,
+    "pins": {
+      "1": "+5V_ACC",
+      "2": "+3V3",
+      "3": "GND",
+      "4": "ACC_SCL_MCU",
+      "5": "ACC_SDA_MCU",
+      "6": "ACC_DET_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U110",
+    "part": "LTC2950CTS8-1#TRMPBF",
+    "supplier": "LCSC",
+    "supplierId": "C114188",
+    "value": "",
+    "side": 1,
+    "x_mm": -7.0,
+    "y_mm": 130.0,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "PWR_BUTTON_N",
+      "3": "PWR_ONT",
+      "4": "GND",
+      "5": "PWR_INT_N",
+      "6": "BUCK_EN",
+      "7": "PWR_OFFT",
+      "8": "PWR_KILL_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "SW4",
+    "part": "TS-1088R-02026",
+    "supplier": "LCSC",
+    "supplierId": "C455280",
+    "value": "",
+    "side": 1,
+    "x_mm": -10.0,
+    "y_mm": 137.0,
+    "pins": {
+      "1": "PWR_BUTTON_N",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C130",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": -11.0,
+    "y_mm": 130.0,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C132",
+    "part": "CL10B474KA8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C1623",
+    "value": "470nF",
+    "side": 1,
+    "x_mm": -7.0,
+    "y_mm": 133.2,
+    "pins": {
+      "1": "PWR_OFFT",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R140",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": -9.5,
+    "y_mm": 127.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "PWR_INT_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R141",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": -11.0,
+    "y_mm": 133.2,
+    "pins": {
+      "1": "+3V3",
+      "2": "PWR_KILL_N"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C131",
+    "part": "0603B334K250NT",
+    "supplier": "LCSC",
+    "supplierId": "C1615",
+    "value": "330nF",
+    "side": 1,
+    "x_mm": -7.0,
+    "y_mm": 126.8,
+    "pins": {
+      "1": "PWR_ONT",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "J201",
+    "part": "SM04B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplierId": "C160404",
+    "value": "",
+    "side": 2,
+    "x_mm": 13.8,
+    "y_mm": 129.0,
+    "pins": {
+      "1": "I2C_SCL",
+      "2": "I2C_SDA",
+      "3": "+3V3",
+      "4": "GND",
+      "5": "",
+      "6": ""
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C133",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": 14.2,
+    "y_mm": 113.6,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C134",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 2,
+    "x_mm": -3.6,
+    "y_mm": 149.7,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "C135",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 2,
+    "x_mm": 3.6,
+    "y_mm": 149.7,
+    "pins": {
+      "1": "+5V_ACC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "Q104",
+    "part": "AO3400A",
+    "supplier": "LCSC",
+    "supplierId": "C700953",
+    "value": "AO3400A",
+    "side": 2,
+    "x_mm": 7.1,
+    "y_mm": 112.0,
+    "pins": {
+      "1": "USB_DEFAULT_CURRENT",
+      "2": "GND",
+      "3": "USB_HIGH_CURRENT_OK"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "Q105",
+    "part": "AO3400A",
+    "supplier": "LCSC",
+    "supplierId": "C700953",
+    "value": "AO3400A",
+    "side": 2,
+    "x_mm": 7.1,
+    "y_mm": 115.5,
+    "pins": {
+      "1": "USB_HIGH_CURRENT_OK",
+      "2": "GND",
+      "3": "CHG_EN1"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R142",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 10.6,
+    "y_mm": 110.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "USB_DEFAULT_CURRENT"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R143",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 7.0,
+    "y_mm": 109.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "USB_HIGH_CURRENT_OK"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R144",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 2,
+    "x_mm": 10.6,
+    "y_mm": 111.95,
+    "pins": {
+      "1": "VSYS_RAW",
+      "2": "CHG_EN1"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R145",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 2,
+    "x_mm": 4.4,
+    "y_mm": 111.6,
+    "pins": {
+      "1": "USB_HIGH_CURRENT_OK",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R146",
+    "part": "0603WAF8873T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23259",
+    "value": "887kΩ",
+    "side": 2,
+    "x_mm": 11.5,
+    "y_mm": 117.2,
+    "pins": {
+      "1": "USB_5V_FUSED",
+      "2": "USB_VBUS_DET"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "R147",
+    "part": "0603WAF4992T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23184",
+    "value": "49.9kΩ",
+    "side": 2,
+    "x_mm": 3.6,
+    "y_mm": 146.7,
+    "pins": {
+      "1": "ACC_ILIM",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U111",
+    "part": "TUSB320LAIRWBR",
+    "supplier": "LCSC",
+    "supplierId": "C132554",
+    "value": "TUSB320LAIRWBR",
+    "side": 2,
+    "x_mm": 11.1,
+    "y_mm": 114.0,
+    "pins": {
+      "1": "USB_CC1",
+      "2": "USB_CC2",
+      "3": "GND",
+      "4": "USB_VBUS_DET",
+      "5": "",
+      "6": "",
+      "7": "USB_DEFAULT_CURRENT",
+      "8": "",
+      "9": "",
+      "10": "GND",
+      "11": "GND",
+      "12": "+3V3"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "main",
+    "ref": "U112",
+    "part": "TPS2553DBVR",
+    "supplier": "LCSC",
+    "supplierId": "C55266",
+    "value": "TPS2553DBVR",
+    "side": 2,
+    "x_mm": 0.0,
+    "y_mm": 147.6,
+    "pins": {
+      "1": "+5V_SYS",
+      "2": "GND",
+      "3": "+3V3",
+      "4": "",
+      "5": "ACC_ILIM",
+      "6": "+5V_ACC"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C701",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": -0.98,
+    "y_mm": 8.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C702",
+    "part": "CL10A475KP8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C1705",
+    "value": "4.7uF",
+    "side": 1,
+    "x_mm": -3.1,
+    "y_mm": 8.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C703",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 1.3,
+    "y_mm": 8.5,
+    "pins": {
+      "1": "ADP_NRST",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C704",
+    "part": "CL10A105KB8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C15849",
+    "value": "1uF",
+    "side": 1,
+    "x_mm": -3.2,
+    "y_mm": 19.5,
+    "pins": {
+      "1": "+5V_ACC",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C705",
+    "part": "CL10A475KP8NNNC",
+    "supplier": "LCSC",
+    "supplierId": "C1705",
+    "value": "4.7uF",
+    "side": 1,
+    "x_mm": -4.7,
+    "y_mm": 26.3,
+    "pins": {
+      "1": "+5V_LED",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C706",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 5.0,
+    "y_mm": 26.0,
+    "pins": {
+      "1": "+5V_LED",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "C707",
+    "part": "CC0603KRX7R9BB104",
+    "supplier": "LCSC",
+    "supplierId": "C14663",
+    "value": "100nF",
+    "side": 1,
+    "x_mm": 7.6,
+    "y_mm": 23.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "J701",
+    "part": "399-10-106-10-008000",
+    "supplier": "Mill-Max",
+    "supplierId": "",
+    "value": "399-10-106-10-008000",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 5.7,
+    "pins": {
+      "1": "+5V_ACC",
+      "2": "+3V3",
+      "3": "GND",
+      "4": "ACC_SCL",
+      "5": "ACC_SDA",
+      "6": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "J702",
+    "part": "SM03B-SRSS-TB(LF)(SN)",
+    "supplier": "LCSC",
+    "supplierId": "C160403",
+    "value": "SM03B-SRSS-TB(LF)(SN)",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 28.5,
+    "pins": {
+      "1": "+5V_LED",
+      "2": "LED_DIN",
+      "3": "GND",
+      "4": "GND",
+      "5": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "R701",
+    "part": "0603WAF1002T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25804",
+    "value": "10kΩ",
+    "side": 1,
+    "x_mm": 4.0,
+    "y_mm": 8.5,
+    "pins": {
+      "1": "+3V3",
+      "2": "ADP_NRST"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "R702",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": -7.5,
+    "y_mm": 23.0,
+    "pins": {
+      "1": "LED_ENABLE",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "R703",
+    "part": "0603WAF3300T5E",
+    "supplier": "LCSC",
+    "supplierId": "C23138",
+    "value": "330Ω",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 24.6,
+    "pins": {
+      "1": "LED_DATA_5V",
+      "2": "LED_DIN"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "R704",
+    "part": "0603WAF1003T5E",
+    "supplier": "LCSC",
+    "supplierId": "C25803",
+    "value": "100kΩ",
+    "side": 1,
+    "x_mm": 3.6,
+    "y_mm": 19.2,
+    "pins": {
+      "1": "LED_DATA_3V3",
+      "2": "GND"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "U701",
+    "part": "STM32G030F6P6TR",
+    "supplier": "LCSC",
+    "supplierId": "C529330",
+    "value": "STM32G030F6P6TR",
+    "side": 1,
+    "x_mm": 0.0,
+    "y_mm": 14.0,
+    "pins": {
+      "1": "ACC_SDA",
+      "2": "",
+      "3": "",
+      "4": "+3V3",
+      "5": "GND",
+      "6": "ADP_NRST",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "LED_ENABLE",
+      "12": "",
+      "13": "LED_DATA_3V3",
+      "14": "",
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "ADP_SWDIO",
+      "19": "ADP_SWCLK",
+      "20": "ACC_SCL"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "U702",
+    "part": "TPS22919DCKR",
+    "supplier": "LCSC",
+    "supplierId": "C2149796",
+    "value": "TPS22919DCKR",
+    "side": 1,
+    "x_mm": -4.5,
+    "y_mm": 23.0,
+    "pins": {
+      "1": "+5V_ACC",
+      "2": "GND",
+      "3": "LED_ENABLE",
+      "4": "",
+      "5": "+5V_LED",
+      "6": "+5V_LED"
+    },
+    "DNP": "NO"
+  },
+  {
+    "board": "adapter",
+    "ref": "U703",
+    "part": "SN74LVC1T45DBVR",
+    "supplier": "LCSC",
+    "supplierId": "C7843",
+    "value": "SN74LVC1T45DBVR",
+    "side": 1,
+    "x_mm": 4.5,
+    "y_mm": 23.0,
+    "pins": {
+      "1": "+3V3",
+      "2": "GND",
+      "3": "LED_DATA_3V3",
+      "4": "LED_DATA_5V",
+      "5": "+3V3",
+      "6": "+5V_LED"
+    },
+    "DNP": "NO"
+  }
+]

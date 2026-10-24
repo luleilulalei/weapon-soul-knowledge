@@ -1,0 +1,74 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.png",
+    "kind": "file",
+    "sha256": "c53363ef92093e6ef52fffcf78d547ce331d9fa83d5b5b7e954c9bd268293e07",
+    "bytes": 1952055,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/器灵_V03_中文爆炸图.svg",
+    "kind": "file",
+    "sha256": "ddd2053c9af840e43a87afc1b48c0744430182e9e9b3eb698719e0f487c10555",
+    "bytes": 3699266,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/exploded_native.png",
+    "kind": "file",
+    "sha256": "4f4e758842ffe5ac25efe2e85380be8a04023fcd115b89fdf2e5772b69b34b39",
+    "bytes": 2766865,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/Spirit_V03_exploded_explanation.blend",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/Spirit_V03_exploded_explanation.blend",
+    "kind": "file",
+    "sha256": "cf7d54ae6bb9bf2963ae36ac8f3e60d31a8661fc4948b15db4c70f877893e376",
+    "bytes": 6185071,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/00_爆炸图阅读说明.txt",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/00_爆炸图阅读说明.txt",
+    "kind": "file",
+    "sha256": "a81d7e83bee0f11ca686f7f3e002c42f28cc90851653fa8d180f5902a786ddf7",
+    "bytes": 2096,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/render_exploded.py",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/render_exploded.py",
+    "kind": "file",
+    "sha256": "bb207d2c0eea7510f7b27364933d45a54e8fc44bc764004f342cf0f9d5111af5",
+    "bytes": 3864,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/compose_diagram.py",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/compose_diagram.py",
+    "kind": "file",
+    "sha256": "2f2e091c1953f225cbd4bd4d851df1a582255c7252ee0c0fbc6bf6a9ccd848ee",
+    "bytes": 4572,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/机械V0.3_中文爆炸图说明_20261024/anchors.json",
+    "archive": "80_完整资料/已整理资料/机械V0.3_中文爆炸图说明_20261024/anchors.json",
+    "kind": "file",
+    "sha256": "a458644a6f8d2edc9789c362b004892a87186078a133832effb5dfe92327de47",
+    "bytes": 1031,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

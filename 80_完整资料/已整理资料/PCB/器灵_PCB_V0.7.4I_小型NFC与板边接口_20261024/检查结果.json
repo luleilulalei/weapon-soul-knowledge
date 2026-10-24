@@ -1,0 +1,133 @@
+{
+  "version": "V074I",
+  "status": "LAYOUT_ONLY_NOT_ROUTED",
+  "components": 118,
+  "same_pin_nets_sch_pcb_before_after": true,
+  "moved_components": [
+    "J104",
+    "R134",
+    "J201"
+  ],
+  "moved_testpads": [
+    "TP104",
+    "TP108",
+    "TP113"
+  ],
+  "geometry_issues": [],
+  "actual_footprints_checked": 29,
+  "PCB_DRC": {
+    "unconnected": 405,
+    "other": 0
+  },
+  "schematic_warnings": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "routing": {
+    "tracks": 0,
+    "vias": 0,
+    "pours": 0
+  },
+  "connector_positions_mm": {
+    "J104": {
+      "x": -13.099999200000001,
+      "y": 111.89999972,
+      "rotation": 270,
+      "layer": 2
+    },
+    "J201": {
+      "x": 13.800000339999999,
+      "y": 129.00000108,
+      "rotation": 270,
+      "layer": 2
+    }
+  },
+  "connector_body_and_pads_bbox_mm": {
+    "J104": [
+      -16.626154200000002,
+      107.16997362,
+      -10.0050092,
+      116.63002582
+    ],
+    "J201": [
+      11.08697554,
+      125.59990628,
+      16.638018539999997,
+      132.40009588
+    ]
+  },
+  "connector_pad_edge_minimum_mm": {
+    "J104": 0.40501159999999814,
+    "J201": 0.36198146000000264
+  },
+  "connector_side_entry": "J104 -X; J201 +X; back layer; native front coordinate convention",
+  "new_J201": "JST SM04B-SRSS-TB(LF)(SN), C160404",
+  "J104_retained": "Molex 5040500391, C17265920",
+  "mechanical_review": {
+    "based_on": "Mechanical V0.3 V074H; printed meshes unchanged",
+    "status": "PASS",
+    "checked_pairs": 683,
+    "collisions": [],
+    "changed_envelopes": [
+      "J104",
+      "J201",
+      "R134"
+    ],
+    "plug_volumes_mm": {
+      "J104_PLUG_SERVICE_ALLOWANCE": [
+        -26.0,
+        133.89999389648438,
+        -4.0,
+        -16.626155853271484,
+        144.89999389648438,
+        0.0
+      ],
+      "J201_PLUG_SERVICE_ALLOWANCE": [
+        16.270000457763672,
+        152.3000030517578,
+        -4.0,
+        25.0,
+        160.6999969482422,
+        0.0
+      ]
+    },
+    "boundary": "Engineering plug/lead volumes only; physical cable bending, lock actuation, actual samples unverified. Plug before closing shell."
+  },
+  "pcb_source_sha256": "24756ae09de55783febea55e86774962982cbab9f5c312afc7de912dcd7c3864",
+  "limitations": [
+    "NFC requires custom 1.0mm SH harness, pin order not Qwiic.",
+    "Engineering plug clearance volumes; actual wire bend and latch sample not verified.",
+    "No routing; not ready for PCB production."
+  ]
+}

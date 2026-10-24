@@ -1,0 +1,72 @@
+{
+  "status": "LAYOUT_REVIEW_ONLY_NOT_ROUTED",
+  "components": 133,
+  "removed": [
+    "SW3",
+    "J1",
+    "R3",
+    "C6"
+  ],
+  "geometry_issues": [],
+  "verification_errors": [],
+  "schematic_pcb_net_mapping_matches": true,
+  "only_changed_pin_nets": [
+    [
+      "U1",
+      "22",
+      "KEY_N",
+      ""
+    ],
+    [
+      "U1",
+      "36",
+      "UART_RX",
+      ""
+    ],
+    [
+      "U1",
+      "37",
+      "UART_TX",
+      ""
+    ]
+  ],
+  "nfc": {
+    "x": 11,
+    "y": 132.5,
+    "rotation": 90,
+    "layer": 2
+  },
+  "boot": {
+    "x": 12,
+    "y": 130,
+    "rotation": 0,
+    "layer": 1
+  },
+  "native_pcb_drc": {
+    "Connection Error": 447
+  },
+  "native_schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "363b559b89bbbe61",
+          "sheet": "621eadf28cee8217",
+          "name": "J7($8I40)"
+        }
+      ]
+    }
+  ],
+  "tracks": 0,
+  "vias": 0,
+  "pours": 0,
+  "silkscreen_labels": 162,
+  "source_sha256": "f4c3043317c29ff965197419d95bd4cb52cea7a1ab865782e947a0f022e12b04",
+  "limitations": [
+    "J201 is the cable connector, not the NFC antenna/module body.",
+    "NFC module to be mounted behind screen facing the rear shell; physical RF and mechanical validation pending.",
+    "Existing J7 ATTRMATCHCODE schematic warning needs connector/model confirmation before manufacturing."
+  ],
+  "export_sha256": "b2343a2a08cd323ff40012d2b1f4f64c678e2972c53826eaaf49f8979ad84bbc"
+}

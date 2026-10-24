@@ -1,0 +1,51 @@
+ESP32-S3-WROOM-1-N16R8｜V074F GPIO分配｜2026-10-23
+
+结论：当前功能可由主控直接连接，无需U7 GPIO扩展器。
+36个引出的GPIO中：3个PSRAM保留、28个功能分配（含BOOT）、2个UART测试焊盘、3个未使用启动脚。
+GPIO26~34不在本模组外部引脚表，不能当作额外空闲脚使用。
+
+模组脚号  GPIO    网络 / 状态
+   4        4    PDM_DATA_L    已分配
+   5        5    PDM_CLK_MCU    已分配
+   6        6    PWR_KILL_N    已分配（开漏关机控制）
+   7        7    I2S_BCLK    已分配
+   8       15    I2S_LRCLK    已分配
+   9       16    I2S_DOUT    已分配
+  10       17    AMP_ENABLE    已分配
+  11       18    IMU_INT1    已分配
+  12        8    BOOST_EN    已分配
+  13       19    USB_DM    已分配
+  14       20    USB_DP    已分配
+  15        3    NC    启动配置脚，保留空脚
+  16       46    NC    启动配置脚，保留空脚
+  17        9    LCD_DC_MCU    已分配
+  18       10    LCD_CS_MCU    已分配
+  19       11    LCD_MOSI_MCU    已分配
+  20       12    LCD_SCK_MCU    已分配
+  21       13    LCD_RST_N    已分配
+  22       14    PWR_INT_N    已分配
+  23       21    ACC_SCL_MCU    已分配
+  24       47    CHG_N    已分配
+  25       48    LCD_BL_PWM    已分配
+  26       45    NC    启动配置脚，保留空脚
+  27        0    BOOT_N    已分配
+  28       35    NC    PSRAM占用，禁止外用
+  29       36    NC    PSRAM占用，禁止外用
+  30       37    NC    PSRAM占用，禁止外用
+  31       38    ACC_SDA_MCU    已分配
+  32       39    PGOOD_N    已分配
+  33       40    TOUCH_IRQ_N    已分配
+  34       41    I2C_SCL    已分配
+  35       42    I2C_SDA    已分配
+  36       44    UART0_RX    串口接收测试焊盘TP114
+  37       43    UART0_TX    串口发送测试焊盘TP115；有启动输出
+  38        2    ACC_DET_N    已分配
+  39        1    BAT_ADC    已分配
+
+注意：模组脚号与GPIO编号不是同一回事。GPIO47/48在N16R8为3.3V逻辑，不套用N16R16V的1.8V限制。
+GPIO39/40/41/42已用于业务功能，不保留外部JTAG；USB Serial/JTAG（GPIO19/20）保留。GPIO6用于开漏KILL；GPIO44/43保留UART0 RX/TX。
+
+本轮变化：GPIO6改KILL，GPIO44/43改UART0 RX/TX测试焊盘。DRV2605L EN接受控3V3，R135/R136取消，I2C负责GO/STANDBY；两颗电源测试焊盘的旧网名已修正。其余功能保留，无GPIO扩展器。
+J4取消后无独立物理入座信号；PGOOD仅表示有效USB输入；CHG高不单独等于满电。
+依据：https://www.ti.com/lit/ds/symlink/drv2605l.pdf
+https://documentation.espressif.com/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf

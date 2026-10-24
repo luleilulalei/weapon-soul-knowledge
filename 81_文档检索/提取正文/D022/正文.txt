@@ -1,0 +1,117 @@
+E
+D
+C
+B
+A
+1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8
+E
+D
+C
+B
+A
+REAC/ROHSSAMZO
+REV           ECN NO         DESRIPTION         DESIGN     APPROVAL      DATE
+  A1 NEW           Replace frame 2018.06.14
+ ITEM    DESCRIPTION         MATERIAL         QTY         FINSH/COLOR
+   DESIGN        WANGGUIFA      2018.06.12
+ CHECKED       ZHENGUILAN    2018.06.12
+APPROVED      LILIANJIANG      2018.06.14
+GENERAL TOLERANCE
+≥0~2＜   ±0.15
+≥2~5＜   ±0.25
+≥0~2＜   ±0.15
+ ≥5 ±0.35
+ SCALE     1:1  UNIT     mm
+NAME：
+DC CONN
+MODEL NO：
+PART NO：
+DWG NO：
+TITLE:
+：FIRST VIEW The copyright belongs to
+samzo parts [China] Co.,
+Ltd. please use the material
+after samzo parts agree to
+authorize. The final right of
+interpretation belongs to
+samzo parts.
+     WWW.KKK-JP.COM
+   B 塑胶 LCP 1 黑色
+   A 触点 铜合金              1 镀金
+SAMZO COMPONENTS
+Electronic switch and connector manufacturer
+A.Series: 23: 2.0 - 50 series
+B.Spring contact pitch: E - 2.0mm
+C.Fixing method: 1 - Vertical Paste
+D.Product height: 1 - H5.35mm
+E.PIN NO: 2-2P/3-3P/5-5P/7-7P/9-9P/0-10PIN
+F:Main body material: 0 - LCP
+G:Spring contact material: 5 - COPPER ALLOY
+H:Mold code: 0 - convention
+立贴刀片电池公座H5.35MM
+23E31-P001
+23E3150D003
+23E31-*-050
+Be filled
+Specification
+Rated Voltage(Max.):30V AC/DC
+Dielectric Strength:1KV AC For 1 Minute
+Between Adjacent Terminal,No Breakdown
+Insulation Resistance:1000 Megohms Min. 500V
+DC For 1 Minute Between Adjacent Terminal
+Operating Temperature:-20°C-80°C
+23 E 3 1 * 0 5 0
+23E31-2-050
+23E31-3-050
+23E31-4-050
+23E31-5-050
+23E31-6-050
+23E31-7-050
+23E31-8-050
+23E31-9-050
+23E31-0-050
+RECOMMENDED PCB LAYOUT
+TOL:(±0.05)
+DIM B
+2.00
+1.80 5.40
+1.10
+Ø0.9000
+Ø1.4000
+DIM C
+Ø0.7000
+0.50
+3.8000
+DIM A
+1.6000
+2.60
+DIM C
+0.50
+Ø0.6000
+4.80
+0.50 0.50
+1.85
+2.0
+DIM B
+2.20±0.20
+3.80
+2.70±0.25
+3.40
+0.50
+DIMA DIMB DIMC
+5.35
+8.0010.50
+10.0012.50
+2.004.50
+6.50 4.00
+6.008.50
+9.90
+11.90
+3.90
+5.90
+7.90
+12.0014.50 13.90
+14.0016.50 15.90
+16.0018.50 17.90
+18.0020.50 19.90

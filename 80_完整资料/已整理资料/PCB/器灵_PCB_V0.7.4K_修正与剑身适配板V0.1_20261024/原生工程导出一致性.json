@@ -1,0 +1,113 @@
+{
+  "project_sha256": "02e9beb6e5fddb723dd542ddbe0c602e7b7b2bef990b7e21c84fea1787a7b498",
+  "saved_export_matches_live_design_primitives": true,
+  "documents_checked": 21,
+  "ignored": "ATTR zIndex order and omitted strikeout=false are normalized; COMPONENT attrs DeviceName cache and omitted isSwitchClose=false are normalized. Actual Device/MPN/symbol/footprint attributes remain compared. View state, cache, rules-selector serialization and metadata are not part of this equality check; DRC rules checked through native DRC separately.",
+  "checks": [
+    {
+      "doc": "5354a7bf4c630a18",
+      "type": "PCB",
+      "differing_records": []
+    },
+    {
+      "doc": "03d08161fc5e53f9",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "b1f832670a111c24",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "162b2913dc48de11",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "f29e09c3cbde48e9",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "47eed7000b5b5b42",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "b29abcd2926f1d34",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "0858bd534b92a992",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "621eadf28cee8217",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "53cebbb6158d31b1",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "89512769eae520d7",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "c5439dfd4251e93d",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "90a66e75d09b5c0a",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "a220e6f6f67182ed",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "d654cfd0b15fd79f",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "668053e7db3a05a4",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "bee4ed5a4c8faa9f",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "314070b88cef723f",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "5d2f77f8ca0e56b9",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    },
+    {
+      "doc": "cff5d61a47594b34",
+      "type": "PCB",
+      "differing_records": []
+    },
+    {
+      "doc": "6d14c951751a0980",
+      "type": "SCH_PAGE",
+      "differing_records": []
+    }
+  ]
+}

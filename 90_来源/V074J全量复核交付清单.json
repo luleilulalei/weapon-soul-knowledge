@@ -1,0 +1,209 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/00_复核结论.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/00_复核结论.txt",
+    "kind": "file",
+    "sha256": "a3205c2347d5141989bf9f78904bfc94a1f2704fcdabc5d319fb97497c8e94fb",
+    "bytes": 2503,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/完整复核报告.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/完整复核报告.html",
+    "kind": "file",
+    "sha256": "7df295bf903e9b05e6718eb7231a494b1999f675c90b3cba9d43549a550c5930",
+    "bytes": 89774,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.png",
+    "kind": "file",
+    "sha256": "8d38282f3c182b26aed85067ee24b487a64d857cb419fd37449b116959f8cc5b",
+    "bytes": 273119,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/布局复核标注.svg",
+    "kind": "file",
+    "sha256": "31ab13ef15e0dcd09e4e6e7dad534998128a10c0acecc4f5d7c514eeca368100",
+    "bytes": 100837,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/118件逐元件复核.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/118件逐元件复核.json",
+    "kind": "file",
+    "sha256": "b5f9c1669d37fa39d904064778da1c0fbcb748c805d630b02755c8d9c0f7e9b4",
+    "bytes": 88937,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/复核数据.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/复核数据.json",
+    "kind": "file",
+    "sha256": "cb74e6f56bdc4be867772cf4ec2c70533de087df270cb6cd97867a098f306be2",
+    "bytes": 640490,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/补充机械检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/补充机械检查.json",
+    "kind": "file",
+    "sha256": "dca8bb0ab57d5f42148aae03702809dbea3ef7bdc320b2222718775ca4c6f774",
+    "bytes": 1611,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/说明文字更正记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/说明文字更正记录.json",
+    "kind": "file",
+    "sha256": "99418c1be89882c690b9d97c39f9ac211d14e1c4a862fd0c8c2a7c6ee461de8b",
+    "bytes": 3722,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/更正前后验证.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/更正前后验证.json",
+    "kind": "file",
+    "sha256": "773e4aee655c72afc83a721f33e659c2761b874a42005ddd1b116d944924d6af",
+    "bytes": 1187,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/嘉立创保存与导出回执.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/嘉立创保存与导出回执.json",
+    "kind": "file",
+    "sha256": "cc9bd3c80e692f42f5e0171eb3945f36753430fe001f626ad4fa5935d19e83bc",
+    "bytes": 404,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_AUDIT_NOT_ROUTED_20261024.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_AUDIT_NOT_ROUTED_20261024.epro2",
+    "kind": "file",
+    "sha256": "b373a1e7469ee279a9fe6d000ab5677e7d83432ee40ea428a5fbca9456a26599",
+    "bytes": 1354626,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_PCB原生源文件.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/Spirit_V074J_PCB原生源文件.txt",
+    "kind": "file",
+    "sha256": "047ed227a6921a4a3ac1c13e08b9d8d7867920e313b78766041516e94c3a8829",
+    "bytes": 469540,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/原生回读_更正后.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/原生回读_更正后.json",
+    "kind": "file",
+    "sha256": "2d9b2713f811da0f22c6ed5d98d498f095cff1c54d145f854e62f0e57bd56991",
+    "bytes": 4744574,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/native-before.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/native-before.epro2",
+    "kind": "file",
+    "sha256": "d76bcaf7e4094215fdf8016a5cfaeaa355c3ce62cd831d8bdc890e28dbe03884",
+    "bytes": 1355157,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bmi270.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bmi270.pdf",
+    "kind": "file",
+    "sha256": "f68ce3c74f011a80bbe4b0279c4abe9609a71a5dcda75a951381d77112e005fb",
+    "bytes": 2636042,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bq24075.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/bq24075.pdf",
+    "kind": "file",
+    "sha256": "4fe4e4f9855501f83b400c6932e3098439e51c50539e40dc45b44a8d509e8db1",
+    "bytes": 3739103,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/drv2605l.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/drv2605l.pdf",
+    "kind": "file",
+    "sha256": "0597de48de2dd1d08d3d2a801ced819c1c756f152916367608b9146c927bb290",
+    "bytes": 2642481,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/esp32s3-wroom.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/esp32s3-wroom.pdf",
+    "kind": "file",
+    "sha256": "27d71971da07c280c6068d08c74720d1a25b8f20cf8494dc1765bdd28d40d435",
+    "bytes": 1280501,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/lmd3526.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/lmd3526.pdf",
+    "kind": "file",
+    "sha256": "c2bc1eef0918b6330b30e65514e2ef22b7cef8511ed7b7513ce1a63057c6cb06",
+    "bytes": 968671,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps61023.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps61023.pdf",
+    "kind": "file",
+    "sha256": "3f6657d081f5f92a542f2d1b2c9732c9d50438c9311cbea092c4d7d2863f0a00",
+    "bytes": 2392725,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps63802.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/tps63802.pdf",
+    "kind": "file",
+    "sha256": "be07deca1231c5493957bc64c2dc1cad5543bff330e49ae41caf3286fd80dca6",
+    "bytes": 2466159,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/sources.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/references/sources.json",
+    "kind": "file",
+    "sha256": "5d57e3a1408830ab83f2ab68075c4ab24c5803b0a8ee6a897821c8614c7ffd3c",
+    "bytes": 784,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/交付文件校验.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4J_全量复核_20261024/交付文件校验.json",
+    "kind": "file",
+    "sha256": "075095a1f67d569736258291c5c5ad95255538f9bae81698a0834afd2d13f348",
+    "bytes": 3339,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

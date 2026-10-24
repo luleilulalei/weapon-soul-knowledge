@@ -1,0 +1,101 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_NOT_ROUTED_20261024.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_NOT_ROUTED_20261024.epro2",
+    "kind": "file",
+    "sha256": "a37edc04ac0364888cf473c70544c99a3ce84d737de944b5216e203064afe074",
+    "bytes": 1344186,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-1.png",
+    "kind": "file",
+    "sha256": "8f4bdfe2d01e2e0f804afbb257e6e5268b8e4aec7edbd20c3fcfeef53a6a7af8",
+    "bytes": 44602,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生装配图-2.png",
+    "kind": "file",
+    "sha256": "2159349c51612929efe63b8f03cc03b9140ea99eacf7f77440a0d5cdaff50646",
+    "bytes": 63005,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_原生画布.webp",
+    "kind": "file",
+    "sha256": "78220886d824466d6c62e0c76d7cc4417919c470d9d00c3d73ffbff0b2be766d",
+    "bytes": 126654,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_检查结果.json",
+    "kind": "file",
+    "sha256": "6f119eb9e52acb23cc758ae0af1897fe941b31b70eb6c7f68aa871cf7eb5f6d9",
+    "bytes": 2582,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_PCB原生源文件.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/Spirit_V074H_PCB原生源文件.txt",
+    "kind": "file",
+    "sha256": "30ac4a3a145763c88cd7f846ce12c8979362fa8b5c8400ad0bedc382c5964767",
+    "bytes": 464993,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/00_重叠修正说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/00_重叠修正说明.txt",
+    "kind": "file",
+    "sha256": "4d0813856354cedd20fa88132f9f9f0831360817a256591200f70851aa716d40",
+    "bytes": 1491,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-plan.json",
+    "kind": "file",
+    "sha256": "0813cabf6e71e595dee3fa73cb046417519b9ec4081d654674f23df701f76099",
+    "bytes": 14442,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-silk.json",
+    "kind": "file",
+    "sha256": "ba8cb56e351289349a1cc7cb40ce24f325127bdefb4476d33e87501677de5f03",
+    "bytes": 49212,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-final-verify.json",
+    "kind": "file",
+    "sha256": "2d9b48fc97705c22c68bcb32358fb9bfd25d2b8add475331a81a185de01c60ec",
+    "bytes": 2395565,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-save-result.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4H_重叠修正_20261024/layout-v074h-save-result.json",
+    "kind": "file",
+    "sha256": "e1ee0dc5130e9e8da72f1ba74c793c6b571329f6acb55fcbe4ce9863214bc9e7",
+    "bytes": 82,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

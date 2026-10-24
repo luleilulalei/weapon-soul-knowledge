@@ -1,0 +1,92 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO_Direct_NOT_ROUTED_20261022.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO_Direct_NOT_ROUTED_20261022.epro2",
+    "kind": "file",
+    "sha256": "d52d2c4daf931256135d9c88674e8845026763b47e8b309c7898c353c4b5d573",
+    "bytes": 1363197,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_GPIO精简布局确认.png",
+    "kind": "file",
+    "sha256": "c586716634f858dd82ebada2a8545297ebc895fe2e640e586da5d6e51914abea",
+    "bytes": 411523,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_检查结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/Spirit_V074E_检查结果.json",
+    "kind": "file",
+    "sha256": "35431982bf6296d4f4be1379374809aa196d409ac1225b9f5e166bc3e898666d",
+    "bytes": 6070,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/用户确认_取消J4J6与GPIO扩展_20261022.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/用户确认_取消J4J6与GPIO扩展_20261022.txt",
+    "kind": "file",
+    "sha256": "c7f27209ec4ca91a6bd31f5ac5c4d33bc89c2f799951f89314d450d4bfcee6c2",
+    "bytes": 3212,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/00_GPIO精简说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/00_GPIO精简说明.txt",
+    "kind": "file",
+    "sha256": "ccbc35e0c2969ffb21ef0a6c116160919fed379a1f4622583b494389a7c77fbf",
+    "bytes": 1761,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/01_GPIO逐脚分配与限制.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/01_GPIO逐脚分配与限制.txt",
+    "kind": "file",
+    "sha256": "f885eb9043df4aa4a664a02911c446438f921463bb485002f36aca22ccbbb8e3",
+    "bytes": 2667,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-plan.json",
+    "kind": "file",
+    "sha256": "95db14aba2d728397d48f9413f5132cb3d91d8fde3e418095893dda57702f8c2",
+    "bytes": 12437,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-silk.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-silk.json",
+    "kind": "file",
+    "sha256": "a7ce803b582ed828a533604c9ee474b374560d6c2bb1ea96375cdd9a367c75f2",
+    "bytes": 46949,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-final-verify.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/layout-v074e-final-verify.json",
+    "kind": "file",
+    "sha256": "5f33d5274a908d7b0758d526492499135341e4bc53c99d82d7fe1a9305c64016",
+    "bytes": 1966826,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/历史备份/Spirit_V074D_Before_GPIO_Simplify_20261022.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4E_GPIO精简_20261022/历史备份/Spirit_V074D_Before_GPIO_Simplify_20261022.epro2",
+    "kind": "file",
+    "sha256": "2e6ec8d7bdd1d00f270422ffd52c2e570518dedc04ffbc910fd7f1aed8dc581b",
+    "bytes": 1383594,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]
