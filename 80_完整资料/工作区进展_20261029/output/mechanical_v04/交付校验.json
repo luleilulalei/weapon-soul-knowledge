@@ -1,0 +1,222 @@
+[
+  {
+    "path": "00_结构试装说明.txt",
+    "bytes": 5247,
+    "sha256": "3791008f5598fe5f207354a10bfe1222dac2f71d544b64879a434f5e9a332099"
+  },
+  {
+    "path": "结构评审.html",
+    "bytes": 13312,
+    "sha256": "5fed888bc2aa0a562099d5c5e817787a7d035e8039357aa4b8b5c3ac140b8d8f"
+  },
+  {
+    "path": "分件清单.csv",
+    "bytes": 1632,
+    "sha256": "93318a1ec1a36090aaeff745154bc8b8e90fa12eae0cf0691868c933a633c20c"
+  },
+  {
+    "path": "source_manifest.json",
+    "bytes": 283,
+    "sha256": "414f14e96cf64059fab56dd6bd8296ff079d5976cf708e768c7f5cf37200abeb"
+  },
+  {
+    "path": "Spirit_V04_assembly_VIEW_ONLY.stl",
+    "bytes": 3379284,
+    "sha256": "7bf58284141c1ab1082af8699db86d96c55afc1aad7179582538b427796eb3a3"
+  },
+  {
+    "path": "model/mesh_validation.json",
+    "bytes": 3595,
+    "sha256": "08e7b631410d3c24f731c73c27eb34f7d81f32c5657f851e205b588829728d2b"
+  },
+  {
+    "path": "model/pcb_input.json",
+    "bytes": 78252,
+    "sha256": "2cbd078983c62dbe5a2824e1601d3c4a7a9a7fc946af90feb68355e52284e43b"
+  },
+  {
+    "path": "model/helpers_fragment.txt",
+    "bytes": 2587,
+    "sha256": "6dcbe4824a03069ff08f4a6fb4c81f790c8501c29489f2ca11d91ad034dca1b7"
+  },
+  {
+    "path": "model/parameters.json",
+    "bytes": 1201,
+    "sha256": "8ad1b0d289e5b572821c2639ec1ca64d0d6ed69e7af11fa4386adbcac98bbd05"
+  },
+  {
+    "path": "model/adapter_input.json",
+    "bytes": 9483,
+    "sha256": "602195fad8a59769dc9956e823a1dcfc9542a5e076261921d7f7941859984152"
+  },
+  {
+    "path": "model/render_v04.py",
+    "bytes": 3384,
+    "sha256": "4300819a8b97e623643648f763447e7789577f999186817e8cfe59e397dae50b"
+  },
+  {
+    "path": "model/component_placements.json",
+    "bytes": 57441,
+    "sha256": "74f4d3c22abed4c78a97e06883595d349e671f4cb063a74a62ecc8012435021d"
+  },
+  {
+    "path": "model/verify_operations.py",
+    "bytes": 2517,
+    "sha256": "b99f57df6563bc2d8349c60f8916ff8d0f0d60bfa44723b24875296dd75da336"
+  },
+  {
+    "path": "model/verify_v04.py",
+    "bytes": 4088,
+    "sha256": "e3de843b0eacd589b767025c5a89a9e8a84067aa989e8ac1b31d9251e48ab22a"
+  },
+  {
+    "path": "model/Spirit_V04_V074P3B_review.blend",
+    "bytes": 7610087,
+    "sha256": "0b7f7015276c780c9a3d25aece1e46ce4de98da3c2f43baceb739e8b59f0839d"
+  },
+  {
+    "path": "model/build_v04.py",
+    "bytes": 25963,
+    "sha256": "6cb34248817c4a6a967f7e581baf9e1468cb3c54ceb6a6da0a7faa80060e70c2"
+  },
+  {
+    "path": "model/export_stl.py",
+    "bytes": 1052,
+    "sha256": "d88b2678fbae1ff0e950c61fef9275a4aaf0aed584420f1c7f15eb9284b62d13"
+  },
+  {
+    "path": "model/stl/P10_rear_NFC_holder.stl",
+    "bytes": 87484,
+    "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74"
+  },
+  {
+    "path": "model/stl/P01_front_shell.stl",
+    "bytes": 837384,
+    "sha256": "9ed073d1fc8217e50dbfece638830d42e5596fd1ac162d218e5cc6e5de05ea75"
+  },
+  {
+    "path": "model/stl/P05_screen_rear_retainer.stl",
+    "bytes": 76884,
+    "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1"
+  },
+  {
+    "path": "model/stl/P12_LRA_retaining_bridge.stl",
+    "bytes": 58884,
+    "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7"
+  },
+  {
+    "path": "model/stl/P13_MIC_side_duct.stl",
+    "bytes": 82684,
+    "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2"
+  },
+  {
+    "path": "model/stl/P06_power_plunger.stl",
+    "bytes": 76684,
+    "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413"
+  },
+  {
+    "path": "model/stl/P09_side_speaker_grille.stl",
+    "bytes": 111084,
+    "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca"
+  },
+  {
+    "path": "model/stl/P07_battery_cradle.stl",
+    "bytes": 115484,
+    "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442"
+  },
+  {
+    "path": "model/stl/P03_PCB_four_hole_carrier.stl",
+    "bytes": 513284,
+    "sha256": "ced831b89e00c72dd5c620ce3eaea218b6c82837f4475c7ebc535389b9d364aa"
+  },
+  {
+    "path": "model/stl/P15_Hanxia_keyed_adapter_carrier.stl",
+    "bytes": 139084,
+    "sha256": "0506c500cd0d63b0113fe9d4a69ea58fd0acf90e193c6228fc1a20a082dcc758"
+  },
+  {
+    "path": "model/stl/P04_replaceable_screen_bezel.stl",
+    "bytes": 118784,
+    "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963"
+  },
+  {
+    "path": "model/stl/P11_keyed_top_dust_cap.stl",
+    "bytes": 60384,
+    "sha256": "8336bfb860dc378eaac5a6a27f46404650c3ea4d9e0b286b1d522eacbc06e5b1"
+  },
+  {
+    "path": "model/stl/P16_adapter_height_shim_0p3.stl",
+    "bytes": 4084,
+    "sha256": "0c606aaa358308ad2e63dc5ed695333e0bc440b031882f95707daf7e07f6e31d"
+  },
+  {
+    "path": "model/stl/P14_fit_coupon.stl",
+    "bytes": 81184,
+    "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0"
+  },
+  {
+    "path": "model/stl/P02_rear_shell.stl",
+    "bytes": 972484,
+    "sha256": "a836905ff0274fe9386a700b7dee7e8dfe6bf87751df4ee98ba6813f02672239"
+  },
+  {
+    "path": "model/stl/P08_side_speaker_chamber.stl",
+    "bytes": 190084,
+    "sha256": "c7c445c4ba15833943f4eca58167cf2683996a87c0656ee3df7f38aadcbd6e8c"
+  },
+  {
+    "path": "verification/geometry.json",
+    "bytes": 3377,
+    "sha256": "4940e36daa0c0329243a5c627cda2dcefc50c5ef944a143ba7ad318dfe47b0be"
+  },
+  {
+    "path": "verification/stl_independent.json",
+    "bytes": 5648,
+    "sha256": "55d34d87606d1a31abf14d560cfe6be3a555ef7d20180b3073fbd40126984530"
+  },
+  {
+    "path": "renders/06_head.png",
+    "bytes": 1789227,
+    "sha256": "ce45ceb2b876fdc0d75e80e7869c06aa5435921ae6228d12243b634fe16f5515"
+  },
+  {
+    "path": "renders/01_core.png",
+    "bytes": 1713931,
+    "sha256": "15fbe157675bb1071d01e11e7d3d20c57f3febc45609dbbc1ce37e60ecf08c25"
+  },
+  {
+    "path": "renders/05_open_rear.png",
+    "bytes": 1822367,
+    "sha256": "4fcc3f40378ca8f35adf6b4f9e81512bacfaaae4c6a09a0a98dc83f25fff823d"
+  },
+  {
+    "path": "renders/03_board_carrier.png",
+    "bytes": 1780820,
+    "sha256": "062ff56f45891c7ce4946fd862d060d3d18a3b10fe0d2bc1c163422658a88cd1"
+  },
+  {
+    "path": "renders/02_exploded.png",
+    "bytes": 2832694,
+    "sha256": "81ad1bfc68727a9b9200235ff634b5c9031d5e2a59402b68afd9eb307ffcd991"
+  },
+  {
+    "path": "renders/07_datums.png",
+    "bytes": 148021,
+    "sha256": "e50ee01813f72c6596c8c6a1f5c97f0a54e0d5ff2cf7770aba4132ce2fe8a061"
+  },
+  {
+    "path": "renders/04_interface.png",
+    "bytes": 2026438,
+    "sha256": "de051752d891891fd82b00e5e58f5a25a1d644c721f0aa27b58f65b45d01e30e"
+  },
+  {
+    "path": "references/C32713227-drawing.pdf",
+    "bytes": 150843,
+    "sha256": "3b7fc7363a195bc8a5f1d221f3c2cd79e141d18a83e1cb5b94da933b8b1ad4a2"
+  },
+  {
+    "path": "references/C46061744.pdf",
+    "bytes": 258987,
+    "sha256": "a1f5387cc84dcc320f011a726578ffd4848f7693e6da60cb5b6e1c9cca530be9"
+  }
+]

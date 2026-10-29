@@ -1,0 +1,47 @@
+<!doctype html><html lang="zh-CN"><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>器灵内核 · V0.4 结构评审</title><style>*{box-sizing:border-box}body{margin:0;background:#eef3f6;color:#173443;font:16px/1.8 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}main{max-width:1140px;margin:auto;padding:48px 30px}header{padding:30px 0}.tag{color:#2a817e;letter-spacing:2px;font-size:13px}h1{font-size:42px;line-height:1.3;margin:16px 0}h2{font-size:25px;margin:0 0 12px}p{color:#4e6572}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.card{background:#fff;border:1px solid #d8e3e8;border-radius:12px;padding:20px}strong{display:block;font-size:28px;color:#123c4c}section{padding:28px;background:white;border-radius:16px;margin:24px 0}img{width:100%;display:block;border-radius:10px}section:first-of-type img{max-height:820px;object-fit:contain;background:#3d4953}a{color:#106e79}nav a{display:inline-block;margin:6px 14px 6px 0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{padding:12px 8px;border-bottom:1px solid #dbe5eb;text-align:left}.note{border-left:4px solid #b38b4a;padding:14px 20px;background:#fcf6ec}details{margin:20px 0}pre{white-space:pre-wrap;font:14px/1.8 inherit}@media(max-width:700px){main{padding:24px 16px}h1{font-size:32px}.cards{grid-template-columns:1fr}section{padding:18px}table{font-size:12px}}</style><main><header><div class="tag">器灵内核 / MECHANICAL V0.4 / 2026.10.26</div><h1>让现有 PCB 装进最新结构</h1><p>适配 V074P3B 主板 + V0.2 适配板。更新四耳托架、顶部六针对接件与板边避让，保留屏幕、NFC、电池和侧出声布局。</p><nav><a href="00_结构试装说明.txt">完整试装说明</a><a href="model/Spirit_V04_V074P3B_review.blend">Blender 装配源文件</a><a href="Spirit_V04_assembly_VIEW_ONLY.stl">总装预览 STL</a><a href="分件清单.csv">分件清单</a></nav></header><div class="cards"><div class="card"><strong>38 × 61.5</strong>主板四孔中心距 / mm</div><div class="card"><strong>16 个分件</strong>独立 STL 封闭、连通检查通过</div><div class="card"><strong>190 × 62 × 40</strong>主体长 × 宽 × 厚 / mm</div></div><p class="note">结构试装稿：已建模型的静态相交、防尘盖替换状态与 7 个插拔采样位置均无报告干涉。屏幕/FPC、连接器真实落板高度、线束、打印公差与强度仍需实物验证。</p><section><h2>整机 · 保留现有比例</h2><p>主视图采用实际网格；金棕色件同样按塑料建模。屏幕表情为渲染示意。</p><a href="renders/01_core.png"><img src="renders/01_core.png" alt="整机 · 保留现有比例" loading="lazy"></a></section><section><h2>三组展开 · 前壳 / 主板 / 后壳</h2><p>为便于阅读，沿横向分开展示；顶部适配组件向上移开。</p><a href="renders/02_exploded.png"><img src="renders/02_exploded.png" alt="三组展开 · 前壳 / 主板 / 后壳" loading="lazy"></a></section><section><h2>四耳主板与新托架</h2><p>外侧四孔匹配 38×61.5；托架与后壳的固定孔另行布置，避开 PCB 螺丝。</p><a href="renders/03_board_carrier.png"><img src="renders/03_board_carrier.png" alt="四耳主板与新托架" loading="lazy"></a></section><section><h2>当前韩下六针对接</h2><p>导向壳向右移开以显示插针。模型中插深暂定 2.5，实际落板高度/插深仍待试配。</p><a href="renders/04_interface.png"><img src="renders/04_interface.png" alt="当前韩下六针对接" loading="lazy"></a></section><section><h2>后盖拆开后的内部</h2><p>为看清主板、电池与声腔，隐藏后盖、NFC托架和电池托架。</p><a href="renders/05_open_rear.png"><img src="renders/05_open_rear.png" alt="后盖拆开后的内部" loading="lazy"></a></section><section><h2>顶部装配</h2><p>非对称导向、止挡肩和独立固定孔。仅验证名义几何，未验证载荷。</p><a href="renders/06_head.png"><img src="renders/06_head.png" alt="顶部装配" loading="lazy"></a></section><section><h2>尺寸与坐标</h2><p>PCB 外形和 XY 坐标来自最新保存的原生工程；完整参数见模型输入。</p><a href="renders/07_datums.png"><img src="renders/07_datums.png" alt="尺寸与坐标" loading="lazy"></a></section><section><h2>分件与下载</h2><p>P11 防尘盖与 P15 配件导向壳二选一；P14 是试片，P16 在实配需要时打印两件。</p><table><tr><th>编号</th><th>名称</th><th>变化</th><th>说明</th><th>文件</th></tr><tr><td>P01</td><td>前壳</td><td>更新</td><td>板边避让、肩部加宽、对接导向与固定孔</td><td><a href="model/stl/P01_front_shell.stl">STL</a></td></tr><tr><td>P02</td><td>后壳</td><td>更新</td><td>匹配四耳主板、托架固定点与定位销</td><td><a href="model/stl/P02_rear_shell.stl">STL</a></td></tr><tr><td>P03</td><td>四孔主板托架</td><td>更新</td><td>38 × 61.5 孔距；上部托架固定点移至总装 Y=162</td><td><a href="model/stl/P03_PCB_four_hole_carrier.stl">STL</a></td></tr><tr><td>P04</td><td>可换屏幕压框</td><td>沿用</td><td>实屏外形待量测，保留独立更换</td><td><a href="model/stl/P04_replaceable_screen_bezel.stl">STL</a></td></tr><tr><td>P05</td><td>屏幕后压环</td><td>沿用</td><td>配软垫夹持，不用螺丝压玻璃</td><td><a href="model/stl/P05_screen_rear_retainer.stl">STL</a></td></tr><tr><td>P06</td><td>POWER 推杆</td><td>沿用</td><td>RESET / BOOT 位于内部</td><td><a href="model/stl/P06_power_plunger.stl">STL</a></td></tr><tr><td>P07</td><td>电池托架</td><td>沿用</td><td>Ø19.1 × 69.2 电池包占位，配绑带</td><td><a href="model/stl/P07_battery_cradle.stl">STL</a></td></tr><tr><td>P08</td><td>侧面扬声器声腔</td><td>沿用</td><td>Ø20 × 5.1 扬声器包络</td><td><a href="model/stl/P08_side_speaker_chamber.stl">STL</a></td></tr><tr><td>P09</td><td>扬声器格栅</td><td>沿用</td><td>侧出声、软垫密封待试装</td><td><a href="model/stl/P09_side_speaker_grille.stl">STL</a></td></tr><tr><td>P10</td><td>背部 NFC 托架</td><td>沿用</td><td>独立天线面向后壳</td><td><a href="model/stl/P10_rear_NFC_holder.stl">STL</a></td></tr><tr><td>P11</td><td>顶部防尘盖</td><td>更新</td><td>使用顶部同组固定孔；与 P15 二选一</td><td><a href="model/stl/P11_keyed_top_dust_cap.stl">STL</a></td></tr><tr><td>P12</td><td>LRA 压条</td><td>沿用</td><td>Ø8.2 × 2.7 占位，胶层需实配</td><td><a href="model/stl/P12_LRA_retaining_bridge.stl">STL</a></td></tr><tr><td>P13</td><td>麦克风侧向导音件</td><td>沿用</td><td>对准 U5，密封垫和声学待测</td><td><a href="model/stl/P13_MIC_side_duct.stl">STL</a></td></tr><tr><td>P14</td><td>尺寸试片</td><td>沿用</td><td>不装入整机，先核对孔径和板厚配合</td><td><a href="model/stl/P14_fit_coupon.stl">STL</a></td></tr><tr><td>P15</td><td>韩下六针适配板导向壳</td><td>更新</td><td>导向、防反插、肩部止挡、双螺丝固定、轴向调节槽</td><td><a href="model/stl/P15_Hanxia_keyed_adapter_carrier.stl">STL</a></td></tr><tr><td>P16</td><td>0.3 mm 高度调节垫片</td><td>新增</td><td>需要时打印两件同厚垫片，实配后重查插针高度</td><td><a href="model/stl/P16_adapter_height_shim_0p3.stl">STL</a></td></tr></table></section><section><h2>检查记录</h2><p>静态 12737 组几何对，报告干涉 0，报告阈值 0.02 mm³。16 个实际二进制 STL 全部通过独立网格检查。反插与超插模型中均出现预期机械阻挡，尚未做实体载荷测试。</p><nav><a href="verification/geometry.json">装配与插拔检查</a><a href="verification/stl_independent.json">STL 独立检查</a><a href="source_manifest.json">PCB 来源记录</a><a href="references/C46061744.pdf">母座厂家图</a><a href="references/C32713227-drawing.pdf">公头厂家图</a></nav><details><summary>展开完整试装说明</summary><pre>器灵内核 · 机械 V0.4 结构试装稿
+2026-10-26｜基于主板 V074P3B + 适配板 V0.2
+
+入口
+打开“结构评审.html”查看整机、爆炸图、PCB托架、六针对接和内部布局。
+model/stl/ 是 16 个独立分件（毫米）；P14 是试片，P16 按需打印两件；P11 防尘盖与 P15 配件导向壳二选一。
+model/Spirit_V04_V074P3B_review.blend 是可编辑的 Blender 网格装配源文件，包含电子包络与检查空间。不是 STEP 实体 CAD。
+Spirit_V04_assembly_VIEW_ONLY.stl 是带 P15 的装配位置预览，不能作为整件打印；不包含电子件。
+
+本轮完成
+1. 四个 PCB 固定柱更新到原生孔中心（±19,85）和（±19,146.5），孔距 38×61.5，孔径 2.2。映射到总装为（±19,112.5）和（±19,174），主板底 Z=0、顶 Z=1.6。
+2. 重做 P03 框架与 P02 支撑。主板仍使用 M2 尼龙螺丝、尼龙垫圈/螺母和塑料柱；托架的上部合壳固定点从 Y=172.5 移到 162，避开 PCB 新上孔及其螺母。
+3. 顶部局部宽度由 46 增至 51；主体仍长 190、最大宽 62、前后厚 40、握持区宽 46。按板框增加 0.35 mm 装配避让，保留右侧 USB、左侧 FPC 与线束插接预留。
+4. 删除旧 Mill-Max 插合结构，按当前韩下 J7 母座 / J701 公头重做 P15。两块板平行、从端部插合；外壳先导向，带非对称键、肩部止挡和两颗轴向固定螺丝。固定孔位 X=±14.3、Z=7.1，使用 M2.5 样机螺丝，塑料孔需试片/攻丝确认。P11 改用同组孔。没有把插针当作结构锁扣。
+5. 按已保存的 V074P3B 原生数据更新主板 129 件和适配板 16 件的坐标、面别、板框及孔位，纳入背面 U105/电源器件、通孔焊尾和主板/适配板螺丝头、垫圈、螺母包络。保留屏幕正面、NFC背面、电池下置、扬声器侧出声、LRA与导音件布局。
+
+接口装配基准（暂定，供实物试配）
+主板顶边总装 Y=179；母座口约 Y=181.8。
+适配板本地 Y=0 映射到总装 Y=184.3；板边间距 5.3，公针前端约 Y=179.3，暂定插入 2.5。两板底 Z 都为 0。
+P15 鼻端 Y=177，比公针尖端前伸约 2.3。非对称键先导向；肩部限位在 Y=190。
+板固定槽可沿轴调整约 ±0.6；P16 提供 0.3 高度垫片。调整后必须重新核对完整插合与针序，不能把调节范围当作已验证的容差。
+上述插深、同平面安装高度和孔槽间隙是结构设计值，并非厂家整套对插认证；按连接器实物修正后再冻结。J7/J701 采用简化主体/插针/焊尾，弯脚完整形状尚未建成厂家 STEP。
+J7→J701 对应为 1→5、2→6、3→3、4→4、5→1、6→2。沿用板级断电插拔与逐针确认要求。
+
+尺寸
+主体 190×62×40（长×宽×厚）。
+所建模型含防尘盖、按钮等外形约 191.9×62×41.8；含 P15 时约 219×62×41.8。
+这两个包络不包含尚未选定的外露紧固件头、真实引线及外接剑身/其他附件；以最终实物总装为准。
+
+检查结果与范围
+16/16 个二进制 STL 独立核验：每件封闭、单体连通、体积为正、最低点在打印平面。
+静态检查 12737 组几何对：报告干涉 0（布尔相交体积报告阈值 0.02 mm³）。安装状态结构件均单体连通。检查包含壳体、托架、电子包络、螺丝包络及所建插接空间。
+防尘盖替换状态报告干涉 0；沿轴退出 1、2、3、5、8、12、16 mm 的离散位置均无报告干涉。是离散位置检查，不是连续运动/公差认证。
+错误翻转方向在距最终位置 5 mm 处已被键挡住（插针尖端尚距母座口约 2.5）；超插 0.5 mm 时肩部产生实体阻挡。这只验证几何设计意图，不验证塑料件在受力下的变形或失效。
+所有电子高度并非厂家 STEP 或实物逐项确认；C114 不贴装位仍保留保守空间。数字检查不覆盖真实屏幕/FPC、全部线束弯折、打印收缩、射频、声音、温升、跌落与挥动载荷。
+
+建议试装顺序
+先打印 P14，再打印 P03、P11/P15 与需要的 P16；核对 PCB 孔距、两组连接器实物和固定件。
+确认后打印前后壳。先装电池托架/绑带、主板托架，再装主板；先插 FPC 与线束，再固定屏幕压框/软垫、按键、麦克风导音件及 LRA。NFC 托架装在后盖，留拆盖线长。
+主板固定的建模参考为 M2 尼龙螺丝约 12 mm、Ø4.8×0.5 垫圈及 1.6 厚螺母；这是空间包络，购买前核对实际规格和有效啮合。其余固定件按孔径和实物叠厚确定，不用过长螺丝顶到电池、屏幕或 PCB。
+分件虽已摆到打印平面，壳内悬空台阶、导音通道及导向壳仍需在切片中选择支撑或调整方向。
+本包用于静态试装和结构评审；连接器落板高度、屏幕/FPC、线束和强度验证完成前，不作为整机定型或挥动承力验收。
+
+来源与保留
+PCB输入为 2026-10-25 保存的 V074P3B 原生回读，原生工程文件为 Spirit_V074P3B_Prototype_Review_20261025.epro2。本轮没有修改PCB或旧机械版本。
+source_manifest.json 记录来源 SHA256；model/pcb_input.json 与 adapter_input.json 记录结构输入及高度来源，verification/ 保存检查结果。
+</pre></details></section></main></html>

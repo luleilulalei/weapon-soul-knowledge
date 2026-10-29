@@ -1,0 +1,4 @@
+from run import call,O
+import json
+code="""const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();if(d?.uuid!=='5354a7bf4c630a18')throw Error('Wrong board');for(const p of await eda.pcb_PrimitivePour.getAll())await p.rebuildCopperRegion();if(!await eda.pcb_Document.save())throw Error('Save failed');await new Promise(r=>setTimeout(r,1500));if(!await eda.dmt_EditorControl.closeDocument(d.tabId))throw Error('Close failed');await new Promise(r=>setTimeout(r,1500));await __v081Open('5354a7bf4c630a18');await new Promise(r=>setTimeout(r,5000));return {source:await eda.sys_FileManager.getDocumentSource(),drc:await eda.pcb_Drc.check(true,false,true)};"""
+d=call(code);(O/'main_native_reloaded_check.json').write_text(json.dumps(d,ensure_ascii=False,indent=2));print([(v['name'],v.get('count'))for v in d['drc']])

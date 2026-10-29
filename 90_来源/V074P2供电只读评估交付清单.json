@@ -1,0 +1,56 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/00_5V供电只读评估.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/00_5V供电只读评估.txt",
+    "kind": "file",
+    "sha256": "6c8a2e1283cf681debfaf7ecc56def39c136841d720c988f93cd555b306e199f",
+    "bytes": 4980,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/供电路径计算.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/供电路径计算.json",
+    "kind": "file",
+    "sha256": "5053240955b2999018008892438d3eb24f341bbac315d6a811bda3344f4672a3",
+    "bytes": 17927,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/V074P2_5V供电路径评估.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/V074P2_5V供电路径评估.png",
+    "kind": "file",
+    "sha256": "8eb373b2f04eb99c991e2e99d9f9e4de17172abe82ced5be0d1b23bcc7a67e36",
+    "bytes": 135486,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/过孔统计.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/过孔统计.json",
+    "kind": "file",
+    "sha256": "c04502bef73ed6481851a7b603a52ac46e050e9e27dd2d6dfdd7605b6776f623",
+    "bytes": 31358,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/过孔虚拟移除检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/过孔虚拟移除检查.json",
+    "kind": "file",
+    "sha256": "8f4bbfd051d10a4603fc55853691611be2b6b4009b2494da7f73f814955fb561",
+    "bytes": 456,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/评估前只读版本核对.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/评估前只读版本核对.json",
+    "kind": "file",
+    "sha256": "42ab235063759812680b36bb281486dd53d6f750614669f289ad01cca838e8a4",
+    "bytes": 1187,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

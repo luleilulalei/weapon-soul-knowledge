@@ -1,0 +1,1 @@
+"D:\code\usaki\usaki_server\.conda\python.exe" "D:\code\usaki\usaki_server\test_ws.py"

@@ -1,0 +1,159 @@
+{
+  "acceleration": "AABB then BVH surface/containment rejection, exact boolean volume for remaining pairs",
+  "mesh": [
+    {
+      "part": "P01_front_shell",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P02_rear_shell",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P03_PCB_four_hole_carrier",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P04_replaceable_screen_bezel",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P05_screen_rear_retainer",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P06_power_plunger",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P07_battery_cradle",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P08_side_speaker_chamber",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P09_side_speaker_grille",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P10_rear_NFC_holder",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P12_LRA_retaining_bridge",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P13_MIC_side_duct",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    },
+    {
+      "part": "P15_Hanxia_keyed_adapter_carrier",
+      "components": 1,
+      "bad_edges": 0,
+      "bad_locations": []
+    }
+  ],
+  "collisions": [],
+  "pairs_checked": 12737,
+  "candidate_pairs": 12806,
+  "intersection_reporting_threshold_mm3": 0.02,
+  "boundary": "Proxy envelopes are conservative; cable sweep, print tolerance, real screen and acoustic/RF performance not validated.",
+  "operation_checks": {
+    "cap_collisions": [],
+    "nominal_axial_sweep": [
+      {
+        "withdrawal_mm": 1,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 2,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 3,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 5,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 8,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 12,
+        "collisions": []
+      },
+      {
+        "withdrawal_mm": 16,
+        "collisions": []
+      }
+    ],
+    "wrong_orientation_stop_volume_mm3": 1.4079925766021846,
+    "overtravel_half_mm_stop_volume_mm3": 58.10395767758267,
+    "scope": "Nominal geometry only; no tolerance stack, cable flexibility or structural load analysis."
+  },
+  "native_model_sha256": "0b7f7015276c780c9a3d25aece1e46ce4de98da3c2f43baceb739e8b59f0839d",
+  "core_with_cap_bbox": {
+    "min": [
+      -31.0,
+      0.0,
+      -24.5
+    ],
+    "max": [
+      31.0,
+      191.89999389648438,
+      17.299999237060547
+    ],
+    "xyz_mm": [
+      62.0,
+      191.89999389648438,
+      41.79999923706055
+    ]
+  },
+  "core_with_adapter_bbox": {
+    "min": [
+      -31.0,
+      0.0,
+      -24.5
+    ],
+    "max": [
+      31.0,
+      219.0,
+      17.299999237060547
+    ],
+    "xyz_mm": [
+      62.0,
+      219.0,
+      41.79999923706055
+    ]
+  }
+}

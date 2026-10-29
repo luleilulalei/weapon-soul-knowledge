@@ -1,0 +1,10 @@
+from run import call,O
+import json,sys,base64,hashlib
+boards=json.loads((O/'after_layout.json').read_text())['boards'];D=O/'delivery';D.mkdir(exist_ok=True)
+for name in sys.argv[1:] or ['main','power','blade']:
+ uuid=boards[name]['uuid'];guard='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='+json.dumps(uuid)+')throw Error("Wrong board");'
+ code='await __v081Open('+json.dumps(uuid)+');'+guard+'if(!await eda.pcb_Document.save())throw Error("Save failed");const tab=(await eda.dmt_SelectControl.getCurrentDocumentInfo()).tabId;await new Promise(r=>setTimeout(r,1000));if(!await eda.dmt_EditorControl.closeDocument(tab))throw Error("Close failed");await new Promise(r=>setTimeout(r,1000));await __v081Open('+json.dumps(uuid)+');await new Promise(r=>setTimeout(r,5000));'+guard
+ code+='const b={uuid:'+json.dumps(uuid)+',source:await eda.sys_FileManager.getDocumentSource(),components:await eda.pcb_PrimitiveComponent.getAll(),netlist:await eda.pcb_Net.getNetlist(),layers:await eda.pcb_Layer.getAllLayers(),pads:{},drc:await eda.pcb_Drc.check(true,false,true)};for(const c of JSON.parse(JSON.stringify(b.components)))b.pads[c.designator]=await eda.pcb_PrimitiveComponent.getAllPinsByPrimitiveId(c.primitiveId);return b;'
+ b=call(code);(O/(name+'_final_snapshot.json')).write_text(json.dumps(b,ensure_ascii=False,indent=2));assert b['drc']==[],(name,b['drc']);print(name,'saved/reopened DRC 0',flush=True)
+ code=guard+'const f=await eda.pcb_ManufactureData.getGerberFile('+json.dumps(name+'_V081')+');if(!f||f.size<1000)throw Error("Gerber export failed");return {fileName:f.name,size:f.size,data:await new Promise((resolve,reject)=>{const r=new FileReader();r.onload=()=>resolve(String(r.result).split(",")[1]);r.onerror=reject;r.readAsDataURL(f);})};'
+ f=call(code);raw=base64.b64decode(f.pop('data'));p=D/(name+'_V081_Gerber.zip');p.write_bytes(raw);f.update(sha256=hashlib.sha256(raw).hexdigest(),path=str(p));(D/(name+'_Gerber_manifest.json')).write_text(json.dumps(f,ensure_ascii=False,indent=2));print(name,'Gerber bytes',len(raw),flush=True)

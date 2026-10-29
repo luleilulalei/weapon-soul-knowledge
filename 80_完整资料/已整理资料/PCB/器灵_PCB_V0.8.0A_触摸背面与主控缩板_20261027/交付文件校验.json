@@ -1,0 +1,57 @@
+[
+  {
+    "name": "00_调整说明.txt",
+    "bytes": 3376,
+    "sha256": "cff9f9ca949d3aa42e592d6080c6e4523a354edd345fa04616837e5fc28e030c"
+  },
+  {
+    "name": "Spirit_V080A_Main_Compact_20261027.epro2",
+    "bytes": 1987846,
+    "sha256": "5eb6ca9559aa45ae85605e66d4396df17aa6c8b90ce0309d547bcd9767dcf5b0"
+  },
+  {
+    "name": "三板原生读取记录.json",
+    "bytes": 7931849,
+    "sha256": "29f2f4f2202c0ee866a2c57c137cd07b50b072fa4141bb346d5df70331450202"
+  },
+  {
+    "name": "主控板_嘉立创原生截图.png",
+    "bytes": 490372,
+    "sha256": "70fe9808be2ebd8bd9c3b8757dc5bfe0b25e066c4bb251a1fb2b59e93c80f18d"
+  },
+  {
+    "name": "主控板_正反面布局.png",
+    "bytes": 200068,
+    "sha256": "667f6f89cbd7092dcedb520a7c26167ddc75a9d25e8bd9dadca9a823381446ff"
+  },
+  {
+    "name": "主控板器件位置变更.csv",
+    "bytes": 3310,
+    "sha256": "ce54e05afd3628c45a4f2c727726ba324ae93a882dafad10fd222712a95176a8"
+  },
+  {
+    "name": "主控板布局坐标.json",
+    "bytes": 7443,
+    "sha256": "b94cfea9930967ba68535dde63778b9f9e37c3e691968b12dc9292e4f778f4ff"
+  },
+  {
+    "name": "触摸背面与缩板复核.html",
+    "bytes": 4902,
+    "sha256": "97847c46c1aaa6b902a32cc7dbc589794ac933d045b3d6da09e59daa46750294"
+  },
+  {
+    "name": "调整前_44x62布局.png",
+    "bytes": 144355,
+    "sha256": "0e370d83962db7a9482fa1ff9f735a88d76452744e4834a31b7b5bfd5db9b262"
+  },
+  {
+    "name": "调整前_V080三板工程完整备份.epro2",
+    "bytes": 1974170,
+    "sha256": "bfc36bd0253a80543431fa9b896d7e9185c5a9a139b2032d3dadf05bfd99b2ef"
+  },
+  {
+    "name": "验证总记录.json",
+    "bytes": 3681,
+    "sha256": "a8e4e99ad656783f4c2a26204a79cd18edd02e37ba148d01159361b60a2696b5"
+  }
+]

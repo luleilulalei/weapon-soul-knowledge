@@ -1,0 +1,63 @@
+{
+  "straight_path_checks": [
+    {
+      "net": "I2S_DOUT",
+      "straight_path_obstructions_at_10mil_with_6mil_clearance": [
+        {
+          "ref": "R8",
+          "pin": "2",
+          "net": "AMP_SD_MODE",
+          "copper_intersection": true
+        },
+        {
+          "ref": "R8",
+          "pin": "1",
+          "net": "AMP_ENABLE",
+          "copper_intersection": true
+        }
+      ]
+    },
+    {
+      "net": "I2S_LRCLK",
+      "straight_path_obstructions_at_10mil_with_6mil_clearance": [
+        {
+          "ref": "R9",
+          "pin": "2",
+          "net": "GND",
+          "copper_intersection": true
+        },
+        {
+          "ref": "R9",
+          "pin": "1",
+          "net": "AMP_SD_MODE",
+          "copper_intersection": true
+        }
+      ]
+    },
+    {
+      "net": "I2S_BCLK",
+      "straight_path_obstructions_at_10mil_with_6mil_clearance": [
+        {
+          "ref": "R9",
+          "pin": "2",
+          "net": "GND",
+          "copper_intersection": true
+        },
+        {
+          "ref": "R9",
+          "pin": "1",
+          "net": "AMP_SD_MODE",
+          "copper_intersection": true
+        },
+        {
+          "ref": "U4",
+          "pin": "15",
+          "net": "GND",
+          "copper_intersection": false
+        }
+      ]
+    }
+  ],
+  "testpoint_same_face_envelope_issues": [],
+  "note": "10 mil width and 6 mil clearance are an illustrative routing check, not imported board rules. Straight-path obstruction does not imply unroutable. No PCB changes."
+}

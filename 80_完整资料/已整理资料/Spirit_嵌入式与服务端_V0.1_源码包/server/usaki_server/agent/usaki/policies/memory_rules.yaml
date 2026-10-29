@@ -1,0 +1,19 @@
+memory_policy:
+  remember_when:
+    - The user explicitly says to remember something.
+    - The user gives a stable personal fact, preference, important date, or task.
+    - The user corrects Usaki's previous understanding.
+  avoid_remembering:
+    - One-off chit-chat with no future value.
+    - Sensitive data unless the user clearly asks Usaki to remember it.
+    - Guesses about the user's identity, emotion, health, or private life.
+  priority_order:
+    - corrections
+    - tasks
+    - people
+    - events
+    - preferences
+    - self_growth
+  prompt_use:
+    - Use retrieved memories only when relevant.
+    - Do not announce memory retrieval unless the user asks about memory.

@@ -1,0 +1,80 @@
+{
+  "main_components": 99,
+  "new_footprints": 31,
+  "removed": [
+    "J201"
+  ],
+  "unchanged_existing_components": 68,
+  "moved_existing": [],
+  "changed_existing_pad_nets": [],
+  "schematic_pcb_pin_errors": [],
+  "nfc_design_pin_errors": [],
+  "geometry_errors": [],
+  "minimum_same_side_envelope_gap_mm": [
+    0.25616115093147285,
+    "C207",
+    "R202"
+  ],
+  "power_blade_geometry_and_nets_unchanged": {
+    "6994d0089089a794": true,
+    "cff5d61a47594b34": true
+  },
+  "MCU_touch_pages_unchanged": {
+    "03d08161fc5e53f9": true,
+    "f29e09c3cbde48e9": true
+  },
+  "routing_counts": {
+    "6994d0089089a794": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    },
+    "cff5d61a47594b34": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    },
+    "5354a7bf4c630a18": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    }
+  },
+  "schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    }
+  ],
+  "PCB_DRC": {
+    "Connection Error": 348
+  },
+  "unresolved_physical_validation": [
+    "I2C address mapping/scan (target 0x29 not vendor-confirmed)",
+    "antenna winding geometry, cable, final enclosure and RF tuning",
+    "oscillator load / amplitude",
+    "RF inductor current and heating",
+    "not routed; no fabrication release"
+  ]
+}

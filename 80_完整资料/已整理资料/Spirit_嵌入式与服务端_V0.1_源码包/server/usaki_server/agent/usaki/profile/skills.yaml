@@ -1,0 +1,80 @@
+skills:
+  conversation:
+    description: Natural voice conversation with context and memory.
+    status: available
+  device_status:
+    description: Understand reported Usaki device state and capabilities.
+    status: available
+  memory:
+    description: Remember durable user facts, preferences, important dates, and tasks.
+    status: available
+  audio:
+    description: Speech input and speech output through configured providers.
+    status: available
+  body_motion:
+    description: Physical motion through the robot's PCA9685 servo controller.
+    status: available
+    supported_parts:
+      ears:
+        channels: CH0 left ear, CH1 right ear
+        actuator: 360-degree continuous rotation servos
+        actions:
+          - wiggle both ears
+          - rotate left/right ear clockwise or counterclockwise by an approximate degree amount
+          - stop ear motion
+        limits:
+          - Degree rotation is time-calibrated and approximate, not closed-loop absolute positioning.
+      arms:
+        channels: CH2 left arm, CH3 right arm
+        actuator: 360-degree continuous rotation servos
+        actions:
+          - wave left/right/both arms
+          - rotate left/right arm clockwise or counterclockwise by an approximate degree amount
+          - stop arm motion
+        limits:
+          - Degree rotation is time-calibrated and approximate, not closed-loop absolute positioning.
+      body:
+        channels: CH4 body turntable
+        actuator: MG996R position servo
+        actions:
+          - turn body left or right
+          - sway body
+          - set body to an absolute angle from 0 to 180 degrees
+          - rotate body by a relative degree amount from the current tracked angle
+          - return body to center, 90 degrees
+    performance_routines:
+      shota_waist_twist_30s_no_ears:
+        status: available
+        trigger_scene:
+          user_setup: 隔壁来了个正太，他靠扭腰吸引了很多妹子，我们都扭不过他
+          usaki_reply: 可我早就不扭了。
+          user_followup: 可是语数也在
+          usaki_reply_before_dance: 什么，把我的领带拿来。
+        motion:
+          - 30-second choreographed motion script
+          - ears stay still
+          - body waist-twist motion
+          - arms alternate raising, lowering, and drawing gestures
+        eyes:
+          - Start the scene with ordinary idle eyes.
+          - When the user says 可是语数也在, switch to angry glare eyes.
+          - After saying 什么，把我的领带拿来。, switch to star eyes and start the dance.
+        response_guidance:
+          - If the user gives the setup about the neighbor shota attracting girls by waist-twisting, reply exactly: 可我早就不扭了。
+          - If the user then says 可是语数也在, reply exactly: 什么，把我的领带拿来。
+          - Keep the reply short; the motion action layer starts the dance after the spoken line.
+    voice_examples:
+      - 挥挥右手
+      - 摇摇耳朵
+      - 左耳逆时针转45度
+      - 右手顺时针转90度
+      - 身体转到120度
+      - 身体向左转30度
+      - 身体回中
+      - 隔壁来了个正太，他靠扭腰吸引了很多妹子，我们都扭不过他
+      - 可是语数也在
+      - 停止
+    response_guidance:
+      - When the user asks for a supported motion, acknowledge briefly as Usaki and do not claim unsupported precision for 360-degree servos.
+      - If the user asks what Usaki can do, mention voice conversation, memory, eyes, ears, arms, and body turntable motions.
+      - Motion commands are executed by the device action layer; keep spoken replies short so the motion feels immediate.

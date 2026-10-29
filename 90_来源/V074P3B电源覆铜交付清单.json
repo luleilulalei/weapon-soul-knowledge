@@ -1,0 +1,308 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/00_电源层修复与打样说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/00_电源层修复与打样说明.txt",
+    "kind": "file",
+    "sha256": "4f62e294a7a00013602b9761e06ef3326b2fa3c21046d4c1235dd451e545c338",
+    "bytes": 7528,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_BOM.csv",
+    "kind": "file",
+    "sha256": "2be3d1aef66414b26c9f300c609659748048c48719ae48a0c70ec700cb8d2639",
+    "bytes": 2192,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "1e0da1098985e3f67aa97245406dc38c6f6800ecdaf34335a8b8cc39416bbbac",
+    "bytes": 1176,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_CPL.csv",
+    "kind": "file",
+    "sha256": "5ce02e48c8bc38d148558a4bae68d9e3103da1c886749f4be787ab90d93282d7",
+    "bytes": 6962,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "54abc305b0644afbf3e8ea5e38073ba5469ffebaa5ffa0fd7d6ccefafd2fa316",
+    "bytes": 2955,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_Gerber.zip",
+    "kind": "file",
+    "sha256": "29ae2f96b80a6916821b7543ad002d73727759af24af5067d0d98b83ec013362",
+    "bytes": 53922,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Adapter_V02_IPC.356a",
+    "kind": "file",
+    "sha256": "61bf21db57cf40073631edf3a8cd89e24703b743039a1b2e2e648dc6e913222c",
+    "bytes": 11688,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Gerber独立短路与连通检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Gerber独立短路与连通检查.json",
+    "kind": "file",
+    "sha256": "bd6ce33777f750750eb256dcd8228c80d51369f27ee74304b0165fa9f038158d",
+    "bytes": 1159,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L1_顶层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L1_顶层.svg",
+    "kind": "file",
+    "sha256": "b15cb838c928106676c8ca41d11a5e1908e285572483a59522b7aed609750fd2",
+    "bytes": 2033476,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L2_地平面.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L2_地平面.svg",
+    "kind": "file",
+    "sha256": "051797941b9dbc4ecc587fa32554f1c05df158bc242b7ca952a13940f886b1d6",
+    "bytes": 2086119,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L3_电源层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L3_电源层.png",
+    "kind": "file",
+    "sha256": "05dcc87e484510dd0e7c0f9e617cce21721d1c4c094ada7d909f7808be8b97c9",
+    "bytes": 239171,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L3_电源层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L3_电源层.svg",
+    "kind": "file",
+    "sha256": "0a35d4fe1f6790ee58ec613bcb40b953db89019864a894eafbe4bac2eed68ace",
+    "bytes": 4042628,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L4_底层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/L4_底层.svg",
+    "kind": "file",
+    "sha256": "ca37e07f41245663b7649493eebd93cf9fad33756ef554d696ec3f691575927f",
+    "bytes": 2109034,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_BOM.csv",
+    "kind": "file",
+    "sha256": "f18c9eda4b06008e15d2ce82e2adb8545fd21ff9b9a97a49f09300763bd263ea",
+    "bytes": 9674,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "279ef242c19c8685a1811679e49ab01feec59a83c9c3f845945778cf4823b44f",
+    "bytes": 5182,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_CPL.csv",
+    "kind": "file",
+    "sha256": "b7ed8b4e9dfe884385b687cc3358b181b57bca31c7eb4bcba3075c3f4b4aa1e4",
+    "bytes": 54296,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "a034a79a5dc3e02f3913c6443bfc10105fe11505be374ef21121156613ed94ef",
+    "bytes": 22913,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_Gerber.zip",
+    "kind": "file",
+    "sha256": "729857ad5a97edff8b66772a42d06bf920d4d014341084bd5e6c10c341dd1990",
+    "bytes": 464225,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Main_V074P3B_IPC.356a",
+    "kind": "file",
+    "sha256": "f31aa4628f22d3daf238747ede5b50c555dd7a326961d2d4cbf626a819698a4b",
+    "bytes": 107147,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Spirit_V074P3B_Prototype_Review_20261025.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/Spirit_V074P3B_Prototype_Review_20261025.epro2",
+    "kind": "file",
+    "sha256": "5e08ef0acfacd263dca410a7ccd55a95ec45251e12f88c57c213fd2c893f89f7",
+    "bytes": 1534121,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/主板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/主板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "d0fd6feec18583c6308ed944c431305f3186dbc0f36715b9f2808c7ed6f5a8fb",
+    "bytes": 83788,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/交付文件校验.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/交付文件校验.json",
+    "kind": "file",
+    "sha256": "0c41d729813cb08e638d4de6a8126b07d9b034456eb9ca1f03f78f876d867948",
+    "bytes": 5226,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前_L3_电源层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前_L3_电源层.png",
+    "kind": "file",
+    "sha256": "4cfba68741bc3a04c99badd3a57eafd97dc1e7a346113746b1755c5aac0471a6",
+    "bytes": 236736,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前_L3_电源层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前_L3_电源层.svg",
+    "kind": "file",
+    "sha256": "692ba11d0b0c0b68e92b31a29ae58499d0ab0f7ac5a4c103f2bc91f9be6951f6",
+    "bytes": 2247247,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前原生备份.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/修改前原生备份.epro2",
+    "kind": "file",
+    "sha256": "1c1c945463cf8e2a42a22a44d4b8c64f57887b1b093e750dd888cded8651b506",
+    "bytes": 1577972,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/原生几何与网络复核.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/原生几何与网络复核.json",
+    "kind": "file",
+    "sha256": "dbf818ac856e6a4c83aa3afae31587dd54025f092011c40900d8bafd9717f870",
+    "bytes": 6847,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/器灵_V074P3B_电源层修复交付包.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/器灵_V074P3B_电源层修复交付包.zip",
+    "kind": "file",
+    "sha256": "bdabdd6a522ed7f513d9dd5c8a018a71af9bd41151f8759c28bedfc6c7992876",
+    "bytes": 8229178,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/导出与贴装核对.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/导出与贴装核对.json",
+    "kind": "file",
+    "sha256": "94677e5e5014b626f52f4e00ee93226f2e656fec31ce73626ae058569c079fe4",
+    "bytes": 1908,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/新增电源铜Gerber验证.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/新增电源铜Gerber验证.json",
+    "kind": "file",
+    "sha256": "de2e3978c77703d807563c460462a9eb2d0e929a6056982a8447d934e87fe381",
+    "bytes": 27540,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/电源层覆铜复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/电源层覆铜复核.html",
+    "kind": "file",
+    "sha256": "1ba5ecb2f4aa0dad5c87c8e1bef9d2487506bf4eab74718290a2a95ea2110aac",
+    "bytes": 4172,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/覆铜边界与变化检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/覆铜边界与变化检查.json",
+    "kind": "file",
+    "sha256": "cc5f579c8a520a813704cefe0b4783de4fa588157af5e9c48dbd3c5e7def47aa",
+    "bytes": 1831,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/辅助孤立区Gerber回查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/辅助孤立区Gerber回查.json",
+    "kind": "file",
+    "sha256": "859f2e537250571c021045012b96928ea9586bc42710de78f871a78b04e86ab3",
+    "bytes": 3231,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/适配板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/适配板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "19ca37159fb768ec4c7479318cde9f1c87780ffcef552154dc443844a85b53de",
+    "bytes": 274774,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/验证总记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/验证总记录.json",
+    "kind": "file",
+    "sha256": "0fd8e04ccd25d1ca7a254a76d016d8f2dd218d64c5c574b5ba0f7fb1aff40112",
+    "bytes": 46943,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

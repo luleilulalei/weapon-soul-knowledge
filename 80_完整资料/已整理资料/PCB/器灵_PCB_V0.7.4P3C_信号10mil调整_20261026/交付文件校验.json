@@ -1,0 +1,161 @@
+{
+  "version": "V074P3C",
+  "date": "2026-10-26",
+  "files": [
+    {
+      "file": "00_信号线宽调整说明.txt",
+      "bytes": 2112,
+      "sha256": "35664d8671f1295cdf7d6846f4c53add3e416d611feb766d33a315e20d17802d"
+    },
+    {
+      "file": "Adapter_V02_BOM.csv",
+      "bytes": 2192,
+      "sha256": "2be3d1aef66414b26c9f300c609659748048c48719ae48a0c70ec700cb8d2639"
+    },
+    {
+      "file": "Adapter_V02_BOM_upload.csv",
+      "bytes": 1176,
+      "sha256": "1e0da1098985e3f67aa97245406dc38c6f6800ecdaf34335a8b8cc39416bbbac"
+    },
+    {
+      "file": "Adapter_V02_CPL.csv",
+      "bytes": 6962,
+      "sha256": "5ce02e48c8bc38d148558a4bae68d9e3103da1c886749f4be787ab90d93282d7"
+    },
+    {
+      "file": "Adapter_V02_CPL_upload.csv",
+      "bytes": 2955,
+      "sha256": "54abc305b0644afbf3e8ea5e38073ba5469ffebaa5ffa0fd7d6ccefafd2fa316"
+    },
+    {
+      "file": "Adapter_V02_Gerber.zip",
+      "bytes": 53911,
+      "sha256": "447a02f765038a5956ebe3764431b3d24323123b2c79d0f5ee5d2c86f9c8373b"
+    },
+    {
+      "file": "Adapter_V02_IPC.356a",
+      "bytes": 11688,
+      "sha256": "e53a5418a3ee5e841c4f186d7e73feff8a2806678ef42e4317ee130cf814b1e0"
+    },
+    {
+      "file": "Main_V074P3C_BOM.csv",
+      "bytes": 9674,
+      "sha256": "f18c9eda4b06008e15d2ce82e2adb8545fd21ff9b9a97a49f09300763bd263ea"
+    },
+    {
+      "file": "Main_V074P3C_BOM_upload.csv",
+      "bytes": 5182,
+      "sha256": "279ef242c19c8685a1811679e49ab01feec59a83c9c3f845945778cf4823b44f"
+    },
+    {
+      "file": "Main_V074P3C_CPL.csv",
+      "bytes": 54296,
+      "sha256": "b7ed8b4e9dfe884385b687cc3358b181b57bca31c7eb4bcba3075c3f4b4aa1e4"
+    },
+    {
+      "file": "Main_V074P3C_CPL_upload.csv",
+      "bytes": 22913,
+      "sha256": "a034a79a5dc3e02f3913c6443bfc10105fe11505be374ef21121156613ed94ef"
+    },
+    {
+      "file": "Main_V074P3C_Gerber.zip",
+      "bytes": 410130,
+      "sha256": "8168d304ae2436c3380e2217eaedf36222ab7be999a6f00ee10624a36b80336b"
+    },
+    {
+      "file": "Main_V074P3C_IPC.356a",
+      "bytes": 115305,
+      "sha256": "f33d9512450db4d2b0c3a2e49c2bd90de83437571e854469b00320e79b79b353"
+    },
+    {
+      "file": "Spirit_V074P3C_Prototype_Review_20261026.epro2",
+      "bytes": 1528055,
+      "sha256": "36684b7d71ef2243f355dc7cde162dbeafdca0769a3edc08766f978ea9fe9292"
+    },
+    {
+      "file": "主板_嘉立创预览.webp",
+      "bytes": 73586,
+      "sha256": "84a534afd9b89d7beadcbaecb0e335c79208573a6cbc50be5dcd20be7a3c6250"
+    },
+    {
+      "file": "保留细线逐段清单.csv",
+      "bytes": 20539,
+      "sha256": "046145eff668f4bed27d93730034456ef72778721abef39d1c2ffee6f5317ccf"
+    },
+    {
+      "file": "信号线宽复核.html",
+      "bytes": 9054,
+      "sha256": "f0e87cd68375e36d06ee5ace82fade875c41fa8a8274979e0122b7ebdc10ffd9"
+    },
+    {
+      "file": "修改前_底层.png",
+      "bytes": 214031,
+      "sha256": "98557f3cbeee197e90e8d4987aed7b46b2a46ef347f0382cac705ae0199fbeec"
+    },
+    {
+      "file": "修改前_底层.svg",
+      "bytes": 2624777,
+      "sha256": "574917657b6442ae0f018ff678b6bd92f9d4732e848504cec7f40b87d74a3184"
+    },
+    {
+      "file": "修改前_顶层.png",
+      "bytes": 210941,
+      "sha256": "6d5a69a073c1d3b422052da1df6fd99f6c929225387be3e326f7ccb324cac4ed"
+    },
+    {
+      "file": "修改前_顶层.svg",
+      "bytes": 2530132,
+      "sha256": "3a0007930393858111c85265a6071fd5616f4fe2f1f3ca044fdd464acc9691ae"
+    },
+    {
+      "file": "修改前原生读取.json",
+      "bytes": 7636408,
+      "sha256": "1459e74ec97658c83b2166c1243a1e736ddcaefd54487ddee700b83e4a9cf251"
+    },
+    {
+      "file": "修改前完整工程备份.epro2",
+      "bytes": 1533737,
+      "sha256": "67922efec9596c23acf68642745262e2966b864466e02f1e3a8256fd9aa6543c"
+    },
+    {
+      "file": "修改后_底层.png",
+      "bytes": 220364,
+      "sha256": "d24ec08ea9f69d5a1b6150c214dcb76ddab7ba7312b415c3261dc9c4f400b876"
+    },
+    {
+      "file": "修改后_底层.svg",
+      "bytes": 2683172,
+      "sha256": "5b2a71e8a1133cc819cc1ab0f25cd7558574b8a2f418d0d2d06e52b3f8a71e4f"
+    },
+    {
+      "file": "修改后_顶层.png",
+      "bytes": 217814,
+      "sha256": "d72cdb68283842c122a6c1d8bee8b65602b3eb23a87615599c0dfc56a230e661"
+    },
+    {
+      "file": "修改后_顶层.svg",
+      "bytes": 2601633,
+      "sha256": "5f3c4dd2be5d4a6e663d48f58d8ce75f4ebc01bba76183975ba1b26f812019ee"
+    },
+    {
+      "file": "修改后原生读取.json",
+      "bytes": 7766906,
+      "sha256": "4a20bfbe152d5354a0c5e3640f0c2d64f0c4e32fe1e0ed9eb0171b8b25479009"
+    },
+    {
+      "file": "普通信号逐网络线宽.csv",
+      "bytes": 1864,
+      "sha256": "56457f4ca60a0fce7cd3516addbc9903483dbf50a6a7b6724e18f1f04e55b484"
+    },
+    {
+      "file": "适配板_嘉立创预览.webp",
+      "bytes": 274774,
+      "sha256": "19ca37159fb768ec4c7479318cde9f1c87780ffcef552154dc443844a85b53de"
+    },
+    {
+      "file": "验证总记录.json",
+      "bytes": 20644,
+      "sha256": "6bf8934af59a29375df9c617f5f00583d62993183e3cee0d4fcad55660a99454"
+    }
+  ]
+}

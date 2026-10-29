@@ -1,0 +1,7 @@
+{
+  "main_ground_plane": {
+    "geometry": "Polygon",
+    "area_mm2": 2171.9463778453774,
+    "rf_copper_keepout_pass": true
+  }
+}

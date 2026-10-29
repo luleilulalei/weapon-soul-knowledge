@@ -1,0 +1,47 @@
+[
+  [
+    12,
+    92,
+    "MCU right"
+  ],
+  [
+    -4.8,
+    89.5,
+    "MCU inner left"
+  ],
+  [
+    -11,
+    93.8,
+    "speaker below"
+  ],
+  [
+    4.2,
+    103,
+    "display bus lower"
+  ],
+  [
+    4.1,
+    105.05,
+    "display bus upper / bottom central"
+  ],
+  [
+    18.5,
+    88,
+    "H2 bottom ear"
+  ],
+  [
+    -15.2,
+    111.5,
+    "bottom left beside J104"
+  ],
+  [
+    -15.7,
+    121.2,
+    "FPC left"
+  ],
+  [
+    18,
+    122,
+    "USB shield interior"
+  ]
+]

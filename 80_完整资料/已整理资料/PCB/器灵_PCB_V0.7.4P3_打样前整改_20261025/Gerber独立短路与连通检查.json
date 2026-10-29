@@ -1,0 +1,52 @@
+{
+  "Spirit_JLC": {
+    "layers": {
+      "1": {
+        "area_mm2": 1689.9980295704756,
+        "copper_islands": 277,
+        "labelled_islands": 263,
+        "nets": 81
+      },
+      "15": {
+        "area_mm2": 2467.471811967116,
+        "copper_islands": 284,
+        "labelled_islands": 284,
+        "nets": 65
+      },
+      "16": {
+        "area_mm2": 2204.40923247069,
+        "copper_islands": 305,
+        "labelled_islands": 305,
+        "nets": 65
+      },
+      "2": {
+        "area_mm2": 1707.7101528967748,
+        "copper_islands": 259,
+        "labelled_islands": 239,
+        "nets": 76
+      }
+    },
+    "uncovered_pad_via_anchors": [],
+    "cross_net_copper_islands": [],
+    "split_nets": {}
+  },
+  "Spirit_Blade_Adapter_V01": {
+    "layers": {
+      "1": {
+        "area_mm2": 495.3273970656172,
+        "copper_islands": 35,
+        "labelled_islands": 23,
+        "nets": 13
+      },
+      "2": {
+        "area_mm2": 510.31527114274417,
+        "copper_islands": 12,
+        "labelled_islands": 12,
+        "nets": 10
+      }
+    },
+    "uncovered_pad_via_anchors": [],
+    "cross_net_copper_islands": [],
+    "split_nets": {}
+  }
+}

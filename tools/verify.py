@@ -98,7 +98,7 @@ else:
         p = root / rel
         if p.is_file() and p.stat().st_size > 5 * 1024 * 1024 and rel not in archived_paths:
             errors.append('Unexpected large repository file: ' + rel)
-        if p.name == '.DS_Store' or p.suffix in {'.pem', '.key'} or p.name.startswith('.env'):
+        if p.name == '.DS_Store' or p.suffix in {'.pem', '.key'} or (p.name.startswith('.env') and not (p.name == '.env.example' and rel in archived_paths)):
             errors.append('Unexpected local or credential file: ' + rel)
 
 archive_report = verify_archive(root, args.check_originals, args.check_git)

@@ -1,0 +1,58 @@
+{
+  "version": "V074P1",
+  "native_DRC_main": [],
+  "native_DRC_adapter": [],
+  "unconnected_main": 0,
+  "unconnected_adapter": 0,
+  "new_ground_vias": [
+    {
+      "id": "manual74p1_GND_1",
+      "center_mm": [
+        -13.99999994,
+        87.99999926
+      ],
+      "ground_pour_distance_mm_by_layer": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0
+      }
+    },
+    {
+      "id": "manual74p1_GND_2",
+      "center_mm": [
+        -20.49999964,
+        88.19999886
+      ],
+      "ground_pour_distance_mm_by_layer": {
+        "1": 0.0,
+        "2": 0.0,
+        "15": 0.0
+      }
+    }
+  ],
+  "via_count_before": 363,
+  "via_count_after": 365,
+  "left_lower_window_mm": [
+    -22.2,
+    80,
+    -9,
+    97
+  ],
+  "top_GND_area_in_window_before_mm2": 3.828134773659556,
+  "top_GND_area_in_window_after_mm2": 113.89211558275451,
+  "top_GND_added_area_in_window_mm2": 110.06398080909496,
+  "copper_island_removal_remains_enabled": true,
+  "top_inner_bottom_ground_connections_verified": true,
+  "main_ground_reference_continuous": true,
+  "antenna_keepout_clear": true,
+  "mounting_hole_clearance_pass": true,
+  "geometry_clearance_errors": 0,
+  "tracks_unchanged": true,
+  "component_outline_holes_stack_netlist_unchanged": true,
+  "angle_repair_preserved_by_exact_trace_comparison": true,
+  "adapter_unchanged": true,
+  "native_export_geometry_match": true,
+  "export_pour_float_max_difference": 0,
+  "no_autorouter": true,
+  "sha256": "ad28105c336b839c36ad49fee875e69f33bf6ac258efeec868a8edbbecffbc88"
+}

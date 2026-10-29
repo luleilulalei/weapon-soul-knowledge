@@ -1,0 +1,814 @@
+[
+  [
+    {
+      "type": "STRING",
+      "ticket": 179,
+      "id": "adapter01_silk1"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 151.5786,
+      "y": 1122.0472,
+      "text": "J702",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 180,
+      "id": "adapter01_silk2"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 162.4491,
+      "y": 551.1811,
+      "text": "U701",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 181,
+      "id": "adapter01_silk3"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -177.1654,
+      "y": 830.7087,
+      "text": "U702",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 182,
+      "id": "adapter01_silk4"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 70.8658,
+      "y": 866.1417,
+      "text": "U703",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 183,
+      "id": "adapter01_silk5"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -184.6499,
+      "y": 334.6457,
+      "text": "C701",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 184,
+      "id": "adapter01_silk6"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -268.1145,
+      "y": 334.6457,
+      "text": "C702",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 185,
+      "id": "adapter01_silk7"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 214.9844,
+      "y": 334.6457,
+      "text": "R701",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 186,
+      "id": "adapter01_silk8"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 275.9855,
+      "y": 334.6457,
+      "text": "C703",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 187,
+      "id": "adapter01_silk9"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -352.7797,
+      "y": 905.5118,
+      "text": "R702",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 188,
+      "id": "adapter01_silk10"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -39.7632,
+      "y": 767.7165,
+      "text": "C704",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 189,
+      "id": "adapter01_silk11"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -185.0394,
+      "y": 975.983,
+      "text": "C705",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 190,
+      "id": "adapter01_silk12"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 236.2205,
+      "y": 1083.0751,
+      "text": "C706",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 191,
+      "id": "adapter01_silk13"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 358.6627,
+      "y": 905.5118,
+      "text": "C707",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 192,
+      "id": "adapter01_silk14"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": -39.3701,
+      "y": 910.9999,
+      "text": "R703",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 193,
+      "id": "adapter01_silk15"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 8.4611,
+      "y": 795.2756,
+      "text": "R704",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 90,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 194,
+      "id": "adapter01_silk16"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 0,
+      "y": 944.8819,
+      "text": "BLADE ADAPTER V080",
+      "fontFamily": "default",
+      "fontSize": 33.4646,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 195,
+      "id": "adapter01_silk17"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 0,
+      "y": 858.2677,
+      "text": "5V / 400mA MAX",
+      "fontFamily": "default",
+      "fontSize": 33.4646,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 196,
+      "id": "adapter01_silk18"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 0,
+      "y": 511.811,
+      "text": "V074P",
+      "fontFamily": "default",
+      "fontSize": 31.4961,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 197,
+      "id": "adapter01_silk25"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": -118.1102,
+      "y": 401.5748,
+      "text": "IO",
+      "fontFamily": "default",
+      "fontSize": 19.685,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 198,
+      "id": "adapter01_silk26"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": -59.0551,
+      "y": 401.5748,
+      "text": "CK",
+      "fontFamily": "default",
+      "fontSize": 19.685,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 199,
+      "id": "adapter01_silk27"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 0,
+      "y": 401.5748,
+      "text": "RST",
+      "fontFamily": "default",
+      "fontSize": 19.685,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 200,
+      "id": "adapter01_silk28"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 118.1102,
+      "y": 401.5748,
+      "text": "GND",
+      "fontFamily": "default",
+      "fontSize": 19.685,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 201,
+      "id": "interface74l_silk0"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 47.2441,
+      "text": "1 SDA",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 202,
+      "id": "interface74l_silk1"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 86.6142,
+      "text": "2 DET",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 203,
+      "id": "interface74l_silk2"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 125.9843,
+      "text": "3 GND",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 204,
+      "id": "interface74l_silk3"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 165.3543,
+      "text": "4 SCL",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 205,
+      "id": "interface74l_silk4"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 204.7244,
+      "text": "5 5V",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 206,
+      "id": "interface74l_silk5"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 4,
+      "x": 255.9055,
+      "y": 244.0945,
+      "text": "6 3V3",
+      "fontFamily": "default",
+      "fontSize": 21.6535,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": true,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ],
+  [
+    {
+      "type": "STRING",
+      "ticket": 207,
+      "id": "interface74l_silk6"
+    },
+    {
+      "partitionId": "",
+      "groupId": 0,
+      "layerId": 3,
+      "x": 0,
+      "y": 220.4723,
+      "text": "J701",
+      "fontFamily": "default",
+      "fontSize": 29.5276,
+      "strokeWidth": 4.7244,
+      "bold": 0,
+      "italic": 0,
+      "origin": "CENTER_MIDDLE",
+      "angle": 0,
+      "reverse": false,
+      "expansion": 0,
+      "mirror": false,
+      "locked": true,
+      "zIndex": -1,
+      "specialColor": null
+    }
+  ]
+]

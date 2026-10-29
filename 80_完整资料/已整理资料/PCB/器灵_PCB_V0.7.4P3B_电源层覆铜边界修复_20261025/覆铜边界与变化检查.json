@@ -1,0 +1,79 @@
+{
+  "changed_native_records": [
+    [
+      "POUR",
+      "7d31aab8cc6beae4"
+    ],
+    [
+      "STRING",
+      "layout74m_silk1"
+    ]
+  ],
+  "copper_changes": {
+    "16:+3V3": {
+      "before_mm2": 1605.7111227378762,
+      "after_mm2": 1733.4850454913537,
+      "added_mm2": 127.77392275348541,
+      "removed_mm2": 0.0,
+      "polygons_after": 1
+    },
+    "16:+5V_SYS": {
+      "before_mm2": 71.62984232448247,
+      "after_mm2": 71.62984232448247,
+      "added_mm2": 0.0,
+      "removed_mm2": 0.0,
+      "polygons_after": 1
+    },
+    "1:GND": {
+      "before_mm2": 1185.8336961510379,
+      "after_mm2": 1185.8336961510379,
+      "added_mm2": 0.0,
+      "removed_mm2": 0.0,
+      "polygons_after": 46
+    },
+    "2:GND": {
+      "before_mm2": 1199.17681341774,
+      "after_mm2": 1199.17681341774,
+      "added_mm2": 0.0,
+      "removed_mm2": 0.0,
+      "polygons_after": 48
+    },
+    "15:GND": {
+      "before_mm2": 2274.4654743768065,
+      "after_mm2": 2274.4654743768065,
+      "added_mm2": 0.0,
+      "removed_mm2": 0.0,
+      "polygons_after": 1
+    },
+    "16:GND": {
+      "before_mm2": 170.92551222192787,
+      "after_mm2": 170.92551222192787,
+      "added_mm2": 0.0,
+      "removed_mm2": 0.0,
+      "polygons_after": 1
+    }
+  },
+  "added_ear_copper": [
+    {
+      "ear": "H1",
+      "added_mm2": 22.98242839583593
+    },
+    {
+      "ear": "H2",
+      "added_mm2": 22.982428395835885
+    },
+    {
+      "ear": "H3",
+      "added_mm2": 40.90453298090696
+    },
+    {
+      "ear": "H4",
+      "added_mm2": 40.90453298090695
+    }
+  ],
+  "minimum_added_foreign_net_clearance_mm": 0.953399160000002,
+  "minimum_added_hole_clearance_mm": 0.35813146146645636,
+  "minimum_added_board_edge_clearance_mm": 0.42159885451569745,
+  "all_other_copper_unchanged": true,
+  "tracks_vias_components_and_rules_unchanged": true
+}

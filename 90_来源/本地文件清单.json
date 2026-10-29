@@ -1070,5 +1070,268 @@
     "captured_date": "2026-10-24",
     "source_kind": "current_conversation_user",
     "status": "用户确认器灵内核与J7模块化形态方向并要求入库；原话首次转录于本快照，非工程实现或成本验证"
+  },
+  {
+    "id": "S115",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S115_协作RPG副手控制与狂暴器灵故事方向_20261024.txt",
+    "snapshot": "90_来源/文档快照/S115_协作RPG副手控制与狂暴器灵故事方向_20261024.txt",
+    "sha256": "721a570b40efb4d9ffd9a3cf4a61695c450eac15068a1eb65687cf57fca9693d",
+    "bytes": 5357,
+    "captured_date": "2026-10-24",
+    "source_kind": "current_conversation_user",
+    "status": "用户明确多人协作长期目标、流程优先、运动体验、副手收纳和新故事方向；具体机制/结构/效果未定，未改工程；原话首次转录于本快照"
+  },
+  {
+    "id": "S116",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/00_布线交付说明.txt",
+    "snapshot": "90_来源/文档快照/S116_双板手工布线完成与回导验证_20261025.txt",
+    "sha256": "aaa576f25d462f456bc54ebccde522103283a38bde3b99dac1cb2f3ad5153398",
+    "bytes": 3571,
+    "captured_date": "2026-10-25",
+    "status": "用户授权继续手工布线；两板布线与覆铜完成，原生回导验证DRC均0，实物与阻抗等验证仍待办"
+  },
+  {
+    "id": "S117",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N2_四凸耳上下齐平_20261025/00_齐平凸耳修改说明.txt",
+    "snapshot": "90_来源/文档快照/S117_四凸耳上下齐平确认与验证_20261025.txt",
+    "sha256": "a8974d857608485b6b507e6123c950eef71d5617bffcc1492bcf7602bac47f12",
+    "bytes": 2576,
+    "captured_date": "2026-10-25",
+    "status": "用户确认四凸耳上下板边齐平；原生工程已改、双板DRC0、原走线保持；旧STL安装柱待同步"
+  },
+  {
+    "id": "S118",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N2_布线角度复核_20261025/角度复核说明.txt",
+    "snapshot": "90_来源/文档快照/S118_布线角度缺陷与完成状态纠正_20261025.txt",
+    "sha256": "57459b440ebb6c40977455970757315141466dc279050be5bd89ff2595f69b8b",
+    "bytes": 2190,
+    "captured_date": "2026-10-25",
+    "status": "用户质疑非135°折角；只读复核确认主板251处、适配板29处，角度整改未完成，纠正布线定稿表述"
+  },
+  {
+    "id": "S119",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P_布线角度修复_20261025/00_角度修复说明.txt",
+    "snapshot": "90_来源/文档快照/S119_布线角度修复与原生验证_20261025.txt",
+    "sha256": "1fb4b1aa783768a58bdfe5c0975ac3901d2c0434a4f95adba908bcf2574df1cf",
+    "bytes": 2945,
+    "captured_date": "2026-10-25",
+    "status": "用户授权直接修复走线角度；V074P已同步原生工程，角度/间距/DRC/连通/导出复核通过；实物验证待完成"
+  },
+  {
+    "id": "S120",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/00_覆铜修复说明.txt",
+    "snapshot": "90_来源/文档快照/S120_H1顶层接地覆铜修复_20261025.txt",
+    "sha256": "680d954e3733baa54a9bf33d10777bd2b34ceac24f1d12ac5bd539dc59bfa786",
+    "bytes": 1725,
+    "captured_date": "2026-10-25",
+    "status": "用户指出未覆铜；新增两GND过孔，H1顶层铜补齐，双板DRC0，原生导出核对一致"
+  },
+  {
+    "id": "S122",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S122_第一章从激活到完整剧情的创作要求_20261025.txt",
+    "snapshot": "90_来源/文档快照/S122_第一章从激活到完整剧情的创作要求_20261025.txt",
+    "sha256": "eb14f2c2620a725482aaa1d4d85e52c7258557cd7006868e7524d68514bbdd55",
+    "bytes": 1417,
+    "captured_date": "2026-10-25",
+    "source_kind": "current_conversation_user",
+    "status": "用户确认第一章完整剧情与激活引导范围；具体案例、角色、台词与时长为助手创作草案，非工程实现或用户逐项批准"
+  },
+  {
+    "id": "S123",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_四层电源层整改_20261025/00_四层整改说明.txt",
+    "snapshot": "90_来源/文档快照/S123_四层电源层整改与原生验证_20261025.txt",
+    "sha256": "72a65e26d1940cfd77236b0dce4e039cc662fda12c1f332d75d9884fc4292860",
+    "bytes": 3032,
+    "captured_date": "2026-10-25",
+    "status": "用户要求完成电源层整改；保持四层，L3非供电走线0，双板原生DRC/未连接0，导出一致；实物及生产终检仍待完成"
+  },
+  {
+    "id": "S121",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_电源层问题核查_20261025/电源层问题核查.txt",
+    "snapshot": "90_来源/文档快照/S121_电源层混入信号确认与状态纠正_20261025.txt",
+    "sha256": "a06d6ab886d9dbb8f6183308ac8acd55822af5890df1ba9611121ec62557d0e4",
+    "bytes": 2481,
+    "captured_date": "2026-10-25",
+    "status": "历史只读核查，V074P1电源层混入36个非供电网络；本次补齐原有证据索引，原文件不变"
+  },
+  {
+    "id": "S124",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P2_5V供电只读评估_20261025/00_5V供电只读评估.txt",
+    "snapshot": "90_来源/文档快照/S124_用户手工介入与5V供电只读评估_20261025.txt",
+    "sha256": "6c8a2e1283cf681debfaf7ecc56def39c136841d720c988f93cd555b306e199f",
+    "bytes": 4980,
+    "captured_date": "2026-10-25",
+    "status": "用户撤回修改要求，仅评估并自行手工介入；过孔/5V路径只读分析，工程未改，建议未实施"
+  },
+  {
+    "id": "S125",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3_打样前整改_20261025/00_打样说明与上电检查.txt",
+    "snapshot": "90_来源/文档快照/S125_V074P3打样前整改与独立短路复核_20261025.txt",
+    "sha256": "2e9e96135db8e43445b27473e4e4f27006217b16d2171f1ad34f5249a8597632",
+    "bytes": 9518,
+    "captured_date": "2026-10-25",
+    "status": "最新用户重新授权直接完善到打样；已重新读取/备份原生并实施P3。双板DRC与独立Gerber短接/断网0。仅板级样，实屏/线束/工厂USB阻抗/实物测试待确认，未下单。"
+  },
+  {
+    "id": "S126",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/00_补铜说明与打样边界.txt",
+    "snapshot": "90_来源/文档快照/S126_V074P3A表层接地覆铜补全_20261025.txt",
+    "sha256": "4226ecfeb4087846715ec814978e2dadcf6713e8059641452f107b9e2fa52275",
+    "bytes": 7296,
+    "captured_date": "2026-10-25",
+    "status": "用户指出几处未铺铜，已在当前原生工程补9个GND过孔重铺，P3A保存；双板DRC及实际Gerber短接/断网0，新增表层铜实际接地验证通过；P3实物边界保留。"
+  },
+  {
+    "id": "S127",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3B_电源层覆铜边界修复_20261025/00_电源层修复与打样说明.txt",
+    "snapshot": "90_来源/文档快照/S127_V074P3B电源层覆铜边界修复_20261025.txt",
+    "sha256": "4f62e294a7a00013602b9761e06ef3326b2fa3c21046d4c1235dd451e545c338",
+    "bytes": 7528,
+    "captured_date": "2026-10-25",
+    "status": "用户要求修复电源层未铺满；P3B扩展四处凸耳3V3覆铜边界，原生DRC与实际Gerber短路/断网0；其余布线及原实物验证边界保留。"
+  },
+  {
+    "id": "S128",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/00_信号线宽调整说明.txt",
+    "snapshot": "90_来源/文档快照/S128_V074P3C信号10mil调整_20261026.txt",
+    "sha256": "35664d8671f1295cdf7d6846f4c53add3e416d611feb766d33a315e20d17802d",
+    "bytes": 2112,
+    "captured_date": "2026-10-26",
+    "status": "用户要求普通信号默认10mil；已调整49网，长度覆盖84.91%，受限细线明确保留；原生及实际Gerber检查通过。"
+  },
+  {
+    "id": "S129",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0_三板原理图与布局_20261026/00_三板拆分说明.txt",
+    "snapshot": "90_来源/文档快照/S129_V080三板拆分原理图与布局_20261026.txt",
+    "sha256": "ef0346b13cf7cc0a5afdab8aa48907ad4ff03600d1ac9d6732ad16cab7a24cf2",
+    "bytes": 4534,
+    "captured_date": "2026-10-27",
+    "status": "用户确认三板新工程、平铺短线束、先原理图与布局；V080已保存，未布线，不可作为生产文件。"
+  },
+  {
+    "id": "S130",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/00_调整说明.txt",
+    "snapshot": "90_来源/文档快照/S130_V080A触摸背面与主控缩板_20261027.txt",
+    "sha256": "cff9f9ca949d3aa42e592d6080c6e4523a354edd345fa04616837e5fc28e030c",
+    "bytes": 3376,
+    "captured_date": "2026-10-27",
+    "status": "用户要求触摸整组挪背面并缩小主控；V080A主控40×50mm已保存，原理图及其他两板保持；仍未布线，非生产文件。"
+  },
+  {
+    "id": "S131",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0B_小型侧插接口_20261027/00_调整说明.txt",
+    "snapshot": "90_来源/文档快照/S131_V080B小型右向侧插接口_20261027.txt",
+    "sha256": "a971ce0eb608ea398424e9b93480c119437fb9570cbba9687456606b24d57d92",
+    "bytes": 4794,
+    "captured_date": "2026-10-27",
+    "status": "用户要求继续朝右，换更小连接器；V080B两端GHD-16AWB已更新，针序保持，仍未布线。"
+  },
+  {
+    "id": "S132",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0B_用户布局布线评估_20261027/00_布局评估说明.txt",
+    "snapshot": "90_来源/文档快照/S132_V080B用户布局布线只读评估_20261027.txt",
+    "sha256": "941e2642b1774064625f05b7de322fb35c80ab5026433c901e9bf754cb606281",
+    "bytes": 3376,
+    "captured_date": "2026-10-27",
+    "status": "用户已自行调整主控布局，助手只读评估；微调建议未实施。"
+  },
+  {
+    "id": "S133",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/00_设计说明.txt",
+    "snapshot": "90_来源/文档快照/S133_V080C主板NFC与外置无源天线_20261027.txt",
+    "sha256": "2e69c63d337d0962bfe7eaba62e4102548262d1553b4a7355f5ddcb806080a9b",
+    "bytes": 3826,
+    "captured_date": "2026-10-27",
+    "status": "用户要求取消成品模块，读卡电路上主板，天线板外；已实现原理图和布局，未布线，地址和射频待实物确认。"
+  },
+  {
+    "id": "S134",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0D_NFC底面布局_20261027/00_调整说明.txt",
+    "snapshot": "90_来源/文档快照/S134_V080D_NFC底面布局_20261027.txt",
+    "sha256": "2b714ce94970329f0eb90547b4206c6ad2324258bb62e2f3fa4753d4ececd713",
+    "bytes": 3145,
+    "captured_date": "2026-10-27",
+    "status": "保留用户最新触摸下移；31个NFC封装全部底面，未布线，实物待验证。"
+  },
+  {
+    "id": "S135",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0D_LCD针序复核_20261027/00_LCD针序复核.txt",
+    "snapshot": "90_来源/文档快照/S135_V080D用户LCD针序反转与命名复核_20261027.txt",
+    "sha256": "b4868abb1667bbef0c7be3a63dad8410e9c76f9c7b33609149f6de6e68603f9c",
+    "bytes": 1684,
+    "captured_date": "2026-10-27",
+    "status": "用户已调整针序与布局；助手仅加原理图说明，实物FPC尚待核对。"
+  },
+  {
+    "id": "S136",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0E_NFC丝印与原生复核_20261027/00_NFC丝印复核说明.txt",
+    "snapshot": "90_来源/文档快照/S136_V080E_NFC丝印恢复与原生复核_20261027.txt",
+    "sha256": "fead4b0c52d4c3cb6ba92a3c9f743023f67033132837cc94aecf4278ec82ca1e",
+    "bytes": 2410,
+    "captured_date": "2026-10-27",
+    "status": "恢复全部NFC位号，疏开内部丝印，原生画面与导出核验完成；未布线。"
+  },
+  {
+    "id": "S137",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S137_V081布线交付与V082未闭合状态_20261029.txt",
+    "snapshot": "90_来源/文档快照/S137_V081布线交付与V082未闭合状态_20261029.txt",
+    "sha256": "2f8a117510ed00d2485704082d17420454a54c97888d4a51e87e4f3067800e24",
+    "bytes": 1489,
+    "captured_date": "2026-10-29",
+    "status": "V081已有历史文件验证；V082未闭合，禁止混用通过结论"
+  },
+  {
+    "id": "S138",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S138_R204共用硬件复位解释_20261029.txt",
+    "snapshot": "90_来源/文档快照/S138_R204共用硬件复位解释_20261029.txt",
+    "sha256": "ce98c2f27cfdd9fdd0da6d325bef799ddc52969bbe968b33a18c182c315d9016",
+    "bytes": 927,
+    "captured_date": "2026-10-29",
+    "status": "解释当前接法；未批准独立GPIO改线"
+  },
+  {
+    "id": "S139",
+    "original": "/Users/qijiankang/Documents/器灵/知识库/90_来源/文档快照/S139_通体圆柱两板剑柄要求与V06评审_20261029.txt",
+    "snapshot": "90_来源/文档快照/S139_通体圆柱两板剑柄要求与V06评审_20261029.txt",
+    "sha256": "4d8c0e146920db0ccc7d879f5713204181bd613a8e7fdd6f203dc654273a492e",
+    "bytes": 2282,
+    "captured_date": "2026-10-29",
+    "status": "用户需求已确认；V06尺寸与固定细节仍为二维待审设计"
+  },
+  {
+    "id": "S140",
+    "original": "/Users/qijiankang/Documents/器灵/Spirit_嵌入式与服务端_V0.1_源码包/README_开始阅读.md",
+    "snapshot": "90_来源/文档快照/S140_固件服务端V01源码阅读说明_20261029.txt",
+    "sha256": "5fdf062ddde0ae774c9f7d5a16881a5cc9830dd25b47c4c432472e0e0924898b",
+    "bytes": 3731,
+    "captured_date": "2026-10-29",
+    "status": "旧V072适配源码；非当前板可直接烧录包"
+  },
+  {
+    "id": "S141",
+    "original": "/Users/qijiankang/Documents/器灵/Spirit_嵌入式与服务端_V0.1_源码包/VALIDATION.md",
+    "snapshot": "90_来源/文档快照/S141_固件服务端V01既有验证记录_20261029.txt",
+    "sha256": "fb6873f57341f787c38cf71f467eb4c720d1cb9c4834d7079be212be60d29cbb",
+    "bytes": 3723,
+    "captured_date": "2026-10-29",
+    "status": "2026-10-22测试记录；本轮未重新测试/部署/烧录"
+  },
+  {
+    "id": "S142",
+    "original": "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/00_结构试装说明.txt",
+    "snapshot": "90_来源/文档快照/S142_机械V04历史试装说明_20261029.txt",
+    "sha256": "3791008f5598fe5f207354a10bfe1222dac2f71d544b64879a434f5e9a332099",
+    "bytes": 5247,
+    "captured_date": "2026-10-29",
+    "status": "旧V074P3B结构模型；V06圆柱方向已替代"
+  },
+  {
+    "id": "S143",
+    "original": "/Users/qijiankang/Documents/器灵/PCB/J7_J701_紧凑接口调研_20261024/00_紧凑接口方案与验证边界.txt",
+    "snapshot": "90_来源/文档快照/S143_紧凑接口历史候选边界_20261029.txt",
+    "sha256": "6d07e256e8d02e1f93dece0b8c5d1f23429eafd28bc0c818b2fec00bfd217479",
+    "bytes": 2454,
+    "captured_date": "2026-10-29",
+    "status": "2026-10-24候选；未改变当前J7/J701"
   }
 ]

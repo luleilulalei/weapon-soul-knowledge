@@ -1,0 +1,1176 @@
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/model/Spirit_V04_V074P3B_review.blend"
+Fra:1 Mem:38.86M (Peak 38.86M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P01_front_shell
+Fra:1 Mem:38.87M (Peak 38.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P02_rear_shell
+Fra:1 Mem:38.87M (Peak 38.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P04_replaceable_screen_bezel
+Fra:1 Mem:41.40M (Peak 41.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P05_screen_rear_retainer
+帧:1 内存:41.68M (峰值 41.68M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display eye
+帧:1 内存:41.73M (峰值 41.73M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display eye.001
+Fra:1 Mem:41.73M (Peak 41.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P11_keyed_top_dust_cap
+帧:1 内存:41.83M (峰值 41.83M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display smile
+帧:1 内存:42.06M (峰值 42.06M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.002
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.001
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_3
+帧:1 内存:42.08M (峰值 42.08M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_3
+帧:1 内存:42.10M (峰值 42.10M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_3
+帧:1 内存:42.13M (峰值 42.13M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_2
+帧:1 内存:42.13M (峰值 42.13M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_2
+帧:1 内存:42.16M (峰值 42.16M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_2
+帧:1 内存:42.19M (峰值 42.19M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_1
+帧:1 内存:42.19M (峰值 42.19M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_1
+帧:1 内存:42.21M (峰值 42.21M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_1
+帧:1 内存:42.24M (峰值 42.24M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_0
+帧:1 内存:42.37M (峰值 42.37M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_0
+帧:1 内存:42.40M (峰值 42.40M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_0
+帧:1 内存:42.42M (峰值 42.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+帧:1 内存:42.51M (峰值 42.51M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_5
+帧:1 内存:42.67M (峰值 42.67M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+Fra:1 Mem:42.57M (Peak 42.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P06_power_plunger
+Fra:1 Mem:42.57M (Peak 42.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+帧:1 内存:43.22M (峰值 43.22M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+帧:1 内存:43.42M (峰值 43.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:43.52M (Peak 43.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P07_battery_cradle
+帧:1 内存:43.68M (峰值 43.68M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_3
+帧:1 内存:43.80M (峰值 43.80M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_4
+帧:1 内存:44.01M (峰值 44.01M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+帧:1 内存:43.91M (峰值 44.01M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_2
+帧:1 内存:44.03M (峰值 44.03M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J7
+Fra:1 Mem:44.05M (Peak 44.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P08_side_speaker_chamber
+帧:1 内存:44.11M (峰值 44.11M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LRA_LD0825_BODY_PROXY
+Fra:1 Mem:44.23M (Peak 44.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P09_side_speaker_grille
+帧:1 内存:44.47M (峰值 44.47M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NFC_CONTROL_25p43x20p35_PROXY
+帧:1 内存:44.48M (峰值 44.48M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NFC_ANTENNA_28x35_PROXY
+帧:1 内存:44.48M (峰值 44.48M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SPEAKER_20mm_PROXY
+帧:1 内存:44.56M (峰值 44.56M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | BATTERY_MAX_19p1x69p2
+帧:1 内存:44.59M (峰值 44.59M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | UNCONFIRMED_USER_GC9A01_SCREEN
+Fra:1 Mem:44.64M (Peak 44.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P10_rear_NFC_holder
+帧:1 内存:44.67M (峰值 44.67M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+帧:1 内存:44.79M (峰值 44.79M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U111
+帧:1 内存:44.80M (峰值 44.80M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R147
+Fra:1 Mem:44.82M (Peak 44.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P12_LRA_retaining_bridge
+帧:1 内存:44.96M (峰值 44.96M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R146
+帧:1 内存:44.99M (峰值 44.99M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R145
+帧:1 内存:45.00M (峰值 45.00M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+帧:1 内存:45.05M (峰值 45.05M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+Fra:1 Mem:45.06M (Peak 45.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P13_MIC_side_duct
+Fra:1 Mem:45.06M (Peak 45.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_V074P3B_ACTUAL_OUTLINE
+帧:1 内存:45.17M (峰值 45.17M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:45.22M (Peak 45.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+Fra:1 Mem:45.24M (Peak 45.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+帧:1 内存:45.22M (峰值 45.24M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q104
+帧:1 内存:45.24M (峰值 45.24M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C135
+帧:1 内存:45.26M (峰值 45.26M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+Fra:1 Mem:45.26M (Peak 45.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C5
+帧:1 内存:45.26M (峰值 45.26M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+帧:1 内存:45.23M (峰值 45.26M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+帧:1 内存:45.31M (峰值 45.31M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C131
+Fra:1 Mem:45.31M (Peak 45.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C8
+Fra:1 Mem:45.31M (Peak 45.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+帧:1 内存:45.31M (峰值 45.31M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C11
+Fra:1 Mem:45.32M (Peak 45.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C12
+帧:1 内存:45.32M (峰值 45.32M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R140
+Fra:1 Mem:45.33M (Peak 45.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C13
+帧:1 内存:45.34M (峰值 45.34M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+Fra:1 Mem:45.34M (Peak 45.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:45.34M (Peak 45.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C16
+帧:1 内存:45.34M (峰值 45.34M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C29
+Fra:1 Mem:45.34M (Peak 45.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C30
+Fra:1 Mem:45.34M (Peak 45.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+Fra:1 Mem:45.34M (Peak 45.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C103
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C105
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C107
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C111
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C113
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C114
+Fra:1 Mem:45.35M (Peak 45.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C119
+帧:1 内存:45.35M (峰值 45.35M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J3
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J104
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+帧:1 内存:45.36M (峰值 45.36M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q102
+Fra:1 Mem:45.36M (Peak 45.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C129
+帧:1 内存:45.36M (峰值 45.36M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q103
+Fra:1 Mem:45.37M (Peak 45.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R1
+帧:1 内存:45.37M (峰值 45.37M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C128
+帧:1 内存:45.37M (峰值 45.37M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+Fra:1 Mem:45.37M (Peak 45.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:45.37M (Peak 45.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L101
+帧:1 内存:45.37M (峰值 45.37M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R5
+Fra:1 Mem:45.37M (Peak 45.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R6
+Fra:1 Mem:45.38M (Peak 45.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U103
+帧:1 内存:45.38M (峰值 45.38M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:45.38M (Peak 45.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R15
+帧:1 内存:45.38M (峰值 45.38M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R312
+Fra:1 Mem:45.38M (Peak 45.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+帧:1 内存:45.38M (峰值 45.38M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+Fra:1 Mem:45.38M (Peak 45.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:45.38M (Peak 45.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R307
+帧:1 内存:45.38M (峰值 45.38M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R33
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R35
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R38
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R39
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R103
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R104
+Fra:1 Mem:45.39M (Peak 45.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R108
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R114
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R115
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R118
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R120
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R121
+Fra:1 Mem:45.40M (Peak 45.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R111
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R123
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R126
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+帧:1 内存:45.41M (峰值 45.41M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+Fra:1 Mem:45.41M (Peak 45.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+帧:1 内存:45.41M (峰值 45.41M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R110
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R133
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW2
+帧:1 内存:45.42M (峰值 45.42M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+Fra:1 Mem:45.42M (Peak 45.42M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U2
+帧:1 内存:45.42M (峰值 45.42M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U4
+帧:1 内存:45.43M (峰值 45.43M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+帧:1 内存:45.43M (峰值 45.43M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C120
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C115
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+Fra:1 Mem:45.43M (Peak 45.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U105
+Fra:1 Mem:45.44M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C101
+Fra:1 Mem:45.44M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C102
+帧:1 内存:45.44M (峰值 45.44M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C112
+Fra:1 Mem:45.44M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+Fra:1 Mem:45.44M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+帧:1 内存:45.44M (峰值 45.44M) | 时间:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:39.24M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:39.24M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:39.24M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:39.24M (Peak 45.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:39.33M (Peak 45.44M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:39.37M (Peak 45.44M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:39.37M (Peak 45.44M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:39.37M (Peak 45.44M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:39.37M (Peak 45.44M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:39.37M (Peak 45.44M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:39.86M (Peak 45.44M) | Time:00:00.05 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:39.84M (Peak 45.44M) | Time:00:00.05 | Mem:0.51M, Peak:0.51M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:39.84M (Peak 45.44M) | Time:00:00.05 | Mem:0.51M, Peak:0.51M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:39.84M (Peak 45.44M) | Time:00:00.05 | Mem:2.92M, Peak:2.92M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:39.84M (Peak 45.44M) | Time:00:00.07 | Mem:5.80M, Peak:8.21M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:39.84M (Peak 45.44M) | Time:00:00.07 | Mem:5.80M, Peak:8.21M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:41.95M (Peak 45.44M) | Time:00:00.07 | Mem:5.80M, Peak:8.21M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:41.95M (Peak 45.44M) | Time:00:00.07 | Mem:7.91M, Peak:8.21M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:41.95M (Peak 45.44M) | Time:00:00.07 | Mem:7.91M, Peak:8.21M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:41.96M (Peak 45.44M) | Time:00:00.07 | Mem:7.91M, Peak:8.21M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:41.96M (Peak 45.44M) | Time:00:00.07 | Mem:7.91M, Peak:8.21M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:41.96M (Peak 45.44M) | Time:00:00.07 | Mem:7.91M, Peak:8.21M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:41.96M (Peak 45.44M) | Time:00:00.07 | Mem:7.99M, Peak:8.21M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:41.96M (Peak 45.44M) | Time:00:00.07 | Mem:7.99M, Peak:8.21M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.17M (Peak 45.44M) | Time:00:00.07 | Mem:8.21M, Peak:8.21M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.17M (Peak 45.44M) | Time:00:00.07 | Mem:8.21M, Peak:8.21M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.18M (Peak 45.44M) | Time:00:00.07 | Mem:8.13M, Peak:8.21M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.18M (Peak 45.44M) | Time:00:00.07 | Mem:8.22M, Peak:8.22M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.18M (Peak 45.44M) | Time:00:00.07 | Mem:8.22M, Peak:8.22M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.18M (Peak 45.44M) | Time:00:00.07 | Mem:8.22M, Peak:8.22M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:42.18M (Peak 45.44M) | Time:00:00.07 | Mem:8.22M, Peak:8.22M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:161.81M (Peak 161.81M) | Time:00:00.60 | Remaining:00:07.99 | Mem:127.81M, Peak:127.81M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:212.17M (Peak 287.70M) | Time:00:22.29 | Mem:127.81M, Peak:127.81M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:212.17M (Peak 287.70M) | Time:00:22.29 | Mem:127.81M, Peak:127.81M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/01_core.png'
+Time: 00:22.77 (Saving: 00:00.44)
+
+RENDERED 01_core.png
+Fra:1 Mem:43.40M (Peak 43.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P01_front_shell
+Fra:1 Mem:43.41M (Peak 43.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P04_replaceable_screen_bezel
+Fra:1 Mem:44.64M (Peak 44.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P05_screen_rear_retainer
+Fra:1 Mem:44.70M (Peak 44.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P06_power_plunger
+Fra:1 Mem:45.04M (Peak 45.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P03_PCB_four_hole_carrier
+Fra:1 Mem:45.44M (Peak 45.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P07_battery_cradle
+Fra:1 Mem:45.53M (Peak 45.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P08_side_speaker_chamber
+Fra:1 Mem:45.80M (Peak 45.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P09_side_speaker_grille
+Fra:1 Mem:45.75M (Peak 45.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P10_rear_NFC_holder
+Fra:1 Mem:45.84M (Peak 45.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P12_LRA_retaining_bridge
+Fra:1 Mem:45.88M (Peak 45.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P13_MIC_side_duct
+Fra:1 Mem:45.89M (Peak 45.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P15_Hanxia_keyed_adapter_carrier
+Fra:1 Mem:45.98M (Peak 45.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_V074P3B_ACTUAL_OUTLINE
+Fra:1 Mem:46.12M (Peak 46.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:46.16M (Peak 46.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+Fra:1 Mem:46.19M (Peak 46.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C3
+Fra:1 Mem:46.20M (Peak 46.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C4
+Fra:1 Mem:46.22M (Peak 46.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C7
+Fra:1 Mem:46.22M (Peak 46.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C8
+Fra:1 Mem:46.22M (Peak 46.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+Fra:1 Mem:46.23M (Peak 46.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C11
+Fra:1 Mem:46.23M (Peak 46.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C12
+Fra:1 Mem:46.23M (Peak 46.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C13
+Fra:1 Mem:46.26M (Peak 46.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:46.26M (Peak 46.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C16
+Fra:1 Mem:46.26M (Peak 46.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C30
+Fra:1 Mem:46.26M (Peak 46.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C103
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C105
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C107
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C109
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C113
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C114
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C119
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J2
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J104
+Fra:1 Mem:46.27M (Peak 46.27M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q2
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q103
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R1
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R2
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R10
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:46.28M (Peak 46.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R34
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R36
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R38
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R39
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R104
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R108
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R115
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R116
+Fra:1 Mem:46.29M (Peak 46.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R120
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R121
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R122
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R123
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R126
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R130
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R133
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+Fra:1 Mem:46.30M (Peak 46.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW2
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U1
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U2
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U4
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U105
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display eye
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C104
+Fra:1 Mem:46.31M (Peak 46.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+Fra:1 Mem:46.32M (Peak 46.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+Fra:1 Mem:46.34M (Peak 46.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C112
+Fra:1 Mem:46.35M (Peak 46.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C115
+Fra:1 Mem:46.35M (Peak 46.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:46.35M (Peak 46.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_F101
+Fra:1 Mem:46.36M (Peak 46.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+Fra:1 Mem:46.37M (Peak 46.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+Fra:1 Mem:46.38M (Peak 46.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R111
+Fra:1 Mem:46.38M (Peak 46.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display smile
+Fra:1 Mem:46.38M (Peak 46.38M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+帧:1 内存:46.38M (峰值 46.38M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R312
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C128
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+帧:1 内存:46.41M (峰值 46.41M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_FB202
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C130
+帧:1 内存:46.42M (峰值 46.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+帧:1 内存:46.42M (峰值 46.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光
+帧:1 内存:46.42M (峰值 46.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_1
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R141
+帧:1 内存:46.42M (峰值 46.42M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C135
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R142
+帧:1 内存:46.45M (峰值 46.45M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+Fra:1 Mem:46.47M (Peak 46.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R145
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_0
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R147
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U111
+帧:1 内存:46.48M (峰值 46.48M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_WASHER_0
+Fra:1 Mem:46.49M (Peak 46.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+Fra:1 Mem:46.51M (Peak 46.51M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | UNCONFIRMED_USER_GC9A01_SCREEN
+Fra:1 Mem:46.52M (Peak 46.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | BATTERY_MAX_19p1x69p2
+Fra:1 Mem:46.53M (Peak 46.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SPEAKER_20mm_PROXY
+帧:1 内存:46.54M (峰值 46.54M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NFC_ANTENNA_28x35_PROXY
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NFC_CONTROL_25p43x20p35_PROXY
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LRA_LD0825_BODY_PROXY
+Fra:1 Mem:46.58M (Peak 46.58M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_V02_ACTUAL_OUTLINE
+帧:1 内存:46.59M (峰值 46.59M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_3
+Fra:1 Mem:46.60M (Peak 46.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C702
+Fra:1 Mem:46.60M (Peak 46.60M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C703
+帧:1 内存:46.61M (峰值 46.61M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C704
+帧:1 内存:46.63M (峰值 46.63M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_3
+帧:1 内存:46.66M (峰值 46.66M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_2
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C706
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C707
+Fra:1 Mem:46.67M (Peak 46.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J702
+Fra:1 Mem:46.70M (Peak 46.70M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R701
+Fra:1 Mem:46.71M (Peak 46.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R702
+Fra:1 Mem:46.71M (Peak 46.71M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R704
+Fra:1 Mem:46.72M (Peak 46.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U701
+Fra:1 Mem:46.73M (Peak 46.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U703
+帧:1 内存:46.73M (峰值 46.73M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_1
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J701
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_1
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN
+帧:1 内存:46.74M (峰值 46.74M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.002
+Fra:1 Mem:46.76M (Peak 46.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.003
+帧:1 内存:46.76M (峰值 46.76M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_1
+Fra:1 Mem:46.77M (Peak 46.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.004
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_0
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+Fra:1 Mem:46.81M (Peak 46.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_3
+Fra:1 Mem:46.82M (Peak 46.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:46.84M (Peak 46.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+Fra:1 Mem:46.85M (Peak 46.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+Fra:1 Mem:46.90M (Peak 46.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+Fra:1 Mem:46.90M (Peak 46.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+Fra:1 Mem:46.91M (Peak 46.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_1
+帧:1 内存:46.93M (峰值 46.93M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_2
+帧:1 内存:46.98M (峰值 46.98M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_6
+Fra:1 Mem:47.03M (Peak 47.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_3
+Fra:1 Mem:47.04M (Peak 47.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_5
+帧:1 内存:47.12M (峰值 47.12M) | 时间:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.04 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.04 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.04 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.04 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.04 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.05 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:40.48M (Peak 47.12M) | Time:00:00.05 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:40.45M (Peak 47.12M) | Time:00:00.05 | Mem:0.56M, Peak:0.56M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.05 | Mem:0.56M, Peak:0.56M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.05 | Mem:3.17M, Peak:3.17M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.06 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.06 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.06 | Mem:8.65M, Peak:8.89M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.06 | Mem:8.65M, Peak:8.89M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.96M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.96M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.07 | Mem:8.79M, Peak:8.89M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.07 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:232.19M (Peak 232.19M) | Time:00:01.27 | Remaining:00:18.07 | Mem:198.04M, Peak:198.04M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:311.84M (Peak 431.32M) | Time:00:42.22 | Mem:198.04M, Peak:198.04M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:311.84M (Peak 431.32M) | Time:00:42.22 | Mem:198.04M, Peak:198.04M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/02_exploded.png'
+Time: 00:42.77 (Saving: 00:00.51)
+
+RENDERED 02_exploded.png
+Fra:1 Mem:41.36M (Peak 41.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P03_PCB_four_hole_carrier
+Fra:1 Mem:41.36M (Peak 41.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:41.76M (Peak 41.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+Fra:1 Mem:41.82M (Peak 41.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C3
+Fra:1 Mem:41.82M (Peak 41.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C4
+Fra:1 Mem:41.90M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C5
+Fra:1 Mem:41.90M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C8
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C12
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C13
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C15
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C16
+Fra:1 Mem:41.83M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C29
+Fra:1 Mem:41.84M (Peak 41.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C30
+Fra:1 Mem:41.84M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C105
+Fra:1 Mem:41.84M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C109
+Fra:1 Mem:41.84M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C111
+Fra:1 Mem:41.84M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C114
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C119
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J2
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J3
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J104
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+Fra:1 Mem:41.85M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q2
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q102
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q103
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R1
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R2
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R5
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R6
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:41.86M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R10
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R33
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R34
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R36
+帧:1 内存:41.87M (峰值 41.90M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R38
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R39
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R103
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R104
+Fra:1 Mem:41.87M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+帧:1 内存:41.87M (峰值 41.90M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R114
+帧:1 内存:41.87M (峰值 41.90M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+帧:1 内存:41.89M (峰值 41.90M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_5
+Fra:1 Mem:41.89M (Peak 41.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R116
+帧:1 内存:41.90M (峰值 41.90M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+Fra:1 Mem:41.91M (Peak 41.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+帧:1 内存:41.92M (峰值 41.92M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+Fra:1 Mem:41.92M (Peak 41.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R120
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R121
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R126
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+Fra:1 Mem:41.94M (Peak 41.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW2
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U2
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U4
+帧:1 内存:41.96M (峰值 41.96M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+Fra:1 Mem:41.96M (Peak 41.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+帧:1 内存:41.98M (峰值 41.98M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_3
+Fra:1 Mem:41.98M (Peak 41.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U102
+Fra:1 Mem:41.99M (Peak 41.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+帧:1 内存:41.99M (峰值 41.99M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_4
+Fra:1 Mem:41.99M (Peak 41.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U105
+Fra:1 Mem:42.01M (Peak 42.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C102
+Fra:1 Mem:42.01M (Peak 42.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+Fra:1 Mem:42.01M (Peak 42.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+Fra:1 Mem:42.01M (Peak 42.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+帧:1 内存:42.03M (峰值 42.03M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_2
+帧:1 内存:42.04M (峰值 42.04M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J7
+帧:1 内存:42.05M (峰值 42.05M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C120
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_F101
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R111
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R307
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+Fra:1 Mem:42.05M (Peak 42.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U103
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L101
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C129
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_FB202
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C130
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R140
+帧:1 内存:42.06M (峰值 42.06M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R146
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C131
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+Fra:1 Mem:42.06M (Peak 42.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+Fra:1 Mem:42.07M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q104
+Fra:1 Mem:42.07M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+Fra:1 Mem:42.07M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+Fra:1 Mem:42.07M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R142
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+帧:1 内存:42.07M (峰值 42.07M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:37.15M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:37.15M (Peak 42.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:37.15M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:37.15M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:37.23M (Peak 42.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:37.26M (Peak 42.07M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:37.26M (Peak 42.07M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:37.26M (Peak 42.07M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:37.26M (Peak 42.07M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:37.26M (Peak 42.07M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:37.39M (Peak 42.07M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:37.38M (Peak 42.07M) | Time:00:00.03 | Mem:0.15M, Peak:0.15M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:37.38M (Peak 42.07M) | Time:00:00.03 | Mem:0.15M, Peak:0.15M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:37.38M (Peak 42.07M) | Time:00:00.03 | Mem:0.68M, Peak:0.68M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:37.38M (Peak 42.07M) | Time:00:00.03 | Mem:1.37M, Peak:1.90M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:37.38M (Peak 42.07M) | Time:00:00.03 | Mem:1.37M, Peak:1.90M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.37M, Peak:1.90M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.90M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.90M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.90M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.90M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.90M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.92M, Peak:1.92M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.92M, Peak:1.92M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.92M, Peak:1.92M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.92M, Peak:1.92M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.84M, Peak:1.92M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.93M, Peak:1.93M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:37.85M (Peak 42.07M) | Time:00:00.04 | Mem:1.93M, Peak:1.93M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:37.86M (Peak 42.07M) | Time:00:00.04 | Mem:1.93M, Peak:1.93M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:37.86M (Peak 42.07M) | Time:00:00.04 | Mem:1.93M, Peak:1.93M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:157.49M (Peak 157.49M) | Time:00:00.51 | Remaining:00:07.04 | Mem:121.52M, Peak:121.52M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:207.85M (Peak 283.38M) | Time:00:21.68 | Mem:121.52M, Peak:121.52M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:207.85M (Peak 283.38M) | Time:00:21.68 | Mem:121.52M, Peak:121.52M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/03_board_carrier.png'
+Time: 00:21.93 (Saving: 00:00.23)
+
+RENDERED 03_board_carrier.png
+Fra:1 Mem:42.49M (Peak 42.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P15_Hanxia_keyed_adapter_carrier
+Fra:1 Mem:42.56M (Peak 42.56M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:42.67M (Peak 42.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+Fra:1 Mem:42.67M (Peak 42.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C4
+Fra:1 Mem:42.67M (Peak 42.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C5
+Fra:1 Mem:42.67M (Peak 42.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C7
+Fra:1 Mem:42.67M (Peak 42.67M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C11
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C12
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C15
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C16
+Fra:1 Mem:42.68M (Peak 42.68M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C29
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C30
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C103
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C107
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C109
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C111
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C119
+Fra:1 Mem:42.69M (Peak 42.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J2
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J3
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q2
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q102
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R1
+Fra:1 Mem:42.70M (Peak 42.70M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R5
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R6
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R15
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:42.71M (Peak 42.71M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R34
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R35
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R36
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R39
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R103
+帧:1 内存:42.72M (峰值 42.72M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.002
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R108
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R114
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R115
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R116
+Fra:1 Mem:42.72M (Peak 42.72M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R118
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R120
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R122
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R123
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R126
+帧:1 内存:42.73M (峰值 42.73M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+帧:1 内存:42.73M (峰值 42.73M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J702_PLUG_SERVICE
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+帧:1 内存:42.73M (峰值 42.73M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R133
+帧:1 内存:42.73M (峰值 42.73M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_1
+Fra:1 Mem:42.73M (Peak 42.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+Fra:1 Mem:42.74M (Peak 42.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+Fra:1 Mem:42.74M (Peak 42.74M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW2
+Fra:1 Mem:42.75M (Peak 42.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_FASTENER_1
+Fra:1 Mem:42.75M (Peak 42.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U2
+Fra:1 Mem:42.75M (Peak 42.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+Fra:1 Mem:42.75M (Peak 42.75M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U4
+帧:1 内存:42.75M (峰值 42.75M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+Fra:1 Mem:42.76M (Peak 42.76M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+Fra:1 Mem:42.77M (Peak 42.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_0
+帧:1 内存:42.77M (峰值 42.77M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+Fra:1 Mem:42.77M (Peak 42.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U105
+Fra:1 Mem:42.77M (Peak 42.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_WASHER_0
+Fra:1 Mem:42.77M (Peak 42.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C101
+帧:1 内存:42.77M (峰值 42.77M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C102
+Fra:1 Mem:42.77M (Peak 42.77M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C104
+帧:1 内存:42.79M (峰值 42.79M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_FASTENER_0
+Fra:1 Mem:42.79M (Peak 42.79M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+帧:1 内存:42.80M (峰值 42.80M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_6
+Fra:1 Mem:42.82M (Peak 42.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+帧:1 内存:42.82M (峰值 42.82M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_5
+Fra:1 Mem:42.82M (Peak 42.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C112
+帧:1 内存:42.84M (峰值 42.84M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_4
+Fra:1 Mem:42.84M (Peak 42.84M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C115
+帧:1 内存:42.85M (峰值 42.85M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_3
+Fra:1 Mem:42.85M (Peak 42.85M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:42.87M (Peak 42.87M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_2
+帧:1 内存:42.87M (峰值 42.87M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+Fra:1 Mem:42.88M (Peak 42.88M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+帧:1 内存:42.88M (峰值 42.88M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_1
+Fra:1 Mem:42.90M (Peak 42.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R110
+Fra:1 Mem:42.90M (Peak 42.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+Fra:1 Mem:42.90M (Peak 42.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R111
+帧:1 内存:42.90M (峰值 42.90M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+Fra:1 Mem:42.91M (Peak 42.91M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R307
+Fra:1 Mem:42.92M (Peak 42.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_5
+Fra:1 Mem:42.92M (Peak 42.92M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+帧:1 内存:42.92M (峰值 42.92M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R312
+Fra:1 Mem:42.93M (Peak 42.93M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U103
+帧:1 内存:42.93M (峰值 42.93M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+Fra:1 Mem:42.94M (Peak 42.94M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L101
+帧:1 内存:42.95M (峰值 42.95M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+Fra:1 Mem:42.96M (Peak 42.96M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+帧:1 内存:42.96M (峰值 42.96M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+Fra:1 Mem:42.97M (Peak 42.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C128
+帧:1 内存:42.98M (峰值 42.98M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:42.99M (Peak 42.99M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C129
+帧:1 内存:42.99M (峰值 42.99M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_3
+Fra:1 Mem:43.00M (Peak 43.00M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+帧:1 内存:43.01M (峰值 43.01M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_4
+Fra:1 Mem:43.02M (Peak 43.02M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_FB202
+帧:1 内存:43.03M (峰值 43.03M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+Fra:1 Mem:43.04M (Peak 43.04M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+帧:1 内存:43.04M (峰值 43.04M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_2
+Fra:1 Mem:43.05M (Peak 43.05M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+帧:1 内存:43.06M (峰值 43.06M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.005
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C130
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.004
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R140
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R141
+帧:1 内存:43.06M (峰值 43.06M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C131
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.003
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+帧:1 内存:43.06M (峰值 43.06M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C135
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.002
+Fra:1 Mem:43.06M (Peak 43.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q104
+帧:1 内存:43.06M (峰值 43.06M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R142
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.001
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+帧:1 内存:43.07M (峰值 43.07M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R145
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R146
+帧:1 内存:43.07M (峰值 43.07M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R147
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U111
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J701
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+帧:1 内存:43.07M (峰值 43.07M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_V02_ACTUAL_OUTLINE
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C701
+Fra:1 Mem:43.07M (Peak 43.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J7
+Fra:1 Mem:43.08M (Peak 43.08M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C702
+Fra:1 Mem:43.10M (Peak 43.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C703
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U703
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C705
+帧:1 内存:43.11M (峰值 43.11M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C706
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C707
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U702
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J702
+帧:1 内存:43.11M (峰值 43.11M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R701
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R702
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U701
+Fra:1 Mem:43.11M (Peak 43.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R704
+帧:1 内存:43.12M (峰值 43.12M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:37.05M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:37.05M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:37.05M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:37.05M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:37.13M (Peak 43.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:37.18M (Peak 43.12M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:37.18M (Peak 43.12M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:37.18M (Peak 43.12M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:37.18M (Peak 43.12M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:37.18M (Peak 43.12M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:37.30M (Peak 43.12M) | Time:00:00.02 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:37.28M (Peak 43.12M) | Time:00:00.02 | Mem:0.14M, Peak:0.14M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:37.28M (Peak 43.12M) | Time:00:00.02 | Mem:0.14M, Peak:0.14M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:37.28M (Peak 43.12M) | Time:00:00.02 | Mem:0.60M, Peak:0.60M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:37.28M (Peak 43.12M) | Time:00:00.03 | Mem:1.14M, Peak:1.59M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:37.28M (Peak 43.12M) | Time:00:00.03 | Mem:1.14M, Peak:1.59M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.14M, Peak:1.59M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.59M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.59M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.59M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.59M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.59M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.62M, Peak:1.62M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.62M, Peak:1.62M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.62M, Peak:1.62M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:37.68M (Peak 43.12M) | Time:00:00.03 | Mem:1.62M, Peak:1.62M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:37.69M (Peak 43.12M) | Time:00:00.03 | Mem:1.54M, Peak:1.62M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:37.69M (Peak 43.12M) | Time:00:00.03 | Mem:1.63M, Peak:1.63M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:37.69M (Peak 43.12M) | Time:00:00.03 | Mem:1.63M, Peak:1.63M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:37.69M (Peak 43.12M) | Time:00:00.03 | Mem:1.63M, Peak:1.63M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:37.69M (Peak 43.12M) | Time:00:00.03 | Mem:1.63M, Peak:1.63M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:176.90M (Peak 176.90M) | Time:00:00.77 | Remaining:00:11.12 | Mem:140.79M, Peak:140.79M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:235.49M (Peak 323.38M) | Time:00:26.60 | Mem:140.79M, Peak:140.79M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:235.49M (Peak 323.38M) | Time:00:26.60 | Mem:140.79M, Peak:140.79M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/04_interface.png'
+Time: 00:27.01 (Saving: 00:00.39)
+
+RENDERED 04_interface.png
+Fra:1 Mem:42.39M (Peak 42.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P01_front_shell
+Fra:1 Mem:42.80M (Peak 42.80M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P05_screen_rear_retainer
+Fra:1 Mem:43.05M (Peak 43.05M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P06_power_plunger
+Fra:1 Mem:43.25M (Peak 43.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P03_PCB_four_hole_carrier
+Fra:1 Mem:43.59M (Peak 43.59M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P08_side_speaker_chamber
+Fra:1 Mem:43.95M (Peak 43.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P09_side_speaker_grille
+Fra:1 Mem:43.91M (Peak 43.95M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P13_MIC_side_duct
+Fra:1 Mem:43.97M (Peak 43.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:43.97M (Peak 43.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+Fra:1 Mem:43.97M (Peak 43.97M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C3
+Fra:1 Mem:44.04M (Peak 44.04M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C4
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C7
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C11
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C12
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C15
+Fra:1 Mem:44.09M (Peak 44.09M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C29
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C103
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C105
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C107
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C109
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C113
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C119
+Fra:1 Mem:44.10M (Peak 44.10M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J2
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J104
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q2
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q102
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R1
+Fra:1 Mem:44.11M (Peak 44.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R2
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R10
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:44.12M (Peak 44.12M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R33
+Fra:1 Mem:44.14M (Peak 44.14M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R34
+Fra:1 Mem:44.15M (Peak 44.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R35
+Fra:1 Mem:44.15M (Peak 44.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R36
+Fra:1 Mem:44.15M (Peak 44.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:44.15M (Peak 44.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R39
+帧:1 内存:44.15M (峰值 44.15M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R103
+Fra:1 Mem:44.15M (Peak 44.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R104
+Fra:1 Mem:44.18M (Peak 44.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R108
+Fra:1 Mem:44.19M (Peak 44.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+Fra:1 Mem:44.19M (Peak 44.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R115
+帧:1 内存:44.19M (峰值 44.19M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R116
+Fra:1 Mem:44.19M (Peak 44.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R118
+Fra:1 Mem:44.21M (Peak 44.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+Fra:1 Mem:44.22M (Peak 44.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R120
+帧:1 内存:44.22M (峰值 44.22M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.002
+帧:1 内存:44.22M (峰值 44.22M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.001
+帧:1 内存:44.22M (峰值 44.22M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光
+帧:1 内存:44.22M (峰值 44.22M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_3
+Fra:1 Mem:44.22M (Peak 44.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R123
+帧:1 内存:44.22M (峰值 44.22M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_3
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_3
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R130
+Fra:1 Mem:44.24M (Peak 44.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+帧:1 内存:44.24M (峰值 44.24M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+Fra:1 Mem:44.25M (Peak 44.25M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R133
+Fra:1 Mem:44.26M (Peak 44.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_2
+Fra:1 Mem:44.26M (Peak 44.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+帧:1 内存:44.26M (峰值 44.26M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+帧:1 内存:44.26M (峰值 44.26M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_2
+Fra:1 Mem:44.28M (Peak 44.28M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U1
+帧:1 内存:44.28M (峰值 44.28M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+帧:1 内存:44.29M (峰值 44.29M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_1
+Fra:1 Mem:44.29M (Peak 44.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+帧:1 内存:44.29M (峰值 44.29M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+Fra:1 Mem:44.30M (Peak 44.30M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U102
+Fra:1 Mem:44.31M (Peak 44.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_1
+Fra:1 Mem:44.31M (Peak 44.31M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+帧:1 内存:44.31M (峰值 44.31M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U105
+Fra:1 Mem:44.32M (Peak 44.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C101
+Fra:1 Mem:44.33M (Peak 44.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_0
+Fra:1 Mem:44.33M (Peak 44.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C102
+帧:1 内存:44.33M (峰值 44.33M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C104
+Fra:1 Mem:44.33M (Peak 44.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+Fra:1 Mem:44.33M (Peak 44.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_0
+Fra:1 Mem:44.33M (Peak 44.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+帧:1 内存:44.33M (峰值 44.33M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C112
+Fra:1 Mem:44.34M (Peak 44.34M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C115
+Fra:1 Mem:44.35M (Peak 44.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_0
+Fra:1 Mem:44.35M (Peak 44.35M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C120
+帧:1 内存:44.35M (峰值 44.35M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:44.36M (Peak 44.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_F101
+Fra:1 Mem:44.36M (Peak 44.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+Fra:1 Mem:44.36M (Peak 44.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+帧:1 内存:44.36M (峰值 44.36M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+Fra:1 Mem:44.37M (Peak 44.37M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R110
+Fra:1 Mem:44.38M (Peak 44.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_5
+Fra:1 Mem:44.38M (Peak 44.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R111
+帧:1 内存:44.38M (峰值 44.38M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+Fra:1 Mem:44.38M (Peak 44.38M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R307
+Fra:1 Mem:44.40M (Peak 44.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+Fra:1 Mem:44.40M (Peak 44.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+帧:1 内存:44.40M (峰值 44.40M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R312
+Fra:1 Mem:44.41M (Peak 44.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U103
+Fra:1 Mem:44.41M (Peak 44.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+Fra:1 Mem:44.41M (Peak 44.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L101
+帧:1 内存:44.41M (峰值 44.41M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+Fra:1 Mem:44.42M (Peak 44.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C128
+Fra:1 Mem:44.43M (Peak 44.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+Fra:1 Mem:44.43M (Peak 44.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C129
+帧:1 内存:44.43M (峰值 44.43M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+Fra:1 Mem:44.44M (Peak 44.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_FB202
+Fra:1 Mem:44.45M (Peak 44.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:44.45M (Peak 44.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+帧:1 内存:44.45M (峰值 44.45M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+Fra:1 Mem:44.46M (Peak 44.46M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C130
+Fra:1 Mem:44.46M (Peak 44.46M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_3
+Fra:1 Mem:44.46M (Peak 44.46M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+帧:1 内存:44.46M (峰值 44.46M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R140
+Fra:1 Mem:44.47M (Peak 44.47M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R141
+Fra:1 Mem:44.48M (Peak 44.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_4
+Fra:1 Mem:44.48M (Peak 44.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C131
+帧:1 内存:44.48M (峰值 44.48M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+Fra:1 Mem:44.49M (Peak 44.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+Fra:1 Mem:44.49M (Peak 44.49M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+Fra:1 Mem:44.50M (Peak 44.50M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+帧:1 内存:44.50M (峰值 44.50M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C135
+Fra:1 Mem:44.50M (Peak 44.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q104
+Fra:1 Mem:44.51M (Peak 44.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_2
+Fra:1 Mem:44.51M (Peak 44.51M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+帧:1 内存:44.51M (峰值 44.51M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R142
+Fra:1 Mem:44.52M (Peak 44.52M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+Fra:1 Mem:44.53M (Peak 44.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J7
+Fra:1 Mem:44.53M (Peak 44.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+帧:1 内存:44.53M (峰值 44.53M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R145
+Fra:1 Mem:44.53M (Peak 44.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R146
+Fra:1 Mem:44.53M (Peak 44.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LRA_LD0825_BODY_PROXY
+Fra:1 Mem:44.53M (Peak 44.53M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R147
+帧:1 内存:44.54M (峰值 44.54M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U111
+Fra:1 Mem:44.54M (Peak 44.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+Fra:1 Mem:44.55M (Peak 44.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SPEAKER_20mm_PROXY
+Fra:1 Mem:44.55M (Peak 44.55M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | UNCONFIRMED_USER_GC9A01_SCREEN
+帧:1 内存:44.55M (峰值 44.55M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | BATTERY_MAX_19p1x69p2
+帧:1 内存:44.60M (峰值 44.60M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:38.59M (Peak 44.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:38.59M (Peak 44.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:38.59M (Peak 44.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:38.59M (Peak 44.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:38.68M (Peak 44.60M) | Time:00:00.02 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:38.72M (Peak 44.60M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:38.72M (Peak 44.60M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:38.72M (Peak 44.60M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:38.72M (Peak 44.60M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:38.72M (Peak 44.60M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:39.06M (Peak 44.60M) | Time:00:00.02 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:39.04M (Peak 44.60M) | Time:00:00.02 | Mem:0.37M, Peak:0.37M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:39.04M (Peak 44.60M) | Time:00:00.02 | Mem:0.37M, Peak:0.37M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:39.04M (Peak 44.60M) | Time:00:00.02 | Mem:2.02M, Peak:2.02M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:39.04M (Peak 44.60M) | Time:00:00.03 | Mem:4.00M, Peak:5.66M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:39.04M (Peak 44.60M) | Time:00:00.03 | Mem:4.00M, Peak:5.66M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:4.00M, Peak:5.66M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.46M, Peak:5.66M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.46M, Peak:5.66M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.46M, Peak:5.66M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.46M, Peak:5.66M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.46M, Peak:5.66M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.54M, Peak:5.66M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:40.50M (Peak 44.60M) | Time:00:00.03 | Mem:5.54M, Peak:5.66M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:40.72M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:40.72M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:40.72M (Peak 44.60M) | Time:00:00.03 | Mem:5.68M, Peak:5.76M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:40.72M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:40.72M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:40.73M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:40.73M (Peak 44.60M) | Time:00:00.03 | Mem:5.76M, Peak:5.76M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:160.36M (Peak 160.36M) | Time:00:00.89 | Remaining:00:12.85 | Mem:125.35M, Peak:125.35M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:210.71M (Peak 286.25M) | Time:00:21.41 | Mem:125.35M, Peak:125.35M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:210.71M (Peak 286.25M) | Time:00:21.41 | Mem:125.35M, Peak:125.35M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/05_open_rear.png'
+Time: 00:21.68 (Saving: 00:00.25)
+
+RENDERED 05_open_rear.png
+Fra:1 Mem:43.69M (Peak 43.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P01_front_shell
+Fra:1 Mem:43.69M (Peak 43.69M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P04_replaceable_screen_bezel
+Fra:1 Mem:44.90M (Peak 44.90M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P05_screen_rear_retainer
+Fra:1 Mem:45.11M (Peak 45.11M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P06_power_plunger
+Fra:1 Mem:45.18M (Peak 45.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P03_PCB_four_hole_carrier
+Fra:1 Mem:45.65M (Peak 45.65M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P07_battery_cradle
+Fra:1 Mem:45.82M (Peak 45.82M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P08_side_speaker_chamber
+Fra:1 Mem:46.05M (Peak 46.05M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P09_side_speaker_grille
+Fra:1 Mem:46.20M (Peak 46.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P10_rear_NFC_holder
+Fra:1 Mem:46.26M (Peak 46.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P12_LRA_retaining_bridge
+Fra:1 Mem:46.17M (Peak 46.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | P15_Hanxia_keyed_adapter_carrier
+Fra:1 Mem:46.23M (Peak 46.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_V074P3B_ACTUAL_OUTLINE
+Fra:1 Mem:46.23M (Peak 46.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C1
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C2
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C4
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C5
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C7
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C9
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C11
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C13
+Fra:1 Mem:46.41M (Peak 46.41M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C14
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C15
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C30
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C103
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C105
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C107
+Fra:1 Mem:46.42M (Peak 46.42M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C111
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C113
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C114
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J2
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J3
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J101
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J104
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J110
+Fra:1 Mem:46.43M (Peak 46.43M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q102
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q103
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R4
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R6
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R9
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R10
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R15
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R26
+Fra:1 Mem:46.44M (Peak 46.44M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R32
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R33
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R34
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R35
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R36
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R37
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R38
+帧:1 内存:46.45M (峰值 46.45M) | 时间:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display eye
+Fra:1 Mem:46.45M (Peak 46.45M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R103
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R104
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R108
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R113
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R114
+帧:1 内存:46.48M (峰值 46.48M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R115
+Fra:1 Mem:46.48M (Peak 46.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R116
+Fra:1 Mem:46.51M (Peak 46.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R118
+Fra:1 Mem:46.52M (Peak 46.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R119
+帧:1 内存:46.52M (峰值 46.52M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display smile
+Fra:1 Mem:46.52M (Peak 46.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R121
+Fra:1 Mem:46.54M (Peak 46.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R122
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R123
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R124
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R125
+帧:1 内存:46.55M (峰值 46.55M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R126
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R129
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光.001
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R130
+帧:1 内存:46.55M (峰值 46.55M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R131
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R132
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 面光
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R133
+帧:1 内存:46.55M (峰值 46.55M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R134
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW1
+Fra:1 Mem:46.55M (Peak 46.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_1
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW2
+帧:1 内存:46.56M (峰值 46.56M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U1
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U2
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_WASHER_1
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U3
+帧:1 内存:46.56M (峰值 46.56M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U4
+Fra:1 Mem:46.56M (Peak 46.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U5
+Fra:1 Mem:46.57M (Peak 46.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_FASTENER_1
+Fra:1 Mem:46.57M (Peak 46.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U101
+帧:1 内存:46.58M (峰值 46.58M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U102
+Fra:1 Mem:46.58M (Peak 46.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U104
+帧:1 内存:46.59M (峰值 46.59M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_NUT_0
+帧:1 内存:46.59M (峰值 46.59M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_WASHER_0
+帧:1 内存:46.61M (峰值 46.61M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_FASTENER_0
+Fra:1 Mem:46.61M (Peak 46.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C102
+帧:1 内存:46.62M (峰值 46.62M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_3
+Fra:1 Mem:46.62M (Peak 46.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C104
+Fra:1 Mem:46.62M (Peak 46.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_3
+Fra:1 Mem:46.62M (Peak 46.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C106
+帧:1 内存:46.63M (峰值 46.63M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C108
+Fra:1 Mem:46.63M (Peak 46.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C112
+Fra:1 Mem:46.64M (Peak 46.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_3
+Fra:1 Mem:46.64M (Peak 46.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C120
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C121
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_2
+帧:1 内存:46.66M (峰值 46.66M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_F101
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L102
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_2
+Fra:1 Mem:46.66M (Peak 46.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R8
+帧:1 内存:46.66M (峰值 46.66M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R110
+帧:1 内存:46.68M (峰值 46.68M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_2
+帧:1 内存:46.69M (峰值 46.69M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_1
+Fra:1 Mem:46.69M (Peak 46.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R112
+Fra:1 Mem:46.69M (Peak 46.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_1
+帧:1 内存:46.69M (峰值 46.69M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R308
+帧:1 内存:46.71M (峰值 46.71M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_1
+Fra:1 Mem:46.71M (Peak 46.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_L101
+Fra:1 Mem:46.73M (Peak 46.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NUT_PCB_0
+帧:1 内存:46.73M (峰值 46.73M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R117
+Fra:1 Mem:46.73M (Peak 46.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C128
+Fra:1 Mem:46.73M (Peak 46.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | WASHER_PCB_0
+Fra:1 Mem:46.73M (Peak 46.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C129
+帧:1 内存:46.73M (峰值 46.73M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J8
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_FB202
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FASTENER_PCB_0
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U110
+Fra:1 Mem:46.74M (Peak 46.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_SW4
+Fra:1 Mem:46.75M (Peak 46.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C130
+帧:1 内存:46.75M (峰值 46.75M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C132
+Fra:1 Mem:46.75M (Peak 46.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R140
+Fra:1 Mem:46.76M (Peak 46.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R141
+帧:1 内存:46.76M (峰值 46.76M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C131
+Fra:1 Mem:46.76M (Peak 46.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J201
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_5
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C133
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C134
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_C135
+帧:1 内存:46.78M (峰值 46.78M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q104
+Fra:1 Mem:46.78M (Peak 46.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_Q105
+帧:1 内存:46.80M (峰值 46.80M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_4
+Fra:1 Mem:46.81M (Peak 46.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R142
+Fra:1 Mem:46.81M (Peak 46.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_3
+Fra:1 Mem:46.81M (Peak 46.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R143
+帧:1 内存:46.81M (峰值 46.81M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R144
+Fra:1 Mem:46.82M (Peak 46.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R145
+Fra:1 Mem:46.83M (Peak 46.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_2
+Fra:1 Mem:46.83M (Peak 46.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R146
+帧:1 内存:46.83M (峰值 46.83M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_R147
+Fra:1 Mem:46.84M (Peak 46.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U111
+帧:1 内存:46.84M (峰值 46.84M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_TAIL_J701_1
+Fra:1 Mem:46.85M (Peak 46.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_U112
+Fra:1 Mem:46.86M (Peak 46.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_6
+帧:1 内存:46.86M (峰值 46.86M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | BATTERY_MAX_19p1x69p2
+Fra:1 Mem:46.87M (Peak 46.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SPEAKER_20mm_PROXY
+Fra:1 Mem:46.90M (Peak 46.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_5
+帧:1 内存:46.92M (峰值 46.92M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | NFC_ANTENNA_28x35_PROXY
+Fra:1 Mem:46.93M (Peak 46.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LRA_LD0825_BODY_PROXY
+Fra:1 Mem:46.94M (Peak 46.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_4
+帧:1 内存:46.95M (峰值 46.95M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C701
+Fra:1 Mem:46.95M (Peak 46.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C702
+帧:1 内存:46.97M (峰值 46.97M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_3
+Fra:1 Mem:46.98M (Peak 46.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C703
+Fra:1 Mem:46.99M (Peak 46.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_2
+Fra:1 Mem:47.02M (Peak 47.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C704
+帧:1 内存:47.02M (峰值 47.02M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C706
+Fra:1 Mem:47.02M (Peak 47.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_C707
+帧:1 内存:47.03M (峰值 47.03M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J7_1
+Fra:1 Mem:47.04M (Peak 47.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R701
+Fra:1 Mem:47.05M (Peak 47.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R702
+帧:1 内存:47.05M (峰值 47.05M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R703
+Fra:1 Mem:47.06M (Peak 47.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_R704
+Fra:1 Mem:47.07M (Peak 47.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_4
+帧:1 内存:47.07M (峰值 47.07M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U702
+Fra:1 Mem:47.08M (Peak 47.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_U703
+Fra:1 Mem:47.08M (Peak 47.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_1
+Fra:1 Mem:47.08M (Peak 47.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_J7
+帧:1 内存:47.08M (峰值 47.08M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_J701
+Fra:1 Mem:47.09M (Peak 47.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN
+帧:1 内存:47.10M (峰值 47.10M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PCB_TAIL_J101_2
+Fra:1 Mem:47.10M (Peak 47.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.001
+Fra:1 Mem:47.12M (Peak 47.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.002
+帧:1 内存:47.12M (峰值 47.12M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.005
+Fra:1 Mem:47.12M (Peak 47.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ADAPTER_MATING_PIN.004
+帧:1 内存:47.12M (峰值 47.12M) | 时间:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:39.81M (Peak 47.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:39.90M (Peak 47.12M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:39.95M (Peak 47.12M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:40.48M (Peak 47.12M) | Time:00:00.03 | Mem:0.07M, Peak:0.07M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:40.45M (Peak 47.12M) | Time:00:00.03 | Mem:0.56M, Peak:0.56M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.03 | Mem:0.56M, Peak:0.56M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.03 | Mem:3.17M, Peak:3.17M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.04 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:40.46M (Peak 47.12M) | Time:00:00.04 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.04 | Mem:6.28M, Peak:8.89M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.04 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:42.74M (Peak 47.12M) | Time:00:00.04 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.04 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.04 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.04 | Mem:8.57M, Peak:8.89M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.04 | Mem:8.65M, Peak:8.89M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:42.75M (Peak 47.12M) | Time:00:00.04 | Mem:8.65M, Peak:8.89M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:42.96M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:42.96M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.05 | Mem:8.79M, Peak:8.89M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:42.97M (Peak 47.12M) | Time:00:00.05 | Mem:8.87M, Peak:8.89M | Scene, ViewLayer | Sample 0/16
+Fra:1 Mem:164.78M (Peak 164.78M) | Time:00:00.91 | Remaining:00:12.89 | Mem:130.64M, Peak:130.64M | Scene, ViewLayer | Sample 1/16
+Fra:1 Mem:216.05M (Peak 292.96M) | Time:00:25.14 | Mem:130.64M, Peak:130.64M | Scene, ViewLayer | Sample 16/16
+Fra:1 Mem:216.05M (Peak 292.96M) | Time:00:25.14 | Mem:130.64M, Peak:130.64M | Scene, ViewLayer | Finished
+Saved: '/Users/qijiankang/.codex/.chatgpt-projects/g-p-6acdd80220f08191bd6f595f5f9d60e3/output/mechanical_v04/renders/06_head.png'
+Time: 00:25.41 (Saving: 00:00.25)
+
+RENDERED 06_head.png
+RENDER_COMPLETE
+
+Blender quit

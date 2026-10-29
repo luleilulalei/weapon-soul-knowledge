@@ -1,0 +1,249 @@
+--- 第 1 页 ---
+by ShtokCustomWorx
+2018
+NPXL - Pixelblade Lit Connector
+
+--- 第 2 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 01
+Contents
+Features           (P – 2)
+1. Assembly variants          (P – 3)
+2. Data input options          (P – 4)
+3. Wiring diagrams         (P – 5-8)
+4. Mounting options         (P – 9-10)
+ 3D-printed pcb Holders:
+ – Hilt pcb Holder
+ – Blade pcb Holder
+5. Tests charts          (P – 11-12)
+ – Current draw test
+ – Max ratings test
+6. Wire gauge recommendations       (P – 13)
+NPXL Pixelblade Lit Connector
+by ShtokCustomWorx
+User Manual
+Updated: 11.09.2019
+This manual shows and explains how to install and operate SCW NPXL Pogo-pins connectors for Neopixel 
+blade setup.
+
+
+--- 第 3 页 ---
+02 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+Specifications and features:
+– High quality components, manufacturing and assembling
+– Black pcbs with Gold Plated pads
+– Compatible wih TCSS/VV/PlecterPixel Blade side pcbs/blades
+– Rated for 20 Amperes max (up to 15 Amperes recommended) without current losses
+– Reliable electrical connection
+– 3-pole contact type: 1-pin Data, 5-pin Positive, 5-pin Negative
+– High quality spring loaded Pogo pins (short and long style)
+– 5 on-board RGB Neopixel leds with separate Data input for Blade Plugs backlight
+– Dimensions:
+ Hilt pcb: 17 .5x17 .5x2.6mm
+ Blade pcb: 17 .5x17 .5x1.6mm
+Where to buy:
+– ShtokCustomWorx (Russia)
+– Saberbay Etsy store (USA)
+– KR-sabers TheSaberArmory store (UK)
+Please watch these videos for full features demonstration:
+Link to the demonstration video #1
+Link to the demonstration video #2
+Please watch this video for assembly demonstration:
+Link to the assembly video
+FEATURES
+Old version
+(2018-2019)
+Version 2
+(2019)
+
+
+--- 第 4 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 03
+1
+ASSEMBLY VARIANTS
+Long pins
+for regular/dueling sabers
+Short pins
+for “Thin-Neck” sabers and chassis
+
+--- 第 5 页 ---
+04 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+2
+DATA INPUT OPTIONS
+V1 – only blade, no pcb leds
+This way Data lead controls only blade, no leds on 
+connector pcb.
+Data lead can be wired whether to D1 pad if 330 ohm 
+resistor is on the sound board or to D2 pad with on-
+board 330 ohm 0603 resistor R1.
+V2 – blade + pcb leds in parallel
+This way a single Data lead controls both blade and
+on-board connector leds in parallel.
+Data lead is wired to D2 pad with on-board 330 ohm 0603 
+resistors R1 and R2.
+V3 – blade + pcb leds in series
+This way a single Data lead controls both blade and
+on-board connector leds in series. Signal goes through 5 
+pcb leds first, then through jumper J to the blade strips.
+Data lead is wired to D2 pad with on-board 330 ohm 0603 
+resistor R2 and bridged jumper J.
+Make sure to add additional 5 leds to the config file.
+V4 – blade + pcb leds independent
+This way blade and on-board connector leds are controlled 
+separately by independent Data leads. Only for those sound 
+boards that have 2 independent Neopixel Data outputs.
+Connector leds Data lead is wired to pad D2 with on-board 330 
+ohm 0603 resistor R2, blade Data lead is wired to pad D1.
+
+--- 第 6 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 05
+3
+WIRING DIAGRAMS
+Hilt pcb
+Blade pcb
+ Data pad
+Data pad #2
+Positive pads
+Positive pads
+Negative pads
+Negative pads
+Wire Data lead to D1 or D2 pads,
+depending on the setup
+(please follow instructions on page 4).
+Wire Positive and Negative leads
+directly to corresponding pins pads.
+Use thick wires for Pos and Neg (20-22AWG), 
+double 24AWG or triple 26AWG to provide 
+enough current to the blade Neopixel strips.
+Wire Data lead to D pad.
+Wire Positive and Negative leads
+to corresponding pads.
+Use thick wires for Pos and Neg (20-22AWG), 
+double 24AWG or triple 26AWG to provide 
+enough current to the blade Neopixel strips.
+1
+“Blade ID” resistor  pads
+SMD 0603 (2-100 kOhm)
+“Data” resistor  pads
+SMD 0603 (330 Ohm)
+Data pad #1
+“Blade Present/Detection” pad/pin
+(bridge with a neighbour Negative pad
+if this feature isn’t used)
+
+--- 第 7 页 ---
+06 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+3
+WIRING DIAGRAMS
+2
+
+--- 第 8 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 07
+3
+WIRING DIAGRAMS
+2
+
+--- 第 9 页 ---
+08 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+3
+WIRING DIAGRAMS
+2
+Config file setup
+#ifdef CONFIG_TOP
+#include “proffieboard_v1_config.h”
+#define NUM_BLADES 2
+#define NUM_BUTTONS 2
+#define VOLUME 1000
+const unsigned int maxLedsPerStrip = 144;
+#define CLASH_THRESHOLD_G 1.0
+#define ENABLE_AUDIO
+#define ENABLE_MOTION
+#define ENABLE_WS2811
+#define ENABLE_SD
+#define SHARED_POWER_PINS
+#endif
+#ifdef CONFIG_PRESETS
+Preset presets[] = {
+   { “your sound font name” , “tracks/your music track name.wav” ,
+    your main blade style code,
+    your connector blade style code, “your preset name”}
+};
+BladeConfig blades[] = {
+ { 0,
+     WS2811BladePtr<136, WS2811_ACTUALLY_800kHz | WS2811_GRB, bladePin, PowerPINS<bladePowerPin1, bladePowerPin2, bladePowerPin3> >(),         // Main Blade with 136 pixels
+     WS2811BladePtr<5, WS2811_ACTUALLY_800kHz | WS2811_GRB, blade2Pin, PowerPINS<bladePowerPin1, bladePowerPin2, bladePowerPin3> >(),           // Connector “Hilt” pcb pixels
+ CONFIGARRAY(presets) },
+};
+#endif
+#ifdef CONFIG_BUTTONS
+Button PowerButton(BUTTON_POWER, powerButtonPin, “pow”);
+Button AuxButton(BUTTON_AUX, auxPin, “aux”);
+#endif
+define 2 blades (main blade style and connector pixels blade style)
+your main blade style code
+hooked up to Data 2 output
+PowerPINS are LED Negative outputs,
+they are same for main blade and
+connector pixels
+hooked up to Data 1 output
+make sure to add a #define SHARED_POWER_PINS line.
+Also download and replace this file in “blades” folder
+in ProffieOS root folder: power_pin.h
+your connector blade style code
+
+--- 第 10 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 09
+4
+1
+MOUNTING OPTIONS
+Hilt pcb basic 3D-printed Holder
+For LONG pins:
+– 7/8 inch blade holder
+– 1 inch blade holder
+For SHORT pins:
+– 7/8 inch blade holder
+– 1 inch blade holder
+– Thin-Neck blade holder
+
+
+--- 第 11 页 ---
+10 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+4
+2
+MOUNTING OPTIONS
+Blade pcb basic 3D-printed Holder
+– 7/8 inch blade
+– 1 inch Thin-walled blade
+– 1 inch Thick-walled blade
+– 1 inch Thin-walled blade for “Thin-Necks” V1
+– 1 inch Thin-walled blade for “Thin-Necks” V2
+
+
+--- 第 12 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 11
+5
+CURRENT DRAW TEST
+1
+
+
+--- 第 13 页 ---
+12 |
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+5
+MAX RATINGS TEST
+2
+
+
+--- 第 14 页 ---
+NPXL Pogo pins Lit Connector by ShtokCustomWorx
+| 13

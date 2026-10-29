@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>器灵 V080A｜触摸背面 · 主控缩板</title>
+<style>
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#101922;color:#eef4f7;font:16px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}main{max-width:1280px;margin:auto;padding:38px 24px}h1{font-size:34px;line-height:1.3;margin:12px 0}.sub{color:#a8bdc9}a{color:#7bd9ef}nav{display:flex;gap:18px;flex-wrap:wrap;margin:20px 0}section{background:#192936;border:1px solid #304657;border-radius:16px;padding:24px;margin:22px 0}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.stat{padding:20px;background:#203b43;border-radius:12px}.stat strong{font-size:28px;display:block}.stat span{color:#b8c8cf}img{width:100%;height:auto;border-radius:8px}button{font:inherit;color:#eaf5f8;background:#29424e;border:1px solid #537480;border-radius:8px;padding:10px 18px;cursor:pointer}button.active{background:#24758b}table{border-collapse:collapse;width:100%;font-size:15px}td,th{text-align:left;border-bottom:1px solid #38505c;padding:12px}code{font-size:13px;overflow-wrap:anywhere}.note{border-left:3px solid #dcb471;padding:10px 18px;background:#283136}.legend{color:#abd3df;font-size:14px}@media(max-width:700px){main{padding:20px 14px}.stats{grid-template-columns:1fr}h1{font-size:26px}section{padding:16px}}
+</style>
+<main>
+<p class="sub">器灵 · V0.8.0A · 2026.10.27 · 布局稿</p>
+<h1>触摸整组移到背面，主控缩为 40 × 50 mm</h1>
+<p>在现有三板新工程中完成调整。电源板、剑身板和原理图保持，三块板仍未布线。</p>
+<div class="stats">
+<div class="stat">
+<strong>40 × 50 mm</strong>
+<span>原主控 44 × 62 mm</span>
+</div>
+<div class="stat">
+<strong>−26.7%</strong>
+<span>板面积减少 728 mm²</span>
+</div>
+<div class="stat">
+<strong>11 个器件</strong>
+<span>触摸接口、芯片与配套阻容全部在背面</span>
+</div>
+</div>
+<nav>
+<a href="Spirit_V080A_Main_Compact_20261027.epro2">完整嘉立创工程</a>
+<a href="00_调整说明.txt">调整说明</a>
+<a href="主控板器件位置变更.csv">位置变更表</a>
+<a href="验证总记录.json">验证记录</a>
+</nav>
+<section>
+<h2>主控布局前后对照</h2>
+<p>
+<button id="new" class="active" onclick="show('new')">调整后 · 40 × 50</button> <button id="old" onclick="show('old')">调整前 · 44 × 62</button>
+</p>
+<img id="layout" src="主控板_正反面布局.png" alt="主控正面与背面布局">
+<p class="legend">左图正面，右图背面。背面图按正面同一坐标显示，便于对照；蓝色外框是触摸整组，橙色虚线是螺丝占位和天线避让。图片按各自尺寸显示，并非同比例叠图。</p>
+</section>
+<section>
+<h2>本轮改动</h2>
+<table>
+<tr>
+<th>项目</th>
+<th>已完成</th>
+</tr>
+<tr>
+<td>触摸整组</td>
+<td>J2、U3、C11/C12、R6、R129–R134 全部在背面；J2朝板外接线。</td>
+</tr>
+<tr>
+<td>主控布局</td>
+<td>集中麦克风、按键和上方外设区域；背面重新组织触摸、IMU、音频与马达电路。</td>
+</tr>
+<tr>
+<td>安装孔</td>
+<td>四个 Ø2.2 mm 孔，孔距 32 × 42 mm；按 Ø5.5 mm 螺丝占位检查。</td>
+</tr>
+<tr>
+<td>连接关系</td>
+<td>69 个主控器件保留；三板 147 器件引脚网络与 21 页原理图保持，H1针序不变。</td>
+</tr>
+<tr>
+<td>其他两板</td>
+<td>电源 38 × 48 mm、剑身 20 × 32 mm，布局保持。</td>
+</tr>
+<tr>
+<td>检查</td>
+<td>未发现元件、穿孔和螺丝占位冲突；最小同面包络间距约 0.331 mm。原生PCB检查只有未布线提示。</td>
+</tr>
+</table>
+<p class="note">40 × 50 mm 是板框尺寸，不含板外天线、J7插头和线束。新孔位需要同步外壳；当前仍是未布线布局，后续需验证走线、装配、射频、触摸噪声和声学。</p>
+</section>
+<section>
+<h2>当前嘉立创工程</h2>
+<p>
+<strong>Spirit_V080_Three_Board_Layout_20261026</strong>
+<br>主控PCB：<strong>V080A_Main_Compact_40x50</strong>
+</p>
+<p class="sub">电源PCB和剑身PCB沿用原名称。原P3C已布线工程与旧交付作为历史保留。</p>
+<details>
+<summary>查看嘉立创原生画面</summary>
+<p class="legend">此图同时显示两面，因此投影叠在一起；正反面分开看请用上方布局图。黄色叉号为未布线提示。</p>
+<img src="主控板_嘉立创原生截图.png" alt="嘉立创原生主控板截图">
+</details>
+</section>
+<p class="sub">完整原理图在原生工程内。已保留调整前完整备份；本轮没有生成制造文件。</p>
+</main>
+<script>function show(mode){document.getElementById('layout').src=mode==='new'?'主控板_正反面布局.png':'调整前_44x62布局.png';document.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.id===mode));}</script>
+</html>

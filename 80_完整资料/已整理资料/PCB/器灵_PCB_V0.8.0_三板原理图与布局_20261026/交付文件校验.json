@@ -1,0 +1,90 @@
+{
+  "00_三板拆分说明.txt": {
+    "bytes": 4534,
+    "sha256": "ef0346b13cf7cc0a5afdab8aa48907ad4ff03600d1ac9d6732ad16cab7a24cf2"
+  },
+  "剑身板_原理图预览.pdf": {
+    "bytes": 836738,
+    "sha256": "b0897b4e0ffeceaa23073ec8c8ae36ea0102c05fc6cfe13bf127ecfa12ddec5f"
+  },
+  "主控板_板间接口.png": {
+    "bytes": 1557942,
+    "sha256": "bc78cf062f64bca12574034f3abf7e5af74dbf64146c34b820e69e0eda551fdb"
+  },
+  "电源板_原理图预览.pdf": {
+    "bytes": 5768153,
+    "sha256": "61cde34a3cbbeb985fbf138887807d81ca1bed31394a0d335eed5da4a97533f7"
+  },
+  "Main_placement.png": {
+    "bytes": 144355,
+    "sha256": "0e370d83962db7a9482fa1ff9f735a88d76452744e4834a31b7b5bfd5db9b262"
+  },
+  "H1线束针序.csv": {
+    "bytes": 824,
+    "sha256": "d95b165c95faf3fd0912a0062c2bfd6408880f6b28201eb9150f6b23a4170aa2"
+  },
+  "验证总记录.json": {
+    "bytes": 3039,
+    "sha256": "2931e6364547ccddad9d08dd0fff152b6ba2c7feba81a7364e10b6f825e7dff2"
+  },
+  "三板器件与位置.csv": {
+    "bytes": 13097,
+    "sha256": "b359b6e66e94d0300ce425275b691ca308d1e46d0b6852bbc4e221bc3ffb752b"
+  },
+  "Blade_Native.png": {
+    "bytes": 291505,
+    "sha256": "3c7755b8d5d3536c060e58601673d381ed0bcac5552ccea981823ca9de268cd2"
+  },
+  "Blade_placement.png": {
+    "bytes": 70811,
+    "sha256": "5c1fa20c8be05a324b25987cb7d3c0a744ac8c3fbc983f3d0b668468b64457ea"
+  },
+  "02_电源板_Power_网表.json": {
+    "bytes": 165116,
+    "sha256": "3fd85b540c779aa331d5460fd7c91c48a22938d5204e35c726228d8904330739"
+  },
+  "Power_Native.png": {
+    "bytes": 515700,
+    "sha256": "edac9f251fcf72866b1e62685159a4b33a2980a96c37793033c596b75b395638"
+  },
+  "电源板_板间接口.png": {
+    "bytes": 1157117,
+    "sha256": "d34f837549ec5a71f806f993d7ffee8c817626c6f5bc03b29918c045b24ca648"
+  },
+  "Power_placement.png": {
+    "bytes": 159318,
+    "sha256": "5da71dfeb936cde467fe02aab98eebbeba7a992a21043e811abc755cfe5c5c14"
+  },
+  "三板拆分复核.html": {
+    "bytes": 11490,
+    "sha256": "fbc8433c3478f70cb33dfd594d5b5ade0725d1457bbdc18b2f876514d9520728"
+  },
+  "拆分前完整工程备份.epro2": {
+    "bytes": 1528055,
+    "sha256": "8a333051d58113817849e777e85c69b1f043617cc4514912aeeab53db80666b6"
+  },
+  "Spirit_V080_Three_Board_Layout_20261026.epro2": {
+    "bytes": 1974170,
+    "sha256": "06686af41cd4a814f5ca1e04debacabd20a44b4ab285dfec577e60e078290f4f"
+  },
+  "三板原生读取记录.json": {
+    "bytes": 7931492,
+    "sha256": "15b7990de43ea36f427cf3da209a3a3f8a132f60488aa4f306e5814ab42a9691"
+  },
+  "Main_Native.png": {
+    "bytes": 412443,
+    "sha256": "8bf86e61b52bc5eb2bd70e1a72b69bbbc6f705a611d3c5f39f92922ed9e7ea42"
+  },
+  "01_主控板_Main_网表.json": {
+    "bytes": 200657,
+    "sha256": "bcf54d2c84c0a38a37f7930f88ed7b4d2b72463a1fb603f7ced9d51d32ab9622"
+  },
+  "主控板_原理图预览.pdf": {
+    "bytes": 10566554,
+    "sha256": "f1c51f42cb366d9cc5abc856c73ff41a364312c2f6f8ceceed9a4d5fda43c993"
+  },
+  "03_剑身板_Blade_网表.json": {
+    "bytes": 47328,
+    "sha256": "20ce7a09515a8a6af8c0b088183d9607219b75cedb4972ccf71029b25638415f"
+  }
+}

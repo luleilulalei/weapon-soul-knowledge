@@ -1,0 +1,73 @@
+{
+  "version": "V0.4 V074P3B layout fit review",
+  "body_length": 190,
+  "maximum_width": 62,
+  "front_depth": 15.5,
+  "rear_depth": 24.5,
+  "wall": 2.4,
+  "pcb_shift_y": 27.5,
+  "pcb_bottom_y": 107.5,
+  "pcb_top_y": 179,
+  "pcb_thickness": 1.6,
+  "screen_center_y": 138.5,
+  "screen_assumed_body": [
+    35.8,
+    38.3,
+    1.8
+  ],
+  "screen_status": "UNCONFIRMED USER PANEL; replaceable bezel and retainer",
+  "battery_center": [
+    0,
+    48,
+    -8.5
+  ],
+  "battery_max": [
+    19.1,
+    69.2
+  ],
+  "nfc_antenna_assumed": [
+    28,
+    35,
+    1
+  ],
+  "nfc_controller_nominal": [
+    25.43,
+    20.35
+  ],
+  "speaker_selected": [
+    20,
+    5.1
+  ],
+  "lra_assumed": [
+    8.2,
+    2.7
+  ],
+  "print_fit_per_side": 0.3,
+  "fasteners": "PCB M2 nylon screws/washers mandatory near antenna; other fasteners per fit test",
+  "hole_pitch": [
+    38,
+    61.5
+  ],
+  "main_pcb_holes_global": [
+    [
+      -19,
+      112.5
+    ],
+    [
+      19,
+      112.5
+    ],
+    [
+      -19,
+      174
+    ],
+    [
+      19,
+      174
+    ]
+  ],
+  "adapter_shift_y": 184.3,
+  "connector_insertion_assumed": 2.5,
+  "connector_axial_adjustment": 0.6,
+  "status": "FIT REVIEW; NOT ASSEMBLY OR LOAD QUALIFIED"
+}

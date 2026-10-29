@@ -1,0 +1,190 @@
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第1页，共8页
+符合ISO/IEC14443A/B标准13.56MHz非接触式读写卡芯片
+主要特性
+ 高集成度超低功耗的非接触式读写卡芯片，工作在13.56MHz，
+支持双线圈驱动的各类读写卡方案
+ 宽电压工作范围，模拟电路工作电源电压2 ~ 6V，数字电路工作电压2~5.5V
+ 极低的待机和扫描功耗，有效读卡距离可达8 ~ 10cm
+ 支持完整的ISO/IEC 14443 Type A/Type B协议
+ 支持高传输速率的通信：106kbit/s、212kbit/s、424kbit/s
+ 支持的主机接口，
+---- SPI接口，速率10Mbit/s
+---- I2C接口，标准模式速率为400kbps/s, 最快支持1Mbps/s
+---- UART接口，传输速率1228.8kbit/s
+ 64字节的发送和接收FIFO缓冲区
+ 可编程定时器
+ 具备硬件掉电、软件掉电和发送器掉电等多种节电模式
+ 内置温度传感器，以便在芯片温度过高时自动停止 RF 发射
+ 采用相互独立的多组电源供电，以避免模块间的相互干扰，提高工作的稳定性
+ 具备 CRC 和奇偶校验功能，内置 CRC 协处理器，符合 ISO/1EC14443 和 CCITT 协议
+ 内部振荡器，外接 27.12MHz 的晶体
+ 支持低功耗卡检测（LPCD）功能，芯片可自动探卡，典型功耗 8uA
+ QFN32 封装进一步减小 PCB 的面积，降低生产成本
+主要应用
+ 金融领域读卡设备，身份证读卡器
+ 智能家庭门锁，酒店锁，桑拿柜锁等非接触式读卡装置
+ 各种非接触式读卡设备，公交卡、校园卡读卡器
+ 各类非接触式门禁系统，签到、考勤机
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第2页，共8页
+芯片简介
+WS1850T是针对金融领域及非接触式门锁类、门禁类和各种读卡设备应用推出的低电压、低成本的
+符合ISO/IEC 14443 Type A/Type B协议并工作在13.56MHz高频模式下的读写卡芯片，具有高集成度和
+超低功耗的特点。芯片设有低功耗自动探卡功能（LPCD），设定进入LPCD模式后，可进行自动探卡，
+无需主控参与。探测到卡片进场后，可通过IRQ引脚输出中断信号唤醒主控来进行下一步操作。LPCD模
+式芯片功耗< 8uA 。特别适用于在追求低成本的同时需要较高性能的非接触式读卡数据传输的应用场合。
+1 管脚及其描述
+1.1 管脚图
+WS1850T采用通用的管脚间距为0.5mm的QFN32封装形式，管脚定义如图1所示。
+图1 QFN32封装脚位图
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第3页，共8页
+1.2 管脚描述
+序号 名称 类型 描述
+1 I2C I I2C接口使能，高电平有效
+2 PVDD PWR 管脚电源
+3 NC NC 外部可接也可不接VCC
+4 DVSS PWR 数字地
+5 PVSS PWR 管脚电源地
+6 NRSTPD I 复位/掉电 引脚，低电平有效
+7 MFIN I MF信号输入
+8 MFOUT O MF信号输出
+9 SVDD PWR MFIN和MFOUT 的电源
+10 TVSS PWR 发射器的地
+11 TX1 O 发射器1，输出调制的13.56MHz 的能量载波信号
+12 TVDD PWR 发射器电源
+13 TX2 O 发射器2，输出调制的13.56MHz 的能量载波信号
+14 TVSS PWR 发射器地
+15 AVDD PWR 模拟电源
+16 VMID PWR 内部参考电压
+17 RX I 信号输入
+18 AVSS PWR 模拟地
+19 AUX1 O 测试管脚
+20 AUX2 O 测试管脚
+21 OSCIN I 外接27.12MHz晶体，也可接外部时钟信号
+22 OSCOUT O 外接27.12MHz晶体
+23 IRQ O 中断信号管脚，输出中断信号。
+24 SDA/NSS/RX I/O 数字通信接口 / I2C的SDA / SPI从片的片选 / UART
+的RX。与选择的通讯方式有关。
+25 D1/ADR_5 I/O 并口通讯接口 / I2C从片地址选择位
+26 D2/ADR_4 I/O 并口通讯接口 / I2C从片地址选择位
+27 D3/ADR_3 I/O 并口通讯接口 / I2C从片地址选择位
+28 D4/ADR_2 I/O 并口通讯接口 / I2C从片地址选择位
+表1 WS1850T管脚描述
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第4页，共8页
+29 D5/ADR_1/SCK I/O 并口通讯接口 / I2C从片地址选择位 / SPI接口的时
+钟输入端。与选择的通讯方式有关
+30 D6/ADR_0/MOSI I/0 并口通讯接口 / I2C从片地址选择位
+31 D7/SCL/MISO/TX I/O 并口通讯接口 / I2C从片的SCL / SPI从输出 / UART
+的输出。与选择的通讯方式有关
+32 EA I I2C地址编码使能
+2 应用框图
+图2是WS1850T在读卡器产品的典型应用原理框图。通过与MCU配合，加上相应的外围控制和反馈
+电路，可以简单方便地实现各类读写卡产品方案，降低生产成本和调试复杂度，同时可以获得高性能高
+速率的稳定可靠的非接触式数据传输。
+图2 读卡器典型应用框图
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第5页，共8页
+3 典型应用
+3.1 应用电路图
+图3 是WS1850T的推荐应用电路图，通讯方式选择SPI。使用双天线模式，线圈中间有一抽头接地。pin33
+是指芯片底部的大焊盘，该焊盘需要良好接地。图中C8,C9,C12,C13的值，需要根据实际情况进行调整。
+图4 是WS1850T 单天线应用电路图，通讯方式选择SPI。pin33 是指芯片底部的大焊盘，该焊盘需要良好
+接地。图中C8,C9的值，需要根据实际情况进行调整。
+图3 WS1850T双天线应用电路图
+图4 WS1850T单天线应用电路图
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第6页，共8页
+3.2 通讯方式选择
+WS1850T 可以选择三种通讯方式，分别为SPI、I2C 和 UART。通讯方式通过pin1 和 pin 32 的电平来进
+行选择。选择方式如表2所示
+不同接口连接方法
+WS1850T 接口类型
+管脚号 管脚名称 UART SPI I
+2
+C
+1 I
+2
+C 0 0 1
+32 EA 0 1 EA
+31 D7 TX MISO SCL
+30 D6 MX MOSI IIC_ADR_0
+29 D5 DTRQ SCK IIC_ADR_1
+28 D4 - - IIC_ADR_2
+27 D3 - - IIC_ADR_3
+26 D2 - - IIC_ADR_4
+25 D1 - - IIC_ADR_5
+24 SDA RX NSS SDA
+4 电气特性
+4.1 工作条件
+符号 参数 条件 最小 典型 最大 单位
+DVDD 数字电源电压
+PVSS=DVSS=AVSS=TVSS=0V
+PVDD=DVDD<=AVDD<=TVDD
+2.0 3.3 6.0
+VAVDD 模拟电源电压
+2.0 3.3 6.0
+TVDD 发射器电源电压
+PVDD 管脚电源电压 PVSS=DVSS=AVSS=TVSS=0V
+PVDD=DVDD<=AVDD<=TVDD 2.0 3.3 6.0 V
+TA 工作温度 -40 +105 ℃
+[1] PVDD 必须等于 DVDD，不可小于 DVDD
+[2] PVDD 和 DVDD 必须小于等于 AVDD 和 TVDD
+[3] AVDD 必须小于等于 TVDD
+[4]推荐供电条件：PVDD=DVDD<=AVDD<=TVDD
+4.2 电气参数
+符号 参数 条件 最小 典型 最大 单位
+3.3V电气特性
+IHPD 硬掉电电流 AVDD=DVDD=TVDD=PVDD=3.3V
+NRSTPD=LOW — 0.02 — uA
+表2 WS1850T通讯方式选择方
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第7页，共8页
+ISPD 软掉电电流 AVDD=DVDD=TVDD=PVDD=3.3V
+RF电平检测器开启 — 0.6 — uA
+IIDLE 空闲电流 AVDD=DVDD=TVDD=PVDD=3.3V — 1.65 — mA
+IDVDD 数字电源电流 DVDD=3.3V — 2.97 — mA
+IAVDD
+模拟电源电流 AVDD=3.3V，位RCVOff＝0 — 2.98 — mA
+模拟电源电流 AVDD=3.3V，位RCVOff＝1 — 2.95 — mA
+ITVDD 发射器电源电流 连续发射载波，TVDD=3.3V — 60 110 mA
+VRipple 抗电源纹波 400 mV
+VNoise 抗电源随机噪声 1600 mV
+RTX TX输出电阻 25 Ω
+VRX RX输入灵敏度 fSUB=848kHz 0.5 mVrms
+RRx Rx输入电阻 50 KΩ
+VPOR 上电复位电压 1.65 V
+TOSU 晶振启动时间 300 us
+5V电气特性
+IHPD 硬掉电电流 AVDD=DVDD=TVDD=PVDD=5V
+NRSTPD=LOW — 0.02 — uA
+ISPD 软掉电电流 AVDD=DVDD=TVDD=PVDD=5V
+RF电平检测器开启 — 0.8 — uA
+IIDLE 空闲电流 AVDD=DVDD=TVDD=PVDD=5V — 3.52 — mA
+IDVDD 数字电源电流 DVDD=5V — 3.2 — mA
+IAVDD
+模拟电源电流 AVDD=5V，位RCVOff＝0 — 3.1 — mA
+模拟电源电流 AVDD=5V，位RCVOff＝1 — 3.07 — mA
+ITVDD 发射器电源电流 连续发射载波，TVDD=5V — 90 190 mA
+VRipple 抗电源纹波 300 mV
+VNoise 抗电源随机噪声 1600 mV
+RTX TX输出电阻 15 Ω
+VRX RX输入灵敏度 fSUB=848kHz 0.5 mVrms
+RRx Rx输入电阻 50 KΩ
+VPOR 上电复位电压 1.65 V
+TOSU 晶振启动时间 300 us
+深圳前海维晟智能技术有限公司
+Shenzhen Qianhai WiseSun Intelligence Technology Co., Ltd. WS1850T
+2025/04 Preliminary Rev 2.2 第8页，共8页
+5 封装
+QFN32封装尺寸
+32-Pin QFN Package

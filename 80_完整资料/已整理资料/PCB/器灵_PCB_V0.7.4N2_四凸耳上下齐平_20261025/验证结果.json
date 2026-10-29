@@ -1,0 +1,143 @@
+{
+  "holes": {
+    "H1": {
+      "center_mm": [
+        -19,
+        85
+      ],
+      "hole_diameter_mm": 2.2,
+      "mechanical_envelope_diameter_mm": 5.5,
+      "hole_to_edge_mm": 2.099999999999998,
+      "component_envelope_gap_mm": [
+        1.9536211085985016,
+        "R5"
+      ],
+      "hole_to_trace_pad_via_gap_mm": [
+        2.458709405015254,
+        "T1088 Battery ADC to MCU"
+      ],
+      "mounting_hardware": "M2 nylon screw / plastic post as existing mechanical baseline"
+    },
+    "H2": {
+      "center_mm": [
+        19,
+        85
+      ],
+      "hole_diameter_mm": 2.2,
+      "mechanical_envelope_diameter_mm": 5.5,
+      "hole_to_edge_mm": 2.099999999999998,
+      "component_envelope_gap_mm": [
+        0.5982752744407422,
+        "C5"
+      ],
+      "hole_to_trace_pad_via_gap_mm": [
+        2.246295438796736,
+        "C5.2"
+      ],
+      "mounting_hardware": "M2 nylon screw / plastic post as existing mechanical baseline"
+    },
+    "H3": {
+      "center_mm": [
+        -19,
+        146.5
+      ],
+      "hole_diameter_mm": 2.2,
+      "mechanical_envelope_diameter_mm": 5.5,
+      "hole_to_edge_mm": 2.099999999999998,
+      "component_envelope_gap_mm": [
+        7.297973590613667,
+        "R117"
+      ],
+      "hole_to_trace_pad_via_gap_mm": [
+        6.033583767667105,
+        "T200 VSYS distribution and MCU supply"
+      ],
+      "mounting_hardware": "M2 nylon screw / plastic post as existing mechanical baseline"
+    },
+    "H4": {
+      "center_mm": [
+        19,
+        146.5
+      ],
+      "hole_diameter_mm": 2.2,
+      "mechanical_envelope_diameter_mm": 5.5,
+      "hole_to_edge_mm": 2.099999999999998,
+      "component_envelope_gap_mm": [
+        6.297187213231006,
+        "R147"
+      ],
+      "hole_to_trace_pad_via_gap_mm": [
+        5.234671708797591,
+        "T1372 Accessory detect right perimeter route"
+      ],
+      "mounting_hardware": "M2 nylon screw / plastic post as existing mechanical baseline"
+    }
+  },
+  "board_length_mm": 71.5,
+  "body_width_mm": 34,
+  "mounting_width_mm": 44.4,
+  "hole_spacing_mm": [
+    38,
+    61.5
+  ],
+  "outline_valid": true,
+  "top_bottom_edges_aligned": true,
+  "manual_route_geometry_errors": 0,
+  "changed_ids": [
+    "layout74_H1_3",
+    "layout74_H1_4",
+    "layout74_H2_3",
+    "layout74_H2_4",
+    "layout74_H3_3",
+    "layout74_H3_4",
+    "layout74_H4_3",
+    "layout74_H4_4",
+    "layout74_H1",
+    "layout74_H2",
+    "layout74_H3",
+    "layout74_H4",
+    "d6568c110e14fb59",
+    "ea8e341f87e8b98a",
+    "21373698f98beb7a",
+    "89eeb365a5f75867",
+    "7d31aab8cc6beae4",
+    "5906a947b5e2cced",
+    "layout74k_S140",
+    "layout74k_S141",
+    "layout74k_S142",
+    "layout74k_S143",
+    "layout74k_S144",
+    "layout74k_S145",
+    "layout74k_S146",
+    "layout74k_S147",
+    "layout74m_silk1"
+  ],
+  "component_moves": 0,
+  "routing_changes": 0,
+  "native_DRC_main": [],
+  "native_DRC_adapter": [],
+  "all_522_component_pads_match_schematic": true,
+  "native_export_geometry_match": true,
+  "native_export_exact_match_by_board": {
+    "5354a7bf4c630a18": true,
+    "cff5d61a47594b34": false
+  },
+  "export_pour_float_max_difference": 1.7053025658242404e-13,
+  "export_pour_float_tolerance": 1e-10,
+  "component_geometry_unchanged": true,
+  "all_manual_routes_unchanged": true,
+  "stackup_unchanged": true,
+  "adapter_unchanged": true,
+  "component_minimum_envelope_gap_mm": [
+    0.2180118800000006,
+    "Q102",
+    "R123"
+  ],
+  "ground_plane_continuous": true,
+  "ground_plane_area_mm2": 2270.183109686893,
+  "antenna_copper_keepout_pass": true,
+  "mounting_holes_clear_of_pours": true,
+  "no_autorouting": true,
+  "mechanical_boundary": "All four old STL mounting columns need relocation to 38 x 61.5 mm pitch. STL not modified or fit tested in this PCB task. Existing M2 nylon hardware requirement retained.",
+  "sha256": "63b0142a7183c0f5c33b584e9662d97b6045367d2242ca7771a73a3d00453157"
+}

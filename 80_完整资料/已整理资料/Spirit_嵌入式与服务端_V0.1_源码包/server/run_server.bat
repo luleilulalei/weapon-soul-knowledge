@@ -1,0 +1,1 @@
+"D:\code\usaki\usaki_server\.conda\python.exe" -m uvicorn usaki_server.main:app --host 127.0.0.1 --port 8000

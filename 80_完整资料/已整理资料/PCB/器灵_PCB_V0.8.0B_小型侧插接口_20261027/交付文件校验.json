@@ -1,0 +1,87 @@
+[
+  {
+    "name": "00_调整说明.txt",
+    "bytes": 4794,
+    "sha256": "a971ce0eb608ea398424e9b93480c119437fb9570cbba9687456606b24d57d92"
+  },
+  {
+    "name": "DLL_GHD系列_厂家规格书.pdf",
+    "bytes": 1156964,
+    "sha256": "32163006e35537e12c0c54819d12b3c64a568443fdfe2b182f96ff05b470f7aa"
+  },
+  {
+    "name": "H1_16针线束定义.csv",
+    "bytes": 1187,
+    "sha256": "4c5bf5c823616edd9041763361bb34b650fda8afae40efd120ac5337dc9340a6"
+  },
+  {
+    "name": "Spirit_V080B_Small_Side_20261027.epro2",
+    "bytes": 2031539,
+    "sha256": "7acce88bc8a02aec2e3c874d9190a456e62474b4c20030e6525f67d6d7560598"
+  },
+  {
+    "name": "三板原生读取记录.json",
+    "bytes": 7523878,
+    "sha256": "b089d5ceeef0d2ab438ce6d20e26651d862fed629742328085e0fdbe5be8eaa2"
+  },
+  {
+    "name": "两板_小型侧插布局.png",
+    "bytes": 150729,
+    "sha256": "4f2a5adf0b127a636d9ca3bfdd120c8522ec34e2d03a42b88041bb46399ff2e6"
+  },
+  {
+    "name": "主控_互连原理图.png",
+    "bytes": 434310,
+    "sha256": "042ea6e43f7388a701d504b902f57feac4b77a60130a6e15ab0873defd621590"
+  },
+  {
+    "name": "主控_连接器更换前后.png",
+    "bytes": 152309,
+    "sha256": "129556179a0d4e000fdd50a194df431d45963e1c94009229d6b805ca9c4006aa"
+  },
+  {
+    "name": "主控板_嘉立创原生截图.png",
+    "bytes": 510259,
+    "sha256": "82e6f9fd6af2c2f48cbd33ca810b53d15b1ec9be8f3fc244d32ccacdbcc64dfb"
+  },
+  {
+    "name": "小型侧插接口复核.html",
+    "bytes": 5873,
+    "sha256": "e2ab226dbe3bed79e1fdd207d83f8220512b45653f6bef001159249fc0861c0b"
+  },
+  {
+    "name": "布局坐标与间距检查.json",
+    "bytes": 17431,
+    "sha256": "6d624bd50014dc8395e44914e4e9505d336097ee8dd9eab2fffdee824ab1cb22"
+  },
+  {
+    "name": "物料查询记录.json",
+    "bytes": 974,
+    "sha256": "1a180bed84ac634fa988f1734bcc19a6236719f1d77826f25d43d81179606133"
+  },
+  {
+    "name": "电源_互连原理图.png",
+    "bytes": 492409,
+    "sha256": "4422df21e63d23fc96cf3448fb6c95bf761eba8494ea744913c5ceb9c7581c68"
+  },
+  {
+    "name": "电源板_嘉立创原生截图.png",
+    "bytes": 554475,
+    "sha256": "ddd22a9e22be72ea9ac75d7b2ceac12f35714a7661a2cab186d75d9ef83fbe05"
+  },
+  {
+    "name": "调整前_V080A完整工程备份.epro2",
+    "bytes": 1987856,
+    "sha256": "fbebb50b1f30eb9110429ad0ebe6c9faba367fbf89c006f3d2f5c2feb5c39598"
+  },
+  {
+    "name": "连接器与线束BOM.csv",
+    "bytes": 419,
+    "sha256": "d0ab830b681874448bc5cef65a0a835ac0630ff770089f5f30d4087cf4c07b74"
+  },
+  {
+    "name": "验证总记录.json",
+    "bytes": 14776,
+    "sha256": "b5eacf34b93050e7854b17a8c73e77371a1d16fd4f4422ee4d6974bf78daf9d7"
+  }
+]

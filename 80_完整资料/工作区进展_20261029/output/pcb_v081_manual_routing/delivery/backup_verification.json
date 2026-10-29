@@ -1,0 +1,20 @@
+{
+  "main": {
+    "physical_content_matches": true,
+    "angle_normalized": true,
+    "redundant_sub_3micron_segments_inside_same_net_pad_via_or_track": []
+  },
+  "power": {
+    "physical_content_matches": true,
+    "angle_normalized": true,
+    "redundant_sub_3micron_segments_inside_same_net_pad_via_or_track": [
+      "dca84be31cc84271",
+      "cd15871a2a09b86d"
+    ]
+  },
+  "blade": {
+    "physical_content_matches": true,
+    "angle_normalized": true,
+    "redundant_sub_3micron_segments_inside_same_net_pad_via_or_track": []
+  }
+}

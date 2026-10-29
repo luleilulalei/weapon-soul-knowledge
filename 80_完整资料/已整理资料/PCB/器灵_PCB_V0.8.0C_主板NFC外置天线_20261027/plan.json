@@ -1,0 +1,2189 @@
+[
+  {
+    "ref": "U201",
+    "part": "C7427513",
+    "device": {
+      "uuid": "09822fc89991416cacae133988417dfc",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "射频芯片/天线",
+        "射频卡芯片"
+      ],
+      "ordinal": 0,
+      "name": "WS1850T",
+      "symbolName": "WS1850T",
+      "symbolUuid": "87946d96075845279fabb2a49179cb69",
+      "footprintName": "QFN-32_L5.0-W5.0-P0.50-TL-EP3.1",
+      "footprintUuid": "0fc37adcc58d4946a173b284c4a7e0e2",
+      "model3DName": "QFN-32_L5.0-W5.0-P0.50-TL-EP3.1",
+      "model3DUuid": "f89d41b17aed4cd9b06c6d9f722ffc6a",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20231214/4E0D5FF53E1EC5E16FCB4B6146CFC553.jpg",
+      "description": "协议:CCITT,ISO 14443A,ISO 14443B;接口类型:I2C,SPI,UART;传输速率:106Kbit/s；424Kbit/s；212Kbit/s;",
+      "manufacturer": "wisesun(维晟)",
+      "manufacturerId": "WS1850T",
+      "supplier": "LCSC",
+      "supplierId": "C7427513",
+      "otherProperty": {
+        "LCSC Part Name": "13.56MHz非接触式读写卡芯片",
+        "Supplier Part": "C7427513",
+        "Manufacturer": "wisesun(维晟)",
+        "Manufacturer Part": "WS1850T",
+        "Supplier Footprint": "QFN-32",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/WS1850T/8421396.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "87946d96075845279fabb2a49179cb69",
+        "Designator": "U?",
+        "Footprint": "0fc37adcc58d4946a173b284c4a7e0e2",
+        "3D Model": "f89d41b17aed4cd9b06c6d9f722ffc6a",
+        "3D Model Title": "QFN-32_L5.0-W5.0-P0.50-TL-EP3.1",
+        "3D Model Transform": "197.6374,197.6374,0,0,0,0,0,0,0",
+        "agreement": "CCITT,ISO 14443A,ISO 14443B",
+        "Interface": "I2C,SPI,UART",
+        "transmission rate": "106Kbit/s；424Kbit/s；212Kbit/s",
+        "Value": "13.56MHz",
+        "Voltage - Supply": "2V~6V",
+        "Quiescent Current": "0.02uA",
+        "Features": "-",
+        "Name": "={Value}",
+        "Description": "协议:CCITT,ISO 14443A,ISO 14443B;接口类型:I2C,SPI,UART;传输速率:106Kbit/s；424Kbit/s；212Kbit/s;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "NFC_3V3",
+      "3": "NFC_3V3",
+      "4": "GND",
+      "5": "GND",
+      "6": "NFC_RST_N",
+      "7": "GND",
+      "8": null,
+      "9": "NFC_3V3",
+      "10": "GND",
+      "11": null,
+      "12": "NFC_3V3",
+      "13": "NFC_TX2",
+      "14": "GND",
+      "15": "NFC_3V3",
+      "16": "NFC_VMID",
+      "17": "NFC_RX",
+      "18": "GND",
+      "19": null,
+      "20": null,
+      "21": "NFC_OSCIN",
+      "22": "NFC_OSCOUT",
+      "23": null,
+      "24": "I2C_SDA",
+      "25": "NFC_ADR_HI",
+      "26": "NFC_ADR_HI",
+      "27": "NFC_ADR_HI",
+      "28": "NFC_ADR_HI",
+      "29": "NFC_ADR1",
+      "30": "NFC_ADR0",
+      "31": "I2C_SCL",
+      "32": "NFC_EA",
+      "33": "GND"
+    },
+    "sch": {
+      "x": 330,
+      "y": 1000,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -3,
+      "y": 27.5,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "WS1850T",
+    "dnp": false,
+    "note": "WS1850T V2.2 Fig4 single-ended TX2. Pin3 is NC in V2.2 and may connect VCC; library uses legacy DVDD name. I2C polling; IRQ deliberately NC. Reset follows MCU_EN; no dedicated wake IRQ."
+  },
+  {
+    "ref": "Y201",
+    "part": "C409397",
+    "device": {
+      "uuid": "2f8a6dd3de1f4d7787cfeeea992bd2bc",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "振荡器/谐振器",
+        "无源晶振"
+      ],
+      "ordinal": 0,
+      "name": "AZ27170001",
+      "symbolName": "AZ27170001",
+      "symbolUuid": "ef509f9f5d4e470593c999354f5247b9",
+      "footprintName": "CRYSTAL-SMD_4P-L2.5-W2.0-BL",
+      "footprintUuid": "695c620dd9ab4e25ae37bdd57ca1c825",
+      "model3DName": "CRYSTAL-SMD_4P-L2.5-W2.0-BL",
+      "model3DUuid": "d23e0abc26e54c15b6292fd5f43702fa",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230108/BD12FA6980205D43CA567D92903CE259.jpg",
+      "description": "晶振类型:贴片晶振;频率:27.12MHz;常温频差:±30ppm;负载电容:10pF;频率稳定度:±50ppm;",
+      "manufacturer": "TXC(晶技)",
+      "manufacturerId": "AZ27170001",
+      "supplier": "LCSC",
+      "supplierId": "C409397",
+      "otherProperty": {
+        "LCSC Part Name": "27.120000MHz X'TAL 2.5 × 2.0",
+        "Supplier Part": "C409397",
+        "Manufacturer": "TXC(晶技)",
+        "Manufacturer Part": "AZ27170001",
+        "Supplier Footprint": "SMD2520-4P",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/AZ27170001/399424.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ef509f9f5d4e470593c999354f5247b9",
+        "Designator": "X?",
+        "Footprint": "695c620dd9ab4e25ae37bdd57ca1c825",
+        "3D Model": "d23e0abc26e54c15b6292fd5f43702fa",
+        "3D Model Title": "CRYSTAL-SMD_4P-L2.5-W2.0-BL",
+        "3D Model Transform": "98.425,78.74,0,0,0,0,0,0,0",
+        "Type": "贴片晶振",
+        "Value": "27.12MHz",
+        "Normal temperature Frequency Tolerance": "±30ppm",
+        "Load Capacitance": "10pF",
+        "Frequency Stability": "±50ppm",
+        "Operating Temperature": "-",
+        "Name": "={Value}",
+        "Description": "晶振类型:贴片晶振;频率:27.12MHz;常温频差:±30ppm;负载电容:10pF;频率稳定度:±50ppm;"
+      }
+    },
+    "nets": {
+      "1": "NFC_OSCIN",
+      "2": "GND",
+      "3": "NFC_OSCOUT",
+      "4": "GND"
+    },
+    "sch": {
+      "x": 730,
+      "y": 1000,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -3.5,
+      "y": 33,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "27.12MHz / CL10pF",
+    "dnp": false,
+    "note": "TXC AZ27170001; 16pF load capacitors assume about 2pF stray; verify oscillator on prototype."
+  },
+  {
+    "ref": "J202",
+    "part": "C88373",
+    "device": {
+      "uuid": "e472616488314503b4939195379972e1",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "连接器",
+        "RF射频同轴连接器"
+      ],
+      "ordinal": 0,
+      "name": "U.FL-R-SMT-1(10)",
+      "symbolName": "U.FL-R-SMT-1(10)",
+      "symbolUuid": "d40f5eed9ad24488b4f735b1eaea4ef9",
+      "footprintName": "ANT-SMD_UFL-R-SMT-1-10",
+      "footprintUuid": "88d1fc60b027454cb1152e14cbba1183",
+      "model3DName": "ANT-SMD_UFL-R-SMT-1-10",
+      "model3DUuid": "07d298dce0ff4e1d9db50809d31c924e",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221231/0612F3DBCBB43CA72A21761BA74DE002.jpg",
+      "description": "连接器类型:板端;接口类型:内针;端口数量:1;接口直径:2mm;接口长度/高度:1.25mm;频率:6GHz;射频系列:IPEX;阻抗:50Ω;样式:-;工作温度:-40℃~+90℃;",
+      "manufacturer": "HRS(广濑)",
+      "manufacturerId": "U.FL-R-SMT-1(10)",
+      "supplier": "LCSC",
+      "supplierId": "C88373",
+      "otherProperty": {
+        "LCSC Part Name": "IPEX 内针",
+        "Supplier Part": "C88373",
+        "Manufacturer": "HRS(广濑)",
+        "Manufacturer Part": "U.FL-R-SMT-1(10)",
+        "Supplier Footprint": "SMD",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/U.FL-R-SMT-1(10)/89552.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d40f5eed9ad24488b4f735b1eaea4ef9",
+        "Designator": "JP?",
+        "Footprint": "88d1fc60b027454cb1152e14cbba1183",
+        "3D Model": "07d298dce0ff4e1d9db50809d31c924e",
+        "3D Model Title": "ANT-SMD_UFL-R-SMT-1-10",
+        "3D Model Transform": "118.11,118.11,0,90,0,0,24.882,0,0",
+        "Connector Type": "板端",
+        "Interface": "内针",
+        "Number of Ports": "1",
+        "Interface Diameter": "2mm",
+        "Interface Length/Height": "1.25mm",
+        "Value": "6GHz",
+        "RF Series": "IPEX",
+        "Impedance": "50Ω",
+        "Style": "-",
+        "Operating Temperature Range": "-40℃~+90℃",
+        "Name": "={Value}",
+        "Description": "连接器类型:板端;接口类型:内针;端口数量:1;接口直径:2mm;接口长度/高度:1.25mm;频率:6GHz;射频系列:IPEX;阻抗:50Ω;样式:-;工作温度:-40℃~+90℃;"
+      }
+    },
+    "nets": {
+      "1": "GND",
+      "2": "NFC_ANT",
+      "3": "GND"
+    },
+    "sch": {
+      "x": 1660,
+      "y": 650,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 8.7,
+      "y": 31.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "U.FL ANT",
+    "dnp": false,
+    "note": "Passive 13.56MHz loop only. Centre pin2=NFC_ANT, shields1/3=GND. U.FL-I compatible 1.13mm 50-ohm microcoax, target <=50mm. Not Wi-Fi antenna; entire cable+loop is part of matching load."
+  },
+  {
+    "ref": "L201",
+    "part": "C337957",
+    "device": {
+      "uuid": "12b99e85970c47d7b3b530923b91d4dc",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电感/线圈/变压器",
+        "功率电感"
+      ],
+      "ordinal": 0,
+      "name": "LQW21HNR56J00L",
+      "symbolName": "LQW21HNR56J00L",
+      "symbolUuid": "e94fcfff69ab414dae766820be60e125",
+      "footprintName": "IND-SMD_L2.0-W1.2",
+      "footprintUuid": "bf02eeebde6c457ab9e24eeafe8a4c9b",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230108/9AA91B089C77FCD2AA66DCAA7621A09C.jpg",
+      "description": "电感值:560nH;精度:±5%;额定电流:150mA;饱和电流(Isat):-;类型:绕线电感;",
+      "manufacturer": "muRata(村田)",
+      "manufacturerId": "LQW21HNR56J00L",
+      "supplier": "LCSC",
+      "supplierId": "C337957",
+      "otherProperty": {
+        "LCSC Part Name": "560nH ±5%",
+        "Supplier Part": "C337957",
+        "Manufacturer": "muRata(村田)",
+        "Manufacturer Part": "LQW21HNR56J00L",
+        "Supplier Footprint": "0805",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/LQW21HNR56J00L/315737.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e94fcfff69ab414dae766820be60e125",
+        "Designator": "L?",
+        "Footprint": "bf02eeebde6c457ab9e24eeafe8a4c9b",
+        "Value": "560nH",
+        "Tolerance": "±5%",
+        "Current Rating": "150mA",
+        "Current - Saturation(Isat)": "-",
+        "DC Resistance(DCR)": "1.43Ω",
+        "Type": "绕线电感",
+        "Ratings": "-",
+        "Name": "={Value}",
+        "Description": "电感值:560nH;精度:±5%;额定电流:150mA;饱和电流(Isat):-;类型:绕线电感;"
+      }
+    },
+    "nets": {
+      "1": "NFC_TX2",
+      "2": "NFC_LPF"
+    },
+    "sch": {
+      "x": 730,
+      "y": 650,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 1.7,
+      "y": 27.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "560nH",
+    "dnp": false,
+    "note": "RF wirewound, Q>=35 at 25MHz, SRF>=580MHz, Irms<=150mA. Validate antenna drive current/temperature; reduce field strength if necessary."
+  },
+  {
+    "ref": "R201",
+    "part": "C23253",
+    "device": {
+      "uuid": "773fc60d5d68429883f2ad858929f077",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF8200T5E",
+      "symbolName": "0603WAF8200T5E",
+      "symbolUuid": "001348f596bc479891b2e7f68d5db52b",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/946206834E0DB2AB29B27C7D9108B2ED.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:820Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF8200T5E",
+      "supplier": "LCSC",
+      "supplierId": "C23253",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 820Ω ±1%",
+        "Supplier Part": "C23253",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF8200T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF8200T5E/23980.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "001348f596bc479891b2e7f68d5db52b",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "820Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:820Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_VMID",
+      "2": "NFC_RX"
+    },
+    "sch": {
+      "x": 730,
+      "y": 800,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 0.8,
+      "y": 32.9,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "820R",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "R202",
+    "part": "C23186",
+    "device": {
+      "uuid": "b5d09b57bc354a60b86d6a6308651647",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF5101T5E",
+      "symbolName": "0603WAF5101T5E",
+      "symbolUuid": "ab4a1b05c63347fc877e30d15b95594f",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/9C39306753CE9CDBEABF99F9866081BF.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF5101T5E",
+      "supplier": "LCSC",
+      "supplierId": "C23186",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 5.1kΩ ±1%",
+        "Supplier Part": "C23186",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF5101T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF5101T5E/23913.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ab4a1b05c63347fc877e30d15b95594f",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "5.1kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_RX",
+      "2": "NFC_RX_AC"
+    },
+    "sch": {
+      "x": 1040,
+      "y": 800,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 2.7,
+      "y": 31.4,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "5.1k",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "R203",
+    "part": "C23410",
+    "device": {
+      "uuid": "728ecf4af5f14992a4087066416226d5",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF330LT5E",
+      "symbolName": "0603WAF330LT5E",
+      "symbolUuid": "45e833a83d8746b1872a0822b562fda9",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230330/1C418D023F19B5FC45CB7732677A247F.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:330mΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±800ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF330LT5E",
+      "supplier": "LCSC",
+      "supplierId": "C23410",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 330mΩ ±1%",
+        "Supplier Part": "C23410",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF330LT5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF330LT5E/24143.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "45e833a83d8746b1872a0822b562fda9",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "330mΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±800ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:330mΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±800ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_MATCH",
+      "2": "NFC_ANT"
+    },
+    "sch": {
+      "x": 1370,
+      "y": 650,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 7.3,
+      "y": 27.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "0.33R",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "R204",
+    "part": "C21189",
+    "device": {
+      "uuid": "fc38f436091b49a696be03a7955956ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF0000T5E",
+      "symbolName": "0603WAF0000T5E",
+      "symbolUuid": "43176f66ee384f75aaae3d2a44b56c54",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/06F1FCBBCBE507C27183DCFE41438EE0.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF0000T5E",
+      "supplier": "LCSC",
+      "supplierId": "C21189",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 0Ω ±1%",
+        "Supplier Part": "C21189",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF0000T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "43176f66ee384f75aaae3d2a44b56c54",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "0Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "-",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;"
+      }
+    },
+    "nets": {
+      "1": "MCU_EN",
+      "2": "NFC_RST_N"
+    },
+    "sch": {
+      "x": 330,
+      "y": 450,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -6,
+      "y": 21.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "0R",
+    "dnp": false,
+    "note": "Shared hardware reset with ESP32 EN; software power-down for NFC. No extra GPIO needed."
+  },
+  {
+    "ref": "R205",
+    "part": "C25804",
+    "device": {
+      "uuid": "b948db94476e4027ac8953235755ec96",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF1002T5E",
+      "symbolName": "0603WAF1002T5E",
+      "symbolUuid": "e23085a8f904493eb2ce369cbc1b267c",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250618/A8DD5FF53E8BE3A05CC533FBBE26BF71.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF1002T5E",
+      "supplier": "LCSC",
+      "supplierId": "C25804",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 10kΩ ±1% 100mW",
+        "Supplier Part": "C25804",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1002T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e23085a8f904493eb2ce369cbc1b267c",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_EA",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 730,
+      "y": 450,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -8,
+      "y": 26.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10k",
+    "dnp": false,
+    "note": "Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+  },
+  {
+    "ref": "R206",
+    "part": "C21189",
+    "device": {
+      "uuid": "fc38f436091b49a696be03a7955956ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF0000T5E",
+      "symbolName": "0603WAF0000T5E",
+      "symbolUuid": "43176f66ee384f75aaae3d2a44b56c54",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/06F1FCBBCBE507C27183DCFE41438EE0.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF0000T5E",
+      "supplier": "LCSC",
+      "supplierId": "C21189",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 0Ω ±1%",
+        "Supplier Part": "C21189",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF0000T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "43176f66ee384f75aaae3d2a44b56c54",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "0Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "-",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;"
+      }
+    },
+    "nets": {
+      "1": "NFC_EA",
+      "2": "NFC_3V3"
+    },
+    "sch": {
+      "x": 730,
+      "y": 300,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -11,
+      "y": 26.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "0R DNP",
+    "dnp": true,
+    "note": "Optional opposite address strap; leave unpopulated by default."
+  },
+  {
+    "ref": "R207",
+    "part": "C25804",
+    "device": {
+      "uuid": "b948db94476e4027ac8953235755ec96",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF1002T5E",
+      "symbolName": "0603WAF1002T5E",
+      "symbolUuid": "e23085a8f904493eb2ce369cbc1b267c",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250618/A8DD5FF53E8BE3A05CC533FBBE26BF71.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF1002T5E",
+      "supplier": "LCSC",
+      "supplierId": "C25804",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 10kΩ ±1% 100mW",
+        "Supplier Part": "C25804",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1002T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e23085a8f904493eb2ce369cbc1b267c",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_ADR1",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1060,
+      "y": 450,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -8,
+      "y": 28,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10k",
+    "dnp": false,
+    "note": "Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+  },
+  {
+    "ref": "R208",
+    "part": "C21189",
+    "device": {
+      "uuid": "fc38f436091b49a696be03a7955956ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF0000T5E",
+      "symbolName": "0603WAF0000T5E",
+      "symbolUuid": "43176f66ee384f75aaae3d2a44b56c54",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/06F1FCBBCBE507C27183DCFE41438EE0.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF0000T5E",
+      "supplier": "LCSC",
+      "supplierId": "C21189",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 0Ω ±1%",
+        "Supplier Part": "C21189",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF0000T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "43176f66ee384f75aaae3d2a44b56c54",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "0Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "-",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;"
+      }
+    },
+    "nets": {
+      "1": "NFC_ADR1",
+      "2": "NFC_3V3"
+    },
+    "sch": {
+      "x": 1060,
+      "y": 300,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -11,
+      "y": 28,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "0R DNP",
+    "dnp": true,
+    "note": "Optional opposite address strap; leave unpopulated by default."
+  },
+  {
+    "ref": "R209",
+    "part": "C25804",
+    "device": {
+      "uuid": "b948db94476e4027ac8953235755ec96",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF1002T5E",
+      "symbolName": "0603WAF1002T5E",
+      "symbolUuid": "e23085a8f904493eb2ce369cbc1b267c",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250618/A8DD5FF53E8BE3A05CC533FBBE26BF71.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF1002T5E",
+      "supplier": "LCSC",
+      "supplierId": "C25804",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 10kΩ ±1% 100mW",
+        "Supplier Part": "C25804",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1002T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e23085a8f904493eb2ce369cbc1b267c",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_ADR0",
+      "2": "NFC_3V3"
+    },
+    "sch": {
+      "x": 1390,
+      "y": 450,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -8,
+      "y": 29.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10k",
+    "dnp": false,
+    "note": "Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+  },
+  {
+    "ref": "R210",
+    "part": "C21189",
+    "device": {
+      "uuid": "fc38f436091b49a696be03a7955956ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF0000T5E",
+      "symbolName": "0603WAF0000T5E",
+      "symbolUuid": "43176f66ee384f75aaae3d2a44b56c54",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/06F1FCBBCBE507C27183DCFE41438EE0.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF0000T5E",
+      "supplier": "LCSC",
+      "supplierId": "C21189",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 0Ω ±1%",
+        "Supplier Part": "C21189",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF0000T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "43176f66ee384f75aaae3d2a44b56c54",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "0Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "-",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;"
+      }
+    },
+    "nets": {
+      "1": "NFC_ADR0",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1390,
+      "y": 300,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -11,
+      "y": 29.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "0R DNP",
+    "dnp": true,
+    "note": "Optional opposite address strap; leave unpopulated by default."
+  },
+  {
+    "ref": "R211",
+    "part": "C25804",
+    "device": {
+      "uuid": "b948db94476e4027ac8953235755ec96",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF1002T5E",
+      "symbolName": "0603WAF1002T5E",
+      "symbolUuid": "e23085a8f904493eb2ce369cbc1b267c",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250618/A8DD5FF53E8BE3A05CC533FBBE26BF71.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF1002T5E",
+      "supplier": "LCSC",
+      "supplierId": "C25804",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 10kΩ ±1% 100mW",
+        "Supplier Part": "C25804",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1002T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e23085a8f904493eb2ce369cbc1b267c",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "nets": {
+      "1": "NFC_ADR_HI",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 330,
+      "y": 300,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -10,
+      "y": 32,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10k",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "R212",
+    "part": "C21189",
+    "device": {
+      "uuid": "fc38f436091b49a696be03a7955956ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "贴片电阻"
+      ],
+      "ordinal": 0,
+      "name": "0603WAF0000T5E",
+      "symbolName": "0603WAF0000T5E",
+      "symbolUuid": "43176f66ee384f75aaae3d2a44b56c54",
+      "footprintName": "R0603",
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "model3DName": "R0603",
+      "model3DUuid": "fc143cca1e79419f9cd78b61e9279f08",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/06F1FCBBCBE507C27183DCFE41438EE0.jpg",
+      "description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;",
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF0000T5E",
+      "supplier": "LCSC",
+      "supplierId": "C21189",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 0Ω ±1%",
+        "Supplier Part": "C21189",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF0000T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "43176f66ee384f75aaae3d2a44b56c54",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "0Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "-",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:0Ω;精度:±1%;功率:100mW;工作电压:75V;温度系数:-;"
+      }
+    },
+    "nets": {
+      "1": "+3V3",
+      "2": "NFC_3V3"
+    },
+    "sch": {
+      "x": 330,
+      "y": 150,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -9,
+      "y": 22,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "0R",
+    "dnp": false,
+    "note": "NFC supply isolation/current measurement link; debug with all power off, never leave powered I2C driving unpowered chip."
+  },
+  {
+    "ref": "C201",
+    "part": "C14663",
+    "device": {
+      "uuid": "96b39256cc3f4d80bd3b503deb4f3328",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CC0603KRX7R9BB104",
+      "symbolName": "CC0603KRX7R9BB104",
+      "symbolUuid": "061a2c804ac94030b09af596bddca03c",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/565F44E7FCAE51D13767AECBC328360D.jpg",
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "manufacturer": "YAGEO(国巨)",
+      "manufacturerId": "CC0603KRX7R9BB104",
+      "supplier": "LCSC",
+      "supplierId": "C14663",
+      "otherProperty": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(��巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "061a2c804ac94030b09af596bddca03c",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 200,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -6,
+      "y": 23.2,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "100nF / PVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C202",
+    "part": "C19702",
+    "device": {
+      "uuid": "80646d555bcf4558bdde69f7f0e5dc8d",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CL10A106KP8NNNC",
+      "symbolName": "CL10A106KP8NNNC",
+      "symbolUuid": "05254382fb9c403fb13b612218a7ea4f",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/9808C9BEFFFABB90D0C992860D83393B.jpg",
+      "description": "容值:10uF;精度:±10%;额定电压:10V;温度系数:X5R;",
+      "manufacturer": "SAMSUNG(三星)",
+      "manufacturerId": "CL10A106KP8NNNC",
+      "supplier": "LCSC",
+      "supplierId": "C19702",
+      "otherProperty": {
+        "LCSC Part Name": "10uF ±10% 10V",
+        "Supplier Part": "C19702",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A106KP8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CL10A106KP8NNNC/20411.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "05254382fb9c403fb13b612218a7ea4f",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10uF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "10V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:10uF;精度:±10%;额定电压:10V;温度系数:X5R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 450,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -8,
+      "y": 24.7,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10uF / PVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C203",
+    "part": "C14663",
+    "device": {
+      "uuid": "96b39256cc3f4d80bd3b503deb4f3328",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CC0603KRX7R9BB104",
+      "symbolName": "CC0603KRX7R9BB104",
+      "symbolUuid": "061a2c804ac94030b09af596bddca03c",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/565F44E7FCAE51D13767AECBC328360D.jpg",
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "manufacturer": "YAGEO(国巨)",
+      "manufacturerId": "CC0603KRX7R9BB104",
+      "supplier": "LCSC",
+      "supplierId": "C14663",
+      "otherProperty": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(��巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "061a2c804ac94030b09af596bddca03c",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 700,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -3.4,
+      "y": 23.2,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "100nF / SVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C204",
+    "part": "C14663",
+    "device": {
+      "uuid": "96b39256cc3f4d80bd3b503deb4f3328",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CC0603KRX7R9BB104",
+      "symbolName": "CC0603KRX7R9BB104",
+      "symbolUuid": "061a2c804ac94030b09af596bddca03c",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/565F44E7FCAE51D13767AECBC328360D.jpg",
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "manufacturer": "YAGEO(国巨)",
+      "manufacturerId": "CC0603KRX7R9BB104",
+      "supplier": "LCSC",
+      "supplierId": "C14663",
+      "otherProperty": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(��巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "061a2c804ac94030b09af596bddca03c",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 950,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 0.7,
+      "y": 25.3,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "100nF / TVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C205",
+    "part": "C19702",
+    "device": {
+      "uuid": "80646d555bcf4558bdde69f7f0e5dc8d",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CL10A106KP8NNNC",
+      "symbolName": "CL10A106KP8NNNC",
+      "symbolUuid": "05254382fb9c403fb13b612218a7ea4f",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/9808C9BEFFFABB90D0C992860D83393B.jpg",
+      "description": "容值:10uF;精度:±10%;额定电压:10V;温度系数:X5R;",
+      "manufacturer": "SAMSUNG(三星)",
+      "manufacturerId": "CL10A106KP8NNNC",
+      "supplier": "LCSC",
+      "supplierId": "C19702",
+      "otherProperty": {
+        "LCSC Part Name": "10uF ±10% 10V",
+        "Supplier Part": "C19702",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A106KP8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CL10A106KP8NNNC/20411.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "05254382fb9c403fb13b612218a7ea4f",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10uF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "10V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:10uF;精度:±10%;额定电压:10V;温度系数:X5R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1200,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -0.7,
+      "y": 23.4,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "10uF / TVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C206",
+    "part": "C14663",
+    "device": {
+      "uuid": "96b39256cc3f4d80bd3b503deb4f3328",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CC0603KRX7R9BB104",
+      "symbolName": "CC0603KRX7R9BB104",
+      "symbolUuid": "061a2c804ac94030b09af596bddca03c",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/565F44E7FCAE51D13767AECBC328360D.jpg",
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "manufacturer": "YAGEO(国巨)",
+      "manufacturerId": "CC0603KRX7R9BB104",
+      "supplier": "LCSC",
+      "supplierId": "C14663",
+      "otherProperty": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(��巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "061a2c804ac94030b09af596bddca03c",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_3V3",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1450,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 2.7,
+      "y": 24,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "100nF / AVDD",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C207",
+    "part": "C14663",
+    "device": {
+      "uuid": "96b39256cc3f4d80bd3b503deb4f3328",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "CC0603KRX7R9BB104",
+      "symbolName": "CC0603KRX7R9BB104",
+      "symbolUuid": "061a2c804ac94030b09af596bddca03c",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250715/565F44E7FCAE51D13767AECBC328360D.jpg",
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "manufacturer": "YAGEO(国巨)",
+      "manufacturerId": "CC0603KRX7R9BB104",
+      "supplier": "LCSC",
+      "supplierId": "C14663",
+      "otherProperty": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(��巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "061a2c804ac94030b09af596bddca03c",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      }
+    },
+    "nets": {
+      "1": "NFC_VMID",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1700,
+      "y": -70,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 0.9,
+      "y": 29.7,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "100nF / VMID",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C208",
+    "part": "C124184",
+    "device": {
+      "uuid": "c49b416357e24a779003122368637cfc",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "0603CG181J500NT",
+      "symbolName": "0603CG181J500NT",
+      "symbolUuid": "14a7b6121114425b901df52791825f4a",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20250927/0229DADCB910237AA8FC87E7C785A0C7.jpg",
+      "description": "容值:180pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG181J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C124184",
+      "otherProperty": {
+        "LCSC Part Name": "180pF ±5% 50V",
+        "Supplier Part": "C124184",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG181J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG181J500NT/125459.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "14a7b6121114425b901df52791825f4a",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "180pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:180pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_LPF",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 880,
+      "y": 570,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 3.3,
+      "y": 25.3,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "180pF",
+    "dnp": false,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C209",
+    "part": "C91701",
+    "device": {
+      "uuid": "f1e68e97d2584dcdb8d93e4b2ea1e3fe",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 2,
+      "name": "0603CG220J500NT",
+      "symbolName": "0603CG220J500NT",
+      "symbolUuid": "f29edc2c965040d18e55601e6e856cfa",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20251114/804E622606F01AA33F660A8575FDA618.jpg",
+      "description": "容值:22pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG220J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C91701",
+      "otherProperty": {
+        "LCSC Part Name": "22pF ±5% 50V",
+        "Supplier Part": "C91701",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG220J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG220J500NT/92890.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f29edc2c965040d18e55601e6e856cfa",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "22pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:22pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_LPF",
+      "2": "NFC_MATCH"
+    },
+    "sch": {
+      "x": 1040,
+      "y": 650,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 4.6,
+      "y": 27.5,
+      "rotation": 0,
+      "layer": 1
+    },
+    "value": "22pF",
+    "dnp": false,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C210",
+    "part": "C1635",
+    "device": {
+      "uuid": "14dd0669bfcf43c2bd0105608db45029",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 4,
+      "name": "0603CG101J500NT",
+      "symbolName": "0603CG101J500NT",
+      "symbolUuid": "d1c9c23ee8924774a0a27610b19f79df",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230108/8E707C99C873163A187101CE90D6AF89.jpg",
+      "description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG101J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C1635",
+      "otherProperty": {
+        "LCSC Part Name": "100pF ±5% 50V",
+        "Supplier Part": "C1635",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG101J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG101J500NT/1987.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d1c9c23ee8924774a0a27610b19f79df",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_MATCH",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1200,
+      "y": 570,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 4.8,
+      "y": 30,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "100pF",
+    "dnp": false,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C211",
+    "part": "C1635",
+    "device": {
+      "uuid": "14dd0669bfcf43c2bd0105608db45029",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 4,
+      "name": "0603CG101J500NT",
+      "symbolName": "0603CG101J500NT",
+      "symbolUuid": "d1c9c23ee8924774a0a27610b19f79df",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230108/8E707C99C873163A187101CE90D6AF89.jpg",
+      "description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG101J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C1635",
+      "otherProperty": {
+        "LCSC Part Name": "100pF ±5% 50V",
+        "Supplier Part": "C1635",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG101J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG101J500NT/1987.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d1c9c23ee8924774a0a27610b19f79df",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_MATCH",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1370,
+      "y": 570,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 6.3,
+      "y": 30,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "100pF",
+    "dnp": false,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C212",
+    "part": "C1635",
+    "device": {
+      "uuid": "14dd0669bfcf43c2bd0105608db45029",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 4,
+      "name": "0603CG101J500NT",
+      "symbolName": "0603CG101J500NT",
+      "symbolUuid": "d1c9c23ee8924774a0a27610b19f79df",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230108/8E707C99C873163A187101CE90D6AF89.jpg",
+      "description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG101J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C1635",
+      "otherProperty": {
+        "LCSC Part Name": "100pF ±5% 50V",
+        "Supplier Part": "C1635",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG101J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG101J500NT/1987.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d1c9c23ee8924774a0a27610b19f79df",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:100pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_MATCH",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1540,
+      "y": 570,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 4.8,
+      "y": 32.5,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "100pF DNP",
+    "dnp": true,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C213",
+    "part": "C91703",
+    "device": {
+      "uuid": "012b1fdfcba94f8bbcf37328b5890d88",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "0603CG150J500NT",
+      "symbolName": "0603CG150J500NT",
+      "symbolUuid": "121e21c9a16d44b795fb4328e5064530",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20221231/21A9603D1974EEE5473231CCA3B0ECB4.jpg",
+      "description": "容值:15pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG150J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C91703",
+      "otherProperty": {
+        "LCSC Part Name": "15pF ±5% 50V",
+        "Supplier Part": "C91703",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG150J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG150J500NT/92892.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "121e21c9a16d44b795fb4328e5064530",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "15pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:15pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_RX_AC",
+      "2": "NFC_MATCH"
+    },
+    "sch": {
+      "x": 1370,
+      "y": 800,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": 3.1,
+      "y": 29.6,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "15pF",
+    "dnp": false,
+    "note": "RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+  },
+  {
+    "ref": "C214",
+    "part": "C1646",
+    "device": {
+      "uuid": "7378d9f3797b4a6287bbf8f1c6ce17f2",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "0603CG160J500NT",
+      "symbolName": "0603CG160J500NT",
+      "symbolUuid": "c23871c5a8d24aa18cec894161c822dd",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230109/E03EBB53050467F13B22E338B47094E4.jpg",
+      "description": "容值:16pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG160J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C1646",
+      "otherProperty": {
+        "LCSC Part Name": "16pF ±5% 50V",
+        "Supplier Part": "C1646",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG160J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG160J500NT/1998.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c23871c5a8d24aa18cec894161c822dd",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "16pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:16pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_OSCIN",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1040,
+      "y": 1000,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -6.5,
+      "y": 33,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "16pF",
+    "dnp": false,
+    "note": ""
+  },
+  {
+    "ref": "C215",
+    "part": "C1646",
+    "device": {
+      "uuid": "7378d9f3797b4a6287bbf8f1c6ce17f2",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电容",
+        "贴片电容(MLCC)"
+      ],
+      "ordinal": 0,
+      "name": "0603CG160J500NT",
+      "symbolName": "0603CG160J500NT",
+      "symbolUuid": "c23871c5a8d24aa18cec894161c822dd",
+      "footprintName": "C0603",
+      "footprintUuid": "76d6c29a47804db487f8a92b2621751b",
+      "model3DName": "C0603_L1.6-W0.8-H0.8",
+      "model3DUuid": "ac125912035d415993ca9572d50418b1",
+      "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230109/E03EBB53050467F13B22E338B47094E4.jpg",
+      "description": "容值:16pF;精度:±5%;额定电压:50V;温度系数:C0G;",
+      "manufacturer": "FH(风华)",
+      "manufacturerId": "0603CG160J500NT",
+      "supplier": "LCSC",
+      "supplierId": "C1646",
+      "otherProperty": {
+        "LCSC Part Name": "16pF ±5% 50V",
+        "Supplier Part": "C1646",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG160J500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603CG160J500NT/1998.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c23871c5a8d24aa18cec894161c822dd",
+        "Designator": "C?",
+        "Footprint": "76d6c29a47804db487f8a92b2621751b",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "16pF",
+        "Tolerance": "±5%",
+        "Voltage Rating": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:16pF;精度:±5%;额定电压:50V;温度系数:C0G;"
+      }
+    },
+    "nets": {
+      "1": "NFC_OSCOUT",
+      "2": "GND"
+    },
+    "sch": {
+      "x": 1370,
+      "y": 1000,
+      "rotation": 0
+    },
+    "pcb": {
+      "x": -0.8,
+      "y": 33,
+      "rotation": 90,
+      "layer": 1
+    },
+    "value": "16pF",
+    "dnp": false,
+    "note": ""
+  }
+]

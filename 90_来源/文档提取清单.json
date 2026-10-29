@@ -1678,7 +1678,8 @@
     "id": "D025",
     "name": "C46061744.pdf",
     "originals": [
-      "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/C46061744.pdf"
+      "80_完整资料/已整理资料/PCB/J7_J701_水平六针候选_20261024/C46061744.pdf",
+      "80_完整资料/工作区进展_20261029/output/mechanical_v04/references/C46061744.pdf"
     ],
     "original_sha256": "a1f5387cc84dcc320f011a726578ffd4848f7693e6da60cb5b6e1c9cca530be9",
     "text": "81_文档检索/提取正文/D025/正文.txt",
@@ -1713,5 +1714,341 @@
       "82_设计图/文档预览/D026/page-001.png": "91a1ede7f516d50ba9763160cc1c31bffdbc9777859c3003d374ff1b5b671bda"
     },
     "rendering_note": "韩下厂家尺寸图/承认书。部分尺寸为矢量文字不可提取，以逐页预览为准；核查首张图纸，不作为插拔寿命或整机可靠性认证。"
+  },
+  {
+    "id": "D027",
+    "name": "主控板_原理图预览.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0_三板原理图与布局_20261026/主控板_原理图预览.pdf"
+    ],
+    "original_sha256": "f1c51f42cb366d9cc5abc856c73ff41a364312c2f6f8ceceed9a4d5fda43c993",
+    "text": "81_文档检索/提取正文/D027/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D027/page-001.png",
+      "82_设计图/文档预览/D027/page-002.png",
+      "82_设计图/文档预览/D027/page-003.png",
+      "82_设计图/文档预览/D027/page-004.png",
+      "82_设计图/文档预览/D027/page-005.png",
+      "82_设计图/文档预览/D027/page-006.png",
+      "82_设计图/文档预览/D027/page-007.png",
+      "82_设计图/文档预览/D027/page-008.png",
+      "82_设计图/文档预览/D027/page-009.png",
+      "82_设计图/文档预览/D027/page-010.png",
+      "82_设计图/文档预览/D027/page-011.png",
+      "82_设计图/文档预览/D027/page-012.png",
+      "82_设计图/文档预览/D027/page-013.png"
+    ],
+    "pages": 13,
+    "text_characters": 6443,
+    "text_sha256": "fc76898a06e208b5f5d74513a346eb46068f4ec9bca0460733765afbb58a8044",
+    "preview_sha256": {
+      "82_设计图/文档预览/D027/page-001.png": "ed25a6ab0e74dc828fa5b2446f1a53702d01b9ae06ab97c3c256265f9e232162",
+      "82_设计图/文档预览/D027/page-002.png": "150e1134a53d67f2245a0e5269b045bc255f94bff56ff5d61f3c34d5d39ffa27",
+      "82_设计图/文档预览/D027/page-003.png": "4953e41422f4a50914a4b8fcb137505e6e26df853eb199e5134e446eabf52de9",
+      "82_设计图/文档预览/D027/page-004.png": "23f0ab592d345db8cdce7d037fd41ab2a0774596ad5f333c5a625b0e397b51aa",
+      "82_设计图/文档预览/D027/page-005.png": "fff20785ca0502144c86dae5eb388a8a62c43042c4ce3977295ccf29603b4821",
+      "82_设计图/文档预览/D027/page-006.png": "adaf8570212020ac5dab1a30c6b4c158fafcc2238dd9bc3b7105e464d9b33c78",
+      "82_设计图/文档预览/D027/page-007.png": "d9c827cdd5d745947db4e64845a7eae19d12e94026f9a23eba9640c5d6ffc626",
+      "82_设计图/文档预览/D027/page-008.png": "86c1acafae6de6294bb3e3c100732bc4bc6f6ccaaf02dfb858159b0c7d44fa31",
+      "82_设计图/文档预览/D027/page-009.png": "6ad0f23bff83b77f6bc438a11b2c063a7894e66994237c8e51f3584396fc16b2",
+      "82_设计图/文档预览/D027/page-010.png": "552fa63dd91235746c83a37fb73e380c4863ad32292892bbaf8278c991bdefee",
+      "82_设计图/文档预览/D027/page-011.png": "5bf2f65b530d7e718d8ac6f29a16fe94e4b40286022817d166d52e383c9a3d82",
+      "82_设计图/文档预览/D027/page-012.png": "4f91dd7baffec5d835edace6487513b375b47e8d47634e237310bc9eb9306c85",
+      "82_设计图/文档预览/D027/page-013.png": "c5d0dafb3cb70cb08c6251c94f0208c4370eafbf4480dadb465adf76c0939531"
+    },
+    "rendering_note": "逐页由交付PDF渲染；PDF为高清原理图图像，检索辅助文字来自原生EDA图页可见文字/属性，不是PDF文字层或OCR。未布线。"
+  },
+  {
+    "id": "D028",
+    "name": "电源板_原理图预览.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0_三板原理图与布局_20261026/电源板_原理图预览.pdf"
+    ],
+    "original_sha256": "61cde34a3cbbeb985fbf138887807d81ca1bed31394a0d335eed5da4a97533f7",
+    "text": "81_文档检索/提取正文/D028/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D028/page-001.png",
+      "82_设计图/文档预览/D028/page-002.png",
+      "82_设计图/文档预览/D028/page-003.png",
+      "82_设计图/文档预览/D028/page-004.png",
+      "82_设计图/文档预览/D028/page-005.png",
+      "82_设计图/文档预览/D028/page-006.png",
+      "82_设计图/文档预览/D028/page-007.png"
+    ],
+    "pages": 7,
+    "text_characters": 4346,
+    "text_sha256": "fac41c6cca5254034877eb8a8b9cced0a1ea7b58e875af1897e351facaf47eb9",
+    "preview_sha256": {
+      "82_设计图/文档预览/D028/page-001.png": "d2bfa1eab9f654a83c79d83ea8f806b625b1ac748c2009cf9d3ff0e5f0cf2d8d",
+      "82_设计图/文档预览/D028/page-002.png": "3927676186f14fc7025fd671305d3f7ad79fcd03d1bd993edc488e27dafffb0a",
+      "82_设计图/文档预览/D028/page-003.png": "b14164739f36f076778202c6ac38ced0ecff2492a2b66aae514bc735a094cca4",
+      "82_设计图/文档预览/D028/page-004.png": "cb4e37ed553d7ec470e68078b040af936e414737d3e23c84a8d7b2fdb2b770e5",
+      "82_设计图/文档预览/D028/page-005.png": "1d02b964089a36d249cc432898328da9f82d1a360fae6c1bbe8b0dc7102b2415",
+      "82_设计图/文档预览/D028/page-006.png": "362bad572a17cbe98eb188a0f10c629dc95b44eb568effd810d9ecd0d28d8a39",
+      "82_设计图/文档预览/D028/page-007.png": "f110e92280e84a2557652f8dc5dbf4900aeb77b849d6f27effd9fb0b70d9b552"
+    },
+    "rendering_note": "逐页由交付PDF渲染；PDF为高清原理图图像，检索辅助文字来自原生EDA图页可见文字/属性，不是PDF文字层或OCR。未布线。"
+  },
+  {
+    "id": "D029",
+    "name": "剑身板_原理图预览.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0_三板原理图与布局_20261026/剑身板_原理图预览.pdf"
+    ],
+    "original_sha256": "b0897b4e0ffeceaa23073ec8c8ae36ea0102c05fc6cfe13bf127ecfa12ddec5f",
+    "text": "81_文档检索/提取正文/D029/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D029/page-001.png"
+    ],
+    "pages": 1,
+    "text_characters": 1488,
+    "text_sha256": "dffc2a9cd0e0fe7e21e1e361dd1a40d9a65e365f3531339e2e2532635dc4f2b4",
+    "preview_sha256": {
+      "82_设计图/文档预览/D029/page-001.png": "7858a93274afda03197eaae767b42db08f21deff9fc0346ff4e7334786c8a8ec"
+    },
+    "rendering_note": "逐页由交付PDF渲染；PDF为高清原理图图像，检索辅助文字来自原生EDA图页可见文字/属性，不是PDF文字层或OCR。未布线。"
+  },
+  {
+    "id": "D030",
+    "name": "DLL_GHD系列_厂家规格书.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0B_小型侧插接口_20261027/DLL_GHD系列_厂家规格书.pdf"
+    ],
+    "original_sha256": "32163006e35537e12c0c54819d12b3c64a568443fdfe2b182f96ff05b470f7aa",
+    "text": "81_文档检索/提取正文/D030/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D030/page-001.png",
+      "82_设计图/文档预览/D030/page-002.png",
+      "82_设计图/文档预览/D030/page-003.png",
+      "82_设计图/文档预览/D030/page-004.png",
+      "82_设计图/文档预览/D030/page-005.png",
+      "82_设计图/文档预览/D030/page-006.png"
+    ],
+    "pages": 6,
+    "text_characters": 7071,
+    "text_sha256": "08e65bdfdccdace08cd81dde740bd4971f05c14517c73d633bf753764311076c",
+    "preview_sha256": {
+      "82_设计图/文档预览/D030/page-001.png": "c8f79347188753f94a67f24427fa66c372a84f1a21fc8c8ad67eef5ec98ca4d6",
+      "82_设计图/文档预览/D030/page-002.png": "9635da54ff825bce625c2f00386c84495f845cfa30f1e4fa1066bc96bcf5e993",
+      "82_设计图/文档预览/D030/page-003.png": "0eb7f3ab96a039e0d7f864f0ddc3c190279736363cd29548fc42df326c238e45",
+      "82_设计图/文档预览/D030/page-004.png": "6d78c01bb9a55641d96e477e5aef38e68761e3a3b79ac934a2c290c5b158f3d1",
+      "82_设计图/文档预览/D030/page-005.png": "1babd6569b36344b49843ebf5fbfa0889e1b026934a45d0bf87f82d63fe081fd",
+      "82_设计图/文档预览/D030/page-006.png": "49e187bed9af14932729e1fd575b822c5dbe2b78041fd82ca37021e67a074e82"
+    },
+    "rendering_note": "厂家CAD字体抽取部分乱码；已生成并目检全部6页。尺寸/针序/线规以第4、6页图纸为准，关键数据另见本轮V080B说明。"
+  },
+  {
+    "id": "D031",
+    "name": "WS1850T_V2.2.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/WS1850T_V2.2.pdf"
+    ],
+    "original_sha256": "67c6e9406750d9ad95a4235a2c494720cd8ce10db16e1da91ad0be0b6d171f85",
+    "text": "81_文档检索/提取正文/D031/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D031/page-001.png",
+      "82_设计图/文档预览/D031/page-002.png",
+      "82_设计图/文档预览/D031/page-003.png",
+      "82_设计图/文档预览/D031/page-004.png",
+      "82_设计图/文档预览/D031/page-005.png",
+      "82_设计图/文档预览/D031/page-006.png",
+      "82_设计图/文档预览/D031/page-007.png",
+      "82_设计图/文档预览/D031/page-008.png"
+    ],
+    "pages": 8,
+    "text_characters": 5004,
+    "text_sha256": "e2521da8ff472452ab0dc2a7e419e04be4a19734a04c7e09b0402bcd8b92bbfe",
+    "preview_sha256": {
+      "82_设计图/文档预览/D031/page-001.png": "bd83f9c88a59a854d14f52909b767937cc9954c6ce88d090e1e8b89b9a768ec8",
+      "82_设计图/文档预览/D031/page-002.png": "e8688821d8d1af5b2acd06015f5cc08a0c209bcd040ef90bbe06baafdcd98b5e",
+      "82_设计图/文档预览/D031/page-003.png": "81375a5d92ca0b1b7a5fba6ab4cbcd65df7de311e1ebe36645d51b551e321f88",
+      "82_设计图/文档预览/D031/page-004.png": "7129a4bb103ebc1d748723b94d2f785f4fd9d439d95d27c776af053166993345",
+      "82_设计图/文档预览/D031/page-005.png": "a836d3ac64873cd02041995990afcf41f0ae0e785a7714bb5669175d24aa3cc2",
+      "82_设计图/文档预览/D031/page-006.png": "f32bad0d067099c86af64e1aee424e1e6b325bce618c0475631a7af7e612174e",
+      "82_设计图/文档预览/D031/page-007.png": "d5313280c8246baad545df0b751622515c051e8e766637f6d531c3f3ca405d12",
+      "82_设计图/文档预览/D031/page-008.png": "bea323523b6afcf9afe6f89221de96d7728611cdffa6f6dfb98d1ecdb34971db"
+    },
+    "rendering_note": "厂家V2.2公开规格书；已目检第5页参考电路，地址映射及完整初始化寄存器需进一步取得。"
+  },
+  {
+    "id": "D032",
+    "name": "BWCD-L3W2.0H1.0.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/J7_J701_紧凑接口调研_20261024/BWCD-L3W2.0H1.0.pdf"
+    ],
+    "original_sha256": "3fd46384926f7c6f9b35260ffc1647c8382d0e8ce9928afb49ce5de0672d33d6",
+    "text": "81_文档检索/提取正文/D032/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D032/page-01.png",
+      "82_设计图/文档预览/D032/page-02.png",
+      "82_设计图/文档预览/D032/page-03.png",
+      "82_设计图/文档预览/D032/page-04.png",
+      "82_设计图/文档预览/D032/page-05.png",
+      "82_设计图/文档预览/D032/page-06.png",
+      "82_设计图/文档预览/D032/page-07.png",
+      "82_设计图/文档预览/D032/page-08.png",
+      "82_设计图/文档预览/D032/page-09.png",
+      "82_设计图/文档预览/D032/page-10.png"
+    ],
+    "pages": 10,
+    "text_characters": 4145,
+    "text_sha256": "252d0575e9684761fbd89465f43f98839370be36bb88fc2367acc352af9e7507",
+    "preview_sha256": {
+      "82_设计图/文档预览/D032/page-01.png": "5b4782ee9274f0c79070bd35a3f6c0134a1d3e53f632d091d970b363fb0959b1",
+      "82_设计图/文档预览/D032/page-02.png": "2a2e6254491798fc7a9e20ea8af14951478c5638a6e501becfe87c2bb763bd6f",
+      "82_设计图/文档预览/D032/page-03.png": "21f7a90f739bc2e3f9281385a661f8134bdb005a40dbe18e2cd88d93fdd3e746",
+      "82_设计图/文档预览/D032/page-04.png": "72d1dbe8fd1072a06d18a47f5a5154c86bff575aeed0a5e38c6f7c3265d6ef2f",
+      "82_设计图/文档预览/D032/page-05.png": "497a29f3cf995150640378f469e5aed50b9fbcc5bb9719e825446da85284099f",
+      "82_设计图/文档预览/D032/page-06.png": "ae1f6d0883842ee4eef787f4ebd8355f67bb219d3f5545af5a41335296bd2953",
+      "82_设计图/文档预览/D032/page-07.png": "4eb7a30a477e290ab2b12a0be84ccb29a34e75aa762114aec8ac5a73b8706ca2",
+      "82_设计图/文档预览/D032/page-08.png": "ebb66c526e7863d8330c31ad8dd1942954e94f2d6afc3dc2139912abb88f2c8a",
+      "82_设计图/文档预览/D032/page-09.png": "e8661d693381862afb263e620880907d3c68d67685dd63c5349efec15a0ce9a3",
+      "82_设计图/文档预览/D032/page-10.png": "7feedf38453a14228d1ddec8d2ef93fcc65562501c4a93d1b51b7cbaa31a3539"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
+  },
+  {
+    "id": "D033",
+    "name": "NPXL_MANUAL_OCT_19.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/J7_J701_紧凑接口调研_20261024/NPXL_MANUAL_OCT_19.pdf"
+    ],
+    "original_sha256": "d937939702bbc5fda64e79000bbb53290f9604a838efa853a09746ec10b1c975",
+    "text": "81_文档检索/提取正文/D033/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D033/page-01.png",
+      "82_设计图/文档预览/D033/page-02.png",
+      "82_设计图/文档预览/D033/page-03.png",
+      "82_设计图/文档预览/D033/page-04.png",
+      "82_设计图/文档预览/D033/page-05.png",
+      "82_设计图/文档预览/D033/page-06.png",
+      "82_设计图/文档预览/D033/page-07.png",
+      "82_设计图/文档预览/D033/page-08.png",
+      "82_设计图/文档预览/D033/page-09.png",
+      "82_设计图/文档预览/D033/page-10.png",
+      "82_设计图/文档预览/D033/page-11.png",
+      "82_设计图/文档预览/D033/page-12.png",
+      "82_设计图/文档预览/D033/page-13.png",
+      "82_设计图/文档预览/D033/page-14.png"
+    ],
+    "pages": 14,
+    "text_characters": 6548,
+    "text_sha256": "597f9551c385c20a023b2452fbbcc74f1ea09828179c5a071b1d068d3d851b32",
+    "preview_sha256": {
+      "82_设计图/文档预览/D033/page-01.png": "6d4a954110c3923d7d9b07b9a8997909e7ca730d268afd77f828bef14c226b6f",
+      "82_设计图/文档预览/D033/page-02.png": "ca8db85355b94cf293c132b18ed02952ce336e985787a775143a1eb88d2a63e3",
+      "82_设计图/文档预览/D033/page-03.png": "c802ffd96f868ed687cf50df2ac19c26a8a8b726a889ddcb028ba036002ec669",
+      "82_设计图/文档预览/D033/page-04.png": "f8eabe7ba6c99651faf17e0c9d84517c29e00552297b937f715e690822257b29",
+      "82_设计图/文档预览/D033/page-05.png": "1efb744e9afd95f07783f8a13079578f9ff707ffdfdaf8cef9bfcf10abbcbc6f",
+      "82_设计图/文档预览/D033/page-06.png": "3999e22f1d059b0429d967c49f6fc2649a5c6df6959057c004ba1c91b4a8df5a",
+      "82_设计图/文档预览/D033/page-07.png": "7034d64ae5f53d5d6b68e552e4bcb5c8072dd6cc3a958d707b6f9f15bff0b144",
+      "82_设计图/文档预览/D033/page-08.png": "b12e3fc017bd1f9397a493df34bd5768f848742dc52cc73a5d2348d3748d054f",
+      "82_设计图/文档预览/D033/page-09.png": "e3e3914baea40a044763f15d6b36efdea09519b621c6057689a521186ca4e372",
+      "82_设计图/文档预览/D033/page-10.png": "6882435a6a6680881ce5ee75e569f8cb8620a1cedbef28b78f88afcbf9e8852e",
+      "82_设计图/文档预览/D033/page-11.png": "67c41aebb16f20c3e027f77dd5b393fb436fc4e417e2e4221af337e7de8bb0af",
+      "82_设计图/文档预览/D033/page-12.png": "f1bd6e3dd8dc46b28feee137c8e768c9971907adb7eca8eb89a137700e22edc4",
+      "82_设计图/文档预览/D033/page-13.png": "a36b2c09b7b4872c56539e515706e94bdd749cd9963ac216db5a1ca5ea11e7be",
+      "82_设计图/文档预览/D033/page-14.png": "04ea395cb374738c88ab0d4b6ba1b0ea3af9396c00320ae71950a80a3ddaf59c"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
+  },
+  {
+    "id": "D034",
+    "name": "J7_J701_厂家接口尺寸资料.pdf",
+    "originals": [
+      "80_完整资料/已整理资料/PCB/接口参考资料_J7_J701_20261024/J7_J701_厂家接口尺寸资料.pdf"
+    ],
+    "original_sha256": "097513e07390ae1f0cbe83837f97418d4fac99aa1434b2f4fd1eaedd8d4265e8",
+    "text": "81_文档检索/提取正文/D034/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D034/page-1.png",
+      "82_设计图/文档预览/D034/page-2.png"
+    ],
+    "pages": 2,
+    "text_characters": 4122,
+    "text_sha256": "0184c5d85b585aa27f962d20b783a40bb89e2446f1388d73e9e14c613ac86507",
+    "preview_sha256": {
+      "82_设计图/文档预览/D034/page-1.png": "75005c2f56226512ac07360969b5025a99877c0902f215425c3ee843372fddea",
+      "82_设计图/文档预览/D034/page-2.png": "c23ea95cedeafccaf1b72c29b4c6e426d72a6ddd63af9c09a2abeebf963ca628"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
+  },
+  {
+    "id": "D035",
+    "name": "C32713227-drawing.pdf",
+    "originals": [
+      "80_完整资料/工作区进展_20261029/output/mechanical_v04/references/C32713227-drawing.pdf"
+    ],
+    "original_sha256": "3b7fc7363a195bc8a5f1d221f3c2cd79e141d18a83e1cb5b94da933b8b1ad4a2",
+    "text": "81_文档检索/提取正文/D035/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D035/page-1.png"
+    ],
+    "pages": 1,
+    "text_characters": 90,
+    "text_sha256": "15159d34052e621a145ad58fd21e837bde95e660a88f3088a7cf8b8a7ffe07eb",
+    "preview_sha256": {
+      "82_设计图/文档预览/D035/page-1.png": "d80862ec0cc9beb26d6ab3da93583ed06eaeddec82a474db3a71b4db45510b80"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
+  },
+  {
+    "id": "D036",
+    "name": "器灵_圆筒外壳V05_爆炸图与尺寸核算.pdf",
+    "originals": [
+      "80_完整资料/工作区进展_20261029/output/mechanical_v05_cylinder_review/器灵_圆筒外壳V05_爆炸图与尺寸核算.pdf"
+    ],
+    "original_sha256": "bd07b07c32d6d611e63411588a9cbfddb425b12a5503518a786162310888a6ea",
+    "text": "81_文档检索/提取正文/D036/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D036/page-1.png",
+      "82_设计图/文档预览/D036/page-2.png",
+      "82_设计图/文档预览/D036/page-3.png",
+      "82_设计图/文档预览/D036/page-4.png"
+    ],
+    "pages": 4,
+    "text_characters": 2958,
+    "text_sha256": "9d17d5539a56681b69a3415513f3df0c5bf9ecbbce189175762434bc38018f3c",
+    "preview_sha256": {
+      "82_设计图/文档预览/D036/page-1.png": "dd73680930d8491c940010b7316fa295647756ef2f78b25711a3646226a2f907",
+      "82_设计图/文档预览/D036/page-2.png": "8ec2a534feec257f7469634dd507279e53c3f65faff58316025c7d6bb28b7d2f",
+      "82_设计图/文档预览/D036/page-3.png": "ff332e2798af9200fce81a5f6803709aa3db0ccca2199077cc3b7a0dea1caa47",
+      "82_设计图/文档预览/D036/page-4.png": "0ded33d27bdfc2a08da2ce4a58c444eeb7224e9ac7f96fc54e8235899e3bc265"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
+  },
+  {
+    "id": "D037",
+    "name": "器灵_通体圆柱V06_两板剑柄结构图.pdf",
+    "originals": [
+      "80_完整资料/工作区进展_20261029/output/mechanical_v06_uniform_cylinder/器灵_通体圆柱V06_两板剑柄结构图.pdf"
+    ],
+    "original_sha256": "0453d644622624130c065f76d5f43b020408b7a5404592c9a1c029491b115a2d",
+    "text": "81_文档检索/提取正文/D037/正文.txt",
+    "format": "pdf",
+    "previews": [
+      "82_设计图/文档预览/D037/page-1.png",
+      "82_设计图/文档预览/D037/page-2.png",
+      "82_设计图/文档预览/D037/page-3.png"
+    ],
+    "pages": 3,
+    "text_characters": 1938,
+    "text_sha256": "515b9d350d68771bbf05dd2f0aada879216be28c217f6df47ac44ab5d22ed194",
+    "preview_sha256": {
+      "82_设计图/文档预览/D037/page-1.png": "f97163fa968430c7de88cde3c3eb5dd4f7bd1c8b707572320121846ca724918b",
+      "82_设计图/文档预览/D037/page-2.png": "6e4aeaabf8142a4bd89948304d4134eb221f3819bcd68817795e67eaf4fc7197",
+      "82_设计图/文档预览/D037/page-3.png": "287d90087127f91ecb5ce7f44dcc4f21ea70b6ebbefb2ab73fe0eb3281bd1583"
+    },
+    "rendering_note": "2026-10-29 归档提取；原件未改。历史资料不自动成为现行设计。"
   }
 ]

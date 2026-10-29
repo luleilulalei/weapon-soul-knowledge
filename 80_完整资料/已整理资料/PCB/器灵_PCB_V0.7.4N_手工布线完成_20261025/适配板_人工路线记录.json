@@ -1,0 +1,2315 @@
+{
+  "moves": {},
+  "padMoves": {},
+  "tracks": [
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.4,
+      "points": [
+        [
+          1.99898,
+          4.0005
+        ],
+        [
+          3.2,
+          5.2
+        ]
+      ],
+      "label": "J701.6 > C702.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.4,
+      "points": [
+        [
+          3.2,
+          5.2
+        ],
+        [
+          3.2,
+          6.4
+        ]
+      ],
+      "label": "J701.6 > C702.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.4,
+      "points": [
+        [
+          3.2,
+          6.4
+        ],
+        [
+          -3.1,
+          6.4
+        ]
+      ],
+      "label": "J701.6 > C702.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.4,
+      "points": [
+        [
+          -3.1,
+          6.4
+        ],
+        [
+          -3.0987999999999998,
+          7.80034
+        ]
+      ],
+      "label": "J701.6 > C702.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          -0.98044,
+          7.80034
+        ],
+        [
+          -0.98,
+          6.4
+        ]
+      ],
+      "label": "C701.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          4.0005,
+          7.747
+        ],
+        [
+          4,
+          7.2
+        ]
+      ],
+      "label": "R701.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          4,
+          7.2
+        ],
+        [
+          3.2,
+          6.4
+        ]
+      ],
+      "label": "R701.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          -0.98044,
+          7.80034
+        ],
+        [
+          -1.7,
+          7.8
+        ]
+      ],
+      "label": "C701.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          -0.9753599999999999,
+          11.130279999999999
+        ],
+        [
+          -0.975,
+          12.2
+        ]
+      ],
+      "label": "U701.4",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          1.5,
+          7
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.5,
+          7
+        ],
+        [
+          -1.7,
+          7
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          -1.7,
+          7
+        ],
+        [
+          -1.7,
+          7.8
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          1.5,
+          11
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.5,
+          11
+        ],
+        [
+          0.3,
+          12.2
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          0.3,
+          12.2
+        ],
+        [
+          -0.975,
+          12.2
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          0.32512,
+          11.130279999999999
+        ],
+        [
+          0.325,
+          10
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          0.325,
+          10
+        ],
+        [
+          0.6,
+          9.725
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          0.6,
+          9.725
+        ],
+        [
+          0.6,
+          8.4
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          0.6,
+          8.4
+        ],
+        [
+          0.9,
+          8.1
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          0.9,
+          8.1
+        ],
+        [
+          1.30048,
+          7.80034
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          4.0005,
+          9.25322
+        ],
+        [
+          3,
+          9.2532
+        ]
+      ],
+      "label": "R701.2 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          3,
+          9.2532
+        ],
+        [
+          3,
+          7.8003
+        ]
+      ],
+      "label": "R701.2 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          3,
+          7.8003
+        ],
+        [
+          1.30048,
+          7.80034
+        ]
+      ],
+      "label": "R701.2 > C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          1.30048,
+          7.80034
+        ],
+        [
+          0.45,
+          7.8
+        ]
+      ],
+      "label": "C703.1",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          0.45,
+          7.8
+        ],
+        [
+          0,
+          8.25
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          0,
+          8.25
+        ],
+        [
+          0.0,
+          8.99999978
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -1.99898,
+          1.99898
+        ],
+        [
+          -4,
+          2
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -4,
+          2
+        ],
+        [
+          -4.7,
+          2.7
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -4.7,
+          2.7
+        ],
+        [
+          -4.7,
+          9.9
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -4.7,
+          9.9
+        ],
+        [
+          -2.9261,
+          9.9
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -2.9261,
+          9.9
+        ],
+        [
+          -2.92608,
+          11.130279999999999
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          0.0,
+          4.0005
+        ],
+        [
+          0,
+          5.2
+        ]
+      ],
+      "label": "J701.4",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -2.92608,
+          16.87068
+        ],
+        [
+          -2.9261,
+          17.8
+        ]
+      ],
+      "label": "U701.20",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          0,
+          5.2
+        ],
+        [
+          -6,
+          5.2
+        ]
+      ],
+      "label": "Adapter host I2C",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -6,
+          5.2
+        ],
+        [
+          -6,
+          17.8
+        ]
+      ],
+      "label": "Adapter host I2C",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -6,
+          17.8
+        ],
+        [
+          -2.9261,
+          17.8
+        ]
+      ],
+      "label": "Adapter host I2C",
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          1.99898,
+          1.99898
+        ],
+        [
+          3.2,
+          2
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          3.2,
+          2
+        ],
+        [
+          4.2,
+          1
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          4.2,
+          1
+        ],
+        [
+          8.6,
+          1
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          8.6,
+          1
+        ],
+        [
+          9.4,
+          1.8
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          9.4,
+          1.8
+        ],
+        [
+          9.4,
+          19.7
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          9.4,
+          19.7
+        ],
+        [
+          -5.2,
+          19.7
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          -3.8989,
+          19.49958
+        ],
+        [
+          -5.2,
+          19.7
+        ]
+      ],
+      "label": "C704.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          -3.55092,
+          22.349459999999997
+        ],
+        [
+          -3.9,
+          21.9
+        ]
+      ],
+      "label": "U702.1 > C704.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          -3.9,
+          21.9
+        ],
+        [
+          -3.8989,
+          19.49958
+        ]
+      ],
+      "label": "U702.1 > C704.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.349459999999997
+        ],
+        [
+          -5.4508399999999995,
+          22.9997
+        ]
+      ],
+      "label": "U702.6 > U702.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.9997
+        ],
+        [
+          -6.3,
+          23
+        ]
+      ],
+      "label": "U702.6 > U702.5",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          -6.3,
+          23
+        ],
+        [
+          -6.3,
+          25.4
+        ]
+      ],
+      "label": "C705.1 > J702.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          -6.3,
+          25.4
+        ],
+        [
+          -5.40004,
+          26.29916
+        ]
+      ],
+      "label": "C705.1 > J702.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          -5.40004,
+          26.29916
+        ],
+        [
+          -5.4,
+          28
+        ]
+      ],
+      "label": "C705.1 > J702.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          -5.4,
+          28
+        ],
+        [
+          1,
+          28
+        ]
+      ],
+      "label": "C705.1 > J702.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.6,
+      "points": [
+        [
+          1,
+          28
+        ],
+        [
+          1.0007599999999999,
+          26.563319999999997
+        ]
+      ],
+      "label": "C705.1 > J702.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5,
+      "points": [
+        [
+          1.0007599999999999,
+          26.563319999999997
+        ],
+        [
+          2,
+          25.6
+        ]
+      ],
+      "label": "J702.1 > C706.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5,
+      "points": [
+        [
+          2,
+          25.6
+        ],
+        [
+          4.3,
+          25.6
+        ]
+      ],
+      "label": "J702.1 > C706.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5,
+      "points": [
+        [
+          4.3,
+          25.6
+        ],
+        [
+          4.30022,
+          25.99944
+        ]
+      ],
+      "label": "J702.1 > C706.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          3.1496,
+          22.04974
+        ],
+        [
+          2.1,
+          21.9
+        ]
+      ],
+      "label": "U703.6",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.4,
+      "points": [
+        [
+          4.30022,
+          25.99944
+        ],
+        [
+          4.3,
+          25
+        ]
+      ],
+      "label": "C706.1",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          2.1,
+          21.9
+        ],
+        [
+          2.1,
+          24.1
+        ]
+      ],
+      "label": "Adapter 5V input and LED load switch",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          2.1,
+          24.1
+        ],
+        [
+          3,
+          25
+        ]
+      ],
+      "label": "Adapter 5V input and LED load switch",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.6,
+      "points": [
+        [
+          3,
+          25
+        ],
+        [
+          4.3,
+          25
+        ]
+      ],
+      "label": "Adapter 5V input and LED load switch",
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          5.84962,
+          22.04974
+        ],
+        [
+          7.599679999999999,
+          22.301199999999998
+        ]
+      ],
+      "label": "U703.1 > C707.1",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          7.599679999999999,
+          22.301199999999998
+        ],
+        [
+          7.6,
+          21.4
+        ]
+      ],
+      "label": "C707.1",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          3.1496,
+          22.9997
+        ],
+        [
+          4.2,
+          23
+        ]
+      ],
+      "label": "U703.5",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          1.5,
+          10.6
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          1.5,
+          10.6
+        ],
+        [
+          5.6,
+          10.6
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          5.6,
+          10.6
+        ],
+        [
+          5.6,
+          18.8
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          5.6,
+          18.8
+        ],
+        [
+          6.3,
+          19.5
+        ]
+      ],
+      "label": "Adapter level translator supply",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.3,
+      "points": [
+        [
+          6.3,
+          19.5
+        ],
+        [
+          6.3,
+          21.3
+        ]
+      ],
+      "label": "Adapter level translator supply",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          4.2,
+          23
+        ],
+        [
+          4.2,
+          21.3
+        ]
+      ],
+      "label": "Adapter level translator supply",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          4.2,
+          21.3
+        ],
+        [
+          6.3,
+          21.3
+        ]
+      ],
+      "label": "Adapter level translator supply",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          6.3,
+          21.3
+        ],
+        [
+          7.6,
+          21.4
+        ]
+      ],
+      "label": "Adapter level translator supply",
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          1.6256,
+          16.87068
+        ],
+        [
+          1.6256,
+          18
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          1.6256,
+          18
+        ],
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ],
+        [
+          2.8473,
+          20
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          2.8473,
+          20
+        ],
+        [
+          4.7,
+          20
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          4.7,
+          20
+        ],
+        [
+          5,
+          20.3
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5,
+          20.3
+        ],
+        [
+          5,
+          23.6
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5,
+          23.6
+        ],
+        [
+          5.35,
+          23.9497
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5.35,
+          23.9497
+        ],
+        [
+          5.84962,
+          23.949659999999998
+        ]
+      ],
+      "label": "U701.13 > R704.1 > U703.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          3.1496,
+          23.949659999999998
+        ],
+        [
+          2.7,
+          23.7
+        ]
+      ],
+      "label": "U703.4 > R703.1",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          2.7,
+          23.7
+        ],
+        [
+          -0.7544,
+          23.7
+        ]
+      ],
+      "label": "U703.4 > R703.1",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -0.7544,
+          23.7
+        ],
+        [
+          -0.7543799999999999,
+          24.599899999999998
+        ]
+      ],
+      "label": "U703.4 > R703.1",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          0.7543799999999999,
+          24.599899999999998
+        ],
+        [
+          0.7544,
+          25
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          0.7544,
+          25
+        ],
+        [
+          0,
+          25.75
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          0,
+          25.75
+        ],
+        [
+          0.0,
+          26.563319999999997
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          2.92608,
+          16.87068
+        ],
+        [
+          3.8,
+          17.8
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          3.8,
+          17.8
+        ],
+        [
+          5.05,
+          17.8
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5.05,
+          17.8
+        ],
+        [
+          5.05,
+          19.6
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5.05,
+          19.6
+        ],
+        [
+          5.6,
+          20.2
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          5.6,
+          20.2
+        ],
+        [
+          5.6,
+          20.45
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -7.50062,
+          22.24786
+        ],
+        [
+          -6.5,
+          21.5
+        ]
+      ],
+      "label": "R702.1",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.2,
+      "points": [
+        [
+          -3.55092,
+          23.64994
+        ],
+        [
+          -2.7,
+          23.65
+        ]
+      ],
+      "label": "U702.3",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          5.6,
+          20.45
+        ],
+        [
+          -6.5,
+          20.45
+        ]
+      ],
+      "label": "Adapter LED data and enable",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -6.5,
+          20.45
+        ],
+        [
+          -6.5,
+          21.5
+        ]
+      ],
+      "label": "Adapter LED data and enable",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -6.5,
+          21.5
+        ],
+        [
+          -3.5,
+          21.5
+        ]
+      ],
+      "label": "Adapter LED data and enable",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -3.5,
+          21.5
+        ],
+        [
+          -2.7,
+          22.3
+        ]
+      ],
+      "label": "Adapter LED data and enable",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -2.7,
+          22.3
+        ],
+        [
+          -2.7,
+          23.65
+        ]
+      ],
+      "label": "Adapter LED data and enable",
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          -1.6256,
+          16.87068
+        ],
+        [
+          -1.6256,
+          15.7
+        ]
+      ],
+      "label": "U701.18",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 1,
+      "width": 0.18,
+      "points": [
+        [
+          -2.2758399999999996,
+          16.87068
+        ],
+        [
+          -2.2758,
+          15.1
+        ]
+      ],
+      "label": "U701.19",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -1.6256,
+          15.7
+        ],
+        [
+          -4,
+          15.7
+        ]
+      ],
+      "label": "TP701",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -4,
+          15.7
+        ],
+        [
+          -4,
+          9.6
+        ]
+      ],
+      "label": "TP701",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -4,
+          9.6
+        ],
+        [
+          -2.99999908,
+          8.99999978
+        ]
+      ],
+      "label": "TP701",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -2.2758,
+          15.1
+        ],
+        [
+          -2.2758,
+          10.4
+        ]
+      ],
+      "label": "TP702",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -2.2758,
+          10.4
+        ],
+        [
+          -1.5,
+          9.6
+        ]
+      ],
+      "label": "TP702",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.2,
+      "points": [
+        [
+          -1.5,
+          9.6
+        ],
+        [
+          -1.49999954,
+          8.99999978
+        ]
+      ],
+      "label": "TP702",
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -0.98044,
+          9.199879999999999
+        ],
+        [
+          -0.75,
+          9.83
+        ]
+      ],
+      "label": "C701.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -3.0987999999999998,
+          9.199879999999999
+        ],
+        [
+          -4,
+          8.5
+        ]
+      ],
+      "label": "C702.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          1.30048,
+          9.199879999999999
+        ],
+        [
+          2.5,
+          9.8
+        ]
+      ],
+      "label": "C703.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -2.4993600000000002,
+          19.49958
+        ],
+        [
+          -2.5,
+          18.7
+        ]
+      ],
+      "label": "C704.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -4.0005,
+          26.29916
+        ],
+        [
+          -3.2,
+          26.3
+        ]
+      ],
+      "label": "C705.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          5.6997599999999995,
+          25.99944
+        ],
+        [
+          6.5,
+          26
+        ]
+      ],
+      "label": "C706.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          7.599679999999999,
+          23.70074
+        ],
+        [
+          8.4,
+          23.7
+        ]
+      ],
+      "label": "C707.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -0.32512,
+          11.130279999999999
+        ],
+        [
+          -0.325,
+          12.8
+        ]
+      ],
+      "label": "U701.5",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -3.55092,
+          22.9997
+        ],
+        [
+          -4.2,
+          23
+        ]
+      ],
+      "label": "U702.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          5.84962,
+          22.9997
+        ],
+        [
+          6.7,
+          23
+        ]
+      ],
+      "label": "U703.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -7.50062,
+          23.754080000000002
+        ],
+        [
+          -8.3,
+          23.75
+        ]
+      ],
+      "label": "R702.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          4.35356,
+          19.199859999999997
+        ],
+        [
+          4.35,
+          18.4
+        ]
+      ],
+      "label": "R704.2",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -1.0007599999999999,
+          26.563319999999997
+        ],
+        [
+          -1,
+          25.6
+        ]
+      ],
+      "label": "J702.3",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          -2.30124,
+          30.436819999999997
+        ],
+        [
+          -3.5,
+          30.4
+        ]
+      ],
+      "label": "J702.4",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.25,
+      "points": [
+        [
+          2.30124,
+          30.436819999999997
+        ],
+        [
+          3.5,
+          30.4
+        ]
+      ],
+      "label": "J702.5",
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 2,
+      "width": 0.3,
+      "points": [
+        [
+          -1.99898,
+          4.0005
+        ],
+        [
+          0.0,
+          1.99898
+        ]
+      ],
+      "label": "J701.2 > J701.3",
+      "group": "Adapter ground returns"
+    }
+  ],
+  "vias": [
+    {
+      "net": "+3V3",
+      "x": -1.7,
+      "y": 7.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "x": -0.975,
+      "y": 12.2,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "x": 0.45,
+      "y": 7.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ACC_SCL",
+      "x": -2.9261,
+      "y": 17.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "+5V_ACC",
+      "x": -5.2,
+      "y": 19.7,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 2.1,
+      "y": 21.9,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 4.3,
+      "y": 25,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+3V3",
+      "x": 7.6,
+      "y": 21.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 4.2,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 5.6,
+      "y": 18.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 6.3,
+      "y": 21.3,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": 5.6,
+      "y": 20.45,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -6.5,
+      "y": 21.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -2.7,
+      "y": 23.65,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "x": -1.6256,
+      "y": 15.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "x": -2.2758,
+      "y": 15.1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "GND",
+      "x": -0.75,
+      "y": 9.83,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -4,
+      "y": 8.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 2.5,
+      "y": 9.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -2.5,
+      "y": 18.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -3.2,
+      "y": 26.3,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 6.5,
+      "y": 26,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 8.4,
+      "y": 23.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -0.325,
+      "y": 12.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -4.2,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 6.7,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -8.3,
+      "y": 23.75,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 4.35,
+      "y": 18.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -1,
+      "y": 25.6,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -3.5,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 3.5,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    }
+  ],
+  "fills": [],
+  "errors": []
+}

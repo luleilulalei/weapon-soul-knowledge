@@ -1,0 +1,4 @@
+from run import call,O
+import json
+d=call("if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='5354a7bf4c630a18')throw Error('Wrong board');const cs=JSON.parse(JSON.stringify(await eda.pcb_PrimitiveComponent.getAll()));const c=cs.find(c=>c.designator==='C8');await eda.pcb_PrimitiveComponent.modify(c.primitiveId,{y:20.3/.0254});await new Promise(r=>setTimeout(r,5000));await eda.pcb_Document.save();return {components:await eda.pcb_PrimitiveComponent.getAll(),pads:await eda.pcb_PrimitiveComponent.getAllPinsByPrimitiveId(c.primitiveId),source:await eda.sys_FileManager.getDocumentSource()};")
+a=json.loads((O/'after_layout.json').read_text());a['boards']['main'].update({'components':d['components'],'source':d['source']});a['boards']['main']['pads']['C8']=d['pads'];(O/'after_layout.json').write_text(json.dumps(a,ensure_ascii=False,indent=2));(O/'c8_final_pose.json').write_text(json.dumps(d,ensure_ascii=False,indent=2));print('C8 shifted and pads reread')

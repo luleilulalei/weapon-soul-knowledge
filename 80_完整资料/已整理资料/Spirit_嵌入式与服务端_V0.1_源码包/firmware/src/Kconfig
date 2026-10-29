@@ -1,0 +1,57 @@
+menu "Spirit v0.1 configuration"
+config SPIRIT_WIFI_SSID
+    string "Wi-Fi SSID (empty disables networking)"
+    default ""
+config SPIRIT_WIFI_PASSWORD
+    string "Wi-Fi password"
+    default ""
+config SPIRIT_DEVICE_ID
+    string "Unique device ID"
+    default "spirit-dev-001"
+config SPIRIT_CONNECT_URL
+    string "Server device connect URL"
+    default "http://example.invalid/api/v1/device/connect"
+config SPIRIT_EFFECT_URL
+    string "Spirit telemetry/effect WebSocket URL"
+    default "ws://example.invalid/api/v1/spirit/device"
+config SPIRIT_VOICE_URL
+    string "Server voice WebSocket URL"
+    default "ws://example.invalid/api/v1/voice/voice"
+endmenu
+
+menu "Usaki voice"
+
+config USAKI_USE_AFE_AUDIO_PROCESSOR
+    bool "Use ESP-SR AFE audio processor"
+    default n
+    help
+        Enable the ESP-SR AFE based audio processor for device-side VAD/NS/AEC.
+        This requires the esp-sr component and speech models in the model
+        partition. Leave disabled to use the NoAudioProcessor pass-through path.
+
+config USAKI_ENABLE_WAKE_WORD
+    bool "Enable wake word detection"
+    default n
+    help
+        Enable AudioService wake word detection. The default build uses a
+        disabled placeholder; ESP-SR WakeNet/AFE wake word implementations
+        can be selected after model assets and partitions are configured.
+
+config USAKI_WAKE_WORD_USE_AFE
+    bool "Use ESP-SR AFE WakeNet wake word"
+    depends on USAKI_ENABLE_WAKE_WORD
+    select USAKI_USE_AFE_AUDIO_PROCESSOR
+    default n
+    help
+        Use the ESP-SR AFE WakeNet path migrated from Xiaozhi. This requires
+        esp-sr and WakeNet models in the model partition.
+
+config USAKI_WAKE_WORD_MODEL_NAME
+    string "Preferred WakeNet model name"
+    depends on USAKI_WAKE_WORD_USE_AFE
+    default ""
+    help
+        Optional preferred WakeNet model name. Leave empty to select the first
+        available ESP_WN_PREFIX model from the model partition.
+
+endmenu

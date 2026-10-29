@@ -1,0 +1,4 @@
+from run import call,O
+import json
+code="""await __v081Open('6994d0089089a794');const ps=JSON.parse(JSON.stringify(await eda.pcb_PrimitivePad.getAll()));const moves={TP110:[-3.3,14.7],TP105:[10,25]};for(const [n,[x,y]]of Object.entries(moves)){const p=ps.find(p=>p.padNumber===n);if(!p)throw Error(n);await eda.pcb_PrimitivePad.modify(p.primitiveId,{x:x/.0254,y:y/.0254});}await new Promise(r=>setTimeout(r,5000));await eda.pcb_Document.save();return {pads:await eda.pcb_PrimitivePad.getAll(),source:await eda.sys_FileManager.getDocumentSource()};"""
+d=call(code);a=json.loads((O/'after_layout.json').read_text());a['boards']['power']['source']=d['source'];(O/'after_layout.json').write_text(json.dumps(a,ensure_ascii=False,indent=2));(O/'power_testpad_refinements.json').write_text(json.dumps(d,ensure_ascii=False,indent=2));print('moved TP105 TP110')

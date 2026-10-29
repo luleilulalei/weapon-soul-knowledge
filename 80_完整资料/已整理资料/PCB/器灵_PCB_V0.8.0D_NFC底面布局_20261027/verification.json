@@ -1,0 +1,192 @@
+{
+  "main_components": 99,
+  "nfc_bottom_count": 31,
+  "front_count": 45,
+  "bottom_count": 54,
+  "moved_non_nfc": [],
+  "changed_pad_nets": [],
+  "schematic_pcb_pin_errors": [],
+  "native_pad_coordinate_errors": [],
+  "planned_placement_errors": [],
+  "geometry_errors": [],
+  "minimum_gap_mm": [
+    0.2500045799999979,
+    "C204",
+    "L201"
+  ],
+  "all_schematic_pages_power_blade_unchanged": {
+    "0858bd534b92a992": true,
+    "03d08161fc5e53f9": true,
+    "89512769eae520d7": true,
+    "5d2f77f8ca0e56b9": true,
+    "90a66e75d09b5c0a": true,
+    "a220e6f6f67182ed": true,
+    "d654cfd0b15fd79f": true,
+    "53cebbb6158d31b1": true,
+    "c5439dfd4251e93d": true,
+    "bee4ed5a4c8faa9f": true,
+    "314070b88cef723f": true,
+    "621eadf28cee8217": true,
+    "b29abcd2926f1d34": true,
+    "f29e09c3cbde48e9": true,
+    "47eed7000b5b5b42": true,
+    "b1f832670a111c24": true,
+    "668053e7db3a05a4": true,
+    "162b2913dc48de11": true,
+    "6d14c951751a0980": true,
+    "e74e819d71a0caef": true,
+    "f90eae279b54d36c": true,
+    "ae60ca1058cb12ac": true,
+    "ad0de971e3fee371": true,
+    "c3f466b637004472": true,
+    "b6522ae49a96b058": true,
+    "7de6717b2075d221": true,
+    "6634f1ac89b9d70c": true,
+    "cff5d61a47594b34": true,
+    "6994d0089089a794": true
+  },
+  "main_export_matches_live": true,
+  "export_inactive_historical_pour_cache_unchanged": true,
+  "routing_counts": {
+    "6994d0089089a794": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    },
+    "cff5d61a47594b34": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    },
+    "5354a7bf4c630a18": {
+      "LINE": 0,
+      "VIA": 0,
+      "POUR": 0,
+      "POURED": 0
+    }
+  },
+  "schematic_drc": [
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "659f8762f24db281",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N92"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "SHOWDANDLING",
+      "primitives": [
+        {
+          "primitiveId": "bb22996a146d7555",
+          "sheet": "03d08161fc5e53f9",
+          "name": "$1N93"
+        }
+      ]
+    }
+  ],
+  "PCB_DRC": {
+    "Connection Error": 348
+  },
+  "routing_review": [
+    {
+      "net": "TX2",
+      "from": "U201.13",
+      "to": "L201.1",
+      "straight_mm": 2.5,
+      "envelope_crossings": []
+    },
+    {
+      "net": "LPF",
+      "from": "L201.2",
+      "to": "C209.1",
+      "straight_mm": 1.2,
+      "envelope_crossings": []
+    },
+    {
+      "net": "MATCH",
+      "from": "C209.2",
+      "to": "R203.1",
+      "straight_mm": 1.147,
+      "envelope_crossings": []
+    },
+    {
+      "net": "ANT",
+      "from": "R203.2",
+      "to": "J202.2",
+      "straight_mm": 1.422,
+      "envelope_crossings": []
+    },
+    {
+      "net": "OSCIN",
+      "from": "U201.21",
+      "to": "Y201.1",
+      "straight_mm": 2.838,
+      "envelope_crossings": []
+    },
+    {
+      "net": "OSCOUT",
+      "from": "U201.22",
+      "to": "Y201.3",
+      "straight_mm": 1.433,
+      "envelope_crossings": []
+    },
+    {
+      "net": "PVDD",
+      "from": "U201.2",
+      "to": "C201.1",
+      "straight_mm": 1.2,
+      "envelope_crossings": []
+    },
+    {
+      "net": "SVDD",
+      "from": "U201.9",
+      "to": "C203.1",
+      "straight_mm": 2.057,
+      "envelope_crossings": []
+    },
+    {
+      "net": "TVDD",
+      "from": "U201.12",
+      "to": "C204.1",
+      "straight_mm": 1.412,
+      "envelope_crossings": []
+    },
+    {
+      "net": "AVDD",
+      "from": "U201.15",
+      "to": "C206.1",
+      "straight_mm": 1.101,
+      "envelope_crossings": []
+    },
+    {
+      "net": "VMID",
+      "from": "U201.16",
+      "to": "C207.1",
+      "straight_mm": 2.604,
+      "envelope_crossings": [
+        "C206"
+      ]
+    },
+    {
+      "net": "RX",
+      "from": "U201.17",
+      "to": "R201.2",
+      "straight_mm": 3.34,
+      "envelope_crossings": []
+    }
+  ],
+  "nfc_bounds_mm": [
+    -6.1566016999999995,
+    26.5500009,
+    18.8436078,
+    39.1000232
+  ],
+  "stage": "schematic and layout only; RF/address/physical validation pending"
+}

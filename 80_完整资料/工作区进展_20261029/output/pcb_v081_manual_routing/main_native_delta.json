@@ -1,0 +1,73 @@
+{
+  "remove": [],
+  "add": [
+    {
+      "net": "NFC_3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          6.901179999999999,
+          31.0007
+        ],
+        [
+          6.9,
+          31.0
+        ]
+      ],
+      "label": "C206.1",
+      "group": "NFC straps and power"
+    },
+    {
+      "net": "GND",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          7.39902,
+          28.399739999999998
+        ],
+        [
+          7.4,
+          28.4
+        ]
+      ],
+      "label": "C207.2",
+      "group": "NFC ground returns"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          7.350759999999999,
+          43.05046
+        ],
+        [
+          7.35,
+          43.05
+        ]
+      ],
+      "label": "U112.3",
+      "group": "Main power distribution"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          9.558019999999999,
+          43.3197
+        ],
+        [
+          9.56,
+          43.32
+        ]
+      ],
+      "label": "R312.1",
+      "group": "Main power distribution"
+    }
+  ]
+}

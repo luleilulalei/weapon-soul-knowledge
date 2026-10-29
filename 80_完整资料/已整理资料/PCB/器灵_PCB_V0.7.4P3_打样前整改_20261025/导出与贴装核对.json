@@ -1,0 +1,50 @@
+{
+  "Spirit_JLC": {
+    "native_export_matches_readback": true,
+    "existing_export_normalization_segments": [],
+    "outline_max_difference_mm": 1.5902200992776678e-06,
+    "original_rules_stack_outline_padnets_preserved": true,
+    "original_USB_preserved": true,
+    "BOM_quantity": 128,
+    "CPL_quantity": 129,
+    "excluded_from_assembly": [
+      "C114"
+    ],
+    "via_drill_coordinates_matched": 373,
+    "gerber_zip_integrity": true
+  },
+  "Spirit_Blade_Adapter_V01": {
+    "native_export_matches_readback": true,
+    "existing_export_normalization_segments": [
+      {
+        "id": "753422fa301dc672",
+        "length_mm": 0.0004238680889150968,
+        "covered_by_existing_same_net_copper": true
+      },
+      {
+        "id": "e0a60d2959eb0083",
+        "length_mm": 0.0004526049085013661,
+        "covered_by_existing_same_net_copper": true
+      },
+      {
+        "id": "7691dc2ecd6bb42a",
+        "length_mm": 0.001048893914938789,
+        "covered_by_existing_same_net_copper": true
+      },
+      {
+        "id": "f9df9aea3badd343",
+        "length_mm": 0.00032003999999830057,
+        "covered_by_existing_same_net_copper": true
+      }
+    ],
+    "outline_max_difference_mm": 5.46260013623213e-07,
+    "original_rules_stack_outline_padnets_preserved": true,
+    "original_USB_preserved": false,
+    "BOM_quantity": 16,
+    "CPL_quantity": 16,
+    "excluded_from_assembly": [],
+    "via_drill_coordinates_matched": 31,
+    "gerber_zip_integrity": true
+  },
+  "project_sha256": "572d94bb44fdbe84181aff2ebd1585ee6ae7ee25309181fd1c0a610129a92d1a"
+}

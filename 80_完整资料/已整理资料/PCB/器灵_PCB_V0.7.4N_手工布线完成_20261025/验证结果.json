@@ -1,0 +1,94 @@
+{
+  "Spirit_JLC": {
+    "components": 129,
+    "pads_checked": 457,
+    "schematic_pcb_networks_match": true,
+    "networks_unchanged": true,
+    "footprints_unchanged": true,
+    "native_routes_match_manual_plan": true,
+    "native_DRC": [],
+    "ERC": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "659f8762f24db281",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N92"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "bb22996a146d7555",
+            "sheet": "03d08161fc5e53f9",
+            "name": "$1N93"
+          }
+        ]
+      }
+    ],
+    "minimum_component_envelope_gap_mm": [
+      0.2180107399999986,
+      "Q102",
+      "R123"
+    ],
+    "through_backside_collisions": [],
+    "tracks_in_manual_plan": 1385,
+    "tracks_in_native_file": 1384,
+    "vias": 363,
+    "manual_geometry_errors": 0,
+    "minimum_drill_mm": 0.2,
+    "outline_and_mounting_holes_unchanged": true
+  },
+  "Spirit_Blade_Adapter_V01": {
+    "components": 16,
+    "pads_checked": 65,
+    "schematic_pcb_networks_match": true,
+    "networks_unchanged": true,
+    "footprints_unchanged": true,
+    "native_routes_match_manual_plan": true,
+    "native_DRC": [],
+    "ERC": [
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "33b667ce81ded764",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N14"
+          }
+        ]
+      },
+      {
+        "type": "warn",
+        "rule": "SHOWDANDLING",
+        "primitives": [
+          {
+            "primitiveId": "fe754d3db1cff2f0",
+            "sheet": "6d14c951751a0980",
+            "name": "$1N13"
+          }
+        ]
+      }
+    ],
+    "minimum_component_envelope_gap_mm": [
+      0.5498820599999998,
+      "C705",
+      "J702"
+    ],
+    "through_backside_collisions": [],
+    "tracks_in_manual_plan": 121,
+    "tracks_in_native_file": 122,
+    "vias": 31,
+    "manual_geometry_errors": 0,
+    "minimum_drill_mm": 0.3,
+    "outline_and_mounting_holes_unchanged": true
+  },
+  "no_autorouting": true,
+  "verification_boundary": "Connectivity and geometric checks; does not certify impedance, thermal performance, RF, actual display pinout or enclosure fit."
+}

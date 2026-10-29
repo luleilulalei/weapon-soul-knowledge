@@ -1,0 +1,226 @@
+[
+  {
+    "file": "P01_front_shell.stl",
+    "triangles": 16746,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 36912.97560967309,
+    "print_bbox_mm": [
+      62.0,
+      190.0,
+      17.10001
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "9ed073d1fc8217e50dbfece638830d42e5596fd1ac162d218e5cc6e5de05ea75"
+  },
+  {
+    "file": "P02_rear_shell.stl",
+    "triangles": 19448,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 51671.40931697739,
+    "print_bbox_mm": [
+      62.0,
+      190.0,
+      24.5
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "a836905ff0274fe9386a700b7dee7e8dfe6bf87751df4ee98ba6813f02672239"
+  },
+  {
+    "file": "P03_PCB_four_hole_carrier.stl",
+    "triangles": 10264,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 1831.5942230282144,
+    "print_bbox_mm": [
+      46.2,
+      66.7,
+      8.4
+    ],
+    "minimum_z_mm": -0.0,
+    "sha256": "ced831b89e00c72dd5c620ce3eaea218b6c82837f4475c7ebc535389b9d364aa"
+  },
+  {
+    "file": "P04_replaceable_screen_bezel.stl",
+    "triangles": 2374,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 1568.1433371252879,
+    "print_bbox_mm": [
+      55.6,
+      44.35,
+      4.7
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "cd14c6cfe0bc1ebd8fd967a3daa616bcd41d3becb6e979f0578e33f4d9c90963"
+  },
+  {
+    "file": "P05_screen_rear_retainer.stl",
+    "triangles": 1536,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 404.8980178082392,
+    "print_bbox_mm": [
+      56.1,
+      37.37689,
+      1.2
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "d5a8f3365606540162ccd40e826a437071b34157169336867e8dbda3c9389de1"
+  },
+  {
+    "file": "P06_power_plunger.stl",
+    "triangles": 1532,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 227.21047942448357,
+    "print_bbox_mm": [
+      7.0,
+      7.0,
+      13.35
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "fbd1010bc311f6a115e0c3b82746fcb28ed9df79567d930ad6c180cedfda6413"
+  },
+  {
+    "file": "P07_battery_cradle.stl",
+    "triangles": 2308,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 6956.186558138102,
+    "print_bbox_mm": [
+      37.0,
+      74.6,
+      11.5
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "a9675f5957fac39f2dcbe6bee176bd6214c15c57eb0cf5456aee7306ae754442"
+  },
+  {
+    "file": "P08_side_speaker_chamber.stl",
+    "triangles": 3800,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 1918.4437641954748,
+    "print_bbox_mm": [
+      22.8,
+      35.0,
+      9.4
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "c7c445c4ba15833943f4eca58167cf2683996a87c0656ee3df7f38aadcbd6e8c"
+  },
+  {
+    "file": "P09_side_speaker_grille.stl",
+    "triangles": 2220,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 490.289422775219,
+    "print_bbox_mm": [
+      22.9,
+      35.0,
+      1.2
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "51363931ce1c610e87dd1f05ffe0c4dc2bdbfeb82ebe531218ad03365484edca"
+  },
+  {
+    "file": "P10_rear_NFC_holder.stl",
+    "triangles": 1748,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 2008.4389248752432,
+    "print_bbox_mm": [
+      32.0,
+      73.8,
+      4.2
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "16031b6e392bfbedf7dc37c0251de66f6ba5c5a23acd7128e1d73541c456dc74"
+  },
+  {
+    "file": "P11_keyed_top_dust_cap.stl",
+    "triangles": 1206,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 2076.2812627920553,
+    "print_bbox_mm": [
+      34.0,
+      7.0,
+      15.0
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "8336bfb860dc378eaac5a6a27f46404650c3ea4d9e0b286b1d522eacbc06e5b1"
+  },
+  {
+    "file": "P12_LRA_retaining_bridge.stl",
+    "triangles": 1176,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 77.41478282144672,
+    "print_bbox_mm": [
+      16.0,
+      6.0,
+      1.2
+    ],
+    "minimum_z_mm": -0.0,
+    "sha256": "ec559c0fbc4c499870a92b31390b36a4a88d8cf4e16c803c3fec5548b7fe2af7"
+  },
+  {
+    "file": "P13_MIC_side_duct.stl",
+    "triangles": 1652,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 228.84245376075444,
+    "print_bbox_mm": [
+      17.895,
+      15.2,
+      3.8
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "89614a40992ab779ed134b45ec4d74ba3e451e3b82c09d48d0f16aa323e463d2"
+  },
+  {
+    "file": "P14_fit_coupon.stl",
+    "triangles": 1622,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 4317.381487457173,
+    "print_bbox_mm": [
+      48.0,
+      24.0,
+      4.0
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "f04761060d492b964d8bc69103d3af85a2e451024d65f2e2a068c6af3a0aa2d0"
+  },
+  {
+    "file": "P15_Hanxia_keyed_adapter_carrier.stl",
+    "triangles": 2780,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 2550.850538012372,
+    "print_bbox_mm": [
+      34.0,
+      42.0,
+      15.0
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "0506c500cd0d63b0113fe9d4a69ea58fd0acf90e193c6228fc1a20a082dcc758"
+  },
+  {
+    "file": "P16_adapter_height_shim_0p3.stl",
+    "triangles": 80,
+    "boundary_or_nonmanifold_edges": 0,
+    "connected_components": 1,
+    "volume_mm3": 6.183000057449456,
+    "print_bbox_mm": [
+      5.0,
+      5.6,
+      0.3
+    ],
+    "minimum_z_mm": 0.0,
+    "sha256": "0c606aaa358308ad2e63dc5ed695333e0bc440b031882f95707daf7e07f6e31d"
+  }
+]

@@ -1,0 +1,199 @@
+V080 电源板 原理图检索辅助摘录
+PDF由4096像素嘉立创原图生成，PDF本身不含文字层。以下文字从相应原生图页的可见文字/属性读取，不是OCR结果；以原图和原生网表为准。
+本版只完成原理图与布局，未布线。
+
+
+第1页：P1
+J401
+={Manufacturer Part}
++3V3
+GND
++5V_SYS
+USB_DM_CONN
+USB_DP_CONN
+PWR_INT_N
+PWR_KILL_N
+CHG_N
+PGOOD_N
+BAT_ADC
+BOOST_EN
+V080  主控板 <-> 电源板 / 16-pin power + USB + control
+J401  JST S16B-PHDSS(LF)(SN) / C161675 / 2.0mm 2x8
+线束 H1：PHDR-16VS 两端，按针号 1->1 ... 16->16；禁止镜像接线。
+1/2=3V3；5/6=5V；3/4/7/8=GND。电源/地用 AWG24，信号用 AWG28。
+9/10 USB D-/D+ 用 90Ω 差分双绞线；首版线束长度目标 <=100mm。
+只在断电时插拔；线束固定并远离 ESP32 天线区域；本版本仅布局，未布线。
+
+第2页：10_USB
+SPIRIT / 10_USB / 原理图复核版 2026-10-18
+V074K: F101 BSMD1812-260-16V; BQ24075 selects USB500 or external ILIM from Type-C advertised current. F101 is not a 500mA current limiter.
+Default Rp / CC unpowered: USB500. 1.5A/3A Rp: ILIM R110=1.18k, approx 1.1-1.47A range including IC tolerance. Not USB-PD; USB enumeration/suspend compliance still requires validation.
+U111 TUSB320LAI replaces external Rd R137/R138. Q104/Q105 are newly assigned CC current logic, not the removed USB-presence detector. PGOOD_N remains GPIO39.
+J101
+={Manufacturer Part}
+U101
+F101
+C101
+={Value}
+C102
+C133
+U111
+Q104
+Q105
+R142
+R143
+R144
+R145
+R146
+GND
+USB_VBUS
+USB_CC1
+USB_DM_CONN
+USB_DP_CONN
+USB_CC2
+USB_5V_FUSED
+USB_VBUS_DET
+USB_DEFAULT_CURRENT
++3V3
+USB_HIGH_CURRENT_OK
+CHG_EN1
+VSYS_RAW
+
+第3页：11_Charger
+SPIRIT / 11_Charger / 原理图复核版 2026-10-18
+CE through R108 low = charge enabled. EN2=USB_HIGH_CURRENT_OK; EN1 is its inverted signal pulled to VSYS_RAW. BQ24075 retains USB/battery power path.
+R111=1k sets nominal 890mA charging; real charge current is reduced by input limit, system demand, DPPM and temperature. It is not an extra load allowance.
+R110=1.18k acts in ILIM mode only. CC default/unpowered -> EN1=1 EN2=0 USB500; Rp1.5A/3A -> EN1=0 EN2=1 ILIM. Main off -> USB500 fallback.
+样机条件：使用4.2V充满的单节保护电池及贴附电芯的10k NTC；电流和温升待验证。
+R111=1k，充电标称890mA；R112=69.8k，安全计时典型9.31h；DPPM优先供系统。
+Type-C Rp detection is hardware implemented in USB page. No PD negotiation or USB enumeration/suspend-controlled 100mA mode. Validate intended sources and full-load thermal behavior.
+U102
+={Manufacturer Part}
+R108
+={Value}
+R113
+R114
+R115
+R110
+R111
+R112
+C103
+C105
+C104
+C106
+J104
+BAT_NTC
+VBAT_PROT
+CHG_CE_N
+USB_HIGH_CURRENT_OK
+CHG_EN1
+PGOOD_N
+GND
+CHG_N
+VSYS_RAW
+CHG_ILIM
+USB_5V_FUSED
+CHG_TMR
+CHG_SYSOFF
+CHG_ISET
++3V3
+
+第4页：12_Main_switch
+12_POWER_BUTTON / 长按电源键；取消 J111 双刀机械开关
+开机：SW4 长按约 2.2 秒；关机：长按约 3.2 秒后通知主控保存，随后关闭供电。
+U110 由 VSYS_RAW 常供电；EN 控制 TPS63802。R116 保留为 BUCK_EN 上拉。
+MAIN_IN 并入 VSYS_RAW；BOOST_5V 并入 +5V_SYS。BQ24075 充电路径不变。
+关机时 3V3 下降，BOOST_ENABLE 经 R120 下拉，TPS61023 进入输出断开状态。
+GPIO14=PWR_INT_N；GPIO6=PWR_KILL_N，仅使用输入高阻或开漏；GPIO44/43 保留 UART0 RX/TX。
+R141 从 3V3 上拉 KILL，启动无需固件在 512ms 内接管；复位和 USB 下载不会主动关电。
+INT 有效后固件应在 700ms 内关闭负载并保存，再拉低 KILL；硬件约 0.8~1.3s 强制关闭。
+关机保留充电和按键检测。BOOT / RESET 留板上调试，外壳仅露 POWER。
+时序含电容/控制器误差；USB 插拔、低电池、故障关机、残压与实物待测。
+U110
+={Manufacturer Part}
+SW4
+={Value}
+C130
+C132
+R140
+R141
+C131
+VSYS_RAW
+PWR_BUTTON_N
+PWR_ONT
+GND
+PWR_INT_N
+BUCK_EN
+PWR_OFFT
+PWR_KILL_N
++3V3
+
+第5页：13_BuckBoost_3V3
+SPIRIT / 13_Buck_3V3 / 原理图复核版 2026-10-18
+13_MAIN_BUCK_BOOST / TPS63802DLAR C2845237 / 3.3V nominal
+L101=0.47uH C408353 between L1/L2; do not reuse 2.2uH buck connection. MODE=GND, PG=NC.
+Input: 2x10uF + 100nF; output: 2x22uF. Verify effective Cin>=4uF and Cout>=7uF with bias/temp.
+1A main-rail budget; protected 1S battery; low-battery firmware required. No full power-stage simulation/thermal release.
+TPS63802 synchronized to schematic and PCB. V074K local placement repaired; board remains UNROUTED pending manual routing.
+R117=560k 0.1%, R118=100k 0.1%; VOUT=0.5*(1+560/100)=3.300V nominal. 2026-10-21.
+R116
+={Value}
+R118
+C107
+C129
+C108
+C109
+C128
+U103
+={Manufacturer Part}
+L101
+R117
+BUCK_EN
+GND
+BUCK_FB
++3V3
+BB_SW2
+BB_SW1
+VSYS_RAW
+
+第6页：14_Boost_5V
+SPIRIT / 14_Boost_5V / 原理图复核版 2026-10-18
+TPS61023输出直接为+5V_SYS，标称4.992V；J107和外部双刀开关已取消，由BOOST_ENABLE控制。
++5V_SYS supplies MAX98357A and U112 accessory limiter; J7 pin 1 is +5V_ACC. Screen logic/backlight use +3V3; actual panel FPC/backlight remain unconfirmed.
+U104
+={Manufacturer Part}
+R119
+={Value}
+R120
+R122
+R121
+L102
+C111
+C112
+C113
+C114
+BOOST_FB
+BOOST_ENABLE
+VSYS_RAW
+GND
+BOOST_SW
++5V_SYS
+BOOST_EN
+
+第7页：15_Battery_measurement
+SPIRIT / 15_Battery_measurement / 原理图复核版 2026-10-18
+Q102
+={Manufacturer Part}
+Q103
+R123
+={Value}
+R124
+R125
+R126
+C115
+VBAT_SENSE_ON
+BAT_SENSE_GATE
+VBAT_PROT
++3V3
+GND
+BAT_ADC

@@ -1,0 +1,353 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/00_补铜说明与打样边界.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/00_补铜说明与打样边界.txt",
+    "kind": "file",
+    "sha256": "4226ecfeb4087846715ec814978e2dadcf6713e8059641452f107b9e2fa52275",
+    "bytes": 7296,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_BOM.csv",
+    "kind": "file",
+    "sha256": "2be3d1aef66414b26c9f300c609659748048c48719ae48a0c70ec700cb8d2639",
+    "bytes": 2192,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "1e0da1098985e3f67aa97245406dc38c6f6800ecdaf34335a8b8cc39416bbbac",
+    "bytes": 1176,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_CPL.csv",
+    "kind": "file",
+    "sha256": "5ce02e48c8bc38d148558a4bae68d9e3103da1c886749f4be787ab90d93282d7",
+    "bytes": 6962,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "54abc305b0644afbf3e8ea5e38073ba5469ffebaa5ffa0fd7d6ccefafd2fa316",
+    "bytes": 2955,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_Gerber.zip",
+    "kind": "file",
+    "sha256": "1a1da8c006216a7eeb1d2994936ccecc65c429f834cfe4e72fec0d680aec4ecc",
+    "bytes": 53887,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Adapter_V02_IPC.356a",
+    "kind": "file",
+    "sha256": "e2c54d1f657f0eee949190708b5e6078dc99cbdffcd6350977131b2fe6fb3f3c",
+    "bytes": 11688,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Gerber独立短路与连通检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Gerber独立短路与连通检查.json",
+    "kind": "file",
+    "sha256": "65571a7d134b9faba705aa7f5bcc8dfc72438109663a3dd721121637b352588d",
+    "bytes": 1160,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L1_顶层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L1_顶层.png",
+    "kind": "file",
+    "sha256": "c0bdd89725fe738b226490ff80503cb8ebac9740a1eeb7770463e1ebc07cd845",
+    "bytes": 217415,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L1_顶层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L1_顶层.svg",
+    "kind": "file",
+    "sha256": "b15cb838c928106676c8ca41d11a5e1908e285572483a59522b7aed609750fd2",
+    "bytes": 2033476,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L2_地平面.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L2_地平面.svg",
+    "kind": "file",
+    "sha256": "051797941b9dbc4ecc587fa32554f1c05df158bc242b7ca952a13940f886b1d6",
+    "bytes": 2086119,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L3_电源层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L3_电源层.svg",
+    "kind": "file",
+    "sha256": "692ba11d0b0c0b68e92b31a29ae58499d0ab0f7ac5a4c103f2bc91f9be6951f6",
+    "bytes": 2247247,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L4_底层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L4_底层.png",
+    "kind": "file",
+    "sha256": "f1004b703b5621437fa28fc3fb84b7fa32a26e78adee9a1a12f1c0489513a61b",
+    "bytes": 221135,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L4_底层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/L4_底层.svg",
+    "kind": "file",
+    "sha256": "ca37e07f41245663b7649493eebd93cf9fad33756ef554d696ec3f691575927f",
+    "bytes": 2109034,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_BOM.csv",
+    "kind": "file",
+    "sha256": "f18c9eda4b06008e15d2ce82e2adb8545fd21ff9b9a97a49f09300763bd263ea",
+    "bytes": 9674,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "279ef242c19c8685a1811679e49ab01feec59a83c9c3f845945778cf4823b44f",
+    "bytes": 5182,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_CPL.csv",
+    "kind": "file",
+    "sha256": "b7ed8b4e9dfe884385b687cc3358b181b57bca31c7eb4bcba3075c3f4b4aa1e4",
+    "bytes": 54296,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "a034a79a5dc3e02f3913c6443bfc10105fe11505be374ef21121156613ed94ef",
+    "bytes": 22913,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_Gerber.zip",
+    "kind": "file",
+    "sha256": "db4e6beb1044dbf5fb07396e6b982b3bcb855567f4d10c8a27f5a5ce33ed8fba",
+    "bytes": 409810,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Main_V074P3A_IPC.356a",
+    "kind": "file",
+    "sha256": "17bff96d4c3fd5fa91e8dcb3809166ca0d9d906f918f9fc13efaf664bc0f08be",
+    "bytes": 107147,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Spirit_V074P3A_Prototype_Review_20261025.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/Spirit_V074P3A_Prototype_Review_20261025.epro2",
+    "kind": "file",
+    "sha256": "49e4de0bb00fd4bc7fff7e067fc59c7eb79352b753623c0d9dbc7f63ca9cd2f7",
+    "bytes": 1577971,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/主板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/主板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "d006f30ab12b507ddf5f293eae0d86d692bf802912bbbbe9c0c2dd8f85b47a41",
+    "bytes": 127324,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/交付文件校验.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/交付文件校验.json",
+    "kind": "file",
+    "sha256": "560f6d1011dede5bc2cc8e05a551a36c31cadcc67f5e8a07dafee9b096774894",
+    "bytes": 5996,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_L1_顶层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_L1_顶层.svg",
+    "kind": "file",
+    "sha256": "98a8e960e51fff4665b18a450cbf29e7547ac337c6e06f69618dad45b79668a3",
+    "bytes": 1898681,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_L4_底层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_L4_底层.svg",
+    "kind": "file",
+    "sha256": "59231e340f19b7bc176df69edeae03766e205f47535303558030ead4a514511c",
+    "bytes": 2023471,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "d63509269b9a5144be142cff4edbf6b3533edb9e19557397ea5b8724eba02619",
+    "bytes": 113654,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前原生备份.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/修改前原生备份.epro2",
+    "kind": "file",
+    "sha256": "80acbe4b75b4836dfce3bdb190c9c0399e4e1c440b766c4886a29832730ace20",
+    "bytes": 1557704,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/原生几何与网络复核.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/原生几何与网络复核.json",
+    "kind": "file",
+    "sha256": "9469ab68c82f04509240eb46726cc3ce38a73a47a79fa26ba856cc679c620b38",
+    "bytes": 6847,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/各层覆铜变化.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/各层覆铜变化.json",
+    "kind": "file",
+    "sha256": "4593c57d5a53f84c24f631ffa21a77de65f983cd811be6cf00f12f8808a97904",
+    "bytes": 1081,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/器灵_V074P3A_补铜打样交付包.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/器灵_V074P3A_补铜打样交付包.zip",
+    "kind": "file",
+    "sha256": "604d6e99548712441f3466fe135454af29c63a1b08c4654875d29422c45ce502",
+    "bytes": 8141113,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/导出与贴装核对.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/导出与贴装核对.json",
+    "kind": "file",
+    "sha256": "c6f42656999ee36baabae805df649f213ec4962dbf7e3a974dfc51e7c6c95dde",
+    "bytes": 1568,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增接地孔坐标.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增接地孔坐标.json",
+    "kind": "file",
+    "sha256": "cdd35b24732117025f60452a5ecbf0828926e7adb686092b020bd8c7ce793070",
+    "bytes": 469,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增铜区Gerber间距.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增铜区Gerber间距.json",
+    "kind": "file",
+    "sha256": "19f5ecc0307b79132445ed728838955db78fa11effb640e809ce6fb22710382c",
+    "bytes": 435,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增铜区接地验证.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/新增铜区接地验证.json",
+    "kind": "file",
+    "sha256": "4b75b7f10fbeb89ff4c4fb9681d5bd044ff0dc95637bef6b7910df73f533f1cd",
+    "bytes": 398,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/最终原生回读.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/最终原生回读.json",
+    "kind": "file",
+    "sha256": "8991e340adcdfc447b4e7413c52133c60e5e40d88322d61fdda919a391a74c45",
+    "bytes": 207,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/覆铜修复复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/覆铜修复复核.html",
+    "kind": "file",
+    "sha256": "0786d5a4d1b35f660dd380382b8f0aefe14910c8c8a580666d06deaca540fce9",
+    "bytes": 6326,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/辅助孤立区Gerber回查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/辅助孤立区Gerber回查.json",
+    "kind": "file",
+    "sha256": "9b17e53ba35e895f0f560fb74cb950b5b3953e2121d6a37110d075ce51e06a5f",
+    "bytes": 3231,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/适配板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/适配板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "19ca37159fb768ec4c7479318cde9f1c87780ffcef552154dc443844a85b53de",
+    "bytes": 274774,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/验证总记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3A_表层接地覆铜补全_20261025/验证总记录.json",
+    "kind": "file",
+    "sha256": "4b436b2b0a5ac537495597fd6252b056c56d1ee560b08ef04ce20d92a1139991",
+    "bytes": 16777,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

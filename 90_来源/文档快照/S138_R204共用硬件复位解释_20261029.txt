@@ -1,0 +1,5 @@
+2026-10-28本聊天对R204的只读解释；2026-10-29转录归档。
+用户原话：“R204 为什么 要把MCU_EN和 NFC的RST连到一起？”
+已查设计记录：R204为0Ω，MCU_EN经R204连接NFC_RST_N，后者接WS1850T复位输入。原设计共用主控硬件复位以节约GPIO。EN拉低使主控与NFC同时复位/硬件掉电，EN拉高后由固件初始化NFC；两侧均为输入，不是两个输出相接。
+限制：不能独立对NFC做硬件复位；ESP32软件重启通常不拉低外部EN，因此不能假定NFC也重置。0Ω便于拆分调试，并不形成独立控制。独立GPIO只是助手的后续建议，用户未确认变更，本次未改原理图、PCB或固件。
+依据：output/pcb_v080c_onboard_nfc/00_设计说明.txt；已归档WS1850T_V2.2.pdf；ESP32官方复位说明https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp32s3/schematic-checklist.html。

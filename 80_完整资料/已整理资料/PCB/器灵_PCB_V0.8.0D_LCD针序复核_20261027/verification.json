@@ -1,0 +1,28 @@
+{
+  "existing_schematic_records_unchanged": true,
+  "added_text_count": 3,
+  "electrical_netlist_unchanged": true,
+  "live_pcb_records_unchanged": true,
+  "export_changes": [
+    {
+      "uuid": "53cebbb6158d31b1",
+      "type": "SCH_PAGE",
+      "changed": [],
+      "added": [
+        [
+          "TEXT",
+          "4671ac6f7db3b291"
+        ],
+        [
+          "TEXT",
+          "bd346778df45034e"
+        ],
+        [
+          "TEXT",
+          "9b396152cbc92d02"
+        ]
+      ]
+    }
+  ],
+  "description_note": "Two netlist serializations differed in three vendor Description strings with replacement characters; electrical fields equal and native source records unchanged."
+}

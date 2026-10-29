@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "remote": "git@github.com:luleilulalei/weapon-soul-knowledge.git",
-  "normal_git_original_files": 997,
+  "normal_git_original_files": 2072,
   "lfs_files": [
     {
       "archive": "80_完整资料/已整理资料/Unity游戏开发/QilingUnity/Builds/Qiling Training.app/Contents/Frameworks/UnityPlayer.dylib",
@@ -9,5 +9,6 @@
       "bytes": 172709600
     }
   ],
-  "local_added_originals_pending_commit": 265
+  "inventory_date": "2026-10-29",
+  "inventory_note": "2026-10-29 按本轮完整清单收录；提交与远程状态以Git记录为准。"
 }

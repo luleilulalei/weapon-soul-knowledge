@@ -1,0 +1,58 @@
+V074P1 电源层问题核查（2026-10-25）
+
+用户指出：“电源层怎么还有信号线 严重违反原则了”。本次对当前嘉立创工程只读回查，未修改走线、元件、层叠或覆铜，未使用自动布线。
+
+原生项目：Spirit_V074N_Manual_Routed_Final_20261025
+项目 UUID：3f352afa1c134bfda38c18fe4b2307f1
+主板 UUID：5354a7bf4c630a18；丝印 V074P1。
+
+核查结果：
+1. 内层1（物理第二铜层，layerId 15）只有 GND 覆铜，无 LINE 走线。
+2. 内层2（物理第三铜层，layerId 16）有 388 段走线、41 个网络，其中 36 个非供电网络、322 段走线。非供电口径包括数字信号、控制、模拟采样、触摸电极和马达输出；不把所有网络误称为数字信号。
+3. 该层还有 +3V3 覆铜及局部 USB GND 参考铜区；实际是电源/信号混合层，未满足用户本次明确的专用电源层要求。
+4. 先前的 DRC 0、未连接 0、角度修复和 H1 覆铜修复记录仍是各自检查范围的历史结果，不能推导出电源层用途正确。本次未重新跑 DRC，也未完成迁线。
+
+状态纠正：V074P1 存在需重布的设计问题，不能仅完成生产文件检查就认定可打样，不能认定可投产。不存在已完成的 V074P2 修复版。
+
+整改要求：保持四层，不擅自增加层数；内层1保持连续 GND；内层2移除非供电走线，按电源分区与必要 GND 参考规划；信号手工迁至顶底层，并逐网检查间距、连通、转角、回流路径、覆铜连通与载流通道。USB 邻层原有 GND 参考不能因清理信号而删除，也不能只改变层名宣称修复。禁止自动布线仍有效。
+
+一般技术边界：内层本身可以设计为信号层，但须有相应层叠和回流设计；这不意味着可以在用户要求的专用电源层任意穿行信号。本次确认的是层用途未落实，并未用未进行的仿真/实测声称已出现具体噪声或复位故障。
+参考：TI PCB trace as a wave guide，https://www.ti.com/video/6307562268112 （参考平面分割与回流路径）。
+
+非供电网络清单：
+ACC_DET_N
+ACC_ILIM
+ACC_SCL_MCU
+ACC_SDA_MCU
+AMP_ENABLE
+BAT_ADC
+BAT_NTC
+BOOST_EN
+BOOT_N
+CHG_EN1
+CHG_ISET
+CHG_N
+CHG_SYSOFF
+ELE3
+ELE4
+ELE5
+HAPTIC_OUT_N
+I2C_SCL
+I2C_SDA
+LCD_BL_PWM
+LCD_RST_N
+MCU_EN
+PGOOD_N
+PWR_BUTTON_N
+PWR_INT_N
+PWR_KILL_N
+TOUCH_CS1
+TOUCH_CS2
+TOUCH_CS4
+TOUCH_CS5
+TOUCH_CS6
+TOUCH_IRQ_N
+UART0_RX
+UART0_TX
+USB_DEFAULT_CURRENT
+USB_HIGH_CURRENT_OK

@@ -1,0 +1,10 @@
+{
+  "pcb_snapshot": "output/pcb_pour_v074p3b/final.json",
+  "sha256": "cda7e2507879be84a5aa75809c4b59a8dc07c871c6a4b7dae558e7ec2443dd87",
+  "board_component_counts": {
+    "Spirit_JLC": 129,
+    "Spirit_Blade_Adapter_V01": 16
+  },
+  "read_only_inputs": true,
+  "date": "2026-10-26"
+}

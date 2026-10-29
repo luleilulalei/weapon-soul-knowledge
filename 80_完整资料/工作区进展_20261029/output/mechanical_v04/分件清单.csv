@@ -1,0 +1,17 @@
+﻿编号,名称,变化,说明,STL
+P01,前壳,更新,板边避让、肩部加宽、对接导向与固定孔,P01_front_shell.stl
+P02,后壳,更新,匹配四耳主板、托架固定点与定位销,P02_rear_shell.stl
+P03,四孔主板托架,更新,38 × 61.5 孔距；上部托架固定点移至总装 Y=162,P03_PCB_four_hole_carrier.stl
+P04,可换屏幕压框,沿用,实屏外形待量测，保留独立更换,P04_replaceable_screen_bezel.stl
+P05,屏幕后压环,沿用,配软垫夹持，不用螺丝压玻璃,P05_screen_rear_retainer.stl
+P06,POWER 推杆,沿用,RESET / BOOT 位于内部,P06_power_plunger.stl
+P07,电池托架,沿用,Ø19.1 × 69.2 电池包占位，配绑带,P07_battery_cradle.stl
+P08,侧面扬声器声腔,沿用,Ø20 × 5.1 扬声器包络,P08_side_speaker_chamber.stl
+P09,扬声器格栅,沿用,侧出声、软垫密封待试装,P09_side_speaker_grille.stl
+P10,背部 NFC 托架,沿用,独立天线面向后壳,P10_rear_NFC_holder.stl
+P11,顶部防尘盖,更新,使用顶部同组固定孔；与 P15 二选一,P11_keyed_top_dust_cap.stl
+P12,LRA 压条,沿用,Ø8.2 × 2.7 占位，胶层需实配,P12_LRA_retaining_bridge.stl
+P13,麦克风侧向导音件,沿用,对准 U5，密封垫和声学待测,P13_MIC_side_duct.stl
+P14,尺寸试片,沿用,不装入整机，先核对孔径和板厚配合,P14_fit_coupon.stl
+P15,韩下六针适配板导向壳,更新,导向、防反插、肩部止挡、双螺丝固定、轴向调节槽,P15_Hanxia_keyed_adapter_carrier.stl
+P16,0.3 mm 高度调节垫片,新增,需要时打印两件同厚垫片，实配后重查插针高度,P16_adapter_height_shim_0p3.stl

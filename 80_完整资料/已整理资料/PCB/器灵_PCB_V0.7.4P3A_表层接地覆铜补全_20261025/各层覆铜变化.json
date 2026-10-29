@@ -1,0 +1,44 @@
+{
+  "1:GND": {
+    "before_mm2": 1071.7373828946213,
+    "after_mm2": 1185.8336961510379,
+    "added_mm2": 114.09631325641647,
+    "removed_mm2": 0.0,
+    "after_polygons": 46
+  },
+  "15:GND": {
+    "before_mm2": 2274.4654749339284,
+    "after_mm2": 2274.4654743768065,
+    "added_mm2": 7.9831222028087e-06,
+    "removed_mm2": 8.54024419729845e-06,
+    "after_polygons": 1
+  },
+  "16:+3V3": {
+    "before_mm2": 1615.7315598484795,
+    "after_mm2": 1605.7111227378762,
+    "added_mm2": 3.386721276324201e-05,
+    "removed_mm2": 10.02047097782075,
+    "after_polygons": 1
+  },
+  "16:+5V_SYS": {
+    "before_mm2": 71.62984232448268,
+    "after_mm2": 71.62984232448247,
+    "added_mm2": 0.0,
+    "removed_mm2": 0.0,
+    "after_polygons": 1
+  },
+  "16:GND": {
+    "before_mm2": 170.92551222192787,
+    "after_mm2": 170.92551222192787,
+    "added_mm2": 0.0,
+    "removed_mm2": 0.0,
+    "after_polygons": 1
+  },
+  "2:GND": {
+    "before_mm2": 1115.4102781675083,
+    "after_mm2": 1199.17681341774,
+    "added_mm2": 83.76653525022957,
+    "removed_mm2": 0.0,
+    "after_polygons": 48
+  }
+}

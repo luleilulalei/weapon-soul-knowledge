@@ -1,0 +1,666 @@
+{
+  "version": "V080B",
+  "date": "2026-10-27",
+  "project": "71258413d4d54bf2b2153098bd2b9fa5",
+  "boards": {
+    "01_主控板_Main": {
+      "components": 69,
+      "pages": 13,
+      "layers": 4,
+      "pcb_unchanged": false,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 261,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "erc_count": 2,
+      "unused_net_records_pruned_by_native_import": [
+        [
+          "NET",
+          "[\"NET\",\"USB_5V_FUSED\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"VBAT_PROT\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"VSYS_RAW\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BUCK_FB\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BOOST_FB\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_VBUS\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_CC1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_CC2\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_CE_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BAT_NTC\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BOOST_SW\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"VBAT_SENSE_ON\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BAT_SENSE_GATE\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_ILIM\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_ISET\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_TMR\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_SYSOFF\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BUCK_EN\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BOOST_ENABLE\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BB_SW1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BB_SW2\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"PWR_BUTTON_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"PWR_ONT\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"PWR_OFFT\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_HIGH_CURRENT_OK\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_DEFAULT_CURRENT\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"CHG_EN1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_VBUS_DET\"]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_5V_FUSED\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"VBAT_PROT\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"VSYS_RAW\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_VBUS\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_CC1\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_CC2\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"CHG_CE_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"BAT_NTC\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"VBAT_SENSE_ON\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"BAT_SENSE_GATE\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"CHG_SYSOFF\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"BUCK_EN\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"BOOST_ENABLE\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"PWR_BUTTON_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_HIGH_CURRENT_OK\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_DEFAULT_CURRENT\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"CHG_EN1\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"USB_VBUS_DET\"]]"
+        ]
+      ],
+      "unreferenced_historical_pour_cache": 6
+    },
+    "02_电源板_Power": {
+      "components": 62,
+      "pages": 7,
+      "layers": 4,
+      "pcb_unchanged": false,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 209,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "erc_count": 0,
+      "unused_net_records_pruned_by_native_import": [
+        [
+          "NET",
+          "[\"NET\",\"MCU_EN\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"HAPTIC_REG\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"BOOT_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE0\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE2\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE3\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE4\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ELE5\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"SPK_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"SPK_P\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"I2C_SCL\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"I2C_SDA\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_LEDA\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_CS\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_RST_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_SCK\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_MOSI\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_DC\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_LEDK\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"HAPTIC_OUT_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"HAPTIC_OUT_P\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_BL_GATE\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_IRQ_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"AMP_SD_MODE\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"AMP_ENABLE\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"PDM_DATA_L\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"PDM_CLK_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_DC_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_CS_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_MOSI_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_SCK_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_BL_PWM\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_DP\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"USB_DM\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS2\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS3\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS4\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS5\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"TOUCH_CS6\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"I2S_BCLK\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"I2S_LRCLK\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"I2S_DOUT\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"IMU_INT1\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ACC_SCL_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ACC_SDA_MCU\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ACC_DET_N\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"+5V_ACC\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"LCD_VCC\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"UART0_RX\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"UART0_TX\"]"
+        ],
+        [
+          "NET",
+          "[\"NET\",\"ACC_ILIM\"]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"MCU_EN\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"BOOT_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"I2C_SCL\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"I2C_SDA\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_CS\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_RST_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_SCK\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_MOSI\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_DC\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_BL_GATE\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"TOUCH_IRQ_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"AMP_SD_MODE\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"AMP_ENABLE\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"PDM_DATA_L\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"PDM_CLK_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_DC_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_CS_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_MOSI_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_SCK_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"LCD_BL_PWM\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"I2S_BCLK\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"I2S_LRCLK\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"I2S_DOUT\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"IMU_INT1\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"ACC_SCL_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"ACC_SDA_MCU\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"ACC_DET_N\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"UART0_RX\"]]"
+        ],
+        [
+          "RULE_SELECTOR",
+          "[\"RULE_SELECTOR\",[\"NET\",\"UART0_TX\"]]"
+        ]
+      ],
+      "unreferenced_historical_pour_cache": 0
+    },
+    "03_剑身板_Blade": {
+      "components": 16,
+      "pages": 1,
+      "layers": 2,
+      "pcb_unchanged": true,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 58,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "erc_count": 2,
+      "unused_net_records_pruned_by_native_import": [],
+      "unreferenced_historical_pour_cache": 2
+    }
+  },
+  "connector": {
+    "part": "GHD-16AWB",
+    "lcsc": "C22375048",
+    "housing": "GHD-16Y",
+    "housing_lcsc": "C22375068",
+    "terminal": "GHD-T",
+    "terminal_lcsc": "C22375081",
+    "power_wire": "AWG26",
+    "signal_wire": "AWG28",
+    "insulation_od_mm": [
+      0.76,
+      1.0
+    ],
+    "harness_target_mm": 100,
+    "contact_rating_A": 1.25,
+    "provisional_rail_budget_A": 2,
+    "current_limit_note": "Two parallel contacts per rail. 2A is a design target, not tested harness/system rating. Validate both rails together, per-contact sharing, rise and voltage drop.",
+    "old_land_envelope_mm": [
+      18.2540148,
+      9.828783999999999
+    ],
+    "new_land_envelope_mm": [
+      13.24989095,
+      7.5498706
+    ],
+    "land_envelope_area_reduction_percent": 44.24374151800223
+  },
+  "geometry": {
+    "01_主控板_Main": {
+      "placement": {
+        "x": 15.9,
+        "y": 34,
+        "rotation": 90,
+        "layer": 1
+      },
+      "bounds": [
+        12.1250647,
+        27.375013250000002,
+        19.6749353,
+        40.6249042
+      ],
+      "errors": [],
+      "minGap": [
+        0.330883260000002,
+        "J110",
+        "R103"
+      ],
+      "moved": [
+        "J301"
+      ]
+    },
+    "02_电源板_Power": {
+      "placement": {
+        "x": 14.9,
+        "y": 34,
+        "rotation": 90,
+        "layer": 1
+      },
+      "bounds": [
+        11.1250647,
+        27.375013250000002,
+        18.6749353,
+        40.6249042
+      ],
+      "errors": [],
+      "minGap": [
+        0.3190494000000008,
+        "J101",
+        "F101"
+      ],
+      "moved": [
+        "C111",
+        "C113",
+        "C114",
+        "R119",
+        "R120",
+        "R121",
+        "R122",
+        "U104",
+        "C112",
+        "L102",
+        "J401"
+      ]
+    }
+  },
+  "export_verified": true,
+  "all_147_component_pinmaps_preserved": true,
+  "all_147_actual_pad_transforms_checked": true,
+  "schematic_pages_changed": [
+    "6634f1ac89b9d70c",
+    "e74e819d71a0caef"
+  ],
+  "other_19_schematic_pages_electrical_layout_unchanged": true,
+  "automatic_metadata_normalization": "EDA adds false defaults and repairs one L101 description text; electrical parts and wiring unchanged.",
+  "board_frames_mounting_holes_antenna_and_rules_preserved": true,
+  "touch_11_components_remain_bottom": true,
+  "scope": "Connector replacement and placement only. Unrouted; not a fabrication release."
+}

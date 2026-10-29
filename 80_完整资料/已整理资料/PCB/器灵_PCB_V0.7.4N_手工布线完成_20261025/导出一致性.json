@@ -1,0 +1,19 @@
+{
+  "native_export_matches_readback": true,
+  "boards": 2,
+  "records_checked": [
+    "COMPONENT",
+    "PAD",
+    "PAD_NET",
+    "LINE",
+    "VIA",
+    "FILL",
+    "POLY",
+    "POUR",
+    "POURED",
+    "LAYER_PHYS",
+    "STRING",
+    "REGION"
+  ],
+  "sha256": "597e1164fdfab88859cb27dd9f04fa91ad7b994c493586753b2b754f7fba25b4"
+}

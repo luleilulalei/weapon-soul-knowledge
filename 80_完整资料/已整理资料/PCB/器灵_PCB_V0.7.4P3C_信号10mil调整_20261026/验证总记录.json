@@ -1,0 +1,739 @@
+{
+  "version": "V074P3C",
+  "native": {
+    "Spirit_JLC": {
+      "drc": [],
+      "shorts": [],
+      "disconnected": [],
+      "isolated_pour": [
+        [
+          "GND",
+          {
+            "pads": [],
+            "count": 1,
+            "objects": [
+              [
+                "pour_2_45",
+                2,
+                [
+                  14.63,
+                  119.936
+                ]
+              ]
+            ]
+          }
+        ],
+        [
+          "GND",
+          {
+            "pads": [],
+            "count": 1,
+            "objects": [
+              [
+                "pour_1_16",
+                1,
+                [
+                  -5.063,
+                  96.495
+                ]
+              ]
+            ]
+          }
+        ],
+        [
+          "GND",
+          {
+            "pads": [],
+            "count": 1,
+            "objects": [
+              [
+                "pour_1_41",
+                1,
+                [
+                  3.2,
+                  125.107
+                ]
+              ]
+            ]
+          }
+        ]
+      ],
+      "clearance_errors": [],
+      "non45": [],
+      "non135": [],
+      "tracks": 1929,
+      "vias": 382,
+      "components": 129,
+      "overlap_count": 0,
+      "minimum_envelope_gap": [
+        0.2180107399999986,
+        "Q102",
+        "R123"
+      ],
+      "layer_tracks": {
+        "1": {
+          "BOOST_SW": 3,
+          "VSYS_RAW": 19,
+          "+5V_SYS": 15,
+          "BOOST_FB": 6,
+          "BOOST_ENABLE": 13,
+          "GND": 75,
+          "USB_DP_CONN": 12,
+          "USB_DM_CONN": 6,
+          "USB_DP": 2,
+          "USB_DM": 2,
+          "+3V3": 46,
+          "MCU_EN": 26,
+          "BOOT_N": 29,
+          "PWR_ONT": 2,
+          "PWR_OFFT": 2,
+          "PWR_KILL_N": 18,
+          "PWR_INT_N": 30,
+          "USB_CC1": 11,
+          "USB_CC2": 7,
+          "USB_HIGH_CURRENT_OK": 21,
+          "USB_VBUS": 6,
+          "USB_5V_FUSED": 7,
+          "IMU_INT1": 5,
+          "TOUCH_CS3": 1,
+          "TOUCH_CS4": 2,
+          "TOUCH_CS5": 7,
+          "TOUCH_CS6": 9,
+          "ELE1": 5,
+          "ELE2": 5,
+          "ELE3": 2,
+          "ELE4": 4,
+          "TOUCH_IRQ_N": 11,
+          "I2C_SCL": 36,
+          "I2C_SDA": 36,
+          "LCD_DC_MCU": 2,
+          "LCD_CS": 11,
+          "LCD_MOSI": 15,
+          "LCD_SCK": 12,
+          "LCD_DC": 14,
+          "I2S_BCLK": 1,
+          "I2S_LRCLK": 1,
+          "I2S_DOUT": 2,
+          "AMP_ENABLE": 11,
+          "AMP_SD_MODE": 11,
+          "PDM_DATA_L": 8,
+          "PDM_CLK_MCU": 12,
+          "LCD_RST_N": 16,
+          "LCD_BL_PWM": 17,
+          "LCD_BL_GATE": 8,
+          "LCD_LEDA": 4,
+          "LCD_LEDK": 4,
+          "LCD_VCC": 13,
+          "HAPTIC_OUT_P": 4,
+          "HAPTIC_OUT_N": 7,
+          "ACC_ILIM": 2,
+          "UART0_RX": 1,
+          "UART0_TX": 1,
+          "ACC_SCL_MCU": 42,
+          "PGOOD_N": 10,
+          "BAT_ADC": 4,
+          "ACC_DET_N": 26,
+          "ACC_SDA_MCU": 37,
+          "PWR_BUTTON_N": 7,
+          "BUCK_EN": 2,
+          "TOUCH_CS1": 11,
+          "TOUCH_CS2": 4,
+          "ELE0": 4,
+          "LCD_CS_MCU": 1,
+          "LCD_MOSI_MCU": 2,
+          "LCD_SCK_MCU": 2,
+          "SPK_P": 2,
+          "SPK_N": 1,
+          "BOOST_EN": 26,
+          "ELE5": 9,
+          "CHG_EN1": 20,
+          "BAT_NTC": 5,
+          "CHG_TMR": 4,
+          "CHG_N": 12
+        },
+        "15": {},
+        "16": {
+          "VSYS_RAW": 33,
+          "VBAT_PROT": 25,
+          "USB_VBUS": 13,
+          "+3V3": 3,
+          "+5V_SYS": 27,
+          "USB_5V_FUSED": 8
+        },
+        "2": {
+          "BB_SW1": 5,
+          "BB_SW2": 4,
+          "VSYS_RAW": 21,
+          "BUCK_EN": 10,
+          "BUCK_FB": 7,
+          "+3V3": 68,
+          "GND": 82,
+          "VBAT_PROT": 19,
+          "USB_5V_FUSED": 12,
+          "CHG_ILIM": 3,
+          "CHG_SYSOFF": 9,
+          "PGOOD_N": 34,
+          "CHG_N": 24,
+          "USB_DP_CONN": 11,
+          "USB_DM_CONN": 11,
+          "PWR_INT_N": 16,
+          "BAT_SENSE_GATE": 7,
+          "VBAT_SENSE_ON": 6,
+          "BAT_ADC": 16,
+          "USB_CC1": 11,
+          "USB_CC2": 12,
+          "USB_DEFAULT_CURRENT": 8,
+          "USB_VBUS_DET": 3,
+          "USB_HIGH_CURRENT_OK": 18,
+          "CHG_EN1": 13,
+          "USB_VBUS": 2,
+          "IMU_INT1": 3,
+          "I2C_SCL": 50,
+          "I2C_SDA": 40,
+          "TOUCH_CS4": 4,
+          "ELE3": 5,
+          "ELE4": 4,
+          "LCD_DC": 9,
+          "LCD_CS": 10,
+          "LCD_SCK": 5,
+          "I2S_BCLK": 14,
+          "I2S_LRCLK": 10,
+          "I2S_DOUT": 18,
+          "+5V_SYS": 12,
+          "SPK_P": 3,
+          "SPK_N": 5,
+          "AMP_ENABLE": 11,
+          "AMP_SD_MODE": 4,
+          "PDM_DATA_L": 3,
+          "PDM_CLK_MCU": 3,
+          "LCD_RST_N": 21,
+          "LCD_BL_PWM": 13,
+          "LCD_BL_GATE": 5,
+          "LCD_LEDA": 5,
+          "LCD_LEDK": 2,
+          "LCD_VCC": 4,
+          "HAPTIC_REG": 6,
+          "HAPTIC_OUT_P": 1,
+          "HAPTIC_OUT_N": 1,
+          "+5V_ACC": 8,
+          "ACC_ILIM": 2,
+          "UART0_RX": 7,
+          "UART0_TX": 7,
+          "TOUCH_IRQ_N": 10,
+          "PWR_KILL_N": 25,
+          "BOOST_EN": 10,
+          "MCU_EN": 15,
+          "BOOT_N": 19,
+          "ACC_SCL_MCU": 13,
+          "ACC_SDA_MCU": 11,
+          "ACC_DET_N": 31,
+          "BAT_NTC": 17,
+          "TOUCH_CS2": 4,
+          "TOUCH_CS1": 2,
+          "TOUCH_CS6": 9,
+          "PWR_BUTTON_N": 8,
+          "TOUCH_CS5": 6,
+          "CHG_TMR": 6,
+          "CHG_ISET": 7,
+          "CHG_CE_N": 7,
+          "LCD_MOSI": 4
+        }
+      },
+      "schematic_pcb_mismatch": [],
+      "copper_boundary_errors": [],
+      "min_via_diameter_mm": 0.4499991,
+      "min_drill_mm": 0.19999959999999997,
+      "min_track_width_mm": 0.127,
+      "L2_ground": {
+        "area_mm2": 2274.4654743768065,
+        "type": "Polygon"
+      },
+      "5V_polygon_area_mm2": 71.62984232448247,
+      "5V_polygon_count": 1
+    },
+    "Spirit_Blade_Adapter_V01": {
+      "drc": [],
+      "shorts": [],
+      "disconnected": [],
+      "isolated_pour": [],
+      "clearance_errors": [],
+      "non45": [],
+      "non135": [],
+      "tracks": 148,
+      "vias": 31,
+      "components": 16,
+      "overlap_count": 0,
+      "minimum_envelope_gap": [
+        0.5498820599999998,
+        "C705",
+        "J702"
+      ],
+      "layer_tracks": {
+        "1": {
+          "+3V3": 17,
+          "ADP_NRST": 11,
+          "ACC_SDA": 7,
+          "ACC_SCL": 1,
+          "+5V_ACC": 4,
+          "+5V_LED": 16,
+          "LED_DATA_3V3": 9,
+          "LED_DATA_5V": 4,
+          "LED_DIN": 3,
+          "LED_ENABLE": 8,
+          "ADP_SWDIO": 1,
+          "ADP_SWCLK": 1,
+          "GND": 16
+        },
+        "2": {
+          "+3V3": 17,
+          "ADP_NRST": 2,
+          "ACC_SCL": 7,
+          "+5V_ACC": 7,
+          "+5V_LED": 3,
+          "LED_ENABLE": 6,
+          "ADP_SWDIO": 4,
+          "ADP_SWCLK": 3,
+          "GND": 1
+        }
+      },
+      "schematic_pcb_mismatch": [],
+      "copper_boundary_errors": [],
+      "min_via_diameter_mm": 0.49999899999999997,
+      "min_drill_mm": 0.29999939999999997,
+      "min_track_width_mm": 0.17999964
+    }
+  },
+  "manufacturing_gerber": {
+    "Spirit_JLC": {
+      "layers": {
+        "1": {
+          "area_mm2": 1860.317184423624,
+          "copper_islands": 283,
+          "labelled_islands": 269,
+          "nets": 81
+        },
+        "15": {
+          "area_mm2": 2467.4816940681294,
+          "copper_islands": 284,
+          "labelled_islands": 284,
+          "nets": 65
+        },
+        "16": {
+          "area_mm2": 2332.5241169075684,
+          "copper_islands": 313,
+          "labelled_islands": 313,
+          "nets": 65
+        },
+        "2": {
+          "area_mm2": 1825.7734010648317,
+          "copper_islands": 265,
+          "labelled_islands": 245,
+          "nets": 76
+        }
+      },
+      "uncovered_pad_via_anchors": [],
+      "cross_net_copper_islands": [],
+      "split_nets": {}
+    },
+    "Spirit_Blade_Adapter_V01": {
+      "layers": {
+        "1": {
+          "area_mm2": 495.3273970656172,
+          "copper_islands": 35,
+          "labelled_islands": 23,
+          "nets": 13
+        },
+        "2": {
+          "area_mm2": 510.31527114274417,
+          "copper_islands": 12,
+          "labelled_islands": 12,
+          "nets": 10
+        }
+      },
+      "uncovered_pad_via_anchors": [],
+      "cross_net_copper_islands": [],
+      "split_nets": {}
+    }
+  },
+  "exports": {
+    "Spirit_JLC": {
+      "native_export_matches_readback": true,
+      "copper_contour_serialization_normalization": [],
+      "existing_export_normalization_segments": [
+        {
+          "id": "[\"RULE\",\"HEIGHT\",\"height\"]",
+          "default_unlimited_height_export_record": true
+        }
+      ],
+      "outline_max_difference_mm": 1.5902200992776678e-06,
+      "stack_outline_padnets_preserved_and_signal_rule_matches_plan": true,
+      "original_USB_preserved": true,
+      "BOM_quantity": 128,
+      "CPL_quantity": 129,
+      "excluded_from_assembly": [
+        "C114"
+      ],
+      "via_drill_coordinates_matched": 382,
+      "gerber_zip_integrity": true
+    },
+    "Spirit_Blade_Adapter_V01": {
+      "native_export_matches_readback": true,
+      "copper_contour_serialization_normalization": [],
+      "existing_export_normalization_segments": [
+        {
+          "id": "7691dc2ecd6bb42a",
+          "length_mm": 0.001048893914938789,
+          "covered_by_existing_same_net_copper": true
+        },
+        {
+          "id": "e0a60d2959eb0083",
+          "length_mm": 0.0004526049085013661,
+          "covered_by_existing_same_net_copper": true
+        },
+        {
+          "id": "753422fa301dc672",
+          "length_mm": 0.0004238680889150968,
+          "covered_by_existing_same_net_copper": true
+        },
+        {
+          "id": "f9df9aea3badd343",
+          "length_mm": 0.00032003999999830057,
+          "covered_by_existing_same_net_copper": true
+        }
+      ],
+      "outline_max_difference_mm": 5.46260013623213e-07,
+      "stack_outline_padnets_preserved_and_signal_rule_matches_plan": true,
+      "original_USB_preserved": false,
+      "BOM_quantity": 16,
+      "CPL_quantity": 16,
+      "excluded_from_assembly": [],
+      "via_drill_coordinates_matched": 31,
+      "gerber_zip_integrity": true
+    },
+    "project_sha256": "36684b7d71ef2243f355dc7cde162dbeafdca0769a3edc08766f978ea9fe9292"
+  },
+  "changes": {
+    "version": "V074P3C",
+    "target_nets": 49,
+    "changed_records": {
+      "LINE": 1060,
+      "RULE": 16,
+      "RULE_SELECTOR": 49,
+      "STRING": 1
+    },
+    "width_length_mm": {
+      "5.0": 211.33521063042178,
+      "10.0": 1576.5970899233687,
+      "7.874": 41.567041978583276,
+      "7.0866": 27.267272707752852
+    },
+    "10mil_percent": 84.91089170727443,
+    "net_statistics": {
+      "USB_CC2": {
+        "total_mm": 24.25434476310416,
+        "10mil_mm": 20.52790643725719,
+        "exception_mm": 3.7264383258469707,
+        "10mil_percent": 84.63599671628462
+      },
+      "CHG_CE_N": {
+        "total_mm": 3.691270391092435,
+        "10mil_mm": 2.3354583059955347,
+        "exception_mm": 1.3558120850969004,
+        "10mil_percent": 63.269770527548744
+      },
+      "UART0_RX": {
+        "total_mm": 30.29692456489168,
+        "10mil_mm": 29.815916902330066,
+        "exception_mm": 0.48100766256161265,
+        "10mil_percent": 98.4123548199377
+      },
+      "LCD_CS_MCU": {
+        "total_mm": 1.8516599999999954,
+        "10mil_mm": 1.8516599999999954,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "PGOOD_N": {
+        "total_mm": 115.47513002394847,
+        "10mil_mm": 107.60335060048352,
+        "exception_mm": 7.871779423464943,
+        "10mil_percent": 93.1831387227428
+      },
+      "BAT_NTC": {
+        "total_mm": 18.599647542822797,
+        "10mil_mm": 12.125162785625802,
+        "exception_mm": 6.474484757196995,
+        "10mil_percent": 65.19028254545954
+      },
+      "BAT_SENSE_GATE": {
+        "total_mm": 7.883290060369021,
+        "10mil_mm": 7.883290060369021,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "I2S_DOUT": {
+        "total_mm": 34.87098046280954,
+        "10mil_mm": 27.042584231158326,
+        "exception_mm": 7.828396231651215,
+        "10mil_percent": 77.55039827457583
+      },
+      "LCD_BL_GATE": {
+        "total_mm": 14.981732986897143,
+        "10mil_mm": 14.510618866897133,
+        "exception_mm": 0.47111412000000996,
+        "10mil_percent": 96.85540971520423
+      },
+      "BOOST_ENABLE": {
+        "total_mm": 11.235120368171458,
+        "10mil_mm": 8.30810261027807,
+        "exception_mm": 2.9270177578933883,
+        "10mil_percent": 73.9476065945365
+      },
+      "CHG_N": {
+        "total_mm": 54.809320412088496,
+        "10mil_mm": 43.81157879970503,
+        "exception_mm": 10.997741612383464,
+        "10mil_percent": 79.93454118807529
+      },
+      "PWR_INT_N": {
+        "total_mm": 92.59001255802816,
+        "10mil_mm": 79.88441666208386,
+        "exception_mm": 12.705595895944299,
+        "10mil_percent": 86.27757406558139
+      },
+      "CHG_SYSOFF": {
+        "total_mm": 9.074579397437903,
+        "10mil_mm": 4.723508597437915,
+        "exception_mm": 4.351070799999988,
+        "10mil_percent": 52.052093993155644
+      },
+      "PWR_BUTTON_N": {
+        "total_mm": 12.266086057023582,
+        "10mil_mm": 10.0955645439052,
+        "exception_mm": 2.1705215131183824,
+        "10mil_percent": 82.30469358336568
+      },
+      "VBAT_SENSE_ON": {
+        "total_mm": 7.192659645184302,
+        "10mil_mm": 5.055699397738751,
+        "exception_mm": 2.1369602474455514,
+        "10mil_percent": 70.28970710610074
+      },
+      "PDM_DATA_L": {
+        "total_mm": 30.872974668743336,
+        "10mil_mm": 30.48767988733483,
+        "exception_mm": 0.38529478140850415,
+        "10mil_percent": 98.75199981361502
+      },
+      "AMP_ENABLE": {
+        "total_mm": 35.169989094570255,
+        "10mil_mm": 34.378890854570244,
+        "exception_mm": 0.7910982400000108,
+        "10mil_percent": 97.75064405657679
+      },
+      "IMU_INT1": {
+        "total_mm": 9.911122999625405,
+        "10mil_mm": 9.617382414007674,
+        "exception_mm": 0.29374058561773175,
+        "10mil_percent": 97.03625325173712
+      },
+      "USB_DEFAULT_CURRENT": {
+        "total_mm": 10.98236431918856,
+        "10mil_mm": 10.10545725918856,
+        "exception_mm": 0.8769070600000006,
+        "10mil_percent": 92.0153162423518
+      },
+      "BUCK_EN": {
+        "total_mm": 10.688310451282964,
+        "10mil_mm": 10.688310451282964,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "LCD_CS": {
+        "total_mm": 34.69468795446285,
+        "10mil_mm": 19.967497455064546,
+        "exception_mm": 14.727190499398304,
+        "10mil_percent": 57.552030677641774
+      },
+      "LCD_DC_MCU": {
+        "total_mm": 1.99895434277987,
+        "10mil_mm": 1.99895434277987,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "LCD_SCK": {
+        "total_mm": 32.38890584243665,
+        "10mil_mm": 16.483476244648898,
+        "exception_mm": 15.905429597787752,
+        "10mil_percent": 50.892352847103254
+      },
+      "CHG_EN1": {
+        "total_mm": 25.2939496456164,
+        "10mil_mm": 19.437545245341454,
+        "exception_mm": 5.856404400274947,
+        "10mil_percent": 76.84661951839578
+      },
+      "LCD_SCK_MCU": {
+        "total_mm": 2.1146856121069133,
+        "10mil_mm": 2.1146856121069133,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "USB_HIGH_CURRENT_OK": {
+        "total_mm": 36.724072441066,
+        "10mil_mm": 34.4209731991853,
+        "exception_mm": 2.3030992418807017,
+        "10mil_percent": 93.72863876799975
+      },
+      "USB_VBUS_DET": {
+        "total_mm": 3.0119042907297056,
+        "10mil_mm": 3.0119042907297056,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "UART0_TX": {
+        "total_mm": 31.076093692868337,
+        "10mil_mm": 29.820277052868345,
+        "exception_mm": 1.255816639999992,
+        "10mil_percent": 95.95889801204909
+      },
+      "ACC_DET_N": {
+        "total_mm": 123.84011624476886,
+        "10mil_mm": 109.16678811293797,
+        "exception_mm": 14.6733281318309,
+        "10mil_percent": 88.15139344440762
+      },
+      "I2C_SCL": {
+        "total_mm": 87.03063332945192,
+        "10mil_mm": 56.87410494836217,
+        "exception_mm": 30.15652838108975,
+        "10mil_percent": 65.34952438306051
+      },
+      "I2C_SDA": {
+        "total_mm": 96.29710638444165,
+        "10mil_mm": 74.07582558978962,
+        "exception_mm": 22.22128079465203,
+        "10mil_percent": 76.92424868309206
+      },
+      "USB_CC1": {
+        "total_mm": 32.26066911747954,
+        "10mil_mm": 26.989230558852945,
+        "exception_mm": 5.271438558626592,
+        "10mil_percent": 83.6598598143446
+      },
+      "LCD_MOSI_MCU": {
+        "total_mm": 1.9779122938113192,
+        "10mil_mm": 1.9779122938113192,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "BOOST_EN": {
+        "total_mm": 43.123357997564426,
+        "10mil_mm": 35.53527167925982,
+        "exception_mm": 7.588086318304605,
+        "10mil_percent": 82.40376753885175
+      },
+      "MCU_EN": {
+        "total_mm": 88.2097407210569,
+        "10mil_mm": 84.8330621810569,
+        "exception_mm": 3.3766785400000003,
+        "10mil_percent": 96.17198904293578
+      },
+      "BOOT_N": {
+        "total_mm": 78.37029508042406,
+        "10mil_mm": 74.90678544965462,
+        "exception_mm": 3.463509630769437,
+        "10mil_percent": 95.58058365454008
+      },
+      "LCD_RST_N": {
+        "total_mm": 45.43669428259953,
+        "10mil_mm": 37.19446406352004,
+        "exception_mm": 8.242230219079495,
+        "10mil_percent": 81.85996946033121
+      },
+      "TOUCH_IRQ_N": {
+        "total_mm": 26.913273777205575,
+        "10mil_mm": 19.31800281234077,
+        "exception_mm": 7.595270964864806,
+        "10mil_percent": 71.77871771475945
+      },
+      "AMP_SD_MODE": {
+        "total_mm": 16.36276245889218,
+        "10mil_mm": 14.01423288642214,
+        "exception_mm": 2.3485295724700403,
+        "10mil_percent": 85.64710831456362
+      },
+      "LCD_DC": {
+        "total_mm": 37.62511230542475,
+        "10mil_mm": 25.96936424385672,
+        "exception_mm": 11.65574806156803,
+        "10mil_percent": 69.02136007740894
+      },
+      "BAT_ADC": {
+        "total_mm": 67.87599305512855,
+        "10mil_mm": 67.87599305512855,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "PDM_CLK_MCU": {
+        "total_mm": 33.81790312488359,
+        "10mil_mm": 31.247921173875195,
+        "exception_mm": 2.5699819510083977,
+        "10mil_percent": 92.40052837836248
+      },
+      "PWR_KILL_N": {
+        "total_mm": 68.29146068860733,
+        "10mil_mm": 55.444359029798505,
+        "exception_mm": 12.847101658808825,
+        "10mil_percent": 81.18783588860616
+      },
+      "LCD_BL_PWM": {
+        "total_mm": 45.936293884572095,
+        "10mil_mm": 42.75923783172935,
+        "exception_mm": 3.177056052842744,
+        "10mil_percent": 93.08377802348183
+      },
+      "ACC_SCL_MCU": {
+        "total_mm": 70.74548592644155,
+        "10mil_mm": 58.33428429181827,
+        "exception_mm": 12.411201634623275,
+        "10mil_percent": 82.45654620631488
+      },
+      "ACC_SDA_MCU": {
+        "total_mm": 82.1275921277614,
+        "10mil_mm": 77.12262626776139,
+        "exception_mm": 5.004965860000013,
+        "10mil_percent": 93.90586558021322
+      },
+      "I2S_LRCLK": {
+        "total_mm": 34.56712191131042,
+        "10mil_mm": 34.56712191131042,
+        "exception_mm": 0.0,
+        "10mil_percent": 100.0
+      },
+      "I2S_BCLK": {
+        "total_mm": 39.75097967830237,
+        "10mil_mm": 39.60874983830237,
+        "exception_mm": 0.14222983999999883,
+        "10mil_percent": 99.64219790014978
+      },
+      "LCD_MOSI": {
+        "total_mm": 32.205336260652196,
+        "10mil_mm": 10.67389859340492,
+        "exception_mm": 21.531437667247275,
+        "10mil_percent": 33.14326081558746
+      }
+    },
+    "non_target_tracks_preserved": true,
+    "components_vias_stack_outline_and_pour_boundaries_preserved": true,
+    "inner_copper_difference_mm2": {
+      "15:GND": 9.938966386483041e-10,
+      "16:+3V3": 0.0,
+      "16:GND": 3.528883915051998e-14,
+      "16:+5V_SYS": 0.0
+    },
+    "no_autorouter_used": true,
+    "existing_rule_numeric_values_unchanged": true,
+    "rule_display_units_normalized_to_mil": true
+  }
+}

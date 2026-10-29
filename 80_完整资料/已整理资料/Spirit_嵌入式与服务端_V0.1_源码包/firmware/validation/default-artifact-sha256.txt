@@ -1,0 +1,2 @@
+c252f2a11cc21b9f3dbc419e22d66af8b153c770f1f6946912d4414803b4ae2a  build/spirit_v01.bin
+1c06007dbee14acb2a3e587ffbfce47802f40ca578dfa40939e373cf96a5ad3a  build/spirit_v01.elf

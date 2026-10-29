@@ -1,0 +1,2 @@
+5f3ab06cffe0085fed5f8dccabfb700d87e8430dfaf8171a12bdca27fbf02018  /workspace/shared/spirit_firmware_v01/build-network-test/spirit_v01.bin
+06af882933ced98a6d6e5aaeabe13db679b28b8465b9a252edee39557eeea1ca  /workspace/shared/spirit_firmware_v01/build-network-test/spirit_v01.elf

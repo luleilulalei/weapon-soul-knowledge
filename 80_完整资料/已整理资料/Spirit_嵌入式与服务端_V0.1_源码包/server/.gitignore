@@ -1,0 +1,46 @@
+.env
+# Local environments and secrets
+.conda/
+.venv/
+venv/
+env/
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.coverage
+htmlcov/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Runtime data
+logs/
+data/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+usaki_server/agent/**/memory/short_term/*.jsonl
+usaki_server/agent/**/memory/episodic/conversations/*.jsonl
+usaki_server/agent/**/memory/episodic/summaries/*.yaml
+
+# Tooling and editor state
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+新建文件夹/

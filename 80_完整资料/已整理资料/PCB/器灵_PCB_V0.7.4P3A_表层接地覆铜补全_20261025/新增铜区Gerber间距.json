@@ -1,0 +1,18 @@
+{
+  "1": {
+    "numerical_slivers_discarded_mm2": 1.8398462779630668e-11,
+    "minimum_added_ground_to_other_net_mm": 0.2030812596125493,
+    "nearest_net": [
+      "LCD_DC"
+    ],
+    "check_threshold_mm": 0.1523
+  },
+  "2": {
+    "numerical_slivers_discarded_mm2": 3.501102887328379e-14,
+    "minimum_added_ground_to_other_net_mm": 0.2030812596125493,
+    "nearest_net": [
+      "LCD_DC"
+    ],
+    "check_threshold_mm": 0.1523
+  }
+}

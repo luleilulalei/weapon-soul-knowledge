@@ -1,0 +1,28 @@
+V080D 用户LCD针序与布局复核
+
+用户在V080D后将J8的1~12脚网络整体反序，并移动Q2/R36/R37/R39；2026-10-27 19:03实时读取确认。当前J8.3=LCD_MOSI（屏端SDA）经R34到GPIO11，J8.4=LCD_SCK（屏端SCL）经R35到GPIO12；是SPI，不接I2C_SDA/I2C_SCL。原理图与PCB逐引脚一致，同面元件包络无重叠。助手仅新增3条屏幕原理图说明，所有原有图元、电气连接及三板PCB保持用户修改稿；未布线。实物FPC针1、接触面和屏厂针序仍待核对。
+
+工程：Spirit_V080B_Three_Board_SmallSide_20261027
+UUID：71258413d4d54bf2b2153098bd2b9fa5
+主控PCB：5354a7bf4c630a18，40×50mm，99器件。
+屏幕原理图页：53cebbb6158d31b1。
+
+当前J8针号与网络（编号不是对实物排线的独立验证）：
+1 GND
+2 LCD_RST_N
+3 LCD_MOSI / 屏端SDA
+4 LCD_SCK / 屏端SCL
+5 LCD_CS
+6 LCD_DC
+7 GND
+8 GND
+9 LCD_VCC
+10 LCD_LEDA
+11 LCD_LEDK
+12 GND
+13/14为座子额外焊脚，接GND。
+
+依据GC9A01A数据手册4.5.2节第48页，SCL为SPI串行时钟；SDA用于串行数据，当前向屏幕写入对应MOSI。不能因SCL/SDA名称相同就接主板I2C总线。既有网络名LCD_MOSI/LCD_SCK保留，用原理图说明明确屏端名称。
+https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.28/GC9A01A.pdf
+
+验证：最新备份与修改后导出相比，仅屏幕原理图新增3条TEXT记录；三板PCB和其他原理图记录未变。逐引脚电气网表相同。未重新运行完整DRC或证明布线可达性。本轮同面包络检查无重叠，不替代3D装配。原生图仅截取当前J8针序，说明文字位于该页底部。版本丝印仍V080D；这不是新的制造发布。

@@ -1,0 +1,3 @@
+from run import call,O
+import json
+v=json.loads((O/'after_layout.json').read_text());d=call("if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='5354a7bf4c630a18')throw Error('Wrong board');await eda.pcb_PrimitivePad.modify('93a6ae95f138b536',{x:-12.5/.0254,y:8/.0254});await new Promise(r=>setTimeout(r,5000));await eda.pcb_Document.save();return {source:await eda.sys_FileManager.getDocumentSource(),pads:await eda.pcb_PrimitivePad.getAll()};");v['boards']['main']['source']=d['source'];(O/'after_layout.json').write_text(json.dumps(v,ensure_ascii=False,indent=2));(O/'power_tp_final_pose.json').write_text(json.dumps(d,ensure_ascii=False,indent=2));print('power test pad moved and reread')

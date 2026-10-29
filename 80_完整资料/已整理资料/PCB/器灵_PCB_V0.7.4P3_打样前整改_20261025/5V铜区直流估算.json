@@ -1,0 +1,24 @@
+{
+  "method": "Finite difference DC sheet conduction on actual native L3 5V polygon, two 0.3mm-radius equipotential terminals at (3.1,131.9) and (-7.3,100.6). No route generation. Excludes vias/top/bottom connections, ground, connector, temperature, inductance and converter. Not IPC ampacity or thermal certification.",
+  "copper_mm_assumed": 0.0151892,
+  "results": [
+    {
+      "grid_mm": 0.1,
+      "cells": 7424,
+      "iterations": 880,
+      "max_residual": 8.585348672014652e-10,
+      "sheet_squares": 53.06987186981057,
+      "R_ohm_20C": 0.06023520600397218,
+      "drop_V_at_0_4A": 0.024094082401588873
+    },
+    {
+      "grid_mm": 0.05,
+      "cells": 29925,
+      "iterations": 1833,
+      "max_residual": 9.306446054785386e-10,
+      "sheet_squares": 47.11267544782857,
+      "R_ohm_20C": 0.05347368687755541,
+      "drop_V_at_0_4A": 0.021389474751022163
+    }
+  ]
+}

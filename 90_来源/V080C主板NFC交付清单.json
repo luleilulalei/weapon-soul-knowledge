@@ -1,0 +1,128 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/00_设计说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/00_设计说明.txt",
+    "kind": "file",
+    "sha256": "2e69c63d337d0962bfe7eaba62e4102548262d1553b4a7355f5ddcb806080a9b",
+    "bytes": 3826,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_集成复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_集成复核.html",
+    "kind": "file",
+    "sha256": "4f661d3af9a629249903e26e7b39c9a6c79087e4196775620500cb4dfa2c0ae3",
+    "bytes": 6041,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_布局复核.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_布局复核.png",
+    "kind": "file",
+    "sha256": "c2ce20f0176a476f2de3c472ec5d90480d9eaf330fe51164459c197320adc684",
+    "bytes": 230401,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_原理图_原生.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/NFC_原理图_原生.png",
+    "kind": "file",
+    "sha256": "b4e071ae0d6ead61434cf8f002dbe4b3dbe5de066489fc53152df1e3a02b91da",
+    "bytes": 338932,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/主控板_原生.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/主控板_原生.png",
+    "kind": "file",
+    "sha256": "128a9931935321b75c1a2f06c21f50ad906b588405ed952713ee8a8360cabc6a",
+    "bytes": 513647,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/新增NFC_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/新增NFC_BOM.csv",
+    "kind": "file",
+    "sha256": "c65ea8a65a88843a1845be983f751ad7133e631cffbace3dde6d7b4a446952a8",
+    "bytes": 3693,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/Spirit_V080C_Onboard_NFC_External_Antenna_20261027.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/Spirit_V080C_Onboard_NFC_External_Antenna_20261027.epro2",
+    "kind": "file",
+    "sha256": "308cdfdac32b6b6cc12fce31460a70cfa3d86502b29365ffadcb29a688d72524",
+    "bytes": 2098207,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/修改前_含用户布局.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/修改前_含用户布局.epro2",
+    "kind": "file",
+    "sha256": "a32fc19b740944352e3820ee6a6ce72d644fb3f8497492aa640b5dda1c7ca73a",
+    "bytes": 2032397,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/verification.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/verification.json",
+    "kind": "file",
+    "sha256": "5b81653420e2d958c9f918632772ca76c0f05bbc5d5c2024ee7479063a262d10",
+    "bytes": 1719,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/final.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/final.json",
+    "kind": "file",
+    "sha256": "4a44e14344c46369ab0d9ab69a1b99250578e774164e7c42f2e13943ed84c904",
+    "bytes": 4798392,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/plan.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/plan.json",
+    "kind": "file",
+    "sha256": "29d859fd399d516dee92a50457e57082c494e4c56a3e995c3348d76be3ecfbaf",
+    "bytes": 75414,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/WS1850T_V2.2.pdf",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/WS1850T_V2.2.pdf",
+    "kind": "file",
+    "sha256": "67c6e9406750d9ad95a4235a2c494720cd8ce10db16e1da91ad0be0b6d171f85",
+    "bytes": 881775,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/WS1850T_V2.2.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/WS1850T_V2.2.txt",
+    "kind": "file",
+    "sha256": "e2521da8ff472452ab0dc2a7e419e04be4a19734a04c7e09b0402bcd8b92bbfe",
+    "bytes": 8650,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/器灵_V080C_NFC原理图与布局交付包.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0C_主板NFC外置天线_20261027/器灵_V080C_NFC原理图与布局交付包.zip",
+    "kind": "file",
+    "sha256": "38608a5e704c9b9facce87c958d833c294ea31e8b00368b11194e57512759ce8",
+    "bytes": 6197490,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

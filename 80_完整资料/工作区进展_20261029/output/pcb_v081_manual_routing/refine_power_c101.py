@@ -1,0 +1,6 @@
+from run import call,O
+import json
+changes={'C101':(1.3,18.5,270)}
+call("await __v081Open('6994d0089089a794');return true;")
+code='const m='+json.dumps(changes)+";const cs=JSON.parse(JSON.stringify(await eda.pcb_PrimitiveComponent.getAll()));for(const [r,[x,y,a]] of Object.entries(m)){const c=cs.find(c=>c.designator===r);if(!c)throw Error(r);await eda.pcb_PrimitiveComponent.modify(c.primitiveId,{x:x/.0254,y:y/.0254,rotation:a});}const ps=JSON.parse(JSON.stringify(await eda.pcb_PrimitivePad.getAll()));const tp=ps.find(p=>p.padNumber==='TP110');if(tp)await eda.pcb_PrimitivePad.modify(tp.primitiveId,{x:-4/.0254,y:15/.0254});await new Promise(r=>setTimeout(r,6000));await eda.pcb_Document.save();const b={uuid:'6994d0089089a794',source:await eda.sys_FileManager.getDocumentSource(),components:await eda.pcb_PrimitiveComponent.getAll(),netlist:await eda.pcb_Net.getNetlist(),layers:await eda.pcb_Layer.getAllLayers(),pads:{}};for(const c of JSON.parse(JSON.stringify(b.components)))b.pads[c.designator]=await eda.pcb_PrimitiveComponent.getAllPinsByPrimitiveId(c.primitiveId);return b;"
+b=call(code);allb=json.loads((O/'after_layout.json').read_text());allb['boards']['power']=b;(O/'after_layout.json').write_text(json.dumps(allb,ensure_ascii=False,indent=2));(O/'power_c101_refinement.json').write_text(json.dumps(changes,indent=2));print('refined',list(changes))

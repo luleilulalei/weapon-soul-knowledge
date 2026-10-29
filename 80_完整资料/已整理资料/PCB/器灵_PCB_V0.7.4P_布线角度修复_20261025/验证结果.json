@@ -1,0 +1,96 @@
+{
+  "version": "V074P",
+  "no_autorouter": true,
+  "project_uuid": "3f352afa1c134bfda38c18fe4b2307f1",
+  "boards": {
+    "main": {
+      "native_DRC": [],
+      "unconnected": 0,
+      "native_junction_normalization_max_mm": 1.7678235326845456e-06,
+      "normalization_tolerance_mm": 0.0001,
+      "track_segments": 1648,
+      "vias": 363,
+      "non45_before": 192,
+      "non45_after": 0,
+      "non135_before": 251,
+      "non135_after": 0,
+      "angle_tolerance_deg": 0.5,
+      "angle_minimum_segment_mm": 0.05,
+      "angle_exclusions": "straight nodes, pad/via interiors, branches, <0.05 mm segments",
+      "clearance_geometry_errors": 0,
+      "component_geometry_unchanged": true,
+      "component_minimum_envelope_gap_mm": [
+        0.21801188000000057,
+        "Q102",
+        "R123"
+      ],
+      "board_and_holes_unchanged": true,
+      "physical_stack_unchanged": true,
+      "netlist_matches_schematic": true,
+      "component_count": 129,
+      "unique_pin_network_count": 448,
+      "physical_component_pad_count": 457,
+      "via_moves": [
+        [
+          "VIA",
+          "manual74n_V210"
+        ]
+      ],
+      "pours_rebuilt": true,
+      "mounting_holes_clear_of_pours": true,
+      "ground_reference_continuous": true,
+      "ground_plane_area_mm2": 2270.041265475668,
+      "antenna_copper_keepout_pass": true,
+      "usb_native_rule_net_sum_lengths_mm": {
+        "USB_DP_CONN": 34.41989736923121,
+        "USB_DM_CONN": 34.41989661394847
+      },
+      "usb_native_rule_net_sum_skew_mm": 7.552827412382612e-07,
+      "usb_native_rule_limit_mm": 0.254,
+      "usb_length_measurement_note": "native net-sum rule includes USB-C contact branches; not a TDR, propagation-delay or 90-ohm impedance measurement",
+      "usb_differential_trunk_unchanged": true
+    },
+    "adapter": {
+      "native_DRC": [],
+      "unconnected": 0,
+      "native_junction_normalization_max_mm": 8.89086474985929e-05,
+      "normalization_tolerance_mm": 0.0001,
+      "track_segments": 152,
+      "vias": 31,
+      "non45_before": 19,
+      "non45_after": 0,
+      "non135_before": 29,
+      "non135_after": 0,
+      "angle_tolerance_deg": 0.5,
+      "angle_minimum_segment_mm": 0.05,
+      "angle_exclusions": "straight nodes, pad/via interiors, branches, <0.05 mm segments",
+      "clearance_geometry_errors": 0,
+      "component_geometry_unchanged": true,
+      "component_minimum_envelope_gap_mm": [
+        0.5498820599999998,
+        "C705",
+        "J702"
+      ],
+      "board_and_holes_unchanged": true,
+      "physical_stack_unchanged": true,
+      "netlist_matches_schematic": true,
+      "component_count": 16,
+      "unique_pin_network_count": 65,
+      "physical_component_pad_count": 65,
+      "via_moves": [],
+      "pours_rebuilt": true,
+      "mounting_holes_clear_of_pours": true
+    }
+  },
+  "schematic_and_footprint_geometry_unchanged": true,
+  "native_export_geometry_match": true,
+  "export_pour_float_max_difference": 0,
+  "export_pour_float_tolerance": 1e-10,
+  "sha256": "935aa0f0ce7694b8f8d66c9bfc6e754633b07b4bcd511f989a4dc1f47b88b725",
+  "remaining_boundaries": [
+    "USB impedance and signal integrity require final fabrication stack and physical validation",
+    "Existing GC9A01 FPC and NFC wiring require physical verification",
+    "Old STL mounting posts and J7 structure not updated in this routing repair",
+    "Prototype power/thermal/RF/mechanical validation pending"
+  ]
+}

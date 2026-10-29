@@ -1,0 +1,143 @@
+--- 第 1 页 ---
+SPRING-LOADED CONNECTORS
+Mill-Max Mfg. Corp. • 190 Pine Hollow Road, P .O. Box 300, Oyster Bay, NY 11771 • 516-922-6000 • Fax: 516-922-9253 • www.mill-max.com
+SERIES 810 • 2,54 GRID HORIZONTAL SURFACE MOUNT • 
+SINGLE ROW STRIPS
+ORDERING INFORMATION
+Single Row Series 810
+  Specify number of contacts   01-10
+810-22-0XX-40-001101
+•  Modular contacts for use on 2,54 grid, supplied in single row contact strips. Piston action 
+    is parallel to the board surface
+•  Ideal for daisy chaining of P .C.B. ’s when mated with right angle target connectors (series
+    399...10-008) or for mating boards in a perpendicular orientation
+•  Precision-machined piston / base and gold-plated components assure up to 1,000,000
+cycle life durability
+•  Pistons have a 1,14 mid. stroke & 2,29 max. stroke
+•  Low resistance, high current contacts are rated at 2 amps continuous, 3 amps peak
+•  High temperature thermoplastic insulators are suitable for surface mount processes
+•  810 series contact strips are designed for manual placement onto solder pads
+SINGLE ROW Series 810
+Number of Pins x 2,54
+Technical Specifications
+  Materials:
+   Contact piston & base: Machined copper alloy plated 0,51μm gold over 
+   2,54μm nickel
+   Spring: Beryllium copper-plated 0,25μm gold
+   Insulator: High temperature thermoplastic, rated UL94 V-0
+  Mechanical:
+   Spring force @ initial height: 25 grams
+   Spring force @ mid stroke (1,14): 60 grams
+   Durability: Up to 1,000,000 cycles
+  Electrical:
+   Voltage rating: 100Vrms/150Vdc
+   Current rating: 2A (continous), 3A (peak) per contact
+   Contact resistance: 20mW max.
+   Insulation resistance: 10,000MW min.
+   Dielectric strength: 700Vrms min.
+   Capacitance: 1pF max.
+RoHS - 2
+2011/65/EU
+2,54
+2,54
+2,13
+Suggested  P.C.B.  FOOTPRINT
+1,072,54 2,24
+2,03
+7,54
+2,29
+2,79
+1,88
+(Max. Stroke)
+(TYP)
+DETAIL ‘A’
+FRONT VIEW
+TOP VIEW
+A
+2,541,27
+2,54 (TYP)
+Number of Pins x 2,54
+Coplanarity 0,13. For Pin Counts >10 positions 
+consult Technical Support
+PAGE 10     |     SPRING-LOADED CONNECTORS
+
+--- 第 2 页 ---
+SPRING-LOADED CONNECTORS
+Mill-Max Mfg. Corp. • 190 Pine Hollow Road, P .O. Box 300, Oyster Bay, NY 11771 • 516-922-6000 • Fax: 516-922-9253 • www.mill-max.com
+PAGE 20.1   |     SPRING-LOADED CONNECTORS
+SERIES 319, 399 • 2,54 GRID TARGET CONNECTORS 
+FOR SPRING-LOADED ASSEMBLIES • SINGLE ROW STRIPS
+•  Series 319 and 399 Spring Target Connectors,
+supplied in single row strips. Available in SMT
+and right angle through-hole termination
+configurations
+•  
+ Target Connectors provide an excellent gold-
+plated conductive mating surface for spring 
+loaded connectors. These series are offered 
+with a flat face for making contact with our 
+standard 1,07 dia. spring pin plungers
+•
+  Target connectors use MM #1940, #1941/1942,
+#1953 and #1954 pins. See pages 218 & 223.3 
+for details
+•
+  Insulators are high temperature thermoplastic
+ORDERING INFORMATION
+  SPECIFY PLATING CODE XX=
+  Pin Plating
+For 
+Electrical, Mechanical 
+& Enviromental Data, 
+See page 264
+XX=Plating Code 
+See Below
+RoHS - 2
+2011/65/EU
+     Series 319...041           Surface Mount w/ Alignments Pins
+319-10-1_ _-30-041000FIG. 1
+             Specify number of pins                         03-64
+     Series 319...008                                                      Surface Mount
+319-10-1_ _-30-008000FIG. 2
+             Specify number of pins                         01-64
+10
+     Series 319...054                            Low Profile Surface Mount
+319-10-1_ _-30-054000FIG. 3
+FIG. 4
+             Specify number of pins                         01-64
+     Series 399...008                                  Right Angle Solder Tails
+399-10-1_ _-10-008000
+             Specify number of pins                         01-64
+FIG. 1
+Number of Pins X 2,54
+2,54
+2,54
+1,27
+FIG. 3
+2,54
+4,19
+5,59
+5,74
+0,46 DIA.
+2,79
+± 0,25
+4,47
+± 0,25
+FIG. 4
+Coplanarity 0,13. For Pin counts >10 positions, consult
+Technical Support.
+1,12 DIA.
+2,211,80
+1,78 DIA.
+1,47 DIA.
+1,35 DIA.
+FIG. 2
+Coplanarity 0,13. For Pin counts >10 positions, consult
+Technical Support.
+4,29
+2,79
+1,35 DIA.
+1,78 DIA.
+1,47 DIA.
+1,12 DIA.
+       0,25μm Au

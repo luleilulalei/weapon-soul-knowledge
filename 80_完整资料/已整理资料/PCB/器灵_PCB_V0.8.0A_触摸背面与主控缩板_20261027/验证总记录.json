@@ -1,0 +1,177 @@
+{
+  "version": "V080A",
+  "date": "2026-10-27",
+  "project": "92e54cb77bd24edeb5840a3e95acec95",
+  "boards": {
+    "01_主控板_Main": {
+      "components": 69,
+      "pages": 13,
+      "schematic_unchanged": true,
+      "pcb_unchanged": false,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 261,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "inherited_erc": [
+        {
+          "type": "warn",
+          "rule": "SHOWDANDLING",
+          "primitives": [
+            {
+              "primitiveId": "659f8762f24db281",
+              "sheet": "03d08161fc5e53f9",
+              "name": "$1N92"
+            }
+          ]
+        },
+        {
+          "type": "warn",
+          "rule": "SHOWDANDLING",
+          "primitives": [
+            {
+              "primitiveId": "bb22996a146d7555",
+              "sheet": "03d08161fc5e53f9",
+              "name": "$1N93"
+            }
+          ]
+        }
+      ],
+      "unreferenced_historical_pour_cache": 6
+    },
+    "02_电源板_Power": {
+      "components": 62,
+      "pages": 7,
+      "schematic_unchanged": true,
+      "pcb_unchanged": true,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 209,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "inherited_erc": [],
+      "unreferenced_historical_pour_cache": 0
+    },
+    "03_剑身板_Blade": {
+      "components": 16,
+      "pages": 1,
+      "schematic_unchanged": true,
+      "pcb_unchanged": true,
+      "active_traces": 0,
+      "active_vias": 0,
+      "active_pours": 0,
+      "unrouted_markers": 58,
+      "physical_drc_errors": 0,
+      "default_signal_width_mil": 10,
+      "pad_net_mismatches": 0,
+      "inherited_erc": [
+        {
+          "type": "warn",
+          "rule": "SHOWDANDLING",
+          "primitives": [
+            {
+              "primitiveId": "33b667ce81ded764",
+              "sheet": "6d14c951751a0980",
+              "name": "$1N14"
+            }
+          ]
+        },
+        {
+          "type": "warn",
+          "rule": "SHOWDANDLING",
+          "primitives": [
+            {
+              "primitiveId": "fe754d3db1cff2f0",
+              "sheet": "6d14c951751a0980",
+              "name": "$1N13"
+            }
+          ]
+        }
+      ],
+      "unreferenced_historical_pour_cache": 2
+    }
+  },
+  "geometry": {
+    "errors": [],
+    "minGap": [
+      0.3308822400000029,
+      "J110",
+      "R103"
+    ],
+    "touchBack": [
+      "U3",
+      "C11",
+      "C12",
+      "R6",
+      "J2",
+      "R129",
+      "R130",
+      "R131",
+      "R132",
+      "R133",
+      "R134"
+    ],
+    "count": 69,
+    "outlineMm": [
+      40,
+      50
+    ],
+    "oldOutlineMm": [
+      44,
+      62
+    ],
+    "areaReductionPercent": 26.68621700879765
+  },
+  "touch_back": [
+    "U3",
+    "C11",
+    "C12",
+    "R6",
+    "J2",
+    "R129",
+    "R130",
+    "R131",
+    "R132",
+    "R133",
+    "R134"
+  ],
+  "export_verified": true,
+  "all_schematics_unchanged": true,
+  "all_147_component_pinmaps_preserved": true,
+  "main69_actual_pad_transforms_checked": true,
+  "antenna_keepout_preserved": true,
+  "mounting_holes_mm": [
+    [
+      -16,
+      4
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      -16,
+      46
+    ],
+    [
+      16,
+      46
+    ]
+  ],
+  "mounting_hole_diameter_mm": 2.2,
+  "m2_screw_envelope_diameter_mm": 5.5,
+  "old_frame_mm": [
+    44,
+    62
+  ],
+  "new_frame_mm": [
+    40,
+    50
+  ],
+  "area_reduction_percent": 26.68621700879765,
+  "scope": "Manual placement only. No routing or fabrication release."
+}

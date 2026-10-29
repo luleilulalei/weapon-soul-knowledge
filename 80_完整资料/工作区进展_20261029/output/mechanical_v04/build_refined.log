@@ -1,0 +1,37 @@
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 文件导出成功
+信息: 已另存为 "Spirit_V04_V074P3B_review.blend"
+TOPOLOGY [{"part": "P01_front_shell", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 36912.97471831876, "assembly_bbox_mm": [62.0, 190.0, 17.100000381469727]}, {"part": "P02_rear_shell", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 51671.40842256613, "assembly_bbox_mm": [62.0, 190.0, 24.5]}, {"part": "P04_replaceable_screen_bezel", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 1568.143456742047, "assembly_bbox_mm": [55.599998474121094, 44.349998474121094, 4.699999809265137]}, {"part": "P05_screen_rear_retainer", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 404.89802297232376, "assembly_bbox_mm": [56.099998474121094, 37.376895904541016, 1.2000000476837158]}, {"part": "P11_keyed_top_dust_cap", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 2076.281211182161, "assembly_bbox_mm": [34.0, 7.0, 15.0]}, {"part": "P06_power_plunger", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 227.21047343664884, "assembly_bbox_mm": [7.0, 7.0, 13.350000381469727]}, {"part": "P03_PCB_four_hole_carrier", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 1831.5942562607297, "assembly_bbox_mm": [46.20000076293945, 66.69999694824219, 8.40000057220459]}, {"part": "P07_battery_cradle", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 6956.186556624932, "assembly_bbox_mm": [37.0, 74.5999984741211, 11.500001907348633]}, {"part": "P08_side_speaker_chamber", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 1918.443726747227, "assembly_bbox_mm": [9.40000057220459, 35.0, 22.799999237060547]}, {"part": "P09_side_speaker_grille", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 490.289423766562, "assembly_bbox_mm": [1.2000010013580322, 35.0, 22.899999618530273]}, {"part": "P10_rear_NFC_holder", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 2008.4388866479494, "assembly_bbox_mm": [32.0, 73.80000305175781, 4.1999993324279785]}, {"part": "P12_LRA_retaining_bridge", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 77.41478282144679, "assembly_bbox_mm": [16.0, 6.0, 1.2000000476837158]}, {"part": "P13_MIC_side_duct", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 228.84245593560098, "assembly_bbox_mm": [17.89499855041504, 15.199996948242188, 3.799999713897705]}, {"part": "P14_fit_coupon", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 4317.381487457164, "assembly_bbox_mm": [48.0, 24.0, 4.0]}, {"part": "P15_Hanxia_keyed_adapter_carrier", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 2550.850860176135, "assembly_bbox_mm": [34.0, 42.0, 15.0]}, {"part": "P16_adapter_height_shim_0p3", "nonmanifold_edges": 0, "boundary_edges": 0, "volume_mm3": 6.183000057449456, "assembly_bbox_mm": [5.0, 5.599999904632568, 0.30000001192092896]}]
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Timer 'STL Export' took 4.75 ms
+Timer 'STL Export' took 4.37 ms
+Timer 'STL Export' took 1.36 ms
+Timer 'STL Export' took 1.87 ms
+Timer 'STL Export' took 0.43 ms
+Timer 'STL Export' took 0.92 ms
+Timer 'STL Export' took 2.75 ms
+Timer 'STL Export' took 1.01 ms
+Timer 'STL Export' took 1.27 ms
+Timer 'STL Export' took 1.04 ms
+Timer 'STL Export' took 1.63 ms
+Timer 'STL Export' took 0.78 ms
+Timer 'STL Export' took 0.86 ms
+Timer 'STL Export' took 1.19 ms
+Timer 'STL Export' took 1.33 ms
+Timer 'STL Export' took 0.33 ms
+Timer 'STL Export' took 15.33 ms

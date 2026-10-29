@@ -1,0 +1,11 @@
+{
+  "pdf_pages": 4,
+  "text_checks": "passed",
+  "visual_review": "all four pages rendered and inspected",
+  "mount_envelope_overlaps": [],
+  "minimum_radial_gap_mm": 0.51,
+  "wire_radial_gap_mm": 0.6079744145729329,
+  "no_3d_model_created": true,
+  "validation_scope": "2D/height budget only; not full CAD collision or load verification",
+  "pdf_sha256": "bd07b07c32d6d611e63411588a9cbfddb425b12a5503518a786162310888a6ea"
+}

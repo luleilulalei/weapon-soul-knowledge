@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>器灵V074P1 · H1覆铜修复</title><style>body{margin:0;background:#f4f6fa;color:#203047;font:16px/1.8 system-ui,-apple-system,"PingFang SC",sans-serif}main{max-width:1280px;margin:auto;padding:32px 24px}h1{line-height:1.3}section{background:#fff;border:1px solid #dbe2ec;border-radius:14px;padding:22px;margin-top:20px}img{display:block;width:100%;height:auto}a{color:#255ca2}.links{display:flex;flex-wrap:wrap;gap:24px}.hint{color:#61748b;font-size:14px}pre{white-space:pre-wrap;font:14px/1.8 system-ui}.note{background:#fff5dc;border-radius:10px;padding:14px}</style><main><p class="hint">器灵内核 · V0.7.4P1 · 2026-10-25</p><h1>H1附近的顶层接地铜已补上</h1><p>新增两个GND过孔，把被走线隔开的顶层铜接到内层地；重新铺铜后，左下区域增加约110mm²接地铜。嘉立创当前工程已保存为V074P1修订。</p><section><div class="links"><a href="Spirit_V074P1_H1_Ground_Pour_20261025.epro2">原生工程</a><a href="验证结果.json">验证记录</a><a href="00_覆铜修复说明.txt">完整说明</a></div><a href="H1覆铜修复对照.png" target="_blank"><img src="H1覆铜修复对照.png" alt="H1顶层铜修复前后对照"></a><p class="hint">按最终原生覆铜几何绘制；只显示顶层铜，白圈标出新增的两个接地过孔。</p></section><section><h2>复核通过</h2><p>双板DRC / 未连接：0 / 0。新增过孔已连接顶层、内层和底层GND；保持删除悬空孤岛，间距、安装孔周、连续GND内层及原生导出一致性检查通过。</p><p>全部走线、元件布局、板框和孔位保持不变，V074P角度修复结果保留。</p><div class="note">截图最下方的天线伸出区仍保持禁铜。该处留空与H1附近缺少接地铜是两件事。</div></section><details><summary>完整记录</summary><section><pre>器灵 PCB V0.7.4P1 左下H1附近顶层接地覆铜修复 — 2026-10-25
+
+用户截图指出“这块没铺上铜”。原生覆铜回查确认：H1左下区域底层和内层已有GND铜，但顶层被信号线隔开且没有接地连接，keepIsland=false使其被删除。此前只检查了DRC和内层GND连续性，未覆盖这片顶层铜的接地情况。
+
+修复：在（-14,88）mm和（-20.5,88.2）mm增加两个GND过孔，焊盘直径0.5mm、孔径0.2mm。它们连接顶层、内层GND及底层GND。保留删除孤岛设置，不强制保留悬空铜。重建覆铜后，左下检查窗[-22.2,80]至[-9,97]mm内的顶层GND面积由3.828mm²增加至113.892mm²，补上约110.064mm²。
+
+验证：双板原生DRC与未连接均0；新增过孔的跨层接地连接、间距与孔距检查通过。主板过孔363→365。全部走线逐条保持不变，因此V074P角度修复和USB路径保留；元件位置、网络、封装、板框、四凸耳孔位、叠层不变；适配板不变。GND内层连续；安装孔周和天线禁铜检查通过。天线伸出区保持无铜，不能因为H1附近修复而填入该区。
+
+已同步嘉立创当前项目Spirit_V074N_Manual_Routed_Final_20261025，主板丝印V074P1。已保存、导出并核实原生导出几何与回读一致。没有使用自动布线，没有改动走线路径。
+
+交付包括修复版原生工程、修改前V074P备份、原生回读、验证JSON和实际覆铜前后对照图。
+
+既有边界不变：孔距38×61.5mm、板长71.5mm，采用M2尼龙螺丝/塑料支柱。旧STL安装柱和横插J7配套仍待同步；实屏排线、USB最终阻抗/信号完整性、NFC射频、温升和装配仍待实物验证。未下单。
+</pre></section></details></main></html>

@@ -1,0 +1,73 @@
+{
+  "main": {
+    "layers": {
+      "1": {
+        "area_mm2": 1415.4964,
+        "copper_islands": 172,
+        "labelled_islands": 157
+      },
+      "15": {
+        "area_mm2": 1818.4581,
+        "copper_islands": 137,
+        "labelled_islands": 137
+      },
+      "16": {
+        "area_mm2": 1562.2736,
+        "copper_islands": 146,
+        "labelled_islands": 146
+      },
+      "2": {
+        "area_mm2": 1531.0537,
+        "copper_islands": 161,
+        "labelled_islands": 148
+      }
+    },
+    "uncovered_pad_via_anchors": [],
+    "cross_net_copper_islands": [],
+    "split_nets": {}
+  },
+  "power": {
+    "layers": {
+      "1": {
+        "area_mm2": 1506.341,
+        "copper_islands": 98,
+        "labelled_islands": 96
+      },
+      "15": {
+        "area_mm2": 1582.4507,
+        "copper_islands": 92,
+        "labelled_islands": 92
+      },
+      "16": {
+        "area_mm2": 1520.5797,
+        "copper_islands": 133,
+        "labelled_islands": 133
+      },
+      "2": {
+        "area_mm2": 1495.801,
+        "copper_islands": 108,
+        "labelled_islands": 101
+      }
+    },
+    "uncovered_pad_via_anchors": [],
+    "cross_net_copper_islands": [],
+    "split_nets": {}
+  },
+  "blade": {
+    "layers": {
+      "1": {
+        "area_mm2": 491.7452,
+        "copper_islands": 39,
+        "labelled_islands": 27
+      },
+      "2": {
+        "area_mm2": 515.4446,
+        "copper_islands": 14,
+        "labelled_islands": 14
+      }
+    },
+    "uncovered_pad_via_anchors": [],
+    "cross_net_copper_islands": [],
+    "split_nets": {}
+  }
+}

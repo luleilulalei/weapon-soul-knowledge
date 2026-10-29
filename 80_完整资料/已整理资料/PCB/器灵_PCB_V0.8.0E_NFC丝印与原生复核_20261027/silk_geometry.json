@@ -1,0 +1,6 @@
+{
+  "nfc_silk_and_body_intersections": [],
+  "nfc_label_body_or_silk_intersections": [],
+  "nfc_label_intersections": [],
+  "note": "Exact footprint silkscreen stroke sampling with arc <=5 degree steps; conservative label rectangles. Physical body/copper shape checks separate."
+}

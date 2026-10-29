@@ -1,0 +1,128 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/00_布线交付说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/00_布线交付说明.txt",
+    "kind": "file",
+    "sha256": "aaa576f25d462f456bc54ebccde522103283a38bde3b99dac1cb2f3ad5153398",
+    "bytes": 3571,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/布线复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/布线复核.html",
+    "kind": "file",
+    "sha256": "88d0d7beba48a8958d23d369e22510a1016fcbbdf74c5effb39f5c680b903d87",
+    "bytes": 8565,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/Spirit_V074N_MANUALLY_ROUTED_20261025.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/Spirit_V074N_MANUALLY_ROUTED_20261025.epro2",
+    "kind": "file",
+    "sha256": "597e1164fdfab88859cb27dd9f04fa91ad7b994c493586753b2b754f7fba25b4",
+    "bytes": 1452047,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/修改前_V074M.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/修改前_V074M.epro2",
+    "kind": "file",
+    "sha256": "9e74e962055e8c40b41054c0854de3ee60915744952e04a483e9ee0f1587e5eb",
+    "bytes": 1604201,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/原生回读.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/原生回读.json",
+    "kind": "file",
+    "sha256": "bb3ad7975ccecf0704b6bfa6e936aa31038330ac213f1abf3c82b6e4203c156e",
+    "bytes": 7420899,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/验证结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/验证结果.json",
+    "kind": "file",
+    "sha256": "297634bb237c3f9b3dd22c575487482dfd71ec3c0fbe9a034f929d0f2f6b8ad4",
+    "bytes": 2393,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/导出一致性.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/导出一致性.json",
+    "kind": "file",
+    "sha256": "f58d0c790dc71b63943af4b1e48a3d2395f07b0b33a3aecb04869725b3f3ac9a",
+    "bytes": 328,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/覆铜检查.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/覆铜检查.json",
+    "kind": "file",
+    "sha256": "e7204f5e7bdd7ccfbc4ce6057d1be8707a137320878924a57a64d13deb63cf83",
+    "bytes": 130,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/主板_人工路线记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/主板_人工路线记录.json",
+    "kind": "file",
+    "sha256": "d407027d77adec4f7c8575b163a7288d3a8f2ca03be8bc3e1eee58a942126a7f",
+    "bytes": 473035,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/适配板_人工路线记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/适配板_人工路线记录.json",
+    "kind": "file",
+    "sha256": "4f7e2b9767e4ac5bfcfdb2eedefb9b23751bd8c7f9490b46f4c466a9bca6ec9b",
+    "bytes": 39929,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/main_layers.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/main_layers.png",
+    "kind": "file",
+    "sha256": "c70843b24b75f15e974c9e4b29f76a5adb789c095fe20b17c3e862c75ae6a2e8",
+    "bytes": 966034,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/adapter_layers.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/adapter_layers.png",
+    "kind": "file",
+    "sha256": "59e0cc6f1324e769100b714cbcdf0e2483aed8018afe884205a3fbfde0159e84",
+    "bytes": 237724,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/主板_嘉立创原生预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/主板_嘉立创原生预览.webp",
+    "kind": "file",
+    "sha256": "b26220dae930a0e4a27ac0184a15717448bc7701b8e0f1aeec83b067802f5922",
+    "bytes": 122096,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/适配板_嘉立创原生预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4N_手工布线完成_20261025/适配板_嘉立创原生预览.webp",
+    "kind": "file",
+    "sha256": "6132c1c90399c2d18e00c0c755a742d1a1330c972fb40a0f3304b6ba87fd6c31",
+    "bytes": 66176,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

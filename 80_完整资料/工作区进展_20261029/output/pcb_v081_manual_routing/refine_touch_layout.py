@@ -1,0 +1,6 @@
+from run import call,O
+import json
+changes={'C11':(-3.5,20.7,0),'C12':(-2.5,23.2,0),'R37':(-10.9,25.0,0),'R38':(-11.6,26.2,0)}
+call("await __v081Open('5354a7bf4c630a18');return true;")
+code='const m='+json.dumps(changes)+";const cs=JSON.parse(JSON.stringify(await eda.pcb_PrimitiveComponent.getAll()));for(const [r,[x,y,a]] of Object.entries(m)){const c=cs.find(c=>c.designator===r);if(!c)throw Error(r);await eda.pcb_PrimitiveComponent.modify(c.primitiveId,{x:x/.0254,y:y/.0254,rotation:a});}await new Promise(r=>setTimeout(r,6000));if(!await eda.pcb_Document.save())throw Error('save');const b={uuid:'5354a7bf4c630a18',source:await eda.sys_FileManager.getDocumentSource(),components:await eda.pcb_PrimitiveComponent.getAll(),netlist:await eda.pcb_Net.getNetlist(),layers:await eda.pcb_Layer.getAllLayers(),pads:{},drc:await eda.pcb_Drc.check(true,false,true)};for(const c of JSON.parse(JSON.stringify(b.components)))b.pads[c.designator]=await eda.pcb_PrimitiveComponent.getAllPinsByPrimitiveId(c.primitiveId);return b;"
+b=call(code);allb=json.loads((O/'after_layout.json').read_text());allb['boards']['main']=b;(O/'after_layout.json').write_text(json.dumps(allb,ensure_ascii=False,indent=2));(O/'layout_touch_refinements.json').write_text(json.dumps(changes,indent=2));print('refined',list(changes))

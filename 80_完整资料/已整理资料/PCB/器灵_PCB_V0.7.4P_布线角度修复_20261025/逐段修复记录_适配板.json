@@ -1,0 +1,3434 @@
+{
+  "name": "adapter",
+  "tracks": [
+    {
+      "id": "manual74n_ad_T0",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          1.99898,
+          4.0005
+        ],
+        [
+          3.20000122,
+          5.19999976
+        ]
+      ],
+      "label": "manual74n_ad_T0",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T1",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          3.20000122,
+          5.19999976
+        ],
+        [
+          3.20000122,
+          6.3999999
+        ]
+      ],
+      "label": "manual74n_ad_T1",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T3",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          -3.0997420396308715,
+          6.699999790055021
+        ],
+        [
+          -3.0987999999999998,
+          7.80034
+        ]
+      ],
+      "label": "manual74n_ad_T3",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T4",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -0.98044,
+          7.80034
+        ],
+        [
+          -0.98000058,
+          6.3999999
+        ]
+      ],
+      "label": "manual74n_ad_T4",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T5",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          4.0005,
+          7.747
+        ],
+        [
+          3.9999996199999996,
+          7.20000084
+        ]
+      ],
+      "label": "manual74n_ad_T5",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T6",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          3.9999996199999996,
+          7.20000084
+        ],
+        [
+          3.20000122,
+          6.3999999
+        ]
+      ],
+      "label": "manual74n_ad_T6",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T7",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -0.98044,
+          7.80034
+        ],
+        [
+          -1.69999914,
+          7.799999639999999
+        ]
+      ],
+      "label": "manual74n_ad_T7",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T8",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -0.9753599999999999,
+          11.130279999999999
+        ],
+        [
+          -0.97499932,
+          12.200001
+        ]
+      ],
+      "label": "manual74n_ad_T8",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T9",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          1.49999954,
+          7.300001239999999
+        ]
+      ],
+      "label": "manual74n_ad_T9",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T10",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.1999995399999999,
+          7.00000124
+        ],
+        [
+          -1.39999914,
+          7.00000124
+        ]
+      ],
+      "label": "manual74n_ad_T10",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T11",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -1.69999914,
+          7.300001239999999
+        ],
+        [
+          -1.69999914,
+          7.799999639999999
+        ]
+      ],
+      "label": "manual74n_ad_T11",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T13",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          11.00000086
+        ],
+        [
+          0.29999939999999997,
+          12.200001
+        ]
+      ],
+      "label": "manual74n_ad_T13",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T14",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          0.29999939999999997,
+          12.200001
+        ],
+        [
+          -0.97499932,
+          12.200001
+        ]
+      ],
+      "label": "manual74n_ad_T14",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T15",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          0.32512,
+          11.130279999999999
+        ],
+        [
+          0.32500061999999996,
+          10.00000032
+        ]
+      ],
+      "label": "manual74n_ad_T15",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T16",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          0.32500061999999996,
+          10.00000032
+        ],
+        [
+          0.5999987999999999,
+          9.7249996
+        ]
+      ],
+      "label": "manual74n_ad_T16",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T17",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          0.5999987999999999,
+          9.7249996
+        ],
+        [
+          0.5999987999999999,
+          8.40000098
+        ]
+      ],
+      "label": "manual74n_ad_T17",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T20",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          4.0005,
+          9.25322
+        ],
+        [
+          3.249999079948439,
+          9.253204757456599
+        ]
+      ],
+      "label": "manual74n_ad_T20",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T21",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.99999908,
+          9.00319968
+        ],
+        [
+          2.99999908,
+          8.05029936
+        ]
+      ],
+      "label": "manual74n_ad_T21",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T22",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.749999080071477,
+          7.800305338161774
+        ],
+        [
+          1.30048,
+          7.80034
+        ]
+      ],
+      "label": "manual74n_ad_T22",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T23",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          1.30048,
+          7.80034
+        ],
+        [
+          0.4499991,
+          7.799999639999999
+        ]
+      ],
+      "label": "manual74n_ad_T23",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T24",
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.4499991,
+          7.799999639999999
+        ],
+        [
+          0.0,
+          8.249998739999999
+        ]
+      ],
+      "label": "manual74n_ad_T24",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T25",
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.0,
+          8.249998739999999
+        ],
+        [
+          0.0,
+          8.99999978
+        ]
+      ],
+      "label": "manual74n_ad_T25",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T26",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -1.99898,
+          1.99898
+        ],
+        [
+          -3.9999996199999996,
+          2.00000108
+        ]
+      ],
+      "label": "manual74n_ad_T26",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T27",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.9999996199999996,
+          2.00000108
+        ],
+        [
+          -4.70000076,
+          2.69999968
+        ]
+      ],
+      "label": "manual74n_ad_T27",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T28",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -4.70000076,
+          2.69999968
+        ],
+        [
+          -4.70000076,
+          9.600000519999998
+        ]
+      ],
+      "label": "manual74n_ad_T28",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T29",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -4.40000076,
+          9.900000519999999
+        ],
+        [
+          -3.2261003199999996,
+          9.900000519999999
+        ]
+      ],
+      "label": "manual74n_ad_T29",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T30",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -2.926095365028306,
+          10.20000051995908
+        ],
+        [
+          -2.92608,
+          11.130279999999999
+        ]
+      ],
+      "label": "manual74n_ad_T30",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T31",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.0,
+          4.0005
+        ],
+        [
+          0.0,
+          4.84999976
+        ]
+      ],
+      "label": "manual74n_ad_T31",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T32",
+      "net": "ACC_SCL",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -2.92608,
+          16.87068
+        ],
+        [
+          -2.9261003199999998,
+          17.79999996
+        ]
+      ],
+      "label": "manual74n_ad_T32",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T33",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -0.35,
+          5.19999976
+        ],
+        [
+          -5.600000699999999,
+          5.19999976
+        ]
+      ],
+      "label": "manual74n_ad_T33",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T34",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -6.000000699999999,
+          5.59999976
+        ],
+        [
+          -6.000000699999999,
+          17.399999960000002
+        ]
+      ],
+      "label": "manual74n_ad_T34",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T35",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -5.600000699999999,
+          17.79999996
+        ],
+        [
+          -2.9261003199999998,
+          17.79999996
+        ]
+      ],
+      "label": "manual74n_ad_T35",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T36",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          1.99898,
+          1.99898
+        ],
+        [
+          3.20000122,
+          2.00000108
+        ]
+      ],
+      "label": "manual74n_ad_T36",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T37",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          3.20000122,
+          2.00000108
+        ],
+        [
+          4.19999922,
+          1.00000054
+        ]
+      ],
+      "label": "manual74n_ad_T37",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T38",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          4.19999922,
+          1.00000054
+        ],
+        [
+          8.60000058,
+          1.00000054
+        ]
+      ],
+      "label": "manual74n_ad_T38",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T39",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          8.60000058,
+          1.00000054
+        ],
+        [
+          9.39999898,
+          1.79999894
+        ]
+      ],
+      "label": "manual74n_ad_T39",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T40",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          9.39999898,
+          1.79999894
+        ],
+        [
+          9.39999898,
+          19.100001239999997
+        ]
+      ],
+      "label": "manual74n_ad_T40",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T41",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          8.79999898,
+          19.70000124
+        ],
+        [
+          -5.19999976,
+          19.70000124
+        ]
+      ],
+      "label": "manual74n_ad_T41",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T43",
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -3.55092,
+          22.349459999999997
+        ],
+        [
+          -3.9,
+          22.00038
+        ]
+      ],
+      "label": "manual74n_ad_T43",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T44",
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -3.9,
+          22.00038
+        ],
+        [
+          -3.8989,
+          19.49958
+        ]
+      ],
+      "label": "manual74n_ad_T44",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T45",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.349459999999997
+        ],
+        [
+          -5.4508399999999995,
+          22.9997
+        ]
+      ],
+      "label": "manual74n_ad_T45",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T46",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.9997
+        ],
+        [
+          -6.000000118687168,
+          22.999893831847224
+        ]
+      ],
+      "label": "manual74n_ad_T46",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T47",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -6.300000099999999,
+          23.29999972
+        ],
+        [
+          -6.300000099999999,
+          25.4
+        ]
+      ],
+      "label": "manual74n_ad_T47",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T48",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -6.300000099999999,
+          25.4
+        ],
+        [
+          -5.40004,
+          26.29916
+        ]
+      ],
+      "label": "manual74n_ad_T48",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T49",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -5.40004,
+          26.29916
+        ],
+        [
+          -5.400011307038773,
+          27.49999988014273
+        ]
+      ],
+      "label": "manual74n_ad_T49",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T50",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -4.89999936,
+          27.99999988
+        ],
+        [
+          0.50000054,
+          27.99999988
+        ]
+      ],
+      "label": "manual74n_ad_T50",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T51",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          1.000264850757205,
+          27.499999949860182
+        ],
+        [
+          1.0007599999999999,
+          26.563319999999997
+        ]
+      ],
+      "label": "manual74n_ad_T51",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T53",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.49999899999999997,
+      "points": [
+        [
+          2.00000108,
+          25.5999996
+        ],
+        [
+          4.29999902,
+          25.5999996
+        ]
+      ],
+      "label": "manual74n_ad_T53",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T54",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.49999899999999997,
+      "points": [
+        [
+          4.29999902,
+          25.5999996
+        ],
+        [
+          4.30022,
+          25.99944
+        ]
+      ],
+      "label": "manual74n_ad_T54",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T56",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          4.30022,
+          25.99944
+        ],
+        [
+          4.29999902,
+          25.0000008
+        ]
+      ],
+      "label": "manual74n_ad_T56",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T57",
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          2.10000088,
+          21.89999938
+        ],
+        [
+          2.10000088,
+          24.10000006
+        ]
+      ],
+      "label": "manual74n_ad_T57",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T58",
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          2.10000088,
+          24.10000006
+        ],
+        [
+          2.99999908,
+          25.0000008
+        ]
+      ],
+      "label": "manual74n_ad_T58",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T59",
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          2.99999908,
+          25.0000008
+        ],
+        [
+          4.29999902,
+          25.0000008
+        ]
+      ],
+      "label": "manual74n_ad_T59",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T61",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          7.599679999999999,
+          22.301199999999998
+        ],
+        [
+          7.60000004,
+          21.400000379999998
+        ]
+      ],
+      "label": "manual74n_ad_T61",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T62",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          3.1496,
+          22.9997
+        ],
+        [
+          4.19999922,
+          22.999999719999998
+        ]
+      ],
+      "label": "manual74n_ad_T62",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T64",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          10.59999912
+        ],
+        [
+          5.199998959999999,
+          10.59999912
+        ]
+      ],
+      "label": "manual74n_ad_T64",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T65",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          5.59999896,
+          10.99999912
+        ],
+        [
+          5.59999896,
+          18.8000005
+        ]
+      ],
+      "label": "manual74n_ad_T65",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T66",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          5.59999896,
+          18.8000005
+        ],
+        [
+          6.300000099999999,
+          19.4999991
+        ]
+      ],
+      "label": "manual74n_ad_T66",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T67",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          6.300000099999999,
+          19.4999991
+        ],
+        [
+          6.300000099999999,
+          21.30000058
+        ]
+      ],
+      "label": "manual74n_ad_T67",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T68",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          4.19999922,
+          22.999999719999998
+        ],
+        [
+          4.19999922,
+          21.60000058
+        ]
+      ],
+      "label": "manual74n_ad_T68",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T69",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          4.499999219999999,
+          21.30000058
+        ],
+        [
+          6.300000099999999,
+          21.30000058
+        ]
+      ],
+      "label": "manual74n_ad_T69",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T71",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          1.6256,
+          16.87068
+        ],
+        [
+          1.6256,
+          17.97812
+        ]
+      ],
+      "label": "manual74n_ad_T71",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T72",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          1.6256,
+          17.97812
+        ],
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ]
+      ],
+      "label": "manual74n_ad_T72",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T73",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ],
+        [
+          2.8473120577677156,
+          19.750000640322465
+        ]
+      ],
+      "label": "manual74n_ad_T73",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T74",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          3.0972993599999996,
+          20.00000064
+        ],
+        [
+          4.70000076,
+          20.00000064
+        ]
+      ],
+      "label": "manual74n_ad_T74",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T75",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          4.70000076,
+          20.00000064
+        ],
+        [
+          5.00000016,
+          20.300000039999997
+        ]
+      ],
+      "label": "manual74n_ad_T75",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T76",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.00000016,
+          20.300000039999997
+        ],
+        [
+          5.00000016,
+          23.60000106
+        ]
+      ],
+      "label": "manual74n_ad_T76",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T77",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.00000016,
+          23.60000106
+        ],
+        [
+          5.349999459999999,
+          23.94970064
+        ]
+      ],
+      "label": "manual74n_ad_T77",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T78",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.349999459999999,
+          23.94970064
+        ],
+        [
+          5.84962,
+          23.949659999999998
+        ]
+      ],
+      "label": "manual74n_ad_T78",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T80",
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.69999968,
+          23.70000086
+        ],
+        [
+          -0.50440032,
+          23.70000086
+        ]
+      ],
+      "label": "manual74n_ad_T80",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T81",
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -0.754394674922932,
+          23.950000859936267
+        ],
+        [
+          -0.7543799999999999,
+          24.599899999999998
+        ]
+      ],
+      "label": "manual74n_ad_T81",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T82",
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.7543799999999999,
+          24.599899999999998
+        ],
+        [
+          0.75440032,
+          25.0000008
+        ]
+      ],
+      "label": "manual74n_ad_T82",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T83",
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.75440032,
+          25.0000008
+        ],
+        [
+          0.0,
+          25.7499993
+        ]
+      ],
+      "label": "manual74n_ad_T83",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T84",
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.0,
+          25.7499993
+        ],
+        [
+          0.0,
+          26.563319999999997
+        ]
+      ],
+      "label": "manual74n_ad_T84",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T86",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          3.80000002,
+          17.79999996
+        ],
+        [
+          4.7500000600000005,
+          17.79999996
+        ]
+      ],
+      "label": "manual74n_ad_T86",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T87",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.05000005027027,
+          18.09999996
+        ],
+        [
+          5.05,
+          19.65
+        ]
+      ],
+      "label": "manual74n_ad_T87",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T88",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.05,
+          19.65
+        ],
+        [
+          5.59999896,
+          20.20000024
+        ]
+      ],
+      "label": "manual74n_ad_T88",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T89",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.59999896,
+          20.20000024
+        ],
+        [
+          5.59999896,
+          20.44999974
+        ]
+      ],
+      "label": "manual74n_ad_T89",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T91",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.55092,
+          23.64994
+        ],
+        [
+          -2.69999968,
+          23.65000096
+        ]
+      ],
+      "label": "manual74n_ad_T91",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T92",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          5.59999896,
+          20.44999974
+        ],
+        [
+          -6.1499996999999995,
+          20.44999974
+        ]
+      ],
+      "label": "manual74n_ad_T92",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T93",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -6.499999699999999,
+          20.79999974
+        ],
+        [
+          -6.499999699999999,
+          21.500000179999997
+        ]
+      ],
+      "label": "manual74n_ad_T93",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T94",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -6.499999699999999,
+          21.500000179999997
+        ],
+        [
+          -3.50000062,
+          21.500000179999997
+        ]
+      ],
+      "label": "manual74n_ad_T94",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T95",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.50000062,
+          21.500000179999997
+        ],
+        [
+          -2.69999968,
+          22.30000112
+        ]
+      ],
+      "label": "manual74n_ad_T95",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T96",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -2.69999968,
+          22.30000112
+        ],
+        [
+          -2.69999968,
+          23.65000096
+        ]
+      ],
+      "label": "manual74n_ad_T96",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T97",
+      "net": "ADP_SWDIO",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          -1.6256,
+          16.87068
+        ],
+        [
+          -1.6256,
+          15.699999079999998
+        ]
+      ],
+      "label": "manual74n_ad_T97",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T98",
+      "net": "ADP_SWCLK",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          -2.2758399999999996,
+          16.87068
+        ],
+        [
+          -2.2757993599999997,
+          15.10000028
+        ]
+      ],
+      "label": "manual74n_ad_T98",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T99",
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -1.6256,
+          15.699999079999998
+        ],
+        [
+          -3.5999996199999997,
+          15.699999079999998
+        ]
+      ],
+      "label": "manual74n_ad_T99",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T100",
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.9999996466666707,
+          15.29999908
+        ],
+        [
+          -4,
+          10
+        ]
+      ],
+      "label": "manual74n_ad_T100",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T101",
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -4,
+          10
+        ],
+        [
+          -2.99999908,
+          8.99999978
+        ]
+      ],
+      "label": "manual74n_ad_T101",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T102",
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -2.2757993599999997,
+          15.10000028
+        ],
+        [
+          -2.2758,
+          10.3758
+        ]
+      ],
+      "label": "manual74n_ad_T102",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T103",
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -2.2758,
+          10.3758
+        ],
+        [
+          -1.49999954,
+          9.60000112
+        ]
+      ],
+      "label": "manual74n_ad_T103",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T104",
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -1.49999954,
+          9.60000112
+        ],
+        [
+          -1.49999954,
+          8.99999978
+        ]
+      ],
+      "label": "manual74n_ad_T104",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T108",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -2.4993600000000002,
+          19.49958
+        ],
+        [
+          -2.50000008,
+          18.7000007
+        ]
+      ],
+      "label": "manual74n_ad_T108",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T109",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -4.0005,
+          26.29916
+        ],
+        [
+          -3.20000122,
+          26.300000739999998
+        ]
+      ],
+      "label": "manual74n_ad_T109",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T110",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          5.6997599999999995,
+          25.99944
+        ],
+        [
+          6.499999699999999,
+          25.999998799999997
+        ]
+      ],
+      "label": "manual74n_ad_T110",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T111",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          7.599679999999999,
+          23.70074
+        ],
+        [
+          8.40000098,
+          23.70000086
+        ]
+      ],
+      "label": "manual74n_ad_T111",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T112",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -0.32512,
+          11.130279999999999
+        ],
+        [
+          -0.32500061999999996,
+          12.7999998
+        ]
+      ],
+      "label": "manual74n_ad_T112",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T113",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -3.55092,
+          22.9997
+        ],
+        [
+          -4.19999922,
+          22.999999719999998
+        ]
+      ],
+      "label": "manual74n_ad_T113",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T114",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          5.84962,
+          22.9997
+        ],
+        [
+          6.699999299999999,
+          22.999999719999998
+        ]
+      ],
+      "label": "manual74n_ad_T114",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T115",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -7.50062,
+          23.754080000000002
+        ],
+        [
+          -8.30000118,
+          23.75000076
+        ]
+      ],
+      "label": "manual74n_ad_T115",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T116",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          4.35356,
+          19.199859999999997
+        ],
+        [
+          4.34999892,
+          18.39999876
+        ]
+      ],
+      "label": "manual74n_ad_T116",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T117",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -1.0007599999999999,
+          26.563319999999997
+        ],
+        [
+          -1.00000054,
+          25.5999996
+        ]
+      ],
+      "label": "manual74n_ad_T117",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74n_ad_T120",
+      "net": "GND",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -1.99898,
+          4.0005
+        ],
+        [
+          0.0,
+          1.99898
+        ]
+      ],
+      "label": "manual74n_ad_T120",
+      "group": "angle repair"
+    },
+    {
+      "id": "3abf40b62e3e5e50",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          3.20000122,
+          6.3999999
+        ],
+        [
+          -0.98000058,
+          6.3999999
+        ]
+      ],
+      "label": "3abf40b62e3e5e50",
+      "group": "angle repair"
+    },
+    {
+      "id": "0db36198251e872b",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          -0.98000058,
+          6.3999999
+        ],
+        [
+          -2.79999888,
+          6.3999999
+        ]
+      ],
+      "label": "0db36198251e872b",
+      "group": "angle repair"
+    },
+    {
+      "id": "b8e59ce174d3d2ff",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          1.49999954,
+          10.59999912
+        ]
+      ],
+      "label": "b8e59ce174d3d2ff",
+      "group": "angle repair"
+    },
+    {
+      "id": "f220efcafafefe24",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          10.59999912
+        ],
+        [
+          1.49999954,
+          11.00000086
+        ]
+      ],
+      "label": "f220efcafafefe24",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_1",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          5.84962,
+          22.04974
+        ],
+        [
+          7.34854,
+          22.04974
+        ]
+      ],
+      "label": "manual74p_adapter_1",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_2",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          7.34854,
+          22.04974
+        ],
+        [
+          7.6,
+          22.3012
+        ]
+      ],
+      "label": "manual74p_adapter_2",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_3",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          6.3,
+          21.3
+        ],
+        [
+          7.5,
+          21.3
+        ]
+      ],
+      "label": "manual74p_adapter_3",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_4",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          7.5,
+          21.3
+        ],
+        [
+          7.6,
+          21.4
+        ]
+      ],
+      "label": "manual74p_adapter_4",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_5",
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.39999919999999994,
+      "points": [
+        [
+          -3.0997420396308715,
+          6.699999790055021
+        ],
+        [
+          -2.79999888,
+          6.3999999
+        ]
+      ],
+      "label": "manual74p_adapter_5",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_6",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          1.49999954,
+          7.300001239999999
+        ],
+        [
+          1.1999995399999999,
+          7.00000124
+        ]
+      ],
+      "label": "manual74p_adapter_6",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_7",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          -1.39999914,
+          7.00000124
+        ],
+        [
+          -1.69999914,
+          7.300001239999999
+        ]
+      ],
+      "label": "manual74p_adapter_7",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_8",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          5.199998959999999,
+          10.59999912
+        ],
+        [
+          5.59999896,
+          10.99999912
+        ]
+      ],
+      "label": "manual74p_adapter_8",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_9",
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          4.19999922,
+          21.60000058
+        ],
+        [
+          4.499999219999999,
+          21.30000058
+        ]
+      ],
+      "label": "manual74p_adapter_9",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_10",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.49999899999999997,
+      "points": [
+        [
+          1.0,
+          26.6
+        ],
+        [
+          2.0,
+          25.6
+        ]
+      ],
+      "label": "manual74p_adapter_10",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_11",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          3.1496,
+          21.9
+        ],
+        [
+          2.1,
+          21.9
+        ]
+      ],
+      "label": "manual74p_adapter_11",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_12",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -6.000000118687168,
+          22.999893831847224
+        ],
+        [
+          -6.300000099999999,
+          23.29999972
+        ]
+      ],
+      "label": "manual74p_adapter_12",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_13",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -5.400011307038773,
+          27.49999988014273
+        ],
+        [
+          -4.89999936,
+          27.99999988
+        ]
+      ],
+      "label": "manual74p_adapter_13",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_14",
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          0.50000054,
+          27.99999988
+        ],
+        [
+          1.000264850757205,
+          27.499999949860182
+        ]
+      ],
+      "label": "manual74p_adapter_14",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_15",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.87068,
+          16.87068
+        ],
+        [
+          3.8,
+          17.8
+        ]
+      ],
+      "label": "manual74p_adapter_15",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_16",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -7.24786,
+          22.24786
+        ],
+        [
+          -6.5,
+          21.5
+        ]
+      ],
+      "label": "manual74p_adapter_16",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_17",
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          4.7500000600000005,
+          17.79999996
+        ],
+        [
+          5.05000005027027,
+          18.09999996
+        ]
+      ],
+      "label": "manual74p_adapter_17",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_18",
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -6.1499996999999995,
+          20.44999974
+        ],
+        [
+          -6.499999699999999,
+          20.79999974
+        ]
+      ],
+      "label": "manual74p_adapter_18",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_19",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          0.0,
+          4.84999976
+        ],
+        [
+          -0.35,
+          5.19999976
+        ]
+      ],
+      "label": "manual74p_adapter_19",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_20",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -5.600000699999999,
+          5.19999976
+        ],
+        [
+          -6.000000699999999,
+          5.59999976
+        ]
+      ],
+      "label": "manual74p_adapter_20",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_21",
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -6.000000699999999,
+          17.399999960000002
+        ],
+        [
+          -5.600000699999999,
+          17.79999996
+        ]
+      ],
+      "label": "manual74p_adapter_21",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_22",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          0.6,
+          8.4
+        ],
+        [
+          1.2,
+          7.8
+        ]
+      ],
+      "label": "manual74p_adapter_22",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_23",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          3.249999079948439,
+          9.253204757456599
+        ],
+        [
+          2.99999908,
+          9.00319968
+        ]
+      ],
+      "label": "manual74p_adapter_23",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_24",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.99999908,
+          8.05029936
+        ],
+        [
+          2.749999080071477,
+          7.800305338161774
+        ]
+      ],
+      "label": "manual74p_adapter_24",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_25",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -4.70000076,
+          9.600000519999998
+        ],
+        [
+          -4.40000076,
+          9.900000519999999
+        ]
+      ],
+      "label": "manual74p_adapter_25",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_26",
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.2261003199999996,
+          9.900000519999999
+        ],
+        [
+          -2.926095365028306,
+          10.20000051995908
+        ]
+      ],
+      "label": "manual74p_adapter_26",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_27",
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          9.39999898,
+          19.100001239999997
+        ],
+        [
+          8.79999898,
+          19.70000124
+        ]
+      ],
+      "label": "manual74p_adapter_27",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_28",
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -3.8989,
+          19.7
+        ],
+        [
+          -5.2,
+          19.7
+        ]
+      ],
+      "label": "manual74p_adapter_28",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_29",
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.8473120577677156,
+          19.750000640322465
+        ],
+        [
+          3.0972993599999996,
+          20.00000064
+        ]
+      ],
+      "label": "manual74p_adapter_29",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_30",
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.94966,
+          23.94966
+        ],
+        [
+          2.7,
+          23.7
+        ]
+      ],
+      "label": "manual74p_adapter_30",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_31",
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -0.50440032,
+          23.70000086
+        ],
+        [
+          -0.754394674922932,
+          23.950000859936267
+        ]
+      ],
+      "label": "manual74p_adapter_31",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_32",
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -3.5999996199999997,
+          15.699999079999998
+        ],
+        [
+          -3.9999996466666707,
+          15.29999908
+        ]
+      ],
+      "label": "manual74p_adapter_32",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_33",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -0.75,
+          9.19988
+        ],
+        [
+          -0.75,
+          9.83
+        ]
+      ],
+      "label": "manual74p_adapter_33",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_34",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -3.30012,
+          9.19988
+        ],
+        [
+          -4,
+          8.5
+        ]
+      ],
+      "label": "manual74p_adapter_34",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_35",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          1.30048,
+          9.19988
+        ],
+        [
+          1.89988,
+          9.19988
+        ]
+      ],
+      "label": "manual74p_adapter_35",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_36",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          1.89988,
+          9.19988
+        ],
+        [
+          2.5,
+          9.8
+        ]
+      ],
+      "label": "manual74p_adapter_36",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_37",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -2.30124,
+          30.4
+        ],
+        [
+          -3.5,
+          30.4
+        ]
+      ],
+      "label": "manual74p_adapter_37",
+      "group": "angle repair"
+    },
+    {
+      "id": "manual74p_adapter_38",
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          2.30124,
+          30.4
+        ],
+        [
+          3.5,
+          30.4
+        ]
+      ],
+      "label": "manual74p_adapter_38",
+      "group": "angle repair"
+    }
+  ],
+  "vias": [
+    {
+      "net": "+3V3",
+      "x": -1.7,
+      "y": 7.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "+3V3",
+      "x": -0.975,
+      "y": 12.2,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ADP_NRST",
+      "x": 0.45,
+      "y": 7.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host power and MCU bypass"
+    },
+    {
+      "net": "ACC_SCL",
+      "x": -2.9261,
+      "y": 17.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter host I2C"
+    },
+    {
+      "net": "+5V_ACC",
+      "x": -5.2,
+      "y": 19.7,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 2.1,
+      "y": 21.9,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 4.3,
+      "y": 25,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Adapter 5V input and LED load switch"
+    },
+    {
+      "net": "+3V3",
+      "x": 7.6,
+      "y": 21.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 4.2,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 5.6,
+      "y": 18.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "+3V3",
+      "x": 6.3,
+      "y": 21.3,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter level translator supply"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": 5.6,
+      "y": 20.45,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -6.5,
+      "y": 21.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -2.7,
+      "y": 23.65,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter LED data and enable"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "x": -1.6256,
+      "y": 15.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "x": -2.2758,
+      "y": 15.1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter debug test pads"
+    },
+    {
+      "net": "GND",
+      "x": -0.75,
+      "y": 9.83,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -4,
+      "y": 8.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 2.5,
+      "y": 9.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -2.5,
+      "y": 18.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -3.2,
+      "y": 26.3,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 6.5,
+      "y": 26,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 8.4,
+      "y": 23.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -0.325,
+      "y": 12.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -4.2,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 6.7,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -8.3,
+      "y": 23.75,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 4.35,
+      "y": 18.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -1,
+      "y": 25.6,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -3.5,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 3.5,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter ground returns"
+    }
+  ],
+  "operations": [
+    {
+      "replace": [
+        "manual74n_ad_T60"
+      ],
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          5.84962,
+          22.04974
+        ],
+        [
+          7.34854,
+          22.04974
+        ],
+        [
+          7.6,
+          22.3012
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T70"
+      ],
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          6.3,
+          21.3
+        ],
+        [
+          7.5,
+          21.3
+        ],
+        [
+          7.6,
+          21.4
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        -3.1,
+        6.4
+      ],
+      "cut_mm": 0.3,
+      "net": "+3V3",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        1.5,
+        7
+      ],
+      "cut_mm": 0.3,
+      "net": "+3V3",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        -1.7,
+        7
+      ],
+      "cut_mm": 0.3,
+      "net": "+3V3",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        5.6,
+        10.6
+      ],
+      "cut_mm": 0.4,
+      "net": "+3V3",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        4.2,
+        21.3
+      ],
+      "cut_mm": 0.3,
+      "net": "+3V3",
+      "layer": 2
+    },
+    {
+      "replace": [
+        "manual74n_ad_T52"
+      ],
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.49999899999999997,
+      "points": [
+        [
+          1.0,
+          26.6
+        ],
+        [
+          2.0,
+          25.6
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T55"
+      ],
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.29999939999999997,
+      "points": [
+        [
+          3.1496,
+          21.9
+        ],
+        [
+          2.1,
+          21.9
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        -6.3,
+        23
+      ],
+      "cut_mm": 0.3,
+      "net": "+5V_LED",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        -5.4,
+        28
+      ],
+      "cut_mm": 0.5,
+      "net": "+5V_LED",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        1,
+        28
+      ],
+      "cut_mm": 0.5,
+      "net": "+5V_LED",
+      "layer": 1
+    },
+    {
+      "replace": [
+        "manual74n_ad_T85"
+      ],
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.87068,
+          16.87068
+        ],
+        [
+          3.8,
+          17.8
+        ]
+      ]
+    },
+    {
+      "move_vertex": [
+        5.05,
+        19.6
+      ],
+      "to": [
+        5.05,
+        19.65
+      ],
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "affected": [
+        [
+          "manual74n_ad_T87",
+          1
+        ],
+        [
+          "manual74n_ad_T88",
+          0
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T90"
+      ],
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          -7.24786,
+          22.24786
+        ],
+        [
+          -6.5,
+          21.5
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        5.05,
+        17.8
+      ],
+      "cut_mm": 0.3,
+      "net": "LED_ENABLE",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        -6.5,
+        20.45
+      ],
+      "cut_mm": 0.35,
+      "net": "LED_ENABLE",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        0,
+        5.2
+      ],
+      "cut_mm": 0.35,
+      "net": "ACC_SCL",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        -6,
+        5.2
+      ],
+      "cut_mm": 0.4,
+      "net": "ACC_SCL",
+      "layer": 2
+    },
+    {
+      "chamfer": [
+        -6,
+        17.8
+      ],
+      "cut_mm": 0.4,
+      "net": "ACC_SCL",
+      "layer": 2
+    },
+    {
+      "replace": [
+        "manual74n_ad_T18",
+        "manual74n_ad_T19"
+      ],
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.17999964,
+      "points": [
+        [
+          0.6,
+          8.4
+        ],
+        [
+          1.2,
+          7.8
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        3,
+        9.2532
+      ],
+      "cut_mm": 0.25,
+      "net": "ADP_NRST",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        3,
+        7.8003
+      ],
+      "cut_mm": 0.25,
+      "net": "ADP_NRST",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        -4.7,
+        9.9
+      ],
+      "cut_mm": 0.3,
+      "net": "ACC_SDA",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        -2.9261,
+        9.9
+      ],
+      "cut_mm": 0.3,
+      "net": "ACC_SDA",
+      "layer": 1
+    },
+    {
+      "chamfer": [
+        9.4,
+        19.7
+      ],
+      "cut_mm": 0.6,
+      "net": "+5V_ACC",
+      "layer": 2
+    },
+    {
+      "replace": [
+        "manual74n_ad_T42"
+      ],
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.5999987999999999,
+      "points": [
+        [
+          -3.8989,
+          19.7
+        ],
+        [
+          -5.2,
+          19.7
+        ]
+      ]
+    },
+    {
+      "move_vertex": [
+        -3.9,
+        21.9
+      ],
+      "to": [
+        -3.9,
+        22.00038
+      ],
+      "net": "+5V_ACC",
+      "layer": 1,
+      "affected": [
+        [
+          "manual74n_ad_T43",
+          1
+        ],
+        [
+          "manual74n_ad_T44",
+          0
+        ]
+      ]
+    },
+    {
+      "move_vertex": [
+        1.6256,
+        18
+      ],
+      "to": [
+        1.6256,
+        17.97812
+      ],
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "affected": [
+        [
+          "manual74n_ad_T71",
+          1
+        ],
+        [
+          "manual74n_ad_T72",
+          0
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        2.8473,
+        20
+      ],
+      "cut_mm": 0.25,
+      "net": "LED_DATA_3V3",
+      "layer": 1
+    },
+    {
+      "replace": [
+        "manual74n_ad_T79"
+      ],
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.19999959999999997,
+      "points": [
+        [
+          2.94966,
+          23.94966
+        ],
+        [
+          2.7,
+          23.7
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        -0.7544,
+        23.7
+      ],
+      "cut_mm": 0.25,
+      "net": "LED_DATA_5V",
+      "layer": 1
+    },
+    {
+      "move_vertex": [
+        -4,
+        9.6
+      ],
+      "to": [
+        -4,
+        10
+      ],
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "affected": [
+        [
+          "manual74n_ad_T100",
+          1
+        ],
+        [
+          "manual74n_ad_T101",
+          0
+        ]
+      ]
+    },
+    {
+      "chamfer": [
+        -4,
+        15.7
+      ],
+      "cut_mm": 0.4,
+      "net": "ADP_SWDIO",
+      "layer": 2
+    },
+    {
+      "move_vertex": [
+        -2.2758,
+        10.4
+      ],
+      "to": [
+        -2.2758,
+        10.3758
+      ],
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "affected": [
+        [
+          "manual74n_ad_T102",
+          1
+        ],
+        [
+          "manual74n_ad_T103",
+          0
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T105"
+      ],
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -0.75,
+          9.19988
+        ],
+        [
+          -0.75,
+          9.83
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T106"
+      ],
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -3.30012,
+          9.19988
+        ],
+        [
+          -4,
+          8.5
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T107"
+      ],
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          1.30048,
+          9.19988
+        ],
+        [
+          1.89988,
+          9.19988
+        ],
+        [
+          2.5,
+          9.8
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T118"
+      ],
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          -2.30124,
+          30.4
+        ],
+        [
+          -3.5,
+          30.4
+        ]
+      ]
+    },
+    {
+      "replace": [
+        "manual74n_ad_T119"
+      ],
+      "net": "GND",
+      "layer": 1,
+      "width": 0.24999949999999999,
+      "points": [
+        [
+          2.30124,
+          30.4
+        ],
+        [
+          3.5,
+          30.4
+        ]
+      ]
+    }
+  ],
+  "non45": [],
+  "non135": [],
+  "errors": []
+}

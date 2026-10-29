@@ -1,0 +1,74 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/00_覆铜修复说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/00_覆铜修复说明.txt",
+    "kind": "file",
+    "sha256": "680d954e3733baa54a9bf33d10777bd2b34ceac24f1d12ac5bd539dc59bfa786",
+    "bytes": 1725,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/覆铜修复复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/覆铜修复复核.html",
+    "kind": "file",
+    "sha256": "c209e105963f6fd280c398af32bd09e746bb2fe1ecbcdabc945a168641e99565",
+    "bytes": 3733,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/Spirit_V074P1_H1_Ground_Pour_20261025.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/Spirit_V074P1_H1_Ground_Pour_20261025.epro2",
+    "kind": "file",
+    "sha256": "ad28105c336b839c36ad49fee875e69f33bf6ac258efeec868a8edbbecffbc88",
+    "bytes": 1560245,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/修改前_V074P.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/修改前_V074P.epro2",
+    "kind": "file",
+    "sha256": "ea1011b363a1fab94e77c06536af92fcc0401432265df17ac598bf4744c7f122",
+    "bytes": 1539763,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/原生回读.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/原生回读.json",
+    "kind": "file",
+    "sha256": "d4de6a1d14d8aa3c58a0fae239c7d0db426eef60fe53a60faf2d2cd61a2509cc",
+    "bytes": 2852535,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/验证结果.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/验证结果.json",
+    "kind": "file",
+    "sha256": "7e703eaa2a78491f3065498dbb97eeaaccb570e67b7827dd09c8132f85a3588e",
+    "bytes": 1516,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/H1覆铜修复对照.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/H1覆铜修复对照.png",
+    "kind": "file",
+    "sha256": "a5e69901e37a6afa1d959969539a4156f3f4830879a56c58942a6508007e471e",
+    "bytes": 275210,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/主板_嘉立创原生预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P1_左下接地覆铜修复_20261025/主板_嘉立创原生预览.webp",
+    "kind": "file",
+    "sha256": "0afb90486bd51b064b3fd620c27301b5eae9dfd44bb59887f490b87082c79310",
+    "bytes": 123092,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

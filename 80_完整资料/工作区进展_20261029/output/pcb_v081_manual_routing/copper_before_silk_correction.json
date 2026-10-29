@@ -1,0 +1,29 @@
+{
+  "main": {
+    "Gerber_TopLayer.GTL": "428b90f2ddf0796cd3a113b6a16fc50eba33963e65b1446913459d6bc1b16187",
+    "Gerber_BottomLayer.GBL": "2a109ea70f6ee712a00021f7cd6e3d9e791248c3675aae409f0e6d3738c3257b",
+    "Gerber_BoardOutlineLayer.GKO": "53c96b03c469be5c67a5e4208b5e9fd33516481251d76d21817682da02ce0450",
+    "Gerber_InnerLayer1.G1": "c747710d7f03a56b1d51e0c0cf478d1949e77382bc60d324191fa2074a808d92",
+    "Gerber_InnerLayer2.G2": "41c8c02e44262b3078862a251f07887a9e1c340abc9b0ef587c1e157e14d8e08",
+    "Drill_PTH_Through.DRL": "5af12460212b3f1162943daec7ac56bbb4ece7769868f6b1f43f44426dbe5162",
+    "Drill_NPTH_Through.DRL": "bd7574f6207498b280a7f7089b4867083b4138074394b123a836af59514f4e20",
+    "Drill_PTH_Through_Via.DRL": "0dccc4f5654b25953605e4da8a2dc541c7dcee161a83161f1792823e56134233"
+  },
+  "power": {
+    "Gerber_TopLayer.GTL": "a322dbab27eb248764db5a4bf9e8b99c7f4ec0ed3ecde2a68f6bd3b5dd6ede83",
+    "Gerber_BottomLayer.GBL": "ddc4e3bde37e03afbe5219198ebdef7f6993426b332d0b688a0f2529f6417ae8",
+    "Gerber_BoardOutlineLayer.GKO": "ab652893c0c37f68129a881e4f0492cd7dba8c71b514a7a3345a5f677219d5ef",
+    "Gerber_InnerLayer1.G1": "7a2da6606a0a8453bddb44ec93bc953438f6376b44908fb401f8e34784a451a4",
+    "Gerber_InnerLayer2.G2": "9940fc6b2db351d3f7c991a513316f58e6074d85247890e71412dfd89254a1b4",
+    "Drill_PTH_Through.DRL": "476e698079b127f4a5f4f74c5f53a29d752b5fe2c217fd4d6b0293ba04fdfb7a",
+    "Drill_NPTH_Through.DRL": "81486d03d0d29713a4c03ee23c710285b294c65aecc267011617ccfa2e91d82e",
+    "Drill_PTH_Through_Via.DRL": "b244513f97725e15e6be2e52c0a32c23737c90eee2075f62ab386b28c9fe6726"
+  },
+  "blade": {
+    "Gerber_TopLayer.GTL": "ded10033829091d65e5efb3fbfa1593acb5883125cb817936c28b3fc03391e6c",
+    "Gerber_BottomLayer.GBL": "e91da19e48ec849f1a154b84d94904c3e626157e2d4103b040aa8ecd37c7c432",
+    "Gerber_BoardOutlineLayer.GKO": "8ead420b5414264ce431507991c202d48a2ae21eddd6683f8f352b60068fe549",
+    "Drill_PTH_Through.DRL": "56f121d4b73081d6c181da69aa7b441e99c92a280fee64163be989e63c963134",
+    "Drill_PTH_Through_Via.DRL": "f1f415f70a8ba64daf4cb0733092c38a6d137aaa24f13c79153816993dd89073"
+  }
+}

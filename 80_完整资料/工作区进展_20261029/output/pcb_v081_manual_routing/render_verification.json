@@ -1,0 +1,26 @@
+{
+  "main_top": {
+    "silkscreen_area_mm2": 123.655,
+    "mask_opening_area_mm2": 234.482
+  },
+  "main_bottom": {
+    "silkscreen_area_mm2": 102.095,
+    "mask_opening_area_mm2": 171.611
+  },
+  "power_top": {
+    "silkscreen_area_mm2": 56.35,
+    "mask_opening_area_mm2": 97.122
+  },
+  "power_bottom": {
+    "silkscreen_area_mm2": 78.514,
+    "mask_opening_area_mm2": 136.532
+  },
+  "blade_top": {
+    "silkscreen_area_mm2": 40.169,
+    "mask_opening_area_mm2": 64.38
+  },
+  "blade_bottom": {
+    "silkscreen_area_mm2": 7.405,
+    "mask_opening_area_mm2": 15.87
+  }
+}

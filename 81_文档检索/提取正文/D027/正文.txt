@@ -1,0 +1,321 @@
+V080 主控板 原理图检索辅助摘录
+PDF由4096像素嘉立创原图生成，PDF本身不含文字层。以下文字从相应原生图页的可见文字/属性读取，不是OCR结果；以原图和原生网表为准。
+本版只完成原理图与布局，未布线。
+
+
+第1页：P1
+U1
+={Value}
+GND
++3V3
+MCU_EN
+PDM_DATA_L
+PDM_CLK_MCU
+PWR_KILL_N
+I2S_BCLK
+I2S_LRCLK
+I2S_DOUT
+AMP_ENABLE
+BOOST_EN
+USB_DM
+USB_DP
+LCD_DC_MCU
+LCD_CS_MCU
+LCD_MOSI_MCU
+LCD_SCK_MCU
+LCD_RST_N
+ACC_SCL_MCU
+CHG_N
+LCD_BL_PWM
+BOOT_N
+IMU_INT1
+PGOOD_N
+TOUCH_IRQ_N
+I2C_SCL
+I2C_SDA
+ACC_DET_N
+BAT_ADC
+C1
+C2
+C3
+C4
+R1
+C5
+R2
+SW1
+={Manufacturer Part}
+SW2
+SPIRIT / 01_MCU / 原理图复核版 2026-10-18
+ACC_SDA_MCU
+PWR_INT_N
+UART0_RX
+POWER: GPIO14 = active-low shutdown interrupt; GPIO6 = open-drain KILL; GPIO44 RX / GPIO43 TX test pads. Keep BOOT / RESET for recovery.
+UART0_TX
+
+第2页：P2
+R4
+={Value}
+I2C_SDA
++3V3
+R5
+I2C_SCL
+SPIRIT / 02_I2C / 原理图复核版 2026-10-18
+I2C默认100kHz；板上4.7k上拉，目标总线电容≤200pF。外接模块不得重复并联过低上拉。
+ngspice简化模型：200pF上升时间约796ns；400kHz不通过300ns上升时间要求。
+
+第3页：P3
+U2
+={Manufacturer Part}
++3V3
+IMU_INT1
+GND
+I2C_SCL
+I2C_SDA
+={Value}
+C7
+C8
+C9
+SPIRIT / 03_IMU / 原理图复核版 2026-10-18
+
+第4页：04_TOUCH
+U3
+={Manufacturer Part}
+TOUCH_CS1
+TOUCH_IRQ_N
+I2C_SDA
+I2C_SCL
++3V3
+TOUCH_CS6
+TOUCH_CS5
+TOUCH_CS4
+TOUCH_CS3
+TOUCH_CS2
+GND
+R6
+={Value}
+C11
+C12
+J2
+ELE0
+ELE1
+ELE2
+ELE3
+ELE4
+ELE5
+R129
+R130
+R131
+R132
+R133
+R134
+SPIRIT / 04_TOUCH / 原理图复核版 2026-10-18
+
+第5页：05_AUDIO
+U4
+={Manufacturer Part}
+I2S_DOUT
+GND
+AMP_SD_MODE
++5V_SYS
+SPK_P
+SPK_N
+I2S_LRCLK
+I2S_BCLK
+R8
+AMP_ENABLE
+R9
+={Value}
+R10
+C13
+C14
+J3
+SPIRIT / 05_AUDIO / 原理图复核版 2026-10-18
+
+第6页：06_MIC
+U5
+={Manufacturer Part}
++3V3
+PDM_CLK_MCU
+PDM_DATA_L
+GND
+={Value}
+C15
+C16
+R15
+R26
+SPIRIT / 06_MIC / 原理图复核版 2026-10-18
+
+第7页：07_GPIO_Assignment
+SPIRIT / GPIO直接连接分配 / V074F 2026-10-23
+U7、J4、J6及专用外围已取消；BQ24075的CHG/PGOOD直接接主控，无GPIO��展器。
+GPIO47 / module24 = CHG_N; GPIO39 / module32 = PGOOD_N. R114/R115 pull-ups to 3V3 retained.
+PGOOD LOW = valid USB input. This is not physical dock detection; J4 dock contact removed by user.
+J6 auxiliary key removed; SW4 POWER remains. USB voltage detector Q104/R105/R106/R107 removed.
+N16R8: GPIO35/36/37 reserved by octal PSRAM; GPIO3/45/46 kept NC (strapping); GPIO43/44 reserved UART TX/RX test pads.
+36 exposed GPIO: 3 PSRAM reserved, 28 functional incl. BOOT, 2 UART test pads, 3 unassigned strap pins.
+GPIO14=PWR_INT_N; GPIO6=PWR_KILL_N open-drain. GPIO44=RX/TP114; GPIO43=TX/TP115. USB GPIO19/20 and BOOT/RESET retained.
+CHG high is not a guaranteed 100% battery indication. Recharge/fault/PGOOD state must be handled per BQ24075 datasheet.
+IO4      pad 04   PDM_DATA_L
+IO5      pad 05   PDM_CLK_MCU
+IO6      pad 06   PWR_KILL_N
+IO7      pad 07   I2S_BCLK
+IO15     pad 08   I2S_LRCLK
+IO16     pad 09   I2S_DOUT
+IO17     pad 10   AMP_ENABLE
+IO18     pad 11   IMU_INT1
+IO8      pad 12   BOOST_EN
+IO19     pad 13   USB_DM
+IO20     pad 14   USB_DP
+IO3      pad 15   STRAP / NC
+IO46     pad 16   STRAP / NC
+IO9      pad 17   LCD_DC_MCU
+IO10     pad 18   LCD_CS_MCU
+IO11     pad 19   LCD_MOSI_MCU
+IO12     pad 20   LCD_SCK_MCU
+IO13     pad 21   LCD_RST_N
+IO14     pad 22   PWR_INT_N
+IO21     pad 23   ACC_SCL_MCU
+IO47     pad 24   CHG_N
+IO48     pad 25   LCD_BL_PWM
+IO45     pad 26   STRAP / NC
+IO0      pad 27   BOOT_N
+IO35     pad 28   PSRAM RESERVED
+IO36     pad 29   PSRAM RESERVED
+IO37     pad 30   PSRAM RESERVED
+IO38     pad 31   ACC_SDA_MCU
+IO39     pad 32   PGOOD_N
+IO40     pad 33   TOUCH_IRQ_N
+IO41     pad 34   I2C_SCL
+IO42     pad 35   I2C_SDA
+RXD0     pad 36   UART0_RX / TP114
+TXD0     pad 37   UART0_TX / TP115
+IO2      pad 38   ACC_DET_N
+IO1      pad 39   BAT_ADC
+
+第8页：08_ACCESSORY
+R307
+={Value}
+R308
+R312
+ACC_SCL_MCU
++3V3
+ACC_SDA_MCU
+ACC_DET_N
+08_ACCESSORY / 6-contact identifiable accessory interface / blade adapter V0.1
+J7: 1=+5V_ACC through U112 current limiter; 2=+3V3 logic; 3=GND; 4=SCL; 5=SDA; 6=DET_N.
+配件 DET 接 GND；I2C 为 3.3V 逻辑，默认 100kHz；上拉仅保留主板这一组。
+U112 TPS2553 / R147=49.9k limits 5V accessory supply near 0.52A typical. Firmware budget <=400mA; adapter logic <=50mA. Adapter U702 gates LEDs OFF until valid configuration and arm.
+U112
++5V_SYS
+GND
+ACC_ILIM
++5V_ACC
+R147
+C134
+C135
+I2C 100kHz / 0x32 adapter identity; type 0x0001 = blade. Keyed power-off mating for prototype. Do not assume arbitrary hot-plug, external power input or high-power blade support.
+J7
+
+第9页：09_DISPLAY
+R32
+={Value}
+LCD_DC
+LCD_DC_MCU
+R33
+LCD_CS
+LCD_CS_MCU
+R34
+LCD_MOSI
+LCD_MOSI_MCU
+R35
+LCD_SCK
+LCD_SCK_MCU
+R36
+LCD_RST_N
++3V3
+C29
+LCD_VCC
+GND
+C30
+R37
+LCD_BL_GATE
+LCD_BL_PWM
+Q2
+={Manufacturer Part}
+LCD_LEDK
+R38
+LCD_LEDA
+SPIRIT / 09_DISPLAY / 原理图复核版 2026-10-18
+Single LCD / Usaki reference: +3V3 -> FB202 -> LCD_VCC; C29/C30 on LCD side near J8. BL: +3V3 -> R39 -> LEDA; LEDK -> Q2 PWM sink.
+Rail is nominal 3.3V. R39=10 ohm provisional current limiting (not 0 ohm); verify LED current/brightness on actual LCD. Keep BL return away from IMU/microphone.
+J8
+FB202
+R39
+
+第10页：16_Motor
+J110
+={Manufacturer Part}
+HAPTIC_OUT_P
+HAPTIC_OUT_N
+U105
+HAPTIC_REG
+I2C_SCL
+I2C_SDA
+GND
++3V3
+C119
+={Value}
+C120
+C121
+SPIRIT / 16_Motor / 原理图复核版 2026-10-18
+V074F: DRV2605L EN -> switched +3V3; R135/R136 removed. Use I2C GO/STANDBY (power-up standby). No independent GPIO disable. GPIO6 now PWR_KILL_N.
+
+第11页：17_Test_points
+SPIRIT / 17_Test_points / 原理图复核版 2026-10-18
+V074F UART service pads (bare copper, no connector / no BOM component)
+TP114 = UART0_RX / GPIO44 / module pad36; TP115 = UART0_TX / GPIO43 / module pad37.
+Use 3.3V UART logic, cross TX/RX and connect GND (TP113). Power board first. USB GPIO19/20 remains the normal download/debug path.
+TP105 -> VSYS_RAW; TP107 -> +5V_SYS. Obsolete MAIN_IN / BOOST_5V test-pad net names corrected to match V074D power merge.
+
+第12页：18_NFC_MODULE
+18_NFC_MODULE / 成品读卡模块接口
+NFC候选：Seeed Grove NFC 113020006 / PN532，立创历史料号C445568；现货待核实。
+J201：JST SH 1.0mm C160404；1=SCL 2=SDA 3=3.3V 4=GND；须定制线束，非Qwiic针序。
+PN532七位I2C地址0x24；CAP1296地址0x28，避免原RFID2同地址冲突。
+本版NFC接口改为3.3V供电；不得接要求5V输入的M5Stack RFID2。
+Grove NFC默认UART，使用前按厂家说明切换到I2C；100kHz起调，轮询响应。
+模块与天线外置；主板只提供接口。装壳核实天线空间、读卡距离和线束针序。
+J201
+={Manufacturer Part}
+I2C_SCL
+I2C_SDA
++3V3
+GND
+线端：SHR-04V-S-B + SSH-003T-P0.2-H；PCB背面右侧向外插接；不可直接使用原2.0mm插头。
+
+第13页：19_POWER_LINK_USB
+R103
+={Value}
+R104
+USB_DP
+USB_DP_CONN
+USB_DM
+USB_DM_CONN
+J301
+={Manufacturer Part}
++3V3
+GND
++5V_SYS
+PWR_INT_N
+PWR_KILL_N
+CHG_N
+PGOOD_N
+BAT_ADC
+BOOST_EN
+V080  主控板 <-> 电源板 / 16-pin power + USB + control
+J301  JST S16B-PHDSS(LF)(SN) / C161675 / 2.0mm 2x8
+线束 H1：PHDR-16VS 两端，按针号 1->1 ... 16->16；禁止镜像接线。
+1/2=3V3；5/6=5V；3/4/7/8=GND。电源/地用 AWG24，信号用 AWG28。
+9/10 USB D-/D+ 用 90Ω 差分双绞线；首版线束长度目标 <=100mm。
+只在断电时插拔；线束固定并远离 ESP32 天线区域；本版本仅布局，未布线。
+USB 串联 22Ω 电阻留在主控板，布局靠近 ESP32-S3。

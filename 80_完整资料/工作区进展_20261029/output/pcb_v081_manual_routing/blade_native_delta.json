@@ -1,0 +1,106 @@
+{
+  "remove": [
+    {
+      "id": "a0d7f93d05cbc3d4",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "points": [
+        [
+          0.24999949999999999,
+          10.22500114
+        ],
+        [
+          0.24999949999999999,
+          10.18461514
+        ]
+      ],
+      "width": 0.254
+    },
+    {
+      "id": "d60e816fda7ed9d7",
+      "net": "ADP_NRST",
+      "layer": 1,
+      "points": [
+        [
+          0.24999949999999999,
+          10.18461514
+        ],
+        [
+          0.24999949999999999,
+          7.80004282
+        ]
+      ],
+      "width": 0.254
+    }
+  ],
+  "add": [
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -7.50062,
+          22.24786
+        ],
+        [
+          -7.5,
+          22.25
+        ]
+      ],
+      "label": "R702.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          7.599679999999999,
+          22.301199999999998
+        ],
+        [
+          7.6,
+          21.6
+        ]
+      ],
+      "label": "C707.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.2003999999999997,
+          19.49958
+        ],
+        [
+          -3.2,
+          19.5
+        ]
+      ],
+      "label": "C704.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.20066,
+          22.10054
+        ],
+        [
+          0.2,
+          22.1
+        ]
+      ],
+      "label": "C706.2",
+      "group": "Ground returns"
+    }
+  ]
+}

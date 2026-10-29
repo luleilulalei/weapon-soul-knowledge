@@ -1,0 +1,119 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/00_调整说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/00_调整说明.txt",
+    "kind": "file",
+    "sha256": "cff9f9ca949d3aa42e592d6080c6e4523a354edd345fa04616837e5fc28e030c",
+    "bytes": 3376,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/Spirit_V080A_Main_Compact_20261027.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/Spirit_V080A_Main_Compact_20261027.epro2",
+    "kind": "file",
+    "sha256": "5eb6ca9559aa45ae85605e66d4396df17aa6c8b90ce0309d547bcd9767dcf5b0",
+    "bytes": 1987846,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/三板原生读取记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/三板原生读取记录.json",
+    "kind": "file",
+    "sha256": "29f2f4f2202c0ee866a2c57c137cd07b50b072fa4141bb346d5df70331450202",
+    "bytes": 7931849,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板_嘉立创原生截图.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板_嘉立创原生截图.png",
+    "kind": "file",
+    "sha256": "70fe9808be2ebd8bd9c3b8757dc5bfe0b25e066c4bb251a1fb2b59e93c80f18d",
+    "bytes": 490372,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板_正反面布局.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板_正反面布局.png",
+    "kind": "file",
+    "sha256": "667f6f89cbd7092dcedb520a7c26167ddc75a9d25e8bd9dadca9a823381446ff",
+    "bytes": 200068,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板器件位置变更.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板器件位置变更.csv",
+    "kind": "file",
+    "sha256": "ce54e05afd3628c45a4f2c727726ba324ae93a882dafad10fd222712a95176a8",
+    "bytes": 3310,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板布局坐标.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/主控板布局坐标.json",
+    "kind": "file",
+    "sha256": "b94cfea9930967ba68535dde63778b9f9e37c3e691968b12dc9292e4f778f4ff",
+    "bytes": 7443,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/交付文件校验.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/交付文件校验.json",
+    "kind": "file",
+    "sha256": "9d432ef399cda4e7a2454338bd0f8594cb82fbc76685d99fcc13ad4978f3f90c",
+    "bytes": 1722,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/器灵_V080A_触摸背面与缩板交付包.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/器灵_V080A_触摸背面与缩板交付包.zip",
+    "kind": "file",
+    "sha256": "2cc712a06ed8bbdd95ac4e3e0800cfcff91392c08376cb0f61228afae265e767",
+    "bytes": 5431944,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/触摸背面与缩板复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/触摸背面与缩板复核.html",
+    "kind": "file",
+    "sha256": "97847c46c1aaa6b902a32cc7dbc589794ac933d045b3d6da09e59daa46750294",
+    "bytes": 4902,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/调整前_44x62布局.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/调整前_44x62布局.png",
+    "kind": "file",
+    "sha256": "0e370d83962db7a9482fa1ff9f735a88d76452744e4834a31b7b5bfd5db9b262",
+    "bytes": 144355,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/调整前_V080三板工程完整备份.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/调整前_V080三板工程完整备份.epro2",
+    "kind": "file",
+    "sha256": "bfc36bd0253a80543431fa9b896d7e9185c5a9a139b2032d3dadf05bfd99b2ef",
+    "bytes": 1974170,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/验证总记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.8.0A_触摸背面与主控缩板_20261027/验证总记录.json",
+    "kind": "file",
+    "sha256": "a8e4e99ad656783f4c2a26204a79cd18edd02e37ba148d01159361b60a2696b5",
+    "bytes": 3681,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

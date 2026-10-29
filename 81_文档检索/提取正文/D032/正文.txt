@@ -1,0 +1,183 @@
+--- 第 1 页 ---
+天线顶针
+型号:
+BWCD-L3W2.0H1.0
+描述:天线顶针
+尺寸: 3.0mm x 2.0mm x 1.0mm
+符合 RoHS & REACH 规定
+规格书
+ 
+蝙蝠无线
+BAT WIRELESS
+1 / 9
+Datasheet
+www.batwireless.cn  
+
+--- 第 2 页 ---
+       本着为用户提供更好服务的原则，深圳市蝙蝠无线技术有限公司（下称“蝙蝠无线”）在本手册中将尽可能地为用户 呈现详
+实、准确的产品信息。但介于本手册的内容具有一定的时效性，蝙蝠无线不能完全保证该文档在任何时段的时效性与适 用性。
+蝙蝠无线有权在没有通知的情况下对本手册上的内容进行更新，恕不另行通知。为了得到最新版本的信息，请尊敬的 用户定时
+访问蝙蝠无线官方网站或者与蝙蝠无线工作人员联系。感谢您的包容与支持！
+目 录
+April-14-2025-A01
+ 2 / 9
+蝙蝠无线
+BAT WIRELESS
+www.batwireless.cn
+1.   产品描述 3
+2.   产品规格 4
+3.   实物图 5
+4.   尺寸图 6
+5.   测试设备 7-8
+
+--- 第 3 页 ---
+        经典应用场景：
+        消费电子：智能手机、TWS耳机、智能手表
+        汽车电子：车载T-Box、GPS天线连接
+        工业设备：RFID读写器、无人机通信模块
+        物联网：NB-IoT/LoRa模组、智能家居设备
+        
+        蝙蝠无线BWCD-L3W2.0H1.0天线顶针是一种用于电子设备中天线信号传输的关键组件，其设计旨在确保稳定的电气连接
+和高频信号传输性能。弹簧结构内置精密弹簧，提供恒定弹力，确保天线与PCB或模块间长期稳定接触。适用于移动设备，在
+震动环境下仍保持连接可靠性。低损耗设计，优化的工艺与同轴结构，确保信号传输低插损。天线顶针凭借高导电、高弹性、
+耐磨损及高频性能，成为现代无线设备天线连接的理想选择，尤其适合5G、物联网等对信号稳定性要求严苛的应用。
+         1.      产品描述 / Description
+www.batwireless.cn
+April-14-2025-A01
+        蝙蝠无线提供定制化服务以优化您的设备，我们拥有成熟的研发团队，能够迅速响应以满足您的需求。如果您有任何要
+求，请联系我们的销售和 FAE。
+3 / 9
+ 零件编号说明
+BW  公司 / Company  蝙蝠无线 / Bat Wireless
+CD  名称 / Name  天线顶针 / Antenna pin
+L  长度 / Length  长度 / Length
+3.0  长度 / Length  3.0 / 3.0
+W  宽度 / Width  宽度 / Width
+2.0  宽度 / Width  2.0 / 2.0
+H  高度 / Height  高度 / Height
+1.0  高度 / Height  1.0 / 1.0
+BWCD-L3W2.0H1.0
+蝙蝠无线
+BAT WIRELESS
+
+--- 第 4 页 ---
+参数 / Parameters 典型值 / Typ. 单位 / Unites 备注 / Notes
+类型 / Antenna Type 天线顶针 / Antenna pin
+频率 / Frequency Range 0-6000 MHz
+输入阻抗 / Input Impendence 50 Ω
+接触电阻 / Contact resistance 30 mΩ
+插入损耗 / Insert Loss 0.15 dB(6GHz)
+额定电压 / Voltage rating 36 V
+额定电流 / Current rating 1.5 A
+尺寸 / Dimensions 3.0 x 2.0 x 1.0 mm
+弹力 / Durability 100±15 g
+耐用性 / Durability 10000 次
+安装方式 / Mount way SMD
+颜色 / Color 金黄色
+材料 / Meterial 黄铜镀金
+重量 / Weight 0.09 g
+ 
+防护等级 / Waterproof Rating -
+ROHS标准 / ROHS Complaint 符合
+工作温度 / Operating Temperature -45~ +85 ℃
+存储温度 / Storage Temperature -45~ +85 ℃
+2. .     产品规格 / Specification
+www.batwireless.cn
+April-14-2025-A01
+电气特性 / Electrical Characteristics
+机械特性 / Mechanical Characteristics
+环境特性 / Environmental Characteristics
+4 / 9
+蝙蝠无线
+BAT WIRELESS
+
+--- 第 5 页 ---
+3. .     实物图 / Dimensions
+www.batwireless.cn
+April-14-2025-A01
+ 5 / 9
+蝙蝠无线
+BAT WIRELESS
+
+
+--- 第 6 页 ---
+4. .     尺寸图 / Mechanical Drawing 
+www.batwireless.cn
+April-14-2025-A01
+ 6 / 9
+蝙蝠无线
+BAT WIRELESS
+
+
+--- 第 7 页 ---
+Testing Capability / 测试能力 Description / 能力描述
+ Active measurement
+ 有源测试
+Capability /测试指标: TRP 、TIS 、EIRP 、EIS,. etc
+Mode /测试制式: 2G/3G/4G/5G 、Wi-Fi b/g/n/a/ac/ax 、BT 、NB-IOT 、
+Cat-M(eMTC) 、GPS/BEIDOU/GLONASS 、ZigBee 、LoRa(Non-
+Signaling),.etc
+ Pasive measurement
+ 无源测试
+Test category /测试类型: Gain 、Efficiency 、2D pattern 、3D pattern 、
+Pattern roundness、Axial Ratio, ECC,Phase center,. etc
+Polarization /极化方式: Circular polarization, linear polarization, 
+elliptical polarization
+DT-3500  Datasheet / 系统规格
+Specification: Description
+Test Frequency /测试频域: 400MHz-8.5GMHz
+System Size /系统尺寸: L*W*H=4*3.5*3.5m
+Number of Probes /探头数目: 23 (Probe) + 1 (link)
+Interval Angle /采样夹脚: 15º
+Sampling Diameter /采样直径: 2200mm
+Carring Capacity /承载能力: ≦40kg
+5. .     测试设备 / Test Equipment
+       Keysight/E5071C 网络分析仪                               R&S/CMW500 综测仪                                  R&S/SMBV100B 信号源
+www.batwireless.cn
+April-14-2025-A01
+ 7 / 9
+蝙蝠无线
+BAT WIRELESS
+
+--- 第 8 页 ---
+     RF Link diaram of multi probe spherical near-field testing system
+                           多探头球面近场测试系统射频链路图
+RF Link Overview                                       RF Link Passive measurement
+www.batwireless.cn
+April-14-2025-A01
+RF Link Overview
+总射频链路图
+RF Link of Passive measurement
+无源测试链路图
+RF Link Overview
+总射频链路图
+RF Link of Passive measurement
+无源测试链路图
+8 / 9
+蝙蝠无线
+BAT WIRELESS
+
+
+--- 第 9 页 ---
+版本： April-14-2025-A01
+日期： 2025-4.14
+备注： 首次更新
+作者： Carly
+ 文档记录 / Documentation
+www.batwireless.cn
+April-14-2025-A01
+ 9 / 9
+ 变更记录 / Change Log
+蝙蝠无线
+BAT WIRELESS
+
+--- 第 10 页 ---
+Office Add：Room 1301, 13th Floor, No. 8 Langhua Road, Xinshi 
+Community, Dalang Street, Longhua District, Shenzhen
+蝙蝠无线
+BAT WIRELESS
+地址：深圳市龙华区大浪街道新石社区浪花路8号1301
+深圳市蝙蝠无线技术有限公司
+Shenzhen Bat Wireless Technology Co,.Ltd
+Tel：+86-0755-21031236
+Email：sales@batwireless.com

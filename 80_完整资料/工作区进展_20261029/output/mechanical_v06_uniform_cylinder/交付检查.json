@@ -1,0 +1,27 @@
+{
+  "pdf_pages": 3,
+  "handle_pcb_names": [
+    "main",
+    "power"
+  ],
+  "blade_board_in_handle_bom": false,
+  "mount_component_overlap_count": 0,
+  "between_board_component_overlap_count": 0,
+  "negative_radial_margin_count": 0,
+  "preview_sizes": [
+    [
+      2200,
+      1540
+    ],
+    [
+      2200,
+      1540
+    ],
+    [
+      2200,
+      1540
+    ]
+  ],
+  "three_dimensional_model_files": [],
+  "visual_review": "Three rendered pages inspected; readable text, correct two-PCB ownership, uniform cylinder silhouette. Concept review only."
+}

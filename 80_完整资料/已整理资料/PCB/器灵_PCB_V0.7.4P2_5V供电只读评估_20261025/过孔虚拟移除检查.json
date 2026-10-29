@@ -1,0 +1,25 @@
+{
+  "candidate_count": 31,
+  "nets": [
+    "ACC_DET_N",
+    "ACC_SCL_MCU",
+    "ACC_SDA_MCU",
+    "BAT_NTC",
+    "BOOT_N",
+    "CHG_EN1",
+    "ELE4",
+    "HAPTIC_OUT_N",
+    "I2C_SCL",
+    "I2C_SDA",
+    "LCD_BL_PWM",
+    "MCU_EN",
+    "PWR_BUTTON_N",
+    "PWR_KILL_N",
+    "TOUCH_CS1",
+    "UART0_RX",
+    "UART0_TX"
+  ],
+  "remaining_main_vias_in_virtual_model": 380,
+  "connectivity_parts_after_virtual_removal": {},
+  "native_project_modified": false
+}

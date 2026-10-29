@@ -1,0 +1,12 @@
+{
+  "1": {
+    "actual_added_copper_area_mm2": 134.88168195408625,
+    "added_outside_verified_GND_area_mm2": 1.9863790077072757e-14,
+    "all_added_copper_grounded_with_numeric_tolerance": true
+  },
+  "2": {
+    "actual_added_copper_area_mm2": 100.17081841023766,
+    "added_outside_verified_GND_area_mm2": 2.4531863462044642e-14,
+    "all_added_copper_grounded_with_numeric_tolerance": true
+  }
+}

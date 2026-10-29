@@ -1,0 +1,2318 @@
+{
+  "moves": {},
+  "padMoves": {},
+  "tracks": [
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.9753599999999999,
+          11.130279999999999
+        ],
+        [
+          -0.98044,
+          9.6012
+        ]
+      ],
+      "label": "U701.4 > C701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.98044,
+          9.6012
+        ],
+        [
+          -0.98,
+          10.2
+        ]
+      ],
+      "label": "C701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.0987999999999998,
+          7.80034
+        ],
+        [
+          -3.1,
+          7.5
+        ]
+      ],
+      "label": "C702.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.508,
+      "points": [
+        [
+          -3.1,
+          7.5
+        ],
+        [
+          -4.8,
+          7.5
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.508,
+      "points": [
+        [
+          -4.8,
+          7.5
+        ],
+        [
+          -4.8,
+          10.2
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.508,
+      "points": [
+        [
+          -4.8,
+          10.2
+        ],
+        [
+          -0.98,
+          10.2
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          1.99898,
+          4.0005
+        ],
+        [
+          2,
+          6
+        ]
+      ],
+      "label": "J701.6",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          2,
+          6
+        ],
+        [
+          -1.6,
+          6
+        ]
+      ],
+      "label": "J701.6",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -1.6,
+          6
+        ],
+        [
+          -3.1,
+          7.5
+        ]
+      ],
+      "label": "J701.6",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          1.99898,
+          4.0005
+        ],
+        [
+          4,
+          6
+        ]
+      ],
+      "label": "J701.6 > R701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          4,
+          6
+        ],
+        [
+          4.0005,
+          7.747
+        ]
+      ],
+      "label": "J701.6 > R701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          4.0005,
+          7.747
+        ],
+        [
+          8.7,
+          7.747
+        ]
+      ],
+      "label": "R701.1 > C707.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          8.7,
+          7.747
+        ],
+        [
+          8.7,
+          21.6
+        ]
+      ],
+      "label": "R701.1 > C707.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          8.7,
+          21.6
+        ],
+        [
+          7.6,
+          21.6
+        ]
+      ],
+      "label": "R701.1 > C707.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          7.6,
+          21.6
+        ],
+        [
+          7.599679999999999,
+          22.301199999999998
+        ]
+      ],
+      "label": "R701.1 > C707.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          1.49999954,
+          8.99999978
+        ],
+        [
+          2.1,
+          9.8
+        ]
+      ],
+      "label": "TP704",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.1,
+          9.8
+        ],
+        [
+          2.1,
+          6.7
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.1,
+          6.7
+        ],
+        [
+          4,
+          6.7
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.32512,
+          11.130279999999999
+        ],
+        [
+          0.325,
+          10.3
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.325,
+          10.3
+        ],
+        [
+          0.1,
+          10.075
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.1,
+          10.075
+        ],
+        [
+          0.1,
+          7.8
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.1,
+          7.8
+        ],
+        [
+          1.30048,
+          7.80034
+        ]
+      ],
+      "label": "U701.6 > C703.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.325,
+          10.3
+        ],
+        [
+          0,
+          9.8
+        ]
+      ],
+      "label": "Adapter MCU supply reset and I2C",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          0.0,
+          8.99999978
+        ],
+        [
+          0,
+          9.8
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          0,
+          9.8
+        ],
+        [
+          0,
+          11
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          0,
+          11
+        ],
+        [
+          4.7,
+          11
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          4.7,
+          11
+        ],
+        [
+          4.7,
+          9.25
+        ]
+      ],
+      "label": "TP703",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          4.0005,
+          9.25322
+        ],
+        [
+          4.7,
+          9.25
+        ]
+      ],
+      "label": "R701.2",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -1.99898,
+          1.99898
+        ],
+        [
+          -6.5,
+          2
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -6.5,
+          2
+        ],
+        [
+          -6.5,
+          12.8
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -6.5,
+          12.8
+        ],
+        [
+          -2.9261,
+          12.8
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SDA",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -2.9261,
+          12.8
+        ],
+        [
+          -2.92608,
+          11.130279999999999
+        ]
+      ],
+      "label": "J701.1 > U701.1",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -2.92608,
+          16.87068
+        ],
+        [
+          -8.5,
+          16.8707
+        ]
+      ],
+      "label": "U701.20",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -8.5,
+          16.8707
+        ],
+        [
+          -8.5,
+          6
+        ]
+      ],
+      "label": "U701.20",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          0.0,
+          4.0005
+        ],
+        [
+          0,
+          5.5
+        ]
+      ],
+      "label": "J701.4",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          0,
+          5.5
+        ],
+        [
+          -8.5,
+          5.5
+        ]
+      ],
+      "label": "J701.4",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -8.5,
+          5.5
+        ],
+        [
+          -8.5,
+          6
+        ]
+      ],
+      "label": "J701.4",
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 1,
+      "width": 0.127,
+      "points": [
+        [
+          -2.2758399999999996,
+          16.87068
+        ],
+        [
+          -2.2758,
+          17.6
+        ]
+      ],
+      "label": "U701.19",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -2.2758,
+          17.6
+        ],
+        [
+          -5.8,
+          17.6
+        ]
+      ],
+      "label": "TP702",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -5.8,
+          17.6
+        ],
+        [
+          -5.8,
+          6.8
+        ]
+      ],
+      "label": "TP702",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -5.8,
+          6.8
+        ],
+        [
+          -1.5,
+          6.8
+        ]
+      ],
+      "label": "TP702",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -1.5,
+          6.8
+        ],
+        [
+          -1.49999954,
+          8.99999978
+        ]
+      ],
+      "label": "TP702",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 1,
+      "width": 0.127,
+      "points": [
+        [
+          -1.6256,
+          16.87068
+        ],
+        [
+          -1.6256,
+          18.2
+        ]
+      ],
+      "label": "U701.18",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -1.6256,
+          18.2
+        ],
+        [
+          -1.6256,
+          12
+        ]
+      ],
+      "label": "SWD test points",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -1.6256,
+          12
+        ],
+        [
+          -4,
+          12
+        ]
+      ],
+      "label": "SWD test points",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -4,
+          12
+        ],
+        [
+          -4,
+          9
+        ]
+      ],
+      "label": "SWD test points",
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -2.99999908,
+          8.99999978
+        ],
+        [
+          -4,
+          9
+        ]
+      ],
+      "label": "TP701",
+      "group": "SWD test points"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          1.99898,
+          1.99898
+        ],
+        [
+          4.8,
+          2
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          4.8,
+          2
+        ],
+        [
+          7.5,
+          4.7
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          7.5,
+          4.7
+        ],
+        [
+          7.5,
+          18
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          7.5,
+          18
+        ],
+        [
+          5.3,
+          20.2
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          5.3,
+          20.2
+        ],
+        [
+          -1.9,
+          20.2
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          -1.9,
+          20.2
+        ],
+        [
+          -1.9,
+          21.5
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          -1.9,
+          21.5
+        ],
+        [
+          -3.2,
+          21.5
+        ]
+      ],
+      "label": "J701.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -3.2003999999999997,
+          20.899119999999996
+        ],
+        [
+          -3.2,
+          21.5
+        ]
+      ],
+      "label": "C704.1 > U702.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_ACC",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -3.2,
+          21.5
+        ],
+        [
+          -3.55092,
+          22.349459999999997
+        ]
+      ],
+      "label": "C704.1 > U702.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.92608,
+          16.87068
+        ],
+        [
+          2.9261,
+          17.6
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.9261,
+          17.6
+        ],
+        [
+          4.6,
+          17.6
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          4.6,
+          17.6
+        ],
+        [
+          4.6,
+          18.1
+        ]
+      ],
+      "label": "U701.11",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -7.50062,
+          22.24786
+        ],
+        [
+          -7.5,
+          22.25
+        ]
+      ],
+      "label": "R702.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          4.6,
+          18.1
+        ],
+        [
+          3.9,
+          18.8
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          3.9,
+          18.8
+        ],
+        [
+          -6.8,
+          18.8
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -6.8,
+          18.8
+        ],
+        [
+          -7.5,
+          19.5
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -7.5,
+          19.5
+        ],
+        [
+          -7.5,
+          22.25
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.55092,
+          23.64994
+        ],
+        [
+          -2.8,
+          23.65
+        ]
+      ],
+      "label": "U702.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -2.8,
+          23.65
+        ],
+        [
+          -5.1,
+          23.65
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -5.1,
+          23.65
+        ],
+        [
+          -6.5,
+          22.25
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          -6.5,
+          22.25
+        ],
+        [
+          -7.5,
+          22.25
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          1.6256,
+          16.87068
+        ],
+        [
+          1.6256,
+          18.2
+        ]
+      ],
+      "label": "U701.13 > R704.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          1.6256,
+          18.2
+        ],
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ]
+      ],
+      "label": "U701.13 > R704.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.8473399999999995,
+          19.199859999999997
+        ],
+        [
+          2.85,
+          20.1
+        ]
+      ],
+      "label": "R704.1 > U703.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.85,
+          20.1
+        ],
+        [
+          5.9,
+          20.1
+        ]
+      ],
+      "label": "R704.1 > U703.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          5.9,
+          20.1
+        ],
+        [
+          6.7,
+          20.9
+        ]
+      ],
+      "label": "R704.1 > U703.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          6.7,
+          20.9
+        ],
+        [
+          6.7,
+          24.8
+        ]
+      ],
+      "label": "R704.1 > U703.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          6.7,
+          24.8
+        ],
+        [
+          5.84962,
+          23.949659999999998
+        ]
+      ],
+      "label": "R704.1 > U703.3",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          3.1496,
+          23.949659999999998
+        ],
+        [
+          2.5,
+          24.6
+        ]
+      ],
+      "label": "U703.4 > R703.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DATA_5V",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.5,
+          24.6
+        ],
+        [
+          0.7543799999999999,
+          24.599899999999998
+        ]
+      ],
+      "label": "U703.4 > R703.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.7543799999999999,
+          24.599899999999998
+        ],
+        [
+          -0.75,
+          25.3
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.75,
+          25.3
+        ],
+        [
+          0,
+          26.05
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_DIN",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0,
+          26.05
+        ],
+        [
+          0.0,
+          26.563319999999997
+        ]
+      ],
+      "label": "R703.2 > J702.2",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.349459999999997
+        ],
+        [
+          -5.4508399999999995,
+          22.9997
+        ]
+      ],
+      "label": "U702.6 > U702.5 > C705.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -5.4508399999999995,
+          22.9997
+        ],
+        [
+          -6.6,
+          23
+        ]
+      ],
+      "label": "U702.6 > U702.5 > C705.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -6.6,
+          23
+        ],
+        [
+          -6.6,
+          24.3
+        ]
+      ],
+      "label": "U702.6 > U702.5 > C705.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          -6.6,
+          24.3
+        ],
+        [
+          -6.10108,
+          24.800559999999997
+        ]
+      ],
+      "label": "U702.6 > U702.5 > C705.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          -6.1,
+          24.8
+        ],
+        [
+          -4.8,
+          26.1
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          -4.8,
+          26.1
+        ],
+        [
+          2.5,
+          26.1
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          2.5,
+          26.1
+        ],
+        [
+          3.15,
+          25.45
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          3.15,
+          25.45
+        ],
+        [
+          3.15,
+          22.05
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          3.1496,
+          22.04974
+        ],
+        [
+          1.6001999999999998,
+          22.10054
+        ]
+      ],
+      "label": "U703.6 > C706.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 1,
+      "width": 0.508,
+      "points": [
+        [
+          1.0007599999999999,
+          26.563319999999997
+        ],
+        [
+          1.8,
+          26.6
+        ]
+      ],
+      "label": "J702.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "layer": 2,
+      "width": 0.762,
+      "points": [
+        [
+          2.5,
+          26.1
+        ],
+        [
+          1.8,
+          26.6
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          7.599679999999999,
+          22.301199999999998
+        ],
+        [
+          7.6,
+          21.6
+        ]
+      ],
+      "label": "C707.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          5.84962,
+          22.04974
+        ],
+        [
+          5.85,
+          21.35
+        ]
+      ],
+      "label": "U703.1",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          3.1496,
+          22.9997
+        ],
+        [
+          2.25,
+          23
+        ]
+      ],
+      "label": "U703.5",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.508,
+      "points": [
+        [
+          7.6,
+          21.6
+        ],
+        [
+          5.85,
+          21.35
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          5.85,
+          21.35
+        ],
+        [
+          5.7,
+          21.2
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          5.7,
+          21.2
+        ],
+        [
+          2.25,
+          21.2
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "layer": 2,
+      "width": 0.254,
+      "points": [
+        [
+          2.25,
+          21.2
+        ],
+        [
+          2.25,
+          23
+        ]
+      ],
+      "label": "Accessory 5V load switch and level translation",
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.0987999999999998,
+          9.199879999999999
+        ],
+        [
+          -2.2,
+          9.2
+        ]
+      ],
+      "label": "C702.2 > C701.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -2.2,
+          9.2
+        ],
+        [
+          -2.2,
+          8.2
+        ]
+      ],
+      "label": "C702.2 > C701.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -2.2,
+          8.2
+        ],
+        [
+          -0.98044,
+          8.19912
+        ]
+      ],
+      "label": "C702.2 > C701.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.98044,
+          8.19912
+        ],
+        [
+          -0.9,
+          7.8
+        ]
+      ],
+      "label": "C701.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.127,
+      "points": [
+        [
+          1.30048,
+          9.199879999999999
+        ],
+        [
+          1.3,
+          9.75
+        ]
+      ],
+      "label": "C703.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.127,
+      "points": [
+        [
+          1.3,
+          9.75
+        ],
+        [
+          0.7,
+          9.85
+        ]
+      ],
+      "label": "C703.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -0.32512,
+          11.130279999999999
+        ],
+        [
+          -0.325,
+          12
+        ]
+      ],
+      "label": "U701.5",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.2003999999999997,
+          19.49958
+        ],
+        [
+          -3.2,
+          19.5
+        ]
+      ],
+      "label": "C704.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -6.10108,
+          26.2001
+        ],
+        [
+          -6.1,
+          26.7
+        ]
+      ],
+      "label": "C705.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          0.20066,
+          22.10054
+        ],
+        [
+          0.2,
+          22.1
+        ]
+      ],
+      "label": "C706.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          7.599679999999999,
+          23.70074
+        ],
+        [
+          7.6,
+          24.4
+        ]
+      ],
+      "label": "C707.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -7.50062,
+          23.754080000000002
+        ],
+        [
+          -8.3,
+          23.75
+        ]
+      ],
+      "label": "R702.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          4.35356,
+          19.199859999999997
+        ],
+        [
+          4.35,
+          19.2
+        ]
+      ],
+      "label": "R704.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -3.55092,
+          22.9997
+        ],
+        [
+          -2.8,
+          22.95
+        ]
+      ],
+      "label": "U702.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          5.84962,
+          22.9997
+        ],
+        [
+          6,
+          23
+        ]
+      ],
+      "label": "U703.2",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -1.0007599999999999,
+          26.563319999999997
+        ],
+        [
+          -1.8,
+          27.5
+        ]
+      ],
+      "label": "J702.3",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          -2.30124,
+          30.436819999999997
+        ],
+        [
+          -2.8,
+          30.4
+        ]
+      ],
+      "label": "J702.4",
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "width": 0.254,
+      "points": [
+        [
+          2.30124,
+          30.436819999999997
+        ],
+        [
+          2.8,
+          30.4
+        ]
+      ],
+      "label": "J702.5",
+      "group": "Ground returns"
+    }
+  ],
+  "vias": [
+    {
+      "net": "+3V3",
+      "x": -0.98,
+      "y": 10.2,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "x": -3.1,
+      "y": 7.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "+3V3",
+      "x": 2.1,
+      "y": 9.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "x": 0,
+      "y": 9.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_NRST",
+      "x": 4.7,
+      "y": 9.25,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ACC_SCL",
+      "x": -8.5,
+      "y": 6,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Adapter MCU supply reset and I2C"
+    },
+    {
+      "net": "ADP_SWCLK",
+      "x": -2.2758,
+      "y": 17.6,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "x": -1.6256,
+      "y": 18.2,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "x": -4,
+      "y": 12,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "SWD test points"
+    },
+    {
+      "net": "ADP_SWDIO",
+      "x": -4,
+      "y": 9,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "SWD test points"
+    },
+    {
+      "net": "+5V_ACC",
+      "x": -3.2,
+      "y": 21.5,
+      "diameter": 0.8,
+      "hole": 0.4,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": 4.6,
+      "y": 18.1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -7.5,
+      "y": 22.25,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "LED_ENABLE",
+      "x": -2.8,
+      "y": 23.65,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "x": -6.1,
+      "y": 24.8,
+      "diameter": 0.8,
+      "hole": 0.4,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 3.15,
+      "y": 22.05,
+      "diameter": 0.65,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+5V_LED",
+      "x": 1.8,
+      "y": 26.6,
+      "diameter": 0.8,
+      "hole": 0.4,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "x": 7.6,
+      "y": 21.6,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "x": 5.85,
+      "y": 21.35,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "+3V3",
+      "x": 2.25,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Accessory 5V load switch and level translation"
+    },
+    {
+      "net": "GND",
+      "x": -0.9,
+      "y": 7.8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 0.7,
+      "y": 9.85,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -0.325,
+      "y": 12,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -3.2,
+      "y": 19.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -6.1,
+      "y": 26.7,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 0.2,
+      "y": 22.1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 7.6,
+      "y": 24.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -8.3,
+      "y": 23.75,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 4.35,
+      "y": 19.2,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -2.8,
+      "y": 22.95,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 6,
+      "y": 23,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -1.8,
+      "y": 27.5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -2.8,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 2.8,
+      "y": 30.4,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -9.2,
+      "y": 8,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 9,
+      "y": 5,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -9,
+      "y": 20,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 9,
+      "y": 27,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -8,
+      "y": 30,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 8,
+      "y": 30,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": -5,
+      "y": 1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    },
+    {
+      "net": "GND",
+      "x": 5,
+      "y": 1,
+      "diameter": 0.5,
+      "hole": 0.3,
+      "group": "Ground returns"
+    }
+  ],
+  "fills": [],
+  "errors": []
+}

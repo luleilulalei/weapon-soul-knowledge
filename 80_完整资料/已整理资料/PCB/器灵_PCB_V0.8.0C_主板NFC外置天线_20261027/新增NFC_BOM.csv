@@ -1,0 +1,32 @@
+﻿位号,装配,立创料号,型号,标称值,设计用途,备注
+U201,装配,C7427513,WS1850T,13.56MHz,WS1850T,WS1850T V2.2 Fig4 single-ended TX2. Pin3 is NC in V2.2 and may connect VCC; library uses legacy DVDD name. I2C polling; IRQ deliberately NC. Reset follows MCU_EN; no dedicated wake IRQ.
+Y201,装配,C409397,AZ27170001,27.12MHz,27.12MHz / CL10pF,TXC AZ27170001; 16pF load capacitors assume about 2pF stray; verify oscillator on prototype.
+J202,装配,C88373,U.FL-R-SMT-1(10),6GHz,U.FL ANT,"Passive 13.56MHz loop only. Centre pin2=NFC_ANT, shields1/3=GND. U.FL-I compatible 1.13mm 50-ohm microcoax, target <=50mm. Not Wi-Fi antenna; entire cable+loop is part of matching load."
+L201,装配,C337957,LQW21HNR56J00L,560nH,560nH,"RF wirewound, Q>=35 at 25MHz, SRF>=580MHz, Irms<=150mA. Validate antenna drive current/temperature; reduce field strength if necessary."
+R201,装配,C23253,0603WAF8200T5E,820Ω,820R,
+R202,装配,C23186,0603WAF5101T5E,5.1kΩ,5.1k,
+R203,装配,C23410,0603WAF330LT5E,330mΩ,0.33R,
+R204,装配,C21189,0603WAF0000T5E,0Ω,0R,Shared hardware reset with ESP32 EN; software power-down for NFC. No extra GPIO needed.
+R205,装配,C25804,0603WAF1002T5E,10kΩ,10k,"Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+R206,DNP不装,C21189,0603WAF0000T5E,0Ω,0R DNP,Optional opposite address strap; leave unpopulated by default.
+R207,装配,C25804,0603WAF1002T5E,10kΩ,10k,"Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+R208,DNP不装,C21189,0603WAF0000T5E,0Ω,0R DNP,Optional opposite address strap; leave unpopulated by default.
+R209,装配,C25804,0603WAF1002T5E,10kΩ,10k,"Default strap. EA=0, ADR1=0, ADR0=1. Expected 7-bit 0x29 is a bring-up hypothesis; verify vendor register guide and address scan before firmware freeze. CAP1296 is 0x28."
+R210,DNP不装,C21189,0603WAF0000T5E,0Ω,0R DNP,Optional opposite address strap; leave unpopulated by default.
+R211,装配,C25804,0603WAF1002T5E,10kΩ,10k,
+R212,装配,C21189,0603WAF0000T5E,0Ω,0R,"NFC supply isolation/current measurement link; debug with all power off, never leave powered I2C driving unpowered chip."
+C201,装配,C14663,CC0603KRX7R9BB104,100nF,100nF / PVDD,
+C202,装配,C19702,CL10A106KP8NNNC,10uF,10uF / PVDD,
+C203,装配,C14663,CC0603KRX7R9BB104,100nF,100nF / SVDD,
+C204,装配,C14663,CC0603KRX7R9BB104,100nF,100nF / TVDD,
+C205,装配,C19702,CL10A106KP8NNNC,10uF,10uF / TVDD,
+C206,装配,C14663,CC0603KRX7R9BB104,100nF,100nF / AVDD,
+C207,装配,C14663,CC0603KRX7R9BB104,100nF,100nF / VMID,
+C208,装配,C124184,0603CG181J500NT,180pF,180pF,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C209,装配,C91701,0603CG220J500NT,22pF,22pF,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C210,装配,C1635,0603CG101J500NT,100pF,100pF,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C211,装配,C1635,0603CG101J500NT,100pF,100pF,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C212,DNP不装,C1635,0603CG101J500NT,100pF,100pF DNP,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C213,装配,C91703,0603CG150J500NT,15pF,15pF,"RF matching starting value from WS1850T V2.2 Fig4; tune with final loop, cable and housing."
+C214,装配,C1646,0603CG160J500NT,16pF,16pF,
+C215,装配,C1646,0603CG160J500NT,16pF,16pF,

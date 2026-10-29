@@ -1,0 +1,97 @@
+{
+  "main": {
+    "uuid": "5354a7bf4c630a18",
+    "component_count": 99,
+    "native_drc_errors": 0,
+    "track_segments": 740,
+    "vias": 211,
+    "widths_mil": {
+      "5": 171,
+      "10": 500,
+      "20": 56,
+      "30": 13
+    },
+    "wider_power_or_load_nets": {
+      "20": [
+        "+3V3",
+        "+5V_ACC",
+        "+5V_SYS",
+        "GND",
+        "LCD_VCC",
+        "NFC_3V3",
+        "SPK_N",
+        "SPK_P"
+      ],
+      "30": [
+        "+5V_SYS"
+      ]
+    },
+    "relocated_components": 40,
+    "verified_silkscreen_labels": 99,
+    "errors": []
+  },
+  "power": {
+    "uuid": "6994d0089089a794",
+    "component_count": 62,
+    "native_drc_errors": 0,
+    "track_segments": 514,
+    "vias": 167,
+    "widths_mil": {
+      "10": 370,
+      "30": 45,
+      "20": 39,
+      "5": 60
+    },
+    "wider_power_or_load_nets": {
+      "30": [
+        "+3V3",
+        "+5V_SYS",
+        "BB_SW1",
+        "BB_SW2",
+        "BOOST_SW",
+        "USB_5V_FUSED",
+        "USB_VBUS",
+        "VBAT_PROT",
+        "VSYS_RAW"
+      ],
+      "20": [
+        "+3V3",
+        "+5V_SYS",
+        "USB_5V_FUSED",
+        "USB_VBUS",
+        "VBAT_PROT",
+        "VSYS_RAW"
+      ]
+    },
+    "relocated_components": 24,
+    "verified_silkscreen_labels": 74,
+    "errors": []
+  },
+  "blade": {
+    "uuid": "cff5d61a47594b34",
+    "component_count": 16,
+    "native_drc_errors": 0,
+    "track_segments": 116,
+    "vias": 42,
+    "widths_mil": {
+      "10": 81,
+      "20": 19,
+      "5": 4,
+      "30": 12
+    },
+    "wider_power_or_load_nets": {
+      "20": [
+        "+3V3",
+        "+5V_ACC",
+        "+5V_LED"
+      ],
+      "30": [
+        "+5V_ACC",
+        "+5V_LED"
+      ]
+    },
+    "relocated_components": 5,
+    "verified_silkscreen_labels": 16,
+    "errors": []
+  }
+}

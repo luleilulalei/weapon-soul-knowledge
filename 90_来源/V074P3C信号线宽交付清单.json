@@ -1,0 +1,299 @@
+[
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/00_信号线宽调整说明.txt",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/00_信号线宽调整说明.txt",
+    "kind": "file",
+    "sha256": "35664d8671f1295cdf7d6846f4c53add3e416d611feb766d33a315e20d17802d",
+    "bytes": 2112,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_BOM.csv",
+    "kind": "file",
+    "sha256": "2be3d1aef66414b26c9f300c609659748048c48719ae48a0c70ec700cb8d2639",
+    "bytes": 2192,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "1e0da1098985e3f67aa97245406dc38c6f6800ecdaf34335a8b8cc39416bbbac",
+    "bytes": 1176,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_CPL.csv",
+    "kind": "file",
+    "sha256": "5ce02e48c8bc38d148558a4bae68d9e3103da1c886749f4be787ab90d93282d7",
+    "bytes": 6962,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "54abc305b0644afbf3e8ea5e38073ba5469ffebaa5ffa0fd7d6ccefafd2fa316",
+    "bytes": 2955,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_Gerber.zip",
+    "kind": "file",
+    "sha256": "447a02f765038a5956ebe3764431b3d24323123b2c79d0f5ee5d2c86f9c8373b",
+    "bytes": 53911,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Adapter_V02_IPC.356a",
+    "kind": "file",
+    "sha256": "e53a5418a3ee5e841c4f186d7e73feff8a2806678ef42e4317ee130cf814b1e0",
+    "bytes": 11688,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_BOM.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_BOM.csv",
+    "kind": "file",
+    "sha256": "f18c9eda4b06008e15d2ce82e2adb8545fd21ff9b9a97a49f09300763bd263ea",
+    "bytes": 9674,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_BOM_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_BOM_upload.csv",
+    "kind": "file",
+    "sha256": "279ef242c19c8685a1811679e49ab01feec59a83c9c3f845945778cf4823b44f",
+    "bytes": 5182,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_CPL.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_CPL.csv",
+    "kind": "file",
+    "sha256": "b7ed8b4e9dfe884385b687cc3358b181b57bca31c7eb4bcba3075c3f4b4aa1e4",
+    "bytes": 54296,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_CPL_upload.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_CPL_upload.csv",
+    "kind": "file",
+    "sha256": "a034a79a5dc3e02f3913c6443bfc10105fe11505be374ef21121156613ed94ef",
+    "bytes": 22913,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_Gerber.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_Gerber.zip",
+    "kind": "file",
+    "sha256": "8168d304ae2436c3380e2217eaedf36222ab7be999a6f00ee10624a36b80336b",
+    "bytes": 410130,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_IPC.356a",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Main_V074P3C_IPC.356a",
+    "kind": "file",
+    "sha256": "f33d9512450db4d2b0c3a2e49c2bd90de83437571e854469b00320e79b79b353",
+    "bytes": 115305,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Spirit_V074P3C_Prototype_Review_20261026.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/Spirit_V074P3C_Prototype_Review_20261026.epro2",
+    "kind": "file",
+    "sha256": "36684b7d71ef2243f355dc7cde162dbeafdca0769a3edc08766f978ea9fe9292",
+    "bytes": 1528055,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/主板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/主板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "84a534afd9b89d7beadcbaecb0e335c79208573a6cbc50be5dcd20be7a3c6250",
+    "bytes": 73586,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/交付文件校验.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/交付文件校验.json",
+    "kind": "file",
+    "sha256": "183e7c5794147ff2134406e9a0dfc7a773e26ec9b4d1814dbfa5b6eca3c5a34b",
+    "bytes": 5048,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/保留细线逐段清单.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/保留细线逐段清单.csv",
+    "kind": "file",
+    "sha256": "046145eff668f4bed27d93730034456ef72778721abef39d1c2ffee6f5317ccf",
+    "bytes": 20539,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/信号线宽复核.html",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/信号线宽复核.html",
+    "kind": "file",
+    "sha256": "f0e87cd68375e36d06ee5ace82fade875c41fa8a8274979e0122b7ebdc10ffd9",
+    "bytes": 9054,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_底层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_底层.png",
+    "kind": "file",
+    "sha256": "98557f3cbeee197e90e8d4987aed7b46b2a46ef347f0382cac705ae0199fbeec",
+    "bytes": 214031,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_底层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_底层.svg",
+    "kind": "file",
+    "sha256": "574917657b6442ae0f018ff678b6bd92f9d4732e848504cec7f40b87d74a3184",
+    "bytes": 2624777,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_顶层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_顶层.png",
+    "kind": "file",
+    "sha256": "6d5a69a073c1d3b422052da1df6fd99f6c929225387be3e326f7ccb324cac4ed",
+    "bytes": 210941,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_顶层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前_顶层.svg",
+    "kind": "file",
+    "sha256": "3a0007930393858111c85265a6071fd5616f4fe2f1f3ca044fdd464acc9691ae",
+    "bytes": 2530132,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前原生读取.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前原生读取.json",
+    "kind": "file",
+    "sha256": "1459e74ec97658c83b2166c1243a1e736ddcaefd54487ddee700b83e4a9cf251",
+    "bytes": 7636408,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前完整工程备份.epro2",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改前完整工程备份.epro2",
+    "kind": "file",
+    "sha256": "67922efec9596c23acf68642745262e2966b864466e02f1e3a8256fd9aa6543c",
+    "bytes": 1533737,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_底层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_底层.png",
+    "kind": "file",
+    "sha256": "d24ec08ea9f69d5a1b6150c214dcb76ddab7ba7312b415c3261dc9c4f400b876",
+    "bytes": 220364,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_底层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_底层.svg",
+    "kind": "file",
+    "sha256": "5b2a71e8a1133cc819cc1ab0f25cd7558574b8a2f418d0d2d06e52b3f8a71e4f",
+    "bytes": 2683172,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_顶层.png",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_顶层.png",
+    "kind": "file",
+    "sha256": "d72cdb68283842c122a6c1d8bee8b65602b3eb23a87615599c0dfc56a230e661",
+    "bytes": 217814,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_顶层.svg",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后_顶层.svg",
+    "kind": "file",
+    "sha256": "5f3c4dd2be5d4a6e663d48f58d8ce75f4ebc01bba76183975ba1b26f812019ee",
+    "bytes": 2601633,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后原生读取.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/修改后原生读取.json",
+    "kind": "file",
+    "sha256": "4a20bfbe152d5354a0c5e3640f0c2d64f0c4e32fe1e0ed9eb0171b8b25479009",
+    "bytes": 7766906,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/器灵_V074P3C_信号10mil交付包.zip",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/器灵_V074P3C_信号10mil交付包.zip",
+    "kind": "file",
+    "sha256": "ebe0f2b740ac16d0dca0918ee1d056fb7820d59eb2c7d4da0f836e464fc041b2",
+    "bytes": 9180737,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/普通信号逐网络线宽.csv",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/普通信号逐网络线宽.csv",
+    "kind": "file",
+    "sha256": "56457f4ca60a0fce7cd3516addbc9903483dbf50a6a7b6724e18f1f04e55b484",
+    "bytes": 1864,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/适配板_嘉立创预览.webp",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/适配板_嘉立创预览.webp",
+    "kind": "file",
+    "sha256": "19ca37159fb768ec4c7479318cde9f1c87780ffcef552154dc443844a85b53de",
+    "bytes": 274774,
+    "mode": 420,
+    "group": "指定目录原件"
+  },
+  {
+    "original": "/Users/qijiankang/Documents/器灵/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/验证总记录.json",
+    "archive": "80_完整资料/已整理资料/PCB/器灵_PCB_V0.7.4P3C_信号10mil调整_20261026/验证总记录.json",
+    "kind": "file",
+    "sha256": "6bf8934af59a29375df9c617f5f00583d62993183e3cee0d4fcad55660a99454",
+    "bytes": 20644,
+    "mode": 420,
+    "group": "指定目录原件"
+  }
+]

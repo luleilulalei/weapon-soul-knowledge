@@ -1,0 +1,31 @@
+# PlatformIO / ESP-IDF build output
+.pio/
+build/
+cmake-build-*/
+compile_commands.json
+sdkconfig
+sdkconfig.old
+
+# ESP-IDF dependency downloads
+managed_components/
+dependencies.lock
+
+# Editor generated files
+.vscode
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs and local environment
+*.log
+.env
+.env.*
+
+
+forcopy/
